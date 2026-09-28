@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SAP Info Agent</title>
+  <meta name="description" content="SAP 뉴스 데일리 브리핑 에이전트 - 관리 웹 접속 안내" />
+  <style>
+    :root {
+      --bg: #eef1f5; --panel: #fff; --text: #1c2530; --muted: #6b7684; --line: #e2e7ee;
+      --brand: #0a6ed1; --brand-2: #e3eefc; --side: #0f2740; --warn-bg: #fff4e0; --warn: #b26a00;
+      font-family: "Malgun Gothic", "Apple SD Gothic Neo", "Segoe UI", system-ui, sans-serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #0f1720; --panel: #172230; --text: #e6edf5; --muted: #93a3b5; --line: #263446; --brand-2: #1b3552; --warn-bg: #3a2c10; --warn: #f0c060; }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); line-height: 1.6; }
+    .hero { background: var(--side); color: #fff; padding: 48px 16px 40px; text-align: center; }
+    .hero .icon { font-size: 44px; }
+    .hero h1 { margin: 8px 0 6px; font-size: 28px; }
+    .hero p { margin: 0; color: #b8c8da; font-size: 15px; }
+    main { max-width: 720px; margin: -24px auto 48px; padding: 0 16px; }
+    .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 22px 24px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,.05); }
+    .card h2 { margin: 0 0 10px; font-size: 17px; }
+    .btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 14px 24px; border-radius: 10px; background: var(--brand); color: #fff; text-decoration: none; font-weight: 700; font-size: 16px; width: 100%; }
+    .btn:hover { background: #0958a8; }
+    .url { font-family: Consolas, monospace; font-size: 14px; color: var(--muted); text-align: center; margin-top: 10px; word-break: break-all; }
+    ol { padding-left: 20px; margin: 0; }
+    ol li { margin: 8px 0; }
+    .note { background: var(--warn-bg); color: var(--warn); border-radius: 8px; padding: 10px 14px; font-size: 13.5px; margin-top: 12px; }
+    .muted { color: var(--muted); font-size: 13.5px; }
+    .flow { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; text-align: center; font-size: 13px; }
+    .flow div { background: var(--brand-2); border-radius: 8px; padding: 10px 6px; }
+    .flow b { display: block; font-size: 18px; margin-bottom: 2px; }
+    footer { text-align: center; color: var(--muted); font-size: 12.5px; padding: 0 16px 32px; }
+    footer a { color: var(--brand); }
+    @media (max-width: 520px) { .flow { grid-template-columns: repeat(2, 1fr); } .hero h1 { font-size: 24px; } }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="icon">📰</div>
+    <h1>SAP Info Agent</h1>
+    <p>매일 아침 SAP 뉴스를 수집하고 Claude가 한국어로 요약해 메일로 보내는 에이전트</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>관리 웹 열기</h2>
+      <p class="muted" style="margin:0 0 14px">수동 실행, 실행 기록, 발송된 메일 보기, 수신자 변경은 관리 웹에서 합니다.</p>
+      <a class="btn" href="https://sap-info-agent.loca.lt" target="_blank" rel="noopener">관리 웹으로 이동 →</a>
+      <div class="url">https://sap-info-agent.loca.lt</div>
+    </section>
+
+    <section class="card">
+      <h2>처음 접속할 때</h2>
+      <ol>
+        <li><b>안내 페이지</b>가 뜨면 "IP Address" 칸에 안내받은 IP 값을 입력하고 Continue를 누릅니다. 같은 브라우저에서는 다시 묻지 않습니다.</li>
+        <li><b>로그인 창</b>에 관리자에게 받은 아이디와 비밀번호를 입력합니다.</li>
+      </ol>
+      <div class="note">IP 값과 로그인 정보는 이 페이지에 적지 않습니다. 관리자에게 문의하세요.</div>
+    </section>
+
+    <section class="card">
+      <h2>동작 방식</h2>
+      <div class="flow">
+        <div><b>📡</b>RSS 수집<br><span class="muted">SAP News · Community · Google News</span></div>
+        <div><b>🤖</b>Claude 요약<br><span class="muted">한국어 번역 · 선별</span></div>
+        <div><b>📄</b>HTML 브리핑<br><span class="muted">카테고리 · 출처 표시</span></div>
+        <div><b>✉️</b>메일 발송<br><span class="muted">매일 06:55</span></div>
+      </div>
+      <p class="muted" style="margin:12px 0 0">에이전트와 관리 웹은 담당자 PC에서 실행됩니다. PC가 꺼져 있으면 관리 웹에 접속되지 않으며, 브리핑 메일은 PC가 켜진 다음 실행일에 발송됩니다.</p>
+    </section>
+  </main>
+
+  <footer>
+    소스 코드: <a href="https://github.com/sunguphong/sapinfoagent" target="_blank" rel="noopener">github.com/sunguphong/sapinfoagent</a>
+  </footer>
+</body>
+</html>
