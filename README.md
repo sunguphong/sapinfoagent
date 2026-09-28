@@ -3,6 +3,9 @@
 SAP 뉴스를 매일 아침 자동으로 수집하고, Claude로 한국어 요약해서 메일로 보내주는 에이전트입니다.
 관리 웹(수동 실행 · 실행 기록 · 발송 메일 조회 · 환경설정)도 함께 들어 있습니다.
 
+- 안내 페이지 (GitHub Pages): https://sunguphong.github.io/sapinfoagent/
+- 관리 웹 (담당자 PC에서 실행, 로그인 필요): https://sap-info-agent.loca.lt
+
 ```
 RSS 수집 (SAP News / SAP Community / Google News EN·KR)
   → Claude 요약·번역 (claude CLI)
@@ -73,6 +76,7 @@ src/
   server.js     관리 웹 서버 (Basic Auth, 설정 API)
   tunnel.js     localtunnel 외부 공개 (자동 재연결, 상태를 logs/tunnel.json 에 기록)
 public/         관리 웹 프론트엔드
+docs/           GitHub Pages 안내 페이지 (정적, 관리 웹으로 연결)
 output/         생성된 브리핑 (<날짜>_<실행ID>.html / -digest.json / -articles.json)  ※ git 제외
 logs/           실행 로그, runs.json  ※ git 제외
 ```
