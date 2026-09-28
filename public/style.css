@@ -113,6 +113,8 @@ select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; fo
 
 .public-url { font-size: 18px; font-weight: 700; margin: 4px 0 8px; word-break: break-all; }
 .public-url a { text-decoration: none; }
+.public-pass { font-size: 13.5px; font-weight: 400; margin-top: 8px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.public-pass b { font-family: Consolas, monospace; font-size: 15px; background: var(--warn-bg); color: var(--warn); padding: 2px 8px; border-radius: 4px; }
 
 /* ---------- 환경설정 ---------- */
 .recip-list { display: flex; flex-direction: column; gap: 6px; margin-bottom: 10px; }

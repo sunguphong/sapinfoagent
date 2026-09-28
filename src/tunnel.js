@@ -30,7 +30,7 @@ if (!process.env.WEB_USER || !process.env.WEB_PASS) {
 process.on("uncaughtException", (e) => log("uncaughtException: " + (e?.stack || e)));
 process.on("unhandledRejection", (e) => log("unhandledRejection: " + (e?.stack || e)));
 
-let tunnel = null, retry = 0, reconnectTimer = null;
+let tunnel = null, retry = 0, reconnectTimer = null, reclaimTries = 0;
 function scheduleReconnect() {
   if (reconnectTimer) return;
   const delay = Math.min(30000, 2000 * 2 ** retry++);
@@ -46,9 +46,20 @@ async function start() {
     const wanted = `https://${SUBDOMAIN}.loca.lt`;
     log(`터널 연결됨 → ${tunnel.url}`);
     if (tunnel.url !== wanted) log(`⚠ 원하던 주소(${wanted})를 못 받아 임시 주소가 발급됨: ${tunnel.url}`);
-    setState({ status: "connected", url: tunnel.url, wanted, fixed: tunnel.url === wanted });
+    // loca.lt 안내 페이지에서 묻는 "IP" = 이 PC의 공인 IP. 대시보드에 표시하기 위해 조회해 둔다.
+    let password = null;
+    try { password = (await (await fetch("https://loca.lt/mytunnelpassword", { signal: AbortSignal.timeout(15000) })).text()).trim(); } catch (e) { log("공인 IP 조회 실패: " + e.message); }
+    const fixed = tunnel.url === wanted;
+    setState({ status: "connected", url: tunnel.url, wanted, fixed, password });
+    if (password) log(`접속 안내 페이지에 입력할 IP: ${password}`);
     tunnel.on("close", () => { log("터널 종료됨"); scheduleReconnect(); });
     tunnel.on("error", (e) => { log("터널 오류: " + e.message); try { tunnel.close(); } catch {} scheduleReconnect(); });
+    // 고정 이름을 못 받았으면(직전 터널이 아직 이름을 점유 중인 경우 등) 60초 뒤 다시 시도해 되찾는다
+    if (!fixed && reclaimTries < 10) {
+      reclaimTries++;
+      log(`고정 주소 되찾기 ${reclaimTries}/10회: 60초 후 재연결`);
+      setTimeout(() => { if (tunnel && tunnel.url !== wanted) { log("고정 주소 되찾기 위해 임시 터널 종료"); tunnel.close(); } }, 60000);
+    } else if (fixed) reclaimTries = 0;
   } catch (e) {
     log("연결 실패: " + e.message);
     scheduleReconnect();
