@@ -54,11 +54,11 @@ async function start() {
     if (password) log(`접속 안내 페이지에 입력할 IP: ${password}`);
     tunnel.on("close", () => { log("터널 종료됨"); scheduleReconnect(); });
     tunnel.on("error", (e) => { log("터널 오류: " + e.message); try { tunnel.close(); } catch {} scheduleReconnect(); });
-    // 고정 이름을 못 받았으면(직전 터널이 아직 이름을 점유 중인 경우 등) 60초 뒤 다시 시도해 되찾는다
+    // 고정 이름을 못 받았으면(직전 터널이 아직 이름을 점유 중인 경우 등) 30초 뒤 다시 시도해 되찾는다
     if (!fixed && reclaimTries < 10) {
       reclaimTries++;
-      log(`고정 주소 되찾기 ${reclaimTries}/10회: 60초 후 재연결`);
-      setTimeout(() => { if (tunnel && tunnel.url !== wanted) { log("고정 주소 되찾기 위해 임시 터널 종료"); tunnel.close(); } }, 60000);
+      log(`고정 주소 되찾기 ${reclaimTries}/10회: 30초 후 재연결`);
+      setTimeout(() => { if (tunnel && tunnel.url !== wanted) { log("고정 주소 되찾기 위해 임시 터널 종료"); tunnel.close(); } }, 30000);
     } else if (fixed) reclaimTries = 0;
   } catch (e) {
     log("연결 실패: " + e.message);
@@ -69,6 +69,7 @@ async function start() {
 // ---------- 상태 점검: 공개 주소가 실제로 응답하는지 주기적으로 확인 ----------
 // localtunnel 은 서버 쪽에서 연결이 끊겨도(503 Tunnel Unavailable) close/error 이벤트를 주지 않는 경우가 있어
 // 공개 주소를 직접 호출해 보고, 연속 2회 실패하면 터널을 닫아 재연결시킨다.
+const HEALTH_MAX_FAILS = 3;   // loca.lt 가 일시적으로 408/502 를 내는 경우가 있어 연속 3회(약 2분) 실패 시에만 재연결
 let healthFails = 0;
 async function healthCheck() {
   if (!tunnel || reconnectTimer) return;
@@ -79,8 +80,8 @@ async function healthCheck() {
   } catch (e) { detail = e.message; }
   if (ok) { if (healthFails) log("상태 점검 정상 복귀"); healthFails = 0; return; }
   healthFails++;
-  log(`상태 점검 실패 ${healthFails}/2 (${detail})`);
-  if (healthFails >= 2) {
+  log(`상태 점검 실패 ${healthFails}/${HEALTH_MAX_FAILS} (${detail})`);
+  if (healthFails >= HEALTH_MAX_FAILS) {
     healthFails = 0;
     log("공개 주소가 응답하지 않아 터널을 다시 연결합니다");
     setState({ status: "reconnecting", subdomain: SUBDOMAIN });
