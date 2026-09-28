@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SAP Info Agent 관리</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-icon">📰</div>
+        <div>
+          <div class="brand-title">SAP Info Agent</div>
+          <div class="brand-sub">데일리 브리핑 관리</div>
+        </div>
+      </div>
+      <nav class="menu">
+        <a href="#dashboard" data-view="dashboard" class="menu-item active"><span class="mi">▶</span> 대시보드 · 수동 실행</a>
+        <a href="#runs" data-view="runs" class="menu-item"><span class="mi">≡</span> 실행 기록</a>
+        <a href="#mails" data-view="mails" class="menu-item"><span class="mi">✉</span> 발송 메일</a>
+        <a href="#settings" data-view="settings" class="menu-item"><span class="mi">⚙</span> 환경설정</a>
+      </nav>
+      <div class="sidebar-foot">
+        <div id="side-schedule" class="muted">스케줄: 매일 06:55</div>
+        <div id="side-clock" class="muted"></div>
+      </div>
+    </aside>
+
+    <main class="content">
+      <!-- 대시보드 -->
+      <section id="view-dashboard" class="view">
+        <header class="page-head">
+          <h1>대시보드</h1>
+          <p class="muted">에이전트 상태를 확인하고 지금 바로 실행할 수 있습니다.</p>
+        </header>
+
+        <div class="tiles">
+          <div class="tile">
+            <div class="tile-label">상태</div>
+            <div class="tile-value" id="t-state">–</div>
+            <div class="tile-sub" id="t-state-sub"></div>
+          </div>
+          <div class="tile">
+            <div class="tile-label">다음 자동 실행</div>
+            <div class="tile-value" id="t-next">–</div>
+            <div class="tile-sub" id="t-next-sub"></div>
+          </div>
+          <div class="tile">
+            <div class="tile-label">마지막 발송</div>
+            <div class="tile-value" id="t-last-sent">–</div>
+            <div class="tile-sub" id="t-last-sent-sub"></div>
+          </div>
+          <div class="tile">
+            <div class="tile-label">누적 실행</div>
+            <div class="tile-value" id="t-totals">–</div>
+            <div class="tile-sub" id="t-totals-sub"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-head">
+            <h2>수동 실행</h2>
+            <span class="muted" id="mail-target"></span>
+          </div>
+          <p class="hint">수집 → Claude 요약 → HTML 생성 → 메일 발송까지 약 1~2분 걸립니다. 드라이런은 메일을 보내지 않고 결과 HTML만 만듭니다.</p>
+          <div class="actions">
+            <button id="btn-run" class="btn primary">지금 실행하고 메일 발송</button>
+            <button id="btn-dry" class="btn ghost">드라이런 (메일 없이)</button>
+          </div>
+          <div id="run-progress" class="progress hidden">
+            <div class="spinner"></div>
+            <div>
+              <div id="run-progress-title">실행 중…</div>
+              <pre id="run-progress-log" class="log-mini"></pre>
+            </div>
+          </div>
+          <div id="run-result" class="result hidden"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><h2>최근 실행</h2><a href="#runs" class="link">전체 보기 →</a></div>
+          <div id="recent-runs"></div>
+        </div>
+      </section>
+
+      <!-- 실행 기록 -->
+      <section id="view-runs" class="view hidden">
+        <header class="page-head">
+          <h1>실행 기록</h1>
+          <p class="muted">스케줄러·수동·웹에서 실행된 모든 기록입니다. 행을 클릭하면 로그가 열립니다.</p>
+        </header>
+        <div class="card">
+          <div class="toolbar">
+            <label>필터
+              <select id="runs-filter">
+                <option value="">전체</option>
+                <option value="success">성공</option>
+                <option value="error">오류</option>
+                <option value="running">실행 중</option>
+              </select>
+            </label>
+            <label>출처
+              <select id="runs-source">
+                <option value="">전체</option>
+                <option value="scheduler">스케줄러</option>
+                <option value="web">웹</option>
+                <option value="manual">수동(CLI)</option>
+              </select>
+            </label>
+            <button id="runs-refresh" class="btn ghost small">새로고침</button>
+          </div>
+          <div id="runs-table"></div>
+        </div>
+        <div id="run-log-panel" class="card hidden">
+          <div class="card-head"><h2 id="run-log-title">로그</h2><button class="btn ghost small" id="run-log-close">닫기</button></div>
+          <pre id="run-log" class="log"></pre>
+        </div>
+      </section>
+
+      <!-- 발송 메일 -->
+      <section id="view-mails" class="view hidden">
+        <header class="page-head">
+          <h1>발송 메일</h1>
+          <p class="muted">일자별로 생성·발송된 브리핑을 그대로 볼 수 있습니다.</p>
+        </header>
+        <div class="mails-layout">
+          <div class="card mails-list">
+            <div id="mails-list"></div>
+          </div>
+          <div class="card mails-view">
+            <div class="card-head">
+              <h2 id="mail-title">날짜를 선택하세요</h2>
+              <div class="mail-tools">
+                <a id="mail-open" class="btn ghost small" target="_blank" rel="noopener" href="#" hidden>새 창으로</a>
+              </div>
+            </div>
+            <div id="mail-meta" class="muted"></div>
+            <iframe id="mail-frame" title="브리핑 미리보기"></iframe>
+          </div>
+        </div>
+      </section>
+
+      <!-- 환경설정 -->
+      <section id="view-settings" class="view hidden">
+        <header class="page-head">
+          <h1>환경설정</h1>
+          <p class="muted">수신자, 발신 계정, 수집 옵션을 바꿉니다. 저장하면 <code>.env</code>에 기록되고 다음 실행부터 바로 적용됩니다.</p>
+        </header>
+
+        <div class="card">
+          <div class="card-head"><h2>수신자 메일 주소</h2><span class="muted" id="recip-count"></span></div>
+          <p class="hint">브리핑을 받을 주소입니다. 여러 명을 추가할 수 있습니다.</p>
+          <div id="recip-list" class="recip-list"></div>
+          <div class="recip-add">
+            <input type="email" id="recip-input" placeholder="새 수신자 이메일 입력 후 Enter 또는 추가" />
+            <button id="recip-add" class="btn ghost">＋ 추가</button>
+          </div>
+          <div class="actions" style="margin-top:14px">
+            <button id="recip-save" class="btn primary">수신자 저장</button>
+            <button id="recip-test" class="btn ghost">저장된 수신자에게 테스트 메일</button>
+          </div>
+          <div id="recip-msg" class="result hidden"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><h2>발신 계정 (Gmail)</h2></div>
+          <div class="form-grid">
+            <label>발신 이메일<input type="email" id="set-smtp-user" /></label>
+            <label>앱 비밀번호 <span class="muted" id="set-pass-state"></span><input type="password" id="set-smtp-pass" placeholder="변경할 때만 입력 (16자리)" autocomplete="new-password" /></label>
+          </div>
+          <p class="hint">앱 비밀번호는 Google 계정 → 보안 → 2단계 인증 → 앱 비밀번호에서 발급합니다. 화면에는 표시되지 않습니다.</p>
+          <div class="actions">
+            <button id="smtp-save" class="btn primary">발신 계정 저장</button>
+          </div>
+          <div id="smtp-msg" class="result hidden"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><h2>수집 옵션</h2></div>
+          <div class="form-grid">
+            <label>수집 기간 (시간)<input type="number" id="set-lookback" min="1" max="168" /></label>
+            <label>최대 기사 수<input type="number" id="set-max" min="5" max="200" /></label>
+          </div>
+          <p class="hint">기간 내 기사가 8건 미만이면 자동으로 48시간, 72시간까지 넓혀 수집합니다.</p>
+          <div class="actions">
+            <button id="collect-save" class="btn primary">수집 옵션 저장</button>
+          </div>
+          <div id="collect-msg" class="result hidden"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><h2>자동 실행</h2></div>
+          <p class="hint">Windows 작업 스케줄러 "SAP Info Agent"가 매일 06:55에 실행합니다. 시각 변경은 작업 스케줄러(taskschd.msc)에서 합니다. PC가 켜져 있고 로그인 상태여야 실행됩니다.</p>
+          <div class="muted">설정 파일: <span id="set-env-path"></span></div>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

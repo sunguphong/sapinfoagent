@@ -1,0 +1,21 @@
+{
+  "name": "sapinfoagent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily SAP news digest: collect -> summarize with Claude -> email at 07:00",
+  "scripts": {
+    "start": "node src/index.js",
+    "dry-run": "node src/index.js --dry-run",
+    "collect": "node src/index.js --collect-only",
+    "mail-test": "node src/mailtest.js",
+    "web": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "nodemailer": "^10.0.11",
+    "rss-parser": "^3.13.0"
+  }
+}
