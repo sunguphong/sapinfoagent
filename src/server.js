@@ -75,7 +75,7 @@ function listMails() {
 }
 
 // ---------- 환경설정 (.env 읽기/쓰기, 주석·순서 유지) ----------
-const ENV_KEYS = ["SMTP_USER", "SMTP_PASS", "MAIL_TO", "LOOKBACK_HOURS", "MAX_ARTICLES"];
+const ENV_KEYS = ["SMTP_USER", "SMTP_PASS", "MAIL_TO", "LOOKBACK_HOURS", "MAX_ARTICLES", "WEB_USER", "WEB_PASS", "LT_SUBDOMAIN"];
 const EMAIL_RE = /^[^\s@,]+@[^\s@,]+\.[^\s@,]+$/;
 function readEnvFile() {
   const text = existsSync(envPath) ? readFileSync(envPath, "utf8") : "";
@@ -99,6 +99,8 @@ function getSettings() {
     mailTo: v("MAIL_TO").split(",").map((s) => s.trim()).filter(Boolean),
     smtpUser: v("SMTP_USER"), smtpPassSet: !!v("SMTP_PASS").replace(/\s+/g, ""),
     lookbackHours: Number(v("LOOKBACK_HOURS") || 24), maxArticles: Number(v("MAX_ARTICLES") || 40),
+    webUser: v("WEB_USER"), webPassSet: !!v("WEB_PASS"), subdomain: v("LT_SUBDOMAIN") || "sap-info-agent",
+    tunnel: tunnelState(),
     envPath,
   };
 }
@@ -115,6 +117,9 @@ function saveSettings(body) {
   if (body.smtpPass !== undefined && String(body.smtpPass).trim()) { const p = String(body.smtpPass).replace(/\s+/g, ""); if (p.length !== 16) throw new Error("Gmail 앱 비밀번호는 16자리여야 합니다"); updates.SMTP_PASS = p; }
   if (body.lookbackHours !== undefined) { const n = Number(body.lookbackHours); if (!(n >= 1 && n <= 168)) throw new Error("수집 기간은 1~168시간"); updates.LOOKBACK_HOURS = String(n); }
   if (body.maxArticles !== undefined) { const n = Number(body.maxArticles); if (!(n >= 5 && n <= 200)) throw new Error("최대 기사 수는 5~200"); updates.MAX_ARTICLES = String(n); }
+  if (body.webUser !== undefined) { const u = String(body.webUser).trim(); if (!/^[\w.-]{2,32}$/.test(u)) throw new Error("접속 아이디는 영문·숫자 2~32자"); updates.WEB_USER = u; }
+  if (body.webPass !== undefined && String(body.webPass)) { const p = String(body.webPass); if (p.length < 8 || /\s/.test(p)) throw new Error("접속 비밀번호는 공백 없이 8자 이상"); updates.WEB_PASS = p; }
+  if (body.subdomain !== undefined) { const s = String(body.subdomain).trim().toLowerCase(); if (!/^[a-z0-9-]{4,63}$/.test(s)) throw new Error("공개 주소 이름은 영문 소문자·숫자·하이픈 4~63자"); updates.LT_SUBDOMAIN = s; }
   if (!Object.keys(updates).length) throw new Error("변경할 항목이 없습니다");
   writeEnvFile(updates);
   return getSettings();
@@ -139,7 +144,23 @@ function nextScheduled() {
   return d.toISOString();
 }
 
+// ---------- Basic Auth (.env 의 WEB_USER / WEB_PASS 가 있으면 모든 요청에 인증 요구) ----------
+function checkAuth(req) {
+  const user = process.env.WEB_USER, pass = process.env.WEB_PASS;
+  if (!user || !pass) return true;   // 미설정 시 인증 없음 (로컬 전용 사용)
+  const m = (req.headers.authorization || "").match(/^Basic\s+(.+)$/i);
+  if (!m) return false;
+  const dec = Buffer.from(m[1], "base64").toString("utf8");
+  const i = dec.indexOf(":");
+  return i > 0 && dec.slice(0, i) === user && dec.slice(i + 1) === pass;
+}
+function tunnelState() { try { return JSON.parse(readFileSync(path.join(LOG_DIR, "tunnel.json"), "utf8")); } catch { return null; } }
+
 const server = http.createServer(async (req, res) => {
+  if (!checkAuth(req)) {
+    res.writeHead(401, { "WWW-Authenticate": 'Basic realm="sapinfoagent", charset="UTF-8"', "Content-Type": "text/plain; charset=utf-8" });
+    return res.end("인증이 필요합니다.");
+  }
   const url = new URL(req.url, `http://${req.headers.host}`);
   const p = url.pathname;
   try {
@@ -152,6 +173,7 @@ const server = http.createServer(async (req, res) => {
         lastRun: runs.filter((r) => r.status !== "running").slice(-1)[0] || null,
         lastSent: runs.filter((r) => r.mailId).slice(-1)[0] || null,
         schedule: { time: SCHEDULE_TIME, next: nextScheduled(), task: "SAP Info Agent" },
+        tunnel: tunnelState(), authEnabled: !!(process.env.WEB_USER && process.env.WEB_PASS),
         mailTo, smtpUser: process.env.SMTP_USER || null, smtpReady: !!(process.env.SMTP_USER && process.env.SMTP_PASS && mailTo.length),
         totals: { runs: runs.length, success: runs.filter((r) => r.status === "success").length, error: runs.filter((r) => r.status === "error").length, mails: listMails().length },
         now: new Date().toISOString(),

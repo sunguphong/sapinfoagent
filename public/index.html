@@ -59,6 +59,12 @@
           </div>
         </div>
 
+        <div class="card" id="public-card">
+          <div class="card-head"><h2>외부 접속 주소</h2><span id="public-state" class="badge mode">확인 중</span></div>
+          <div id="public-url" class="public-url"></div>
+          <p class="hint" id="public-hint"></p>
+        </div>
+
         <div class="card">
           <div class="card-head">
             <h2>수동 실행</h2>
@@ -188,6 +194,21 @@
             <button id="collect-save" class="btn primary">수집 옵션 저장</button>
           </div>
           <div id="collect-msg" class="result hidden"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><h2>외부 접속 (인터넷 공개)</h2></div>
+          <p class="hint">관리 웹을 인터넷에 공개할 때 쓰는 로그인 계정과 주소 이름입니다. 로그인 시 자동으로 서버와 터널이 함께 뜹니다. 비밀번호를 바꾸면 다음 접속부터 새 비밀번호를 묻습니다.</p>
+          <div class="form-grid">
+            <label>접속 아이디<input type="text" id="set-web-user" autocomplete="off" /></label>
+            <label>접속 비밀번호 <span class="muted" id="set-web-pass-state"></span><input type="password" id="set-web-pass" placeholder="변경할 때만 입력 (8자 이상)" autocomplete="new-password" /></label>
+            <label>공개 주소 이름 (https://이름.loca.lt)<input type="text" id="set-subdomain" placeholder="sap-info-agent" /></label>
+          </div>
+          <div class="muted" id="set-tunnel-state" style="margin-bottom:10px"></div>
+          <div class="actions">
+            <button id="web-save" class="btn primary">외부 접속 설정 저장</button>
+          </div>
+          <div id="web-msg" class="result hidden"></div>
         </div>
 
         <div class="card">

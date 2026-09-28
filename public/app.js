@@ -46,6 +46,7 @@ async function loadDashboard() {
   if (st.lastSent) { $("#t-last-sent").textContent = fmtDT(st.lastSent.mailSentAt).slice(5, 16); $("#t-last-sent-sub").textContent = `${st.lastSent.mailTo || ""} · ${st.lastSent.picked ?? "?"}건 선별`; }
   else { $("#t-last-sent").textContent = "없음"; $("#t-last-sent-sub").textContent = ""; }
 
+  renderPublic(st.tunnel, st.authEnabled);
   $("#t-totals").textContent = `${st.totals.runs}회`;
   $("#t-totals-sub").textContent = `성공 ${st.totals.success} · 오류 ${st.totals.error} · 메일 ${st.totals.mails}통`;
   $("#mail-target").textContent = st.smtpReady ? `수신: ${st.mailTo.join(", ")}` : "⚠ .env의 SMTP 설정이 비어 있어 발송할 수 없습니다";
@@ -66,6 +67,22 @@ async function loadDashboard() {
   const runs = await api("/api/runs");
   $("#recent-runs").innerHTML = runsTable(runs.slice(0, 5), false);
   bindRunRows($("#recent-runs"));
+}
+
+function renderPublic(t, authEnabled) {
+  const state = $("#public-state"), url = $("#public-url"), hint = $("#public-hint");
+  if (t && t.status === "connected") {
+    state.className = "badge success"; state.textContent = t.fixed ? "공개 중 · 고정 주소" : "공개 중 · 임시 주소";
+    url.innerHTML = `<a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.url)}</a>`;
+    hint.textContent = (authEnabled ? "접속 시 환경설정의 접속 아이디·비밀번호를 입력합니다. " : "⚠ 접속 인증이 꺼져 있습니다. 환경설정에서 접속 계정을 설정하세요. ")
+      + (t.fixed ? "처음 접속하면 loca.lt 안내 페이지가 한 번 뜰 수 있습니다." : `원하던 주소(${t.wanted})를 다른 사용자가 쓰고 있어 임시 주소가 발급됐습니다. 환경설정에서 이름을 바꿔 보세요.`);
+  } else if (t && t.status === "reconnecting") {
+    state.className = "badge mode"; state.textContent = "재연결 중"; url.textContent = "–"; hint.textContent = `터널이 끊겨 다시 연결하고 있습니다 (${fmtDT(t.updatedAt)})`;
+  } else if (t && t.status === "disabled") {
+    state.className = "badge error"; state.textContent = "중단됨"; url.textContent = "–"; hint.textContent = `외부 공개가 중단되었습니다: ${t.reason}`;
+  } else {
+    state.className = "badge mode"; state.textContent = "꺼짐"; url.textContent = "–"; hint.textContent = "터널이 실행되고 있지 않습니다. start-web-hidden.vbs 를 실행하거나 npm run tunnel 로 켤 수 있습니다.";
+  }
 }
 
 let watchingRunId = null;
@@ -197,8 +214,18 @@ async function loadSettings() {
   $("#set-pass-state").textContent = s.smtpPassSet ? "(설정됨)" : "(미설정 — 발송 불가)";
   $("#set-lookback").value = s.lookbackHours; $("#set-max").value = s.maxArticles;
   $("#set-env-path").textContent = s.envPath;
-  ["#recip-msg", "#smtp-msg", "#collect-msg"].forEach((id) => $(id).classList.add("hidden"));
+  $("#set-web-user").value = s.webUser || ""; $("#set-web-pass").value = "";
+  $("#set-web-pass-state").textContent = s.webPassSet ? "(설정됨)" : "(미설정 — 외부 공개 불가)";
+  $("#set-subdomain").value = s.subdomain || "";
+  $("#set-tunnel-state").textContent = s.tunnel?.status === "connected" ? `현재 공개 주소: ${s.tunnel.url}` : "현재 외부 공개 터널이 연결되어 있지 않습니다.";
+  ["#recip-msg", "#smtp-msg", "#collect-msg", "#web-msg"].forEach((id) => $(id).classList.add("hidden"));
 }
+$("#web-save").addEventListener("click", async () => {
+  const body = { webUser: $("#set-web-user").value, subdomain: $("#set-subdomain").value };
+  const pass = $("#set-web-pass").value; if (pass) body.webPass = pass;
+  const s = await saveSettings(body, "#web-msg", "외부 접속 설정 저장 완료. 주소 이름을 바꿨다면 터널을 다시 시작해야 적용됩니다 (PC 재로그인 또는 start-web-hidden.vbs 실행).");
+  if (s) { $("#set-web-pass").value = ""; $("#set-web-pass-state").textContent = s.webPassSet ? "(설정됨)" : "(미설정 — 외부 공개 불가)"; }
+});
 async function saveSettings(body, msgId, okText) {
   const r = await api("/api/settings", { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
   if (!r.ok) { msg(msgId, false, `❌ ${esc(r.error)}`); return null; }

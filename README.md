@@ -34,6 +34,7 @@ copy .env.example .env    # 편집: SMTP_USER / SMTP_PASS / MAIL_TO
 | `npm run collect` | 수집만 (기사 목록 JSON) |
 | `npm run mail-test` | 최근 HTML을 그대로 재발송해 SMTP 설정만 점검 |
 | `npm run web` | 관리 웹 서버 (http://localhost:5174) |
+| `npm run tunnel` | 관리 웹을 인터넷에 공개 (localtunnel 고정 주소) |
 
 ## 자동 실행 (Windows)
 
@@ -46,12 +47,19 @@ copy .env.example .env    # 편집: SMTP_USER / SMTP_PASS / MAIL_TO
 - `start-web-hidden.vbs` 를 시작프로그램 폴더(`shell:startup`)에 복사하면 로그인 시 관리 웹이 창 없이 자동 기동됩니다.
 - 두 파일 안의 경로는 설치 위치에 맞게 수정하세요.
 
+## 외부 접속 (인터넷 공개)
+
+- `.env` 에 `WEB_USER` / `WEB_PASS` 를 설정하면 관리 웹 전체에 Basic Auth 로그인이 걸립니다.
+- `npm run tunnel` (또는 `start-web-hidden.vbs`) 이 localtunnel 로 `https://<LT_SUBDOMAIN>.loca.lt` 고정 주소를 열고, 끊기면 자동 재연결합니다.
+  접속 계정이 없으면 터널은 시작을 거부합니다.
+- 처음 접속할 때 loca.lt 안내 페이지가 한 번 뜰 수 있습니다. 대시보드에 현재 공개 주소와 상태가 표시됩니다.
+
 ## 관리 웹
 
-- **대시보드**: 상태·다음 실행·마지막 발송 확인, 수동 실행 / 드라이런 버튼
+- **대시보드**: 상태·다음 실행·마지막 발송·외부 접속 주소 확인, 수동 실행 / 드라이런 버튼
 - **실행 기록**: 스케줄러·웹·CLI 실행 이력, 행 클릭 시 로그
 - **발송 메일**: 일자별 브리핑 HTML 미리보기 (발송본 / 드라이런 구분)
-- **환경설정**: 수신자 추가·삭제, 발신 계정, 수집 옵션 → `.env` 에 저장
+- **환경설정**: 수신자 추가·삭제, 발신 계정, 수집 옵션, 외부 접속 계정·주소 이름 → `.env` 에 저장
 
 ## 폴더 구조
 
@@ -62,7 +70,8 @@ src/
   summarize.js  claude CLI 호출, JSON 요약
   mail.js       HTML 렌더링, Gmail 발송
   mailtest.js   SMTP 점검용 재발송
-  server.js     관리 웹 서버 (의존성 없음)
+  server.js     관리 웹 서버 (Basic Auth, 설정 API)
+  tunnel.js     localtunnel 외부 공개 (자동 재연결, 상태를 logs/tunnel.json 에 기록)
 public/         관리 웹 프론트엔드
 output/         생성된 브리핑 (<날짜>_<실행ID>.html / -digest.json / -articles.json)  ※ git 제외
 logs/           실행 로그, runs.json  ※ git 제외
@@ -78,3 +87,5 @@ logs/           실행 로그, runs.json  ※ git 제외
 | `LOOKBACK_HOURS` | 수집 기간(시간) | 24 |
 | `MAX_ARTICLES` | 최대 기사 수 | 40 |
 | `PORT` | 관리 웹 포트 | 5174 |
+| `WEB_USER` / `WEB_PASS` | 관리 웹 로그인 계정 (외부 공개 시 필수) | |
+| `LT_SUBDOMAIN` | 공개 주소 이름 (`https://<이름>.loca.lt`) | sap-info-agent |
