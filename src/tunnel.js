@@ -66,6 +66,31 @@ async function start() {
   }
 }
 
+// ---------- 상태 점검: 공개 주소가 실제로 응답하는지 주기적으로 확인 ----------
+// localtunnel 은 서버 쪽에서 연결이 끊겨도(503 Tunnel Unavailable) close/error 이벤트를 주지 않는 경우가 있어
+// 공개 주소를 직접 호출해 보고, 연속 2회 실패하면 터널을 닫아 재연결시킨다.
+let healthFails = 0;
+async function healthCheck() {
+  if (!tunnel || reconnectTimer) return;
+  let ok = false, detail = "";
+  try {
+    const r = await fetch(`${tunnel.url}/healthz`, { headers: { "Bypass-Tunnel-Reminder": "1" }, signal: AbortSignal.timeout(15000), redirect: "manual" });
+    ok = r.status === 200; detail = `HTTP ${r.status}`;
+  } catch (e) { detail = e.message; }
+  if (ok) { if (healthFails) log("상태 점검 정상 복귀"); healthFails = 0; return; }
+  healthFails++;
+  log(`상태 점검 실패 ${healthFails}/2 (${detail})`);
+  if (healthFails >= 2) {
+    healthFails = 0;
+    log("공개 주소가 응답하지 않아 터널을 다시 연결합니다");
+    setState({ status: "reconnecting", subdomain: SUBDOMAIN });
+    const t = tunnel; tunnel = null;
+    try { t.close(); } catch {}
+    scheduleReconnect();
+  }
+}
+setInterval(healthCheck, 45000);
+
 log("tunnel.js 시작");
 start();
 setInterval(() => {}, 1 << 30);   // 재연결 대기 중에도 프로세스 유지

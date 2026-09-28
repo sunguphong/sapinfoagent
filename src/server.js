@@ -157,6 +157,8 @@ function checkAuth(req) {
 function tunnelState() { try { return JSON.parse(readFileSync(path.join(LOG_DIR, "tunnel.json"), "utf8")); } catch { return null; } }
 
 const server = http.createServer(async (req, res) => {
+  // 터널 상태 점검용 (인증 없음, 내용 없음)
+  if (req.url === "/healthz") { res.writeHead(200, { "Content-Type": "text/plain", "Cache-Control": "no-store" }); return res.end("ok"); }
   if (!checkAuth(req)) {
     res.writeHead(401, { "WWW-Authenticate": 'Basic realm="sapinfoagent", charset="UTF-8"', "Content-Type": "text/plain; charset=utf-8" });
     return res.end("인증이 필요합니다.");
