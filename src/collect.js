@@ -1,11 +1,7 @@
+// RSS 수집. 피드 목록은 에이전트 설정(agents/<id>.json 의 feeds)에서 받는다.
+//   feed.keep = N : 이 피드의 기사는 상한(maxArticles)과 무관하게 최신순 N건을 먼저 확보한다 (예: 동탄 지역 소식)
+//   제목 중복 제거는 피드 순서대로 먼저 나온 기사를 남기므로, 우선 확보할 피드를 목록 앞에 둔다.
 import Parser from "rss-parser";
-
-const FEEDS = [
-  { name: "SAP News Center", url: "https://news.sap.com/feed/" },
-  { name: "SAP Community (Technology Blog)", url: "https://community.sap.com/khhcw49343/rss/board?board.id=technology-blog-sap" },
-  { name: "Google News (EN)", url: "https://news.google.com/rss/search?q=(SAP+ERP+OR+%22SAP+S%2F4HANA%22+OR+%22SAP+BTP%22)+when:3d&hl=en-US&gl=US&ceid=US:en" },
-  { name: "Google News (KR)", url: "https://news.google.com/rss/search?q=(SAP+ERP+OR+S%2F4HANA+OR+%22SAP+%EC%BD%94%EB%A6%AC%EC%95%84%22)+when:3d&hl=ko&gl=KR&ceid=KR:ko" },
-];
 
 const parser = new Parser({ timeout: 20000, headers: { "User-Agent": "sapinfoagent/1.0" } });
 
@@ -17,8 +13,9 @@ function normalizeTitle(t = "") {
   return t.toLowerCase().replace(/\s+-\s+[^-]+$/, "").replace(/[^a-z0-9가-힣]+/g, " ").trim();
 }
 
-export async function collect({ lookbackHours = 24, maxArticles = 40 } = {}) {
-  const results = await Promise.allSettled(FEEDS.map(async (f) => {
+export async function collect({ feeds, lookbackHours = 24, maxArticles = 40 } = {}) {
+  if (!feeds?.length) throw new Error("수집할 피드가 없습니다");
+  const results = await Promise.allSettled(feeds.map(async (f) => {
     const feed = await parser.parseURL(f.url);
     return feed.items.map((it) => ({
       source: f.name,
@@ -33,7 +30,7 @@ export async function collect({ lookbackHours = 24, maxArticles = 40 } = {}) {
   let items = [];
   results.forEach((r, i) => {
     if (r.status === "fulfilled") items.push(...r.value);
-    else errors.push(`${FEEDS[i].name}: ${r.reason?.message || r.reason}`);
+    else errors.push(`${feeds[i].name}: ${r.reason?.message || r.reason}`);
   });
 
   // 최근 N시간 필터. 기사가 적으면(주말 등) 48h -> 72h로 단계 확장
@@ -46,12 +43,18 @@ export async function collect({ lookbackHours = 24, maxArticles = 40 } = {}) {
     usedHours = h; recent = filterBy(h);
   }
 
-  // 제목 기준 중복 제거, 최신순 정렬, 상한
+  // 제목 기준 중복 제거 (피드 순서대로 먼저 나온 기사를 남김), 최신순 정렬
   const seen = new Set();
   recent = recent
     .filter((a) => { const k = normalizeTitle(a.title); if (!k || seen.has(k)) return false; seen.add(k); return true; })
-    .sort((a, b) => new Date(b.published) - new Date(a.published))
-    .slice(0, maxArticles);
+    .sort((a, b) => new Date(b.published) - new Date(a.published));
+
+  // 상한 적용: keep 이 지정된 피드의 기사를 먼저 확보하고, 나머지를 최신순으로 채운다
+  const kept = [];
+  for (const f of feeds) if (f.keep > 0) kept.push(...recent.filter((a) => a.source === f.name).slice(0, f.keep));
+  const keptSet = new Set(kept);
+  const rest = recent.filter((a) => !keptSet.has(a)).slice(0, Math.max(0, maxArticles - kept.length));
+  recent = [...kept, ...rest].sort((a, b) => new Date(b.published) - new Date(a.published));
 
   return { articles: recent, errors, totalFetched: items.length, usedHours };
 }

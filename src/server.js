@@ -1,66 +1,67 @@
-// sapinfoagent 관리 웹 — 수동 실행 / 실행 기록 / 발송 메일 조회
+// sapinfoagent 관리 웹 — 에이전트별 수동 실행 / 실행 기록 / 발송 메일 조회, 공통 환경설정 · 장애 기록
 // 의존성 없이 node 내장 http 만 사용. 기본 포트 5174 (PORT 환경변수로 변경).
+// 에이전트별 API 는 ?agent=<id> (POST 는 body.agent) 로 대상을 고른다. 생략하면 기본(sap). 에이전트 정의: agents/<id>.json
 import http from "node:http";
 import { spawn } from "node:child_process";
 import { existsSync, readFileSync, readdirSync, statSync, createReadStream, writeFileSync } from "node:fs";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
 import { sendMail } from "./mail.js";
+import { ROOT, DEFAULT_AGENT, loadAgent, listAgents, agentPaths } from "./agents.js";
 
-const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const envPath = path.join(ROOT, ".env");
 if (existsSync(envPath)) process.loadEnvFile(envPath);
 
 const PORT = Number(process.env.PORT || 5174);
 const PUBLIC = path.join(ROOT, "public");
-const LOG_DIR = path.join(ROOT, "logs");
-const OUT_DIR = path.join(ROOT, "output");
-const RUNS_FILE = path.join(LOG_DIR, "runs.json");
-const SCHEDULE_TIME = "06:55";
+const LOG_DIR = path.join(ROOT, "logs");   // 공통(터널) 로그. 에이전트별 기록은 logs/<id>/
 
 const MIME = { ".html": "text/html; charset=utf-8", ".css": "text/css; charset=utf-8", ".js": "text/javascript; charset=utf-8", ".json": "application/json; charset=utf-8", ".svg": "image/svg+xml", ".png": "image/png", ".ico": "image/x-icon" };
 
-const readRuns = () => { try { return JSON.parse(readFileSync(RUNS_FILE, "utf8")); } catch { return []; } };
+const readRuns = (agent) => { try { return JSON.parse(readFileSync(agentPaths(agent.id).runsFile, "utf8")); } catch { return []; } };
 const json = (res, code, obj) => { res.writeHead(code, { "Content-Type": MIME[".json"], "Cache-Control": "no-store" }); res.end(JSON.stringify(obj)); };
 const readBody = (req) => new Promise((ok) => { let b = ""; req.on("data", (c) => (b += c)); req.on("end", () => { try { ok(JSON.parse(b || "{}")); } catch { ok({}); } }); });
+// 화면에 내려보내는 에이전트 요약 (프롬프트·피드 URL 등 상세는 제외)
+const pubAgent = (a) => ({ id: a.id, name: a.name, description: a.description || "", schedule: a.schedule, task: a.task, subjectPrefix: a.subjectPrefix, mailTitle: a.mailTitle, feeds: a.feeds.map((f) => ({ name: f.name, keep: f.keep || 0 })), mailTo: a.mailTo || process.env.MAIL_TO || "" });
 
 // 실행 중 판정: 최근 20분 내 status=running 인 기록이 있으면 실행 중
-function runningRun() {
+function runningRun(agent) {
   const now = Date.now();
-  return readRuns().find((r) => r.status === "running" && now - new Date(r.startedAt).getTime() < 20 * 60 * 1000);
+  return readRuns(agent).find((r) => r.status === "running" && now - new Date(r.startedAt).getTime() < 20 * 60 * 1000);
 }
 
-let child = null;
+const children = new Map();   // agent id → 웹에서 띄운 자식 프로세스
 let lastId = "";
-function startRun({ dryRun = false } = {}) {
-  if (child) return { ok: false, error: "이미 실행 중입니다 (웹에서 시작한 작업이 끝나지 않았습니다)" };
-  const cur = runningRun();
+function startRun(agent, { dryRun = false } = {}) {
+  if (children.has(agent.id)) return { ok: false, error: `이미 실행 중입니다 (${agent.name}: 웹에서 시작한 작업이 끝나지 않았습니다)` };
+  const cur = runningRun(agent);
   if (cur) return { ok: false, error: "이미 실행 중입니다", run: cur };
   let id = new Date().toISOString().replace(/[-:.TZ]/g, "").slice(0, 14);
   if (id <= lastId) id = String(Number(lastId) + 1);   // 같은 초에 두 번 눌러도 id 충돌 방지
   lastId = id;
-  const args = [path.join(ROOT, "src", "index.js"), `--run-id=${id}`, "--source=web"];
+  const args = [path.join(ROOT, "src", "index.js"), `--agent=${agent.id}`, `--run-id=${id}`, "--source=web"];
   if (dryRun) args.push("--dry-run");
-  child = spawn(process.execPath, args, { cwd: ROOT, stdio: "ignore", detached: false, windowsHide: true });
-  child.on("exit", () => { child = null; });
-  return { ok: true, id };
+  const child = spawn(process.execPath, args, { cwd: ROOT, stdio: "ignore", detached: false, windowsHide: true });
+  children.set(agent.id, child);
+  child.on("exit", () => children.delete(agent.id));
+  return { ok: true, id, agent: agent.id };
 }
 
-// output/<date>_<runId>.html (신규) 또는 output/<date>.html (구버전) 을 목록화
+// output/<agent>/<date>_<runId>.html (신규) 또는 <date>.html (구버전) 을 목록화
 const MAIL_FILE_RE = /^(\d{4}-\d{2}-\d{2})(?:_(\d{14,}))?\.html$/;
-function listMails() {
-  if (!existsSync(OUT_DIR)) return [];
-  const runs = readRuns();
-  return readdirSync(OUT_DIR)
+function listMails(agent) {
+  const { outDir } = agentPaths(agent.id);
+  if (!existsSync(outDir)) return [];
+  const runs = readRuns(agent);
+  return readdirSync(outDir)
     .filter((f) => MAIL_FILE_RE.test(f))
     .map((f) => {
       const [, date, runId] = f.match(MAIL_FILE_RE);
       const base = f.slice(0, -5);
-      const st = statSync(path.join(OUT_DIR, f));
+      const st = statSync(path.join(outDir, f));
       const run = runs.find((r) => r.html === f) || runs.find((r) => runId && r.id === runId)
         || (!runId ? runs.filter((r) => r.date === date && r.mailId).slice(-1)[0] : null) || null;
       let digest = null;
-      try { digest = JSON.parse(readFileSync(path.join(OUT_DIR, `${base}-digest.json`), "utf8")); } catch {}
+      try { digest = JSON.parse(readFileSync(path.join(outDir, `${base}-digest.json`), "utf8")); } catch {}
       return {
         date, file: f, base, runId: run?.id || runId || null, size: st.size,
         generatedAt: run?.startedAt || st.mtime.toISOString(),
@@ -74,8 +75,7 @@ function listMails() {
     .sort((a, b) => b.date.localeCompare(a.date) || b.generatedAt.localeCompare(a.generatedAt));
 }
 
-// ---------- 환경설정 (.env 읽기/쓰기, 주석·순서 유지) ----------
-const ENV_KEYS = ["SMTP_USER", "SMTP_PASS", "MAIL_TO", "LOOKBACK_HOURS", "MAX_ARTICLES", "WEB_USER", "WEB_PASS", "LT_SUBDOMAIN"];
+// ---------- 환경설정 (.env 읽기/쓰기, 주석·순서 유지) — 모든 에이전트 공통 ----------
 const EMAIL_RE = /^[^\s@,]+@[^\s@,]+\.[^\s@,]+$/;
 function readEnvFile() {
   const text = existsSync(envPath) ? readFileSync(envPath, "utf8") : "";
@@ -100,7 +100,8 @@ function getSettings() {
     smtpUser: v("SMTP_USER"), smtpPassSet: !!v("SMTP_PASS").replace(/\s+/g, ""),
     lookbackHours: Number(v("LOOKBACK_HOURS") || 24), maxArticles: Number(v("MAX_ARTICLES") || 40),
     webUser: v("WEB_USER"), webPassSet: !!v("WEB_PASS"), subdomain: v("LT_SUBDOMAIN") || "sap-info-agent",
-    tunnel: tunnelState(),
+    tunnel: tunnelInfo(),
+    agents: listAgents().map(pubAgent),
     envPath,
   };
 }
@@ -124,21 +125,19 @@ function saveSettings(body) {
   writeEnvFile(updates);
   return getSettings();
 }
-async function sendTestMail(to) {
-  const files = existsSync(OUT_DIR) ? readdirSync(OUT_DIR).filter((f) => MAIL_FILE_RE.test(f)).sort() : [];
+async function sendTestMail(agent, to) {
+  const { outDir } = agentPaths(agent.id);
+  const files = existsSync(outDir) ? readdirSync(outDir).filter((f) => MAIL_FILE_RE.test(f)).sort() : [];
   const latest = files.pop();
-  if (!latest) throw new Error("보낼 브리핑 HTML이 없습니다. 먼저 드라이런을 실행하세요");
-  const html = readFileSync(path.join(OUT_DIR, latest), "utf8");
-  const saved = process.env.MAIL_TO;
-  if (to) process.env.MAIL_TO = to;          // 특정 주소로만 테스트
-  try {
-    const id = await sendMail({ subject: `[SAP 브리핑] 테스트 메일 (${latest.slice(0, 10)})`, html });
-    return { id, to: (to || saved || "").split(",").map((s) => s.trim()).filter(Boolean), file: latest };
-  } finally { process.env.MAIL_TO = saved; }
+  if (!latest) throw new Error(`${agent.name}의 브리핑 HTML이 없습니다. 먼저 드라이런을 실행하세요`);
+  const html = readFileSync(path.join(outDir, latest), "utf8");
+  const target = to || agent.mailTo || process.env.MAIL_TO || "";
+  const id = await sendMail({ subject: `${agent.subjectPrefix} 테스트 메일 (${latest.slice(0, 10)})`, html, fromName: agent.fromName, to: target });
+  return { id, to: target.split(",").map((s) => s.trim()).filter(Boolean), file: latest, agent: agent.id };
 }
 
-function nextScheduled() {
-  const [h, m] = SCHEDULE_TIME.split(":").map(Number);
+function nextScheduled(time = "06:55") {
+  const [h, m] = time.split(":").map(Number);
   const d = new Date(); d.setHours(h, m, 0, 0);
   if (d <= new Date()) d.setDate(d.getDate() + 1);
   return d.toISOString();
@@ -256,22 +255,31 @@ const server = http.createServer(async (req, res) => {
   const url = new URL(req.url, `http://${req.headers.host}`);
   const p = url.pathname;
   try {
+    // 대상 에이전트 (?agent=<id>, 기본 sap). 잘못된 이름이면 400
+    let agent;
+    if (p.startsWith("/api/") || p.startsWith("/mail/")) {
+      try { agent = loadAgent(url.searchParams.get("agent") || DEFAULT_AGENT); }
+      catch (e) { return json(res, 400, { error: e.message }); }
+    }
     // ---------- API ----------
+    if (p === "/api/agents") return json(res, 200, listAgents().map(pubAgent));
     if (p === "/api/status") {
-      const runs = readRuns();
-      const mailTo = (process.env.MAIL_TO || "").split(",").map((s) => s.trim()).filter(Boolean);
+      const runs = readRuns(agent);
+      const mailTo = (agent.mailTo || process.env.MAIL_TO || "").split(",").map((s) => s.trim()).filter(Boolean);
       return json(res, 200, {
-        running: runningRun() || null,
+        agent: pubAgent(agent),
+        agents: listAgents().map(pubAgent),
+        running: runningRun(agent) || null,
         lastRun: runs.filter((r) => r.status !== "running").slice(-1)[0] || null,
         lastSent: runs.filter((r) => r.mailId).slice(-1)[0] || null,
-        schedule: { time: SCHEDULE_TIME, next: nextScheduled(), task: "SAP Info Agent" },
+        schedule: { time: agent.schedule, next: nextScheduled(agent.schedule), task: agent.task },
         tunnel: tunnelInfo(), authEnabled: !!(process.env.WEB_USER && process.env.WEB_PASS),
         mailTo, smtpUser: process.env.SMTP_USER || null, smtpReady: !!(process.env.SMTP_USER && process.env.SMTP_PASS && mailTo.length),
-        totals: { runs: runs.length, success: runs.filter((r) => r.status === "success").length, error: runs.filter((r) => r.status === "error").length, mails: listMails().length },
+        totals: { runs: runs.length, success: runs.filter((r) => r.status === "success").length, error: runs.filter((r) => r.status === "error").length, mails: listMails(agent).length },
         now: new Date().toISOString(),
       });
     }
-    if (p === "/api/runs") return json(res, 200, readRuns().slice().reverse());
+    if (p === "/api/runs") return json(res, 200, readRuns(agent).slice().reverse());
     if (p === "/api/incidents") return json(res, 200, parseIncidents());
     if (p === "/api/tunnel-log") {
       const n = Math.min(2000, Math.max(20, Number(url.searchParams.get("lines")) || 300));
@@ -281,17 +289,18 @@ const server = http.createServer(async (req, res) => {
     }
     let m;
     if ((m = p.match(/^\/api\/runs\/([\w-]+)\/log$/))) {
-      const f = path.join(LOG_DIR, `run-${m[1]}.log`);
+      const f = path.join(agentPaths(agent.id).logDir, `run-${m[1]}.log`);
       if (!existsSync(f)) return json(res, 404, { error: "no log" });
       res.writeHead(200, { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "no-store" });
       return res.end(readFileSync(f, "utf8"));
     }
     if (p === "/api/run" && req.method === "POST") {
       const body = await readBody(req);
-      const r = startRun({ dryRun: !!body.dryRun });
+      try { if (body.agent) agent = loadAgent(String(body.agent)); } catch (e) { return json(res, 400, { ok: false, error: e.message }); }
+      const r = startRun(agent, { dryRun: !!body.dryRun });
       return json(res, r.ok ? 202 : 409, r);
     }
-    if (p === "/api/mails") return json(res, 200, listMails());
+    if (p === "/api/mails") return json(res, 200, listMails(agent));
     if (p === "/api/settings" && req.method === "GET") return json(res, 200, getSettings());
     if (p === "/api/settings" && (req.method === "PUT" || req.method === "POST")) {
       try { return json(res, 200, { ok: true, settings: saveSettings(await readBody(req)) }); }
@@ -299,17 +308,18 @@ const server = http.createServer(async (req, res) => {
     }
     if (p === "/api/mail-test" && req.method === "POST") {
       const body = await readBody(req);
-      try { return json(res, 200, { ok: true, ...(await sendTestMail(body.to ? String(body.to).trim() : "")) }); }
+      try { if (body.agent) agent = loadAgent(String(body.agent)); } catch (e) { return json(res, 400, { ok: false, error: e.message }); }
+      try { return json(res, 200, { ok: true, ...(await sendTestMail(agent, body.to ? String(body.to).trim() : "")) }); }
       catch (e) { return json(res, 500, { ok: false, error: e.message }); }
     }
     if ((m = p.match(/^\/mail\/([^/]+\.html)$/)) && MAIL_FILE_RE.test(m[1])) {
-      const f = path.join(OUT_DIR, m[1]);
+      const f = path.join(agentPaths(agent.id).outDir, m[1]);
       if (!existsSync(f)) { res.writeHead(404); return res.end("not found"); }
       res.writeHead(200, { "Content-Type": MIME[".html"], "Cache-Control": "no-store" });
       return createReadStream(f).pipe(res);
     }
     if ((m = p.match(/^\/api\/mails\/([^/]+)\/(digest|articles)$/)) && MAIL_FILE_RE.test(m[1] + ".html")) {
-      const f = path.join(OUT_DIR, `${m[1]}-${m[2]}.json`);
+      const f = path.join(agentPaths(agent.id).outDir, `${m[1]}-${m[2]}.json`);
       if (!existsSync(f)) return json(res, 404, { error: "not found" });
       res.writeHead(200, { "Content-Type": MIME[".json"], "Cache-Control": "no-store" });
       return createReadStream(f).pipe(res);

@@ -1,0 +1,30 @@
+{
+  "name": "SAP 브리핑",
+  "order": 1,
+  "description": "SAP 제품·기술·시장 뉴스 (영문 기사 번역 포함)",
+  "schedule": "06:55",
+  "task": "SAP Info Agent",
+  "subjectPrefix": "[SAP 브리핑]",
+  "mailTitle": "📰 SAP 데일리 브리핑",
+  "fromName": "SAP Info Agent",
+  "mailTo": "",
+  "lookbackHours": null,
+  "maxArticles": null,
+  "feeds": [
+    { "name": "SAP News Center", "url": "https://news.sap.com/feed/" },
+    { "name": "SAP Community (Technology Blog)", "url": "https://community.sap.com/khhcw49343/rss/board?board.id=technology-blog-sap" },
+    { "name": "Google News (EN)", "url": "https://news.google.com/rss/search?q=(SAP+ERP+OR+%22SAP+S%2F4HANA%22+OR+%22SAP+BTP%22)+when:3d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News (KR)", "url": "https://news.google.com/rss/search?q=(SAP+ERP+OR+S%2F4HANA+OR+%22SAP+%EC%BD%94%EB%A6%AC%EC%95%84%22)+when:3d&hl=ko&gl=KR&ceid=KR:ko" }
+  ],
+  "prompt": {
+    "intro": "당신은 SAP 컨설턴트를 위한 일일 뉴스 브리핑 작성자입니다.",
+    "overview": "오늘 SAP 동향 3~4문장 요약",
+    "categories": "제품/기술, AI·BTP, 비즈니스·시장, 국내 동향, 커뮤니티·기술팁",
+    "why": "SAP 실무자에게 의미 있는 이유 1문장",
+    "pick": "총 8~15건으로 추립니다.",
+    "rules": [
+      "광고성·채용공고·단순 주가 기사는 제외합니다."
+    ]
+  },
+  "note": "영문 기사는 Claude가 한국어로 번역·요약했습니다. 각 항목의 \"원제\"는 원문 제목입니다."
+}

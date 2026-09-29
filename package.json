@@ -9,6 +9,9 @@
     "dry-run": "node src/index.js --dry-run",
     "collect": "node src/index.js --collect-only",
     "mail-test": "node src/mailtest.js",
+    "realestate": "node src/index.js --agent=realestate",
+    "realestate:dry-run": "node src/index.js --agent=realestate --dry-run",
+    "realestate:mail-test": "node src/mailtest.js --agent=realestate",
     "web": "node src/server.js",
     "tunnel": "node src/tunnel.js"
   },

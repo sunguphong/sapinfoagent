@@ -1,0 +1,35 @@
+{
+  "name": "부동산 브리핑",
+  "order": 2,
+  "description": "국내 부동산 시장·정책·분양 동향 + 동탄 지역 소식",
+  "schedule": "07:00",
+  "task": "SAP Info Agent - RealEstate",
+  "subjectPrefix": "[부동산 브리핑]",
+  "mailTitle": "🏠 국내 부동산 데일리 브리핑",
+  "fromName": "부동산 Info Agent",
+  "mailTo": "",
+  "lookbackHours": null,
+  "maxArticles": 45,
+  "feeds": [
+    { "name": "Google News 동탄", "url": "https://news.google.com/rss/search?q=%EB%8F%99%ED%83%84%20(%EB%B6%80%EB%8F%99%EC%82%B0%20OR%20%EC%95%84%ED%8C%8C%ED%8A%B8%20OR%20%EB%B6%84%EC%96%91%20OR%20%EC%B2%AD%EC%95%BD%20OR%20%EC%8B%A0%EB%8F%84%EC%8B%9C%20OR%20%EB%8F%99%ED%83%84%EC%97%AD%20OR%20GTX)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko", "keep": 8 },
+    { "name": "Google News 부동산 시장", "url": "https://news.google.com/rss/search?q=%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%8B%9C%EC%9E%A5%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News 아파트 매매·전세", "url": "https://news.google.com/rss/search?q=(%EC%95%84%ED%8C%8C%ED%8A%B8%20%EB%A7%A4%EB%A7%A4%20OR%20%EC%A0%84%EC%84%B8%20OR%20%EC%9B%94%EC%84%B8)%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News 분양·청약", "url": "https://news.google.com/rss/search?q=(%EB%B6%84%EC%96%91%20OR%20%EC%B2%AD%EC%95%BD)%20%EC%95%84%ED%8C%8C%ED%8A%B8%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News 대출·금리", "url": "https://news.google.com/rss/search?q=(%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%20OR%20%EB%8C%80%EC%B6%9C%EA%B7%9C%EC%A0%9C%20OR%20%EA%B8%88%EB%A6%AC)%20%EB%B6%80%EB%8F%99%EC%82%B0%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News 정책·규제", "url": "https://news.google.com/rss/search?q=(%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A0%95%EC%B1%85%20OR%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EA%B7%9C%EC%A0%9C%20OR%20%EA%B5%AD%ED%86%A0%EA%B5%90%ED%86%B5%EB%B6%80)%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko" }
+  ],
+  "prompt": {
+    "intro": "당신은 국내 부동산 시장 소식을 매일 아침 정리해 주는 뉴스 브리핑 작성자입니다. 독자는 전국 부동산 흐름과 경기도 화성시 동탄(동탄1·동탄2신도시) 지역에 관심이 있는 일반인입니다.",
+    "overview": "오늘 국내 부동산 동향 3~4문장 요약. 동탄 관련 새 소식이 있으면 마지막 문장에 한 줄로 언급",
+    "categories": "정책·규제, 시장·시세, 분양·청약, 금융·대출, 지역 동향, 동탄 소식",
+    "why": "내 집 마련·거주·투자 관점에서 왜 중요한지 1문장",
+    "pick": "전국 동향은 총 10~15건으로 추리고, 동탄 관련 기사는 그와 별도로 최대 5건까지 더할 수 있습니다.",
+    "rules": [
+      "동탄(화성시 동탄1·동탄2신도시, 동탄역, 동탄 GTX·트램, 동탄 분양·입주 등) 관련 기사는 중요도와 상관없이 빠뜨리지 말고 마지막 카테고리 \"동탄 소식\"에 모읍니다. 동탄 기사가 하나도 없으면 그 카테고리는 만들지 않습니다.",
+      "특정 단지 분양 홍보성 기사, 광고성 기사, 단순 시세표 나열, 연예인 부동산 가십은 제외합니다. 단, 동탄 지역 분양·입주 소식은 정보로서 포함합니다.",
+      "같은 사안을 다룬 여러 언론사 기사는 하나로 합치고 가장 자세한 기사를 대표로 씁니다.",
+      "정책·규제 항목은 시행 시기와 대상(지역·가격대·대출 조건 등)을 summary 에 구체적으로 적습니다."
+    ]
+  },
+  "note": "국내 기사 위주로 수집하며 요약은 Claude가 작성했습니다. 각 항목의 \"원제\"는 원문 기사 제목입니다. 동탄 소식은 별도 카테고리로 모았습니다."
+}
