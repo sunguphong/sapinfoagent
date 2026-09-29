@@ -25,8 +25,9 @@ function showView(name) {
   if (name === "runs") loadRuns();
   if (name === "mails") loadMails();
   if (name === "settings") loadSettings();
+  if (name === "incidents") loadIncidents();
 }
-function route() { const h = (location.hash || "#dashboard").slice(1).split("/"); if (h[0] === "mails" && h[1]) pendingMail = h[1]; showView(["dashboard", "runs", "mails", "settings"].includes(h[0]) ? h[0] : "dashboard"); }
+function route() { const h = (location.hash || "#dashboard").slice(1).split("/"); if (h[0] === "mails" && h[1]) pendingMail = h[1]; showView(["dashboard", "runs", "mails", "incidents", "settings"].includes(h[0]) ? h[0] : "dashboard"); }
 window.addEventListener("hashchange", route);
 
 // ---------- 대시보드 ----------
@@ -71,13 +72,19 @@ async function loadDashboard() {
 
 function renderPublic(t, authEnabled) {
   const state = $("#public-state"), url = $("#public-url"), hint = $("#public-hint");
+  if (t && t.status === "connected" && t.alive === false) {
+    state.className = "badge error"; state.textContent = "꺼짐 · 프로세스 없음"; url.textContent = "–";
+    hint.textContent = "터널 프로세스가 실행되고 있지 않습니다. PC 로그인 시 시작프로그램으로 자동 실행되며, 지금 켜려면 시작프로그램의 'SAP Info Agent 관리웹.vbs'를 실행하세요.";
+    return;
+  }
   if (t && t.status === "connected") {
     state.className = "badge success"; state.textContent = t.fixed ? "공개 중 · 고정 주소" : "공개 중 · 임시 주소";
     url.innerHTML = `<a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.url)}</a>`
       + (t.password ? `<div class="public-pass">안내 페이지("IP Address")에 입력할 값: <b>${esc(t.password)}</b> <button class="btn ghost small" id="copy-pass">복사</button></div>` : "");
     hint.textContent = "처음 접속하는 브라우저에는 loca.lt 안내 페이지가 뜹니다. 위 IP 값을 입력하면 이후에는 묻지 않습니다. "
       + (authEnabled ? "그 다음 로그인 창에 환경설정의 접속 아이디·비밀번호를 입력합니다. " : "⚠ 접속 인증이 꺼져 있습니다. 환경설정에서 접속 계정을 설정하세요. ")
-      + (t.fixed ? "" : `원하던 주소(${t.wanted})를 다른 사용자가 쓰고 있어 임시 주소가 발급됐습니다. 환경설정에서 이름을 바꿔 보세요.`);
+      + (t.fixed ? "" : `고정 주소(${t.wanted})를 아직 못 받아 임시 주소로 열려 있습니다. 30초~2분 간격으로 자동으로 되찾습니다. `)
+      + (t.lastCheckAt ? `마지막 점검 ${fmtDT(t.lastCheckAt).slice(11)} ${t.lastCheckOk ? "정상" : "실패 (" + (t.lastCheckDetail || "") + ")"}.` : "");
     const cp = $("#copy-pass"); if (cp) cp.addEventListener("click", () => navigator.clipboard?.writeText(t.password).then(() => { cp.textContent = "복사됨"; setTimeout(() => (cp.textContent = "복사"), 1500); }));
   } else if (t && t.status === "reconnecting") {
     state.className = "badge mode"; state.textContent = "재연결 중"; url.textContent = "–"; hint.textContent = `터널이 끊겨 다시 연결하고 있습니다 (${fmtDT(t.updatedAt)})`;

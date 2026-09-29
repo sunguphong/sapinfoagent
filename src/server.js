@@ -155,6 +155,96 @@ function checkAuth(req) {
   return i > 0 && dec.slice(0, i) === user && dec.slice(i + 1) === pass;
 }
 function tunnelState() { try { return JSON.parse(readFileSync(path.join(LOG_DIR, "tunnel.json"), "utf8")); } catch { return null; } }
+function tunnelAlive(st) { if (!st?.pid) return null; try { process.kill(st.pid, 0); return true; } catch { return false; } }   // null = 알 수 없음(구버전 상태 파일)
+function tunnelInfo() { const t = tunnelState(); return t ? { ...t, alive: tunnelAlive(t) } : null; }
+
+// ---------- 장애 기록: logs/tunnel.log 를 해석해 공개 주소가 불통이던 구간을 뽑는다 ----------
+// tunnel.js 의 로그 문구에 의존한다. 문구를 바꾸면 여기도 같이 고칠 것.
+// 유형: down(접속 불가) · temp(임시 주소만 열림) · restart(프로세스 중단 후 재시작, 시작 시각은 추정) · dead(프로세스 꺼짐, 진행 중) · warn(일시 경고, 자동 복구)
+const TUNNEL_LOG = path.join(LOG_DIR, "tunnel.log");
+const TLINE_RE = /^\[(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})\] (.*)$/;
+const INC_LABEL = { down: "접속 불가", temp: "임시 주소", restart: "프로세스 재시작", dead: "프로세스 꺼짐", warn: "일시 경고" };
+function parseIncidents() {
+  const wanted = `https://${process.env.LT_SUBDOMAIN || "sap-info-agent"}.loca.lt`;
+  let text = ""; try { text = readFileSync(TUNNEL_LOG, "utf8"); } catch {}
+  const list = [];
+  let cur = null, phase = "init", lastTs = null, upSince = null, warn = null;
+  const open = (start, type, cause, estimated = false) => { cur = { start, startEstimated: estimated, end: null, type, cause, tempUrls: [], checkFails: [], registerTries: 0, restarts: 0, notes: [], events: [] }; return cur; };
+  const close = (end) => { const c = cur; c.end = end; list.push(c); cur = null; return c; };
+  for (const raw of text.split(/\r?\n/)) {
+    const m = raw.match(TLINE_RE); if (!m) continue;
+    const ts = new Date(m[1].replace(" ", "T")).toISOString(), msg = m[2];
+    let closed = null;
+    if (msg.startsWith("tunnel.js 시작")) {
+      // 새 코드는 직전 프로세스의 마지막 생존 시각(상태 파일 갱신 시각, 45초 간격)을 함께 남긴다 → 그 시각을 중단 시작으로 본다
+      const prev = msg.match(/이전 프로세스 마지막 기록: (\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})/);
+      const prevTs = prev ? new Date(prev[1].replace(" ", "T")).toISOString() : null;
+      if (phase === "up") open(prevTs && (!lastTs || prevTs > lastTs) ? prevTs : (lastTs || ts), "restart", "터널 프로세스가 중단됐다가 다시 시작됨 (PC 종료·로그오프·수동 재시작 등)", true);
+      if (cur) cur.restarts++;
+      phase = "down";
+    } else if (msg.startsWith("터널 연결됨 → ")) {
+      const url = msg.slice("터널 연결됨 → ".length).trim();
+      if (url === wanted) { phase = "up"; upSince = ts; if (cur) closed = close(ts); }
+      else { phase = "temp"; if (!cur) open(ts, "temp", "고정 주소를 못 받아 임시 주소로만 열림 (loca.lt 가 기존 등록을 아직 유지)"); cur.tempUrls.push(url); }
+    } else if (msg.startsWith("상태 점검 실패")) {
+      const d = (msg.match(/\(([^)]*)\)\s*$/)?.[1] || "").replace(/, 서버에 터널 등록 없음$/, "");
+      if (cur) cur.checkFails.push(d); else { warn ??= { start: ts, details: [], events: [] }; warn.details.push(d); }
+    } else if (msg.startsWith("상태 점검 정상 복귀")) {
+      if (warn && !cur) list.push({ start: warn.start, startEstimated: false, end: ts, type: "warn", cause: `상태 점검 일시 실패 ${warn.details.length}회 후 자동 복구 (loca.lt 일시 오류로 추정)`, tempUrls: [], checkFails: warn.details, registerTries: 0, restarts: 0, notes: [], events: [...warn.events, raw] });
+      warn = null;
+    } else if (msg.startsWith("공개 주소가")) {   // "응답하지 않아 터널을 다시 연결합니다" / "계속 응답하지 않아 터널을 끊고 다시 연결합니다"
+      if (!cur) { open(warn?.start || ts, "down", `공개 주소 무응답 (상태 점검 실패: ${(warn?.details || []).join(", ") || "-"}) → 끊고 재연결`); if (warn) { cur.checkFails.push(...warn.details); cur.events.push(...warn.events); } }
+      else cur.notes.push("끊고 재연결");
+      warn = null; phase = "down";
+    } else if (msg.startsWith("터널 종료됨")) {
+      if (phase === "up" && !cur) open(ts, "down", "터널 연결이 끊김");
+      phase = "down";
+    } else if (msg.startsWith("터널 오류")) {
+      if (!cur) open(ts, "down", msg); else cur.notes.push(msg);
+      phase = "down";
+    } else if (msg.startsWith("연결 실패")) {
+      if (!cur) open(ts, "down", msg); else cur.notes.push(msg);
+      phase = "down";
+    } else if (/^고정 주소 (되찾기 \d|요청)/.test(msg)) {
+      if (cur) cur.registerTries++;
+    } else if (msg.startsWith("⚠ .env")) {
+      if (!cur) open(ts, "down", "WEB_USER/WEB_PASS 미설정으로 외부 공개 중단"); phase = "down";
+    } else if (/^(uncaughtException|unhandledRejection)/.test(msg)) {
+      if (cur) cur.notes.push(msg.slice(0, 160));
+    }
+    if (warn && !cur) warn.events.push(raw);
+    if (cur) cur.events.push(raw); else if (closed) closed.events.push(raw);
+    lastTs = ts;
+  }
+  const st = tunnelState(), alive = tunnelAlive(st), now = new Date().toISOString();
+  if (!cur && alive === false && phase !== "init") open(lastTs || now, "dead", "터널 프로세스가 실행되고 있지 않음 (시작프로그램 'SAP Info Agent 관리웹.vbs' 또는 npm run tunnel 로 켜야 함)", true);
+  else if (cur && alive === false) cur.notes.push("터널 프로세스 꺼짐");
+  if (cur) { cur.ongoing = true; list.push(cur); }
+  for (const i of list) {
+    i.label = i.type === "down" && i.tempUrls.length ? "접속 불가 → 임시 주소" : INC_LABEL[i.type];
+    i.severity = i.type === "warn" ? "warn" : "outage";
+    const parts = [];
+    if (i.checkFails.length) parts.push(`상태 점검 실패 ${i.checkFails.length}회 (${[...new Set(i.checkFails)].join(", ")})`);
+    if (i.restarts) parts.push(`프로세스 재시작 ${i.restarts}회`);
+    if (i.tempUrls.length) parts.push(`임시 주소 ${i.tempUrls.length}회 발급`);
+    if (i.registerTries) parts.push(`고정 주소 재요청 ${i.registerTries}회`);
+    const cnt = new Map(); for (const n of i.notes) cnt.set(n, (cnt.get(n) || 0) + 1);
+    for (const [n, c] of cnt) parts.push(c > 1 ? `${n} ×${c}` : n);
+    parts.push(i.end ? "고정 주소 복구" : "진행 중");
+    i.summary = parts.join(" → ");
+    i.durationSec = Math.max(0, Math.round((new Date(i.end || now) - new Date(i.start)) / 1000));
+    i.id = i.start.replace(/\D/g, "") + i.type;
+  }
+  list.reverse();
+  const outages = list.filter((i) => i.severity === "outage");
+  const stat = (days) => { const since = Date.now() - days * 86400000; const s = outages.filter((i) => new Date(i.end || now) >= since); return { count: s.length, seconds: s.reduce((n, i) => n + i.durationSec, 0) }; };
+  return {
+    incidents: list,
+    current: { ...(st || {}), alive, phase, upSince, wanted, lastLogAt: lastTs },
+    stats: { d7: stat(7), d30: stat(30), all: { count: outages.length, seconds: outages.reduce((n, i) => n + i.durationSec, 0) }, warns: list.length - outages.length },
+    now,
+  };
+}
 
 const server = http.createServer(async (req, res) => {
   // 터널 상태 점검용 (인증 없음, 내용 없음)
@@ -175,13 +265,20 @@ const server = http.createServer(async (req, res) => {
         lastRun: runs.filter((r) => r.status !== "running").slice(-1)[0] || null,
         lastSent: runs.filter((r) => r.mailId).slice(-1)[0] || null,
         schedule: { time: SCHEDULE_TIME, next: nextScheduled(), task: "SAP Info Agent" },
-        tunnel: tunnelState(), authEnabled: !!(process.env.WEB_USER && process.env.WEB_PASS),
+        tunnel: tunnelInfo(), authEnabled: !!(process.env.WEB_USER && process.env.WEB_PASS),
         mailTo, smtpUser: process.env.SMTP_USER || null, smtpReady: !!(process.env.SMTP_USER && process.env.SMTP_PASS && mailTo.length),
         totals: { runs: runs.length, success: runs.filter((r) => r.status === "success").length, error: runs.filter((r) => r.status === "error").length, mails: listMails().length },
         now: new Date().toISOString(),
       });
     }
     if (p === "/api/runs") return json(res, 200, readRuns().slice().reverse());
+    if (p === "/api/incidents") return json(res, 200, parseIncidents());
+    if (p === "/api/tunnel-log") {
+      const n = Math.min(2000, Math.max(20, Number(url.searchParams.get("lines")) || 300));
+      let text = ""; try { text = readFileSync(TUNNEL_LOG, "utf8"); } catch {}
+      res.writeHead(200, { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "no-store" });
+      return res.end(text.split(/\r?\n/).filter(Boolean).slice(-n).join("\n"));
+    }
     let m;
     if ((m = p.match(/^\/api\/runs\/([\w-]+)\/log$/))) {
       const f = path.join(LOG_DIR, `run-${m[1]}.log`);

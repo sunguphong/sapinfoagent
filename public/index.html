@@ -20,6 +20,7 @@
         <a href="#dashboard" data-view="dashboard" class="menu-item active"><span class="mi">▶</span> 대시보드 · 수동 실행</a>
         <a href="#runs" data-view="runs" class="menu-item"><span class="mi">≡</span> 실행 기록</a>
         <a href="#mails" data-view="mails" class="menu-item"><span class="mi">✉</span> 발송 메일</a>
+        <a href="#incidents" data-view="incidents" class="menu-item"><span class="mi">⚠</span> 장애 기록</a>
         <a href="#settings" data-view="settings" class="menu-item"><span class="mi">⚙</span> 환경설정</a>
       </nav>
       <div class="sidebar-foot">
@@ -60,7 +61,7 @@
         </div>
 
         <div class="card" id="public-card">
-          <div class="card-head"><h2>외부 접속 주소</h2><span id="public-state" class="badge mode">확인 중</span></div>
+          <div class="card-head"><h2>외부 접속 주소</h2><div class="head-tools"><a href="#incidents" class="link">장애 기록 →</a><span id="public-state" class="badge mode">확인 중</span></div></div>
           <div id="public-url" class="public-url"></div>
           <p class="hint" id="public-hint"></p>
         </div>
@@ -148,6 +149,66 @@
         </div>
       </section>
 
+      <!-- 장애 기록 -->
+      <section id="view-incidents" class="view hidden">
+        <header class="page-head">
+          <h1>장애 기록</h1>
+          <p class="muted">외부 접속 주소(터널)가 열리지 않았거나 임시 주소로만 열렸던 구간입니다. 터널 로그(<code>logs/tunnel.log</code>)를 해석해 만들며, 브리핑 실행 오류는 <a href="#runs">실행 기록</a>에서 봅니다.</p>
+        </header>
+
+        <div class="tiles">
+          <div class="tile">
+            <div class="tile-label">현재 상태</div>
+            <div class="tile-value" id="inc-now">–</div>
+            <div class="tile-sub" id="inc-now-sub"></div>
+          </div>
+          <div class="tile">
+            <div class="tile-label">최근 7일 장애</div>
+            <div class="tile-value" id="inc-7d">–</div>
+            <div class="tile-sub" id="inc-7d-sub"></div>
+          </div>
+          <div class="tile">
+            <div class="tile-label">최근 30일 장애</div>
+            <div class="tile-value" id="inc-30d">–</div>
+            <div class="tile-sub" id="inc-30d-sub"></div>
+          </div>
+          <div class="tile">
+            <div class="tile-label">마지막 장애</div>
+            <div class="tile-value" id="inc-last">–</div>
+            <div class="tile-sub" id="inc-last-sub"></div>
+          </div>
+        </div>
+
+        <div id="inc-ongoing" class="result err hidden"></div>
+
+        <div class="card">
+          <div class="toolbar">
+            <label>유형
+              <select id="inc-filter">
+                <option value="">전체</option>
+                <option value="outage">접속 장애만</option>
+                <option value="warn">일시 경고만</option>
+              </select>
+            </label>
+            <button id="inc-refresh" class="btn ghost small">새로고침</button>
+            <button id="inc-log-btn" class="btn ghost small">터널 로그 원문</button>
+            <span class="muted">행을 클릭하면 그 구간의 로그가 열립니다. 유형: 접속 불가(주소가 전혀 안 열림) · 임시 주소(고정 주소 대신 임시 주소만 열림) · 프로세스 재시작(PC 종료·로그오프 등) · 일시 경고(점검 실패 후 자동 복구)</span>
+          </div>
+          <div id="inc-table"></div>
+        </div>
+
+        <div id="inc-detail" class="card hidden">
+          <div class="card-head"><h2 id="inc-detail-title">상세</h2><button class="btn ghost small" id="inc-detail-close">닫기</button></div>
+          <div id="inc-detail-meta" class="muted" style="margin-bottom:10px;line-height:1.7"></div>
+          <pre id="inc-detail-log" class="log"></pre>
+        </div>
+
+        <div id="inc-log-panel" class="card hidden">
+          <div class="card-head"><h2>터널 로그 원문 (최근 300줄)</h2><button class="btn ghost small" id="inc-log-close">닫기</button></div>
+          <pre id="inc-log" class="log"></pre>
+        </div>
+      </section>
+
       <!-- 환경설정 -->
       <section id="view-settings" class="view hidden">
         <header class="page-head">
@@ -219,6 +280,7 @@
       </section>
     </main>
   </div>
+  <script src="incidents.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
