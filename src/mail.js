@@ -4,42 +4,75 @@ function esc(s = "") {
   return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
+// 메일 클라이언트는 CSS 변수·웹폰트·반투명 효과를 지원하지 않으므로 인라인 스타일만 쓴다.
+// 관리 웹("Midnight Atelier")과 같은 톤: 차콜 헤더 + 샴페인 골드 마스트헤드, 아이보리 바탕의 카드.
+const C = {
+  page: "#f4f3ef", card: "#ffffff", line: "#e5e2da", lineSoft: "#eeebe4",
+  ink: "#17191f", text: "#2b2f36", text2: "#5c6270", text3: "#8a8f99",
+  gold: "#c8a55c", goldDeep: "#86682a", goldSoft: "#f6efdf", goldLine: "#e6d5a8",
+  headBg: "#0f131b", headBg2: "#161c27", headText: "#eceef2", headMuted: "#a5adba", headGold: "#d9bc82",
+  overviewBg: "#fbf9f3",
+};
+const FONT = "'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif";
+
 // digest(요약 JSON) → 메일 HTML. 제목·안내문은 에이전트 설정(mailTitle, note)에서 받는다.
-export function renderHtml(digest, { dateLabel, articleCount, errors = [], articles = [], title = "📰 데일리 브리핑", note = "" }) {
+export function renderHtml(digest, { dateLabel, articleCount, errors = [], articles = [], title = "데일리 브리핑", note = "" }) {
   const selected = (digest.categories || []).reduce((n, c) => n + c.items.length, 0);
   const fmtDate = (d) => d ? new Date(d).toLocaleString("ko-KR", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false }) : "";
   const srcCount = {};
   for (const a of articles) srcCount[a.source] = (srcCount[a.source] || 0) + 1;
-  const srcList = Object.entries(srcCount).map(([s, n]) => `${esc(s)} ${n}건`).join(" · ");
-  const cats = (digest.categories || []).map((c) => `
-    <h2 style="font-size:16px;color:#0a6ed1;border-bottom:2px solid #0a6ed1;padding-bottom:4px;margin:28px 0 12px">${esc(c.name)}</h2>
+  const srcList = Object.entries(srcCount).map(([s, n]) => `${esc(s)} ${n}건`).join(" &nbsp;·&nbsp; ");
+  const cats = (digest.categories || []).map((c, ci) => `
+    <div style="margin:${ci ? 34 : 30}px 0 14px">
+      <div style="font-size:11px;font-weight:700;letter-spacing:.14em;color:${C.goldDeep};text-transform:uppercase">${esc(c.name)}</div>
+      <div style="height:1px;background:linear-gradient(90deg,${C.gold},${C.lineSoft});margin-top:8px"></div>
+    </div>
     ${c.items.map((it) => `
-      <div style="margin:0 0 16px;padding:12px 14px;background:#f7f9fb;border-radius:8px">
-        <div style="font-size:15px;font-weight:600;line-height:1.4">
-          <a href="${esc(it.article.link)}" style="color:#1a1a1a;text-decoration:none">${esc(it.title_ko)}</a>
+      <div style="margin:0 0 12px;padding:16px 18px;background:${C.card};border:1px solid ${C.line};border-radius:12px">
+        <div style="font-size:15.5px;font-weight:700;line-height:1.45;letter-spacing:-.01em">
+          <a href="${esc(it.article.link)}" style="color:${C.ink};text-decoration:none">${esc(it.title_ko)}</a>
         </div>
-        <div style="font-size:12px;color:#777;margin:6px 0 8px;line-height:1.5">
-          <span style="display:inline-block;background:#e3eefc;color:#0a6ed1;border-radius:3px;padding:1px 6px;font-weight:600">출처: ${esc(it.article.source)}</span>
+        <div style="font-size:12px;color:${C.text3};margin:8px 0 10px;line-height:1.6">
+          <span style="display:inline-block;background:${C.goldSoft};color:${C.goldDeep};border:1px solid ${C.goldLine};border-radius:999px;padding:1px 9px;font-weight:600">${esc(it.article.source)}</span>
           <span style="margin-left:6px">${esc(fmtDate(it.article.published))}</span><br>
-          <span style="color:#999">원제: ${esc(it.article.title)}</span></div>
-        <div style="font-size:14px;line-height:1.6;color:#333">${esc(it.summary)}</div>
-        <div style="font-size:13px;line-height:1.5;color:#0a6ed1;margin-top:6px">▶ ${esc(it.why)}</div>
-        <div style="font-size:12px;margin-top:6px"><a href="${esc(it.article.link)}" style="color:#0a6ed1">원문 보기 →</a></div>
+          <span>원제: ${esc(it.article.title)}</span></div>
+        <div style="font-size:14px;line-height:1.7;color:${C.text}">${esc(it.summary)}</div>
+        <div style="font-size:13px;line-height:1.6;color:${C.goldDeep};margin-top:8px;padding-left:12px;border-left:2px solid ${C.gold}">${esc(it.why)}</div>
+        <div style="font-size:12.5px;margin-top:10px"><a href="${esc(it.article.link)}" style="color:${C.goldDeep};font-weight:600;text-decoration:none">원문 보기 →</a></div>
       </div>`).join("")}`).join("");
 
   const errBlock = errors.length
-    ? `<p style="font-size:12px;color:#b00">피드 오류: ${errors.map(esc).join(" / ")}</p>` : "";
+    ? `<p style="font-size:12px;color:#be123c;margin:16px 0 0">피드 오류: ${errors.map(esc).join(" / ")}</p>` : "";
 
-  return `<!doctype html><html><body style="margin:0;padding:0;background:#eef1f4">
-  <div style="max-width:680px;margin:0 auto;padding:24px 16px;font-family:'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif;background:#fff">
-    <h1 style="font-size:22px;margin:0 0 4px">${esc(title)}</h1>
-    <div style="font-size:13px;color:#777;margin-bottom:20px">${esc(dateLabel)} · 수집 ${articleCount}건 중 ${selected}건 선별</div>
-    <div style="font-size:14px;line-height:1.7;padding:14px 16px;background:#fff8e1;border-left:4px solid #f0ab00;border-radius:4px">${esc(digest.overview)}</div>
+  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="color-scheme" content="light"><meta name="supported-color-schemes" content="light"><title>${esc(title)}</title></head>
+<body style="margin:0;padding:0;background:${C.page}">
+  <div style="max-width:680px;margin:0 auto;padding:28px 14px 36px;font-family:${FONT};color:${C.text}">
+
+    <div style="background:${C.headBg};background-image:linear-gradient(135deg,${C.headBg2},${C.headBg});border-radius:16px;padding:26px 28px 24px;border:1px solid #232a36">
+      <div style="font-size:11px;font-weight:700;letter-spacing:.16em;color:${C.headGold}">SAP INFO AGENT &nbsp;·&nbsp; DAILY BRIEFING</div>
+      <div style="font-size:23px;font-weight:700;color:${C.headText};margin-top:12px;letter-spacing:-.02em;line-height:1.3">${esc(title)}</div>
+      <div style="font-size:13px;color:${C.headMuted};margin-top:8px">${esc(dateLabel)}</div>
+      <div style="height:1px;background:linear-gradient(90deg,${C.headGold},rgba(217,188,130,0));margin:18px 0 14px"></div>
+      <table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse"><tr>
+        <td style="padding:0 28px 0 0"><div style="font-size:11px;letter-spacing:.1em;color:${C.headMuted}">수집</div><div style="font-size:20px;font-weight:700;color:${C.headText};margin-top:2px">${articleCount}건</div></td>
+        <td style="padding:0 28px 0 0"><div style="font-size:11px;letter-spacing:.1em;color:${C.headMuted}">선별</div><div style="font-size:20px;font-weight:700;color:${C.headGold};margin-top:2px">${selected}건</div></td>
+        <td><div style="font-size:11px;letter-spacing:.1em;color:${C.headMuted}">카테고리</div><div style="font-size:20px;font-weight:700;color:${C.headText};margin-top:2px">${(digest.categories || []).length}개</div></td>
+      </tr></table>
+    </div>
+
+    <div style="margin:18px 0 0;padding:18px 20px;background:${C.overviewBg};border:1px solid ${C.goldLine};border-left:3px solid ${C.gold};border-radius:12px">
+      <div style="font-size:11px;font-weight:700;letter-spacing:.14em;color:${C.goldDeep};margin-bottom:8px">오늘의 요약</div>
+      <div style="font-size:14.5px;line-height:1.8;color:${C.text}">${esc(digest.overview)}</div>
+    </div>
+
     ${cats}
     ${errBlock}
-    <h2 style="font-size:14px;color:#555;border-top:1px solid #ddd;padding-top:12px;margin:28px 0 6px">수집 출처</h2>
-    <div style="font-size:12px;color:#777;line-height:1.6">${srcList}${note ? `<br>${esc(note)}` : ""}</div>
-    <p style="font-size:11px;color:#aaa;margin-top:32px">sapinfoagent · 자동 생성 (Claude 요약)</p>
+
+    <div style="margin-top:36px;padding-top:16px;border-top:1px solid ${C.line}">
+      <div style="font-size:11px;font-weight:700;letter-spacing:.14em;color:${C.text3}">수집 출처</div>
+      <div style="font-size:12px;color:${C.text2};line-height:1.8;margin-top:6px">${srcList}${note ? `<br>${esc(note)}` : ""}</div>
+      <p style="font-size:11px;color:${C.text3};margin:22px 0 0">sapinfoagent · Claude 요약 · 자동 생성</p>
+    </div>
   </div></body></html>`;
 }
 

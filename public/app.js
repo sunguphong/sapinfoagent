@@ -57,7 +57,9 @@ document.addEventListener("click", (e) => {
 // ---------- 테마 ----------
 function initTheme() {
   const html = document.documentElement;
-  if (!html.dataset.theme) html.dataset.theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  const q = new URLSearchParams(location.search).get("theme");   // ?theme=light|dark 로 강제(확인용)
+  if (q === "light" || q === "dark") html.dataset.theme = q;
+  if (!html.dataset.theme) html.dataset.theme = "dark";           // 기본은 다크
   $("#theme-toggle").addEventListener("click", () => {
     html.dataset.theme = html.dataset.theme === "dark" ? "light" : "dark";
     try { localStorage.setItem("theme", html.dataset.theme); } catch {}
@@ -120,7 +122,7 @@ async function loadDashboard() {
   else if (st.lastRun) {
     const ok = st.lastRun.status === "success";
     const today = st.lastRun.date === new Date().toISOString().slice(0, 10) || fmtDT(st.lastRun.finishedAt).slice(0, 10) === fmtDT(new Date().toISOString()).slice(0, 10);
-    tState.textContent = ok ? (st.lastRun.mailId && today ? "오늘자 발행 완료" : "정상") : "마지막 실행 오류";
+    tState.textContent = ok ? (st.lastRun.mailId && today ? "오늘 발행 완료" : "정상") : "마지막 실행 오류";
     tState.className = `tile-value ${ok ? "ok" : "err"}`;
     $("#t-state-sub").textContent = `${fmtDT(st.lastRun.finishedAt)} (${ago(st.lastRun.finishedAt)})`;
   }
