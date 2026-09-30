@@ -62,7 +62,7 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
 
     <div style="margin:18px 0 0;padding:18px 20px;background:${C.overviewBg};border:1px solid ${C.goldLine};border-left:3px solid ${C.gold};border-radius:12px">
       <div style="font-size:11px;font-weight:700;letter-spacing:.14em;color:${C.goldDeep};margin-bottom:8px">오늘의 요약</div>
-      <div style="font-size:14.5px;line-height:1.8;color:${C.text}">${esc(digest.overview)}</div>
+      <div style="font-size:14.5px;line-height:1.8;color:${C.text}">${esc(digest.overview).replace(/\n/g, "<br>")}</div>
     </div>
 
     ${cats}

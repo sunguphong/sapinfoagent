@@ -1,0 +1,39 @@
+{
+  "name": "증시 브리핑",
+  "order": 3,
+  "description": "전날 미국 증시 분석 + 오늘 국내 증시(코스피·코스닥) 전망",
+  "schedule": "07:00",
+  "task": "SAP Info Agent - Stock",
+  "subjectPrefix": "[증시 브리핑]",
+  "mailTitle": "📈 미국 증시 마감 & 오늘 국내 증시 전망",
+  "fromName": "증시 Info Agent",
+  "mailTo": "",
+  "lookbackHours": null,
+  "maxArticles": 50,
+  "feeds": [
+    { "name": "Google News 뉴욕증시 마감 (KR)", "url": "https://news.google.com/rss/search?q=(%EB%89%B4%EC%9A%95%EC%A6%9D%EC%8B%9C%20OR%20%EB%AF%B8%EA%B5%AD%EC%A6%9D%EC%8B%9C%20OR%20%EB%82%98%EC%8A%A4%EB%8B%A5%20OR%20%EB%8B%A4%EC%9A%B0)%20%EB%A7%88%EA%B0%90%20when%3A1d&hl=ko&gl=KR&ceid=KR:ko", "keep": 5 },
+    { "name": "Google News 오늘 국내 증시 전망 (KR)", "url": "https://news.google.com/rss/search?q=(%EC%BD%94%EC%8A%A4%ED%94%BC%20OR%20%EC%BD%94%EC%8A%A4%EB%8B%A5)%20(%EC%A0%84%EB%A7%9D%20OR%20%EA%B0%9C%EC%9E%A5%20OR%20%EC%B6%9C%EB%B0%9C%20OR%20%EC%B2%B4%ED%81%AC%ED%8F%AC%EC%9D%B8%ED%8A%B8)%20when%3A1d&hl=ko&gl=KR&ceid=KR:ko", "keep": 6 },
+    { "name": "Google News 외국인 수급·환율 (KR)", "url": "https://news.google.com/rss/search?q=(%EC%99%B8%EA%B5%AD%EC%9D%B8%20%EC%88%9C%EB%A7%A4%EC%88%98%20OR%20%EC%99%B8%EA%B5%AD%EC%9D%B8%20%EC%88%9C%EB%A7%A4%EB%8F%84%20OR%20%EC%9B%90%EB%8B%AC%EB%9F%AC%20%ED%99%98%EC%9C%A8%20OR%20%EC%95%BC%EA%B0%84%EC%84%A0%EB%AC%BC)%20%EC%A6%9D%EC%8B%9C%20when%3A1d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News 반도체·대형주 (KR)", "url": "https://news.google.com/rss/search?q=(%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20OR%20SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%20OR%20%EB%B0%98%EB%8F%84%EC%B2%B4%20OR%202%EC%B0%A8%EC%A0%84%EC%A7%80%20OR%20%ED%98%84%EB%8C%80%EC%B0%A8)%20%EC%A3%BC%EA%B0%80%20when%3A1d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News Wall Street close (EN)", "url": "https://news.google.com/rss/search?q=(%22Wall%20Street%22%20OR%20%22S%26P%20500%22%20OR%20Nasdaq%20OR%20%22Dow%20Jones%22)%20stocks%20close%20when%3A1d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News Fed·macro (EN)", "url": "https://news.google.com/rss/search?q=(Fed%20OR%20%22Treasury%20yields%22%20OR%20inflation%20OR%20tariffs%20OR%20%22jobs%20report%22)%20markets%20when%3A1d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News chips·big tech (EN)", "url": "https://news.google.com/rss/search?q=(Nvidia%20OR%20Micron%20OR%20AMD%20OR%20TSMC%20OR%20%22chip%20stocks%22%20OR%20Apple%20OR%20Tesla)%20shares%20when%3A1d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "CNBC Markets", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html" },
+    { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex" }
+  ],
+  "prompt": {
+    "intro": "당신은 국내 주식 투자자를 위한 아침 증시 브리핑 작성자입니다. 독자는 한국 시각 오전 7시에 이 메일을 읽고 오늘 국내 증시(코스피·코스닥) 개장에 대비하는 개인 투자자입니다. 임무는 두 가지입니다. (1) 전날(한국 시각 새벽 마감) 미국 증시를 분석하고, (2) 그것이 오늘 국내 증시에 어떤 영향을 줄지 예측합니다.",
+    "overview": "두 단락으로 씁니다. 첫 단락은 '■ 전날 미국 증시'로 시작해 3대 지수(다우·S&P500·나스닥) 등락률과 마감 배경, 주도·부진 섹터, 국채금리·달러·유가 흐름, 핵심 이슈를 4~5문장으로 씁니다. 둘째 단락은 '■ 오늘 국내 증시 전망'으로 시작해 코스피·코스닥 예상 방향(상승 우세/보합/하락 우세)과 근거, 외국인 수급·환율·야간선물 신호, 주목할 업종과 리스크를 4~5문장으로 씁니다. 두 단락 사이는 줄바꿈 문자(\n\n)로 구분합니다.",
+    "categories": "미국 증시 마감, 매크로·금리·환율, 국내 증시 전망, 반도체·주요 업종, 오늘의 일정·이벤트",
+    "why": "오늘 국내 증시와 관련 업종(반도체·2차전지·자동차·바이오 등)에 미칠 영향 1문장",
+    "pick": "총 10~15건으로 추립니다. 미국 증시 마감·매크로 5~7건, 국내 증시 전망·수급 4~6건, 업종·종목 2~4건 정도의 비중을 유지합니다.",
+    "rules": [
+      "'국내 증시 전망' 카테고리는 반드시 만들고, 오늘 코스피·코스닥 방향을 다룬 기사(증시 전망·개장 전 체크포인트·외국인 수급·야간선물·환율)를 모읍니다. summary 에는 예상 방향과 근거를 지수·환율·금리 같은 구체적 수치와 함께 적습니다.",
+      "미국 증시 기사는 마감 결과(지수 등락률)가 담긴 것을 우선하고, 장중 속보나 하루 이상 지난 기사는 제외합니다. 같은 마감 시황을 다룬 여러 기사는 하나로 합치고 가장 자세한 기사를 대표로 씁니다.",
+      "엔비디아·마이크론·AMD·TSMC 등 반도체와 애플·테슬라 등 국내 공급망과 연결된 종목 소식은 국내 관련주(삼성전자·SK하이닉스·현대차 등)와 연결해서 why 에 씁니다.",
+      "예측은 확률적 표현(우세·가능성·제한적)을 쓰고, 특정 종목 매수·매도 권유나 목표가 제시는 하지 않습니다. 종목 추천·리딩방·광고성·단순 시세표 기사, 개별 소형주 급등락 가십은 제외합니다.",
+      "한국 시각 기준 오늘 예정된 주요 일정(미국 지표 발표·FOMC·빅테크 실적·국내 지표·옵션만기 등)이 기사에 있으면 '오늘의 일정·이벤트' 카테고리에 모읍니다. 없으면 그 카테고리는 만들지 않습니다."
+    ]
+  },
+  "note": "미국 증시 기사(영문)는 Claude가 한국어로 번역·요약했습니다. 국내 증시 전망은 수집된 기사를 바탕으로 한 참고 의견이며 투자 권유가 아닙니다. 각 항목의 \"원제\"는 원문 기사 제목입니다."
+}
