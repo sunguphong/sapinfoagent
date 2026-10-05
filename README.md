@@ -62,7 +62,7 @@ copy .env.example .env    # 편집: SMTP_USER / SMTP_PASS / MAIL_TO
 ## 외부 접속 (인터넷 공개)
 
 - `.env` 에 `WEB_USER` / `WEB_PASS` 를 설정하면 관리 웹 전체에 Basic Auth 로그인이 걸립니다.
-- `npm run tunnel` (또는 `start-web-hidden.vbs`) 이 localtunnel 로 `https://<LT_SUBDOMAIN>.loca.lt` 고정 주소를 열고, 끊기면 자동 재연결합니다.
+- `npm run tunnel` (또는 `start-web-hidden.vbs`) 이 localtunnel 로 `https://<LT_SUBDOMAIN>.loca.lt` 고정 주소를 열고, 끊기면 자동 재연결합니다. 한 PC 에서는 하나만 실행됩니다(127.0.0.1:5175 잠금 포트, `TUNNEL_LOCK_PORT` 로 변경).
   접속 계정이 없으면 터널은 시작을 거부합니다.
 - 처음 접속할 때 loca.lt 안내 페이지가 한 번 뜰 수 있습니다. 대시보드에 현재 공개 주소와 상태가 표시됩니다.
 
