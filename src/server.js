@@ -312,6 +312,28 @@ const server = http.createServer(async (req, res) => {
       try { return json(res, 200, { ok: true, ...(await sendTestMail(agent, body.to ? String(body.to).trim() : "")) }); }
       catch (e) { return json(res, 500, { ok: false, error: e.message }); }
     }
+
+    // ---------- 에이전트별 메일 수신자 설정 ----------
+    if ((m = p.match(/^\/api\/agents\/([\w-]+)\/mail-to$/))) {
+      const agentId = m[1];
+      if (req.method === "GET") {
+        try {
+          const ag = loadAgent(agentId);
+          return json(res, 200, { agentId, mailTo: ag.mailTo || "" });
+        } catch (e) { return json(res, 400, { ok: false, error: e.message }); }
+      }
+      if (req.method === "PUT" || req.method === "POST") {
+        try {
+          const body = await readBody(req);
+          const ag = loadAgent(agentId);
+          const agentPath = path.join(AGENTS_DIR, `${agentId}.json`);
+          const updated = { ...ag, mailTo: String(body.mailTo || "").trim() };
+          writeFileSync(agentPath, JSON.stringify(updated, null, 2));
+          log(`[${agentId}] mailTo 수정: ${updated.mailTo}`);
+          return json(res, 200, { ok: true, agentId, mailTo: updated.mailTo });
+        } catch (e) { return json(res, 400, { ok: false, error: e.message }); }
+      }
+    }
     if ((m = p.match(/^\/mail\/([^/]+\.html)$/)) && MAIL_FILE_RE.test(m[1])) {
       const f = path.join(agentPaths(agent.id).outDir, m[1]);
       if (!existsSync(f)) { res.writeHead(404); return res.end("not found"); }

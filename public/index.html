@@ -294,6 +294,24 @@
         </div>
 
         <div class="card">
+          <div class="card-head"><h2>에이전트별 메일 수신자</h2></div>
+          <p class="hint">각 에이전트가 다른 수신자에게 메일을 보내도록 설정합니다. 비워두면 위의 공통 수신자 리스트를 사용합니다.</p>
+          <div class="form-grid">
+            <label>에이전트 선택
+              <select id="agent-mail-select"></select>
+            </label>
+            <label>메일 주소 (쉼표로 구분)
+              <input type="text" id="agent-mail-input" placeholder="example1@mail.com, example2@mail.com" />
+            </label>
+          </div>
+          <div class="actions">
+            <button id="agent-mail-save" class="btn primary">저장</button>
+            <button id="agent-mail-clear" class="btn ghost">비우기</button>
+          </div>
+          <div id="agent-mail-msg" class="result hidden"></div>
+        </div>
+
+        <div class="card">
           <div class="card-head"><h2>자동 실행</h2></div>
           <p class="hint">에이전트마다 Windows 작업 스케줄러 작업이 하나씩 등록되어 있습니다. 시각 변경은 작업 스케줄러(taskschd.msc)에서 하고, 수집 소스·프롬프트는 <code>agents/</code> 폴더의 설정 파일에서 바꿉니다. PC가 켜져 있고 로그인 상태여야 실행됩니다.</p>
           <div id="set-schedule-list" style="margin-bottom:10px"></div>

@@ -378,7 +378,61 @@ $("#smtp-save").addEventListener("click", async () => {
 });
 $("#collect-save").addEventListener("click", () => saveSettings({ lookbackHours: $("#set-lookback").value, maxArticles: $("#set-max").value }, "#collect-msg", "수집 옵션 저장 완료"));
 
+// ---------- 에이전트별 메일 수신자 ----------
+async function loadAgentMailTo(agentId) {
+  try {
+    const r = await api(`/api/agents/${agentId}/mail-to`);
+    return r.mailTo || "";
+  } catch (e) {
+    console.error("에이전트 mailTo 로드 실패:", e);
+    return "";
+  }
+}
+async function saveAgentMailTo(agentId, mailTo) {
+  try {
+    const r = await api(`/api/agents/${agentId}/mail-to`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ mailTo: mailTo.trim() })
+    });
+    return r;
+  } catch (e) {
+    console.error("에이전트 mailTo 저장 실패:", e);
+    throw e;
+  }
+}
+async function renderAgentMailSelect() {
+  const sel = $("#agent-mail-select");
+  sel.innerHTML = (AGENTS || []).map((a) => `<option value="${esc(a.id)}">${esc(a.name)}</option>`).join("");
+  if (AGENTS.length > 0) {
+    sel.value = AGENTS[0].id;
+    await loadAgentMailToUI(AGENTS[0].id);
+  }
+  sel.addEventListener("change", () => loadAgentMailToUI(sel.value));
+}
+async function loadAgentMailToUI(agentId) {
+  const mailTo = await loadAgentMailTo(agentId);
+  $("#agent-mail-input").value = mailTo;
+  $("#agent-mail-msg").classList.add("hidden");
+}
+$("#agent-mail-save").addEventListener("click", async () => {
+  const agentId = $("#agent-mail-select").value;
+  const mailTo = $("#agent-mail-input").value.trim();
+  try {
+    await saveAgentMailTo(agentId, mailTo);
+    msg("#agent-mail-msg", true, `✅ ${AGENTS.find(a => a.id === agentId)?.name} 메일 수신자 저장 완료: ${esc(mailTo || "(공통 수신자 사용)")}`);
+  } catch (e) {
+    msg("#agent-mail-msg", false, `❌ ${esc(e.message || "저장 실패")}`);
+  }
+});
+$("#agent-mail-clear").addEventListener("click", () => {
+  if (confirm("비워도 되겠습니까? (공통 수신자를 사용하게 됩니다)")) {
+    $("#agent-mail-input").value = "";
+    $("#agent-mail-save").click();
+  }
+});
+
 // ---------- 시계 · 시작 ----------
 setInterval(() => { $("#side-clock").textContent = fmtDT(new Date().toISOString()); }, 1000);
 initTheme();
-loadAgents().then(route).catch((e) => { console.error(e); route(); });
+loadAgents().then(() => { renderAgentMailSelect(); route(); }).catch((e) => { console.error(e); route(); });
