@@ -1,0 +1,33 @@
+{
+  "name": "피부미용 트렌드 브리핑",
+  "order": 4,
+  "description": "피부 관리, 스킨케어, 뷰티 트렌드 및 전문가 팁",
+  "schedule": "08:00",
+  "task": "Skincare & Beauty Daily Briefing",
+  "subjectPrefix": "[피부미용]",
+  "mailTitle": "💅 피부미용 트렌드 브리핑",
+  "fromName": "Skincare & Beauty Agent",
+  "mailTo": "",
+  "lookbackHours": null,
+  "maxArticles": null,
+  "feeds": [
+    { "name": "Google News (피부·스킨케어)", "url": "https://news.google.com/rss/search?q=(피부관리+OR+스킨케어+OR+피부질환+OR+피부미용+OR+뷰티트렌드)+when:3d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News (뷰티 제품·성분)", "url": "https://news.google.com/rss/search?q=(아토피+OR+건성피부+OR+여드름+OR+안티에이징+OR+피부성분)+when:3d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News EN (Beauty Trends)", "url": "https://news.google.com/rss/search?q=(skincare+OR+beauty+trend+OR+\"skin+care\"+OR+cosmetics)+when:3d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News EN (Dermatology)", "url": "https://news.google.com/rss/search?q=(dermatology+OR+\"skin+health\"+OR+\"beauty+science\")+when:3d&hl=en-US&gl=US&ceid=US:en" }
+  ],
+  "prompt": {
+    "intro": "당신은 피부미용실 고객을 위한 뷰티 뉴스 브리핑 작성자입니다.",
+    "overview": "오늘의 피부·뷰티 트렌드 및 관리법 3~4문장 요약",
+    "categories": "피부 트렌드, 스킨케어 성분·제품, 계절 피부 관리, 전문가 팁, 뷰티 뉴스",
+    "why": "피부 건강과 아름다움에 관심 있는 고객에게 실용적인 정보 1문장",
+    "pick": "총 10~15건으로 추립니다.",
+    "rules": [
+      "과학 기반의 피부 관리 정보를 우선합니다.",
+      "계절·날씨에 따른 피부 관리법을 강조합니다.",
+      "새로운 성분이나 치료법은 전문가 의견과 함께 설명합니다.",
+      "광고성·과장 기사는 제외합니다."
+    ]
+  },
+  "note": "피부미용실 운영 중인 담당자와 고객들을 위한 실용적인 피부 관리 정보와 최신 뷰티 트렌드를 수집합니다. 영문 기사는 Claude가 한국어로 번역·요약했습니다."
+}
