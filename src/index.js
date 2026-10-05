@@ -67,8 +67,8 @@ async function main() {
   if (COLLECT_ONLY) return {};
   if (articles.length === 0) throw new Error("수집된 기사가 없습니다");
 
-  log("summarizing with claude...");
-  const digest = summarize(articles, agent.prompt);
+  log("summarizing with claude opus-5...");
+  const digest = await summarize(articles, agent.prompt);
   writeFileSync(path.join(OUT_DIR, `${base}-digest.json`), JSON.stringify(digest, null, 2));
   const picked = (digest.categories || []).reduce((n, c) => n + c.items.length, 0);
 

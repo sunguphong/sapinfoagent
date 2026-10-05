@@ -1,6 +1,6 @@
-// Claude CLI 로 기사 목록을 요약한다. 프롬프트의 주제별 부분(역할·카테고리·선별 규칙)은 에이전트 설정(agents/<id>.json 의 prompt)에서 받고,
+// Anthropic API로 기사 목록을 요약한다. 프롬프트의 주제별 부분(역할·카테고리·선별 규칙)은 에이전트 설정(agents/<id>.json 의 prompt)에서 받고,
 // 출력 JSON 스키마는 mail.js 가 그대로 그리므로 고정이다.
-import { spawnSync } from "node:child_process";
+import Anthropic from "@anthropic-ai/sdk";
 
 export function buildPrompt(p = {}) {
   const rules = [
@@ -44,15 +44,21 @@ function extractJson(text) {
   return JSON.parse(t.slice(start, end + 1));
 }
 
-export function summarize(articles, promptConfig) {
+export async function summarize(articles, promptConfig) {
   const input = buildPrompt(promptConfig) + buildInput(articles);
-  const isWin = process.platform === "win32";
-  const r = spawnSync(isWin ? "claude.cmd" : "claude", ["-p", "--output-format", "text", "--tools", '""'], {
-    input, encoding: "utf8", shell: isWin, timeout: 10 * 60 * 1000, maxBuffer: 20 * 1024 * 1024,
+  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
+  const message = await client.messages.create({
+    model: "claude-opus-5",
+    max_tokens: 4096,
+    messages: [
+      { role: "user", content: input }
+    ]
   });
-  if (r.error) throw r.error;
-  if (r.status !== 0) throw new Error(`claude exited ${r.status}: ${r.stderr}`);
-  const data = extractJson(r.stdout);
+
+  const text = message.content[0].type === "text" ? message.content[0].text : "";
+  const data = extractJson(text);
+
   // index -> 원본 기사 연결
   for (const c of data.categories || []) {
     c.items = (c.items || []).map((it) => ({ ...it, article: articles[it.index] })).filter((it) => it.article);
