@@ -13,7 +13,7 @@
 실행 기록은 `logs/<id>/`, 결과물은 `output/<id>/` 에 에이전트별로 쌓입니다. 실행은 `node src/index.js --agent=<id>`, 스케줄러는 `run.cmd <id>`.
 
 - 안내 페이지 (GitHub Pages): https://sunguphong.github.io/sapinfoagent/
-- 관리 웹 (담당자 PC에서 실행, 로그인 필요): https://sap-info-agent.loca.lt
+- 관리 웹 (담당자 PC에서 실행, 로그인 필요): `npm run web` 실행 후 ngrok으로 공개
 
 ```
 RSS 수집 (SAP News / SAP Community / Google News EN·KR)
@@ -62,9 +62,19 @@ copy .env.example .env    # 편집: SMTP_USER / SMTP_PASS / MAIL_TO
 ## 외부 접속 (인터넷 공개)
 
 - `.env` 에 `WEB_USER` / `WEB_PASS` 를 설정하면 관리 웹 전체에 Basic Auth 로그인이 걸립니다.
-- `npm run tunnel` (또는 `start-web-hidden.vbs`) 이 localtunnel 로 `https://<LT_SUBDOMAIN>.loca.lt` 고정 주소를 열고, 끊기면 자동 재연결합니다. 한 PC 에서는 하나만 실행됩니다(127.0.0.1:5175 잠금 포트, `TUNNEL_LOCK_PORT` 로 변경).
-  접속 계정이 없으면 터널은 시작을 거부합니다.
-- 처음 접속할 때 loca.lt 안내 페이지가 한 번 뜰 수 있습니다. 대시보드에 현재 공개 주소와 상태가 표시됩니다.
+
+**Option 1: ngrok (권장)**
+```powershell
+npm install -g ngrok
+ngrok http localhost:5174
+```
+- 공개 URL 생성: `https://xxxx-xxxx-xxxx.ngrok-free.dev`
+- 영구 주소 필요 시: ngrok 계정 생성 후 Reserved Domain 설정
+
+**Option 2: localtunnel (대체)**
+- `npm run tunnel` (또는 `start-web-hidden.vbs`) 이 localtunnel 로 `https://<LT_SUBDOMAIN>.loca.lt` 고정 주소를 열고, 끊기면 자동 재연결합니다.
+- 한 PC 에서는 하나만 실행됩니다(127.0.0.1:5175 잠금 포트, `TUNNEL_LOCK_PORT` 로 변경).
+- 주의: IP 차단 발생 시 5분 대기 후 자동 재시도
 
 ## 관리 웹
 
