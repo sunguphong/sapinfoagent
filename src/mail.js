@@ -16,7 +16,7 @@ const C = {
 const FONT = "'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif";
 
 // digest(요약 JSON) → 메일 HTML. 제목·안내문은 에이전트 설정(mailTitle, note)에서 받는다.
-export function renderHtml(digest, { dateLabel, articleCount, errors = [], articles = [], title = "데일리 브리핑", note = "" }) {
+export function renderHtml(digest, { dateLabel, articleCount, errors = [], articles = [], title = "데일리 브리핑", note = "", stats = null }) {
   const selected = (digest.categories || []).reduce((n, c) => n + c.items.length, 0);
   const fmtDate = (d) => d ? new Date(d).toLocaleString("ko-KR", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false }) : "";
   const srcCount = {};
@@ -71,6 +71,16 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
     <div style="margin-top:36px;padding-top:16px;border-top:1px solid ${C.line}">
       <div style="font-size:11px;font-weight:700;letter-spacing:.14em;color:${C.text3}">수집 출처</div>
       <div style="font-size:12px;color:${C.text2};line-height:1.8;margin-top:6px">${srcList}${note ? `<br>${esc(note)}` : ""}</div>
+      ${stats && stats.today ? `
+      <div style="margin-top:20px;padding:14px 16px;background:${C.goldSoft};border:1px solid ${C.goldLine};border-radius:10px">
+        <div style="font-size:11px;font-weight:700;letter-spacing:.1em;color:${C.goldDeep};margin-bottom:6px">${esc(stats.title || "🏬 동탄2신도시 피부관리실 현황")}</div>
+        <div style="font-size:13px;color:${C.ink};line-height:1.6">
+          오늘: <span style="font-weight:700">${stats.today.count}개</span>
+          ${stats.yesterday ? `<br>어제: ${stats.yesterday.count}개
+          <span style="font-weight:700;color:${stats.change > 0 ? "#16a34a" : stats.change < 0 ? "#dc2626" : C.text3}">${stats.change > 0 ? "+" : ""}${stats.change}</span>` : ""}
+        </div>
+      </div>
+      ` : ""}
       <p style="font-size:11px;color:${C.text3};margin:22px 0 0">sapinfoagent · Claude 요약 · 자동 생성</p>
     </div>
   </div></body></html>`;

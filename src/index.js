@@ -72,7 +72,26 @@ async function main() {
   writeFileSync(path.join(OUT_DIR, `${base}-digest.json`), JSON.stringify(digest, null, 2));
   const picked = (digest.categories || []).reduce((n, c) => n + c.items.length, 0);
 
-  const html = renderHtml(digest, { dateLabel, articleCount: articles.length, errors, articles, title: agent.mailTitle, note: agent.note });
+  // skincare 에이전트용 동탄2신도시 피부관리실 통계
+  let stats = null;
+  if (AGENT_ID === "skincare" && agent.dongtan2Stats?.enabled) {
+    try {
+      const statsFile = path.join(ROOT, agent.dongtan2Stats.source);
+      const statsData = JSON.parse(readFileSync(statsFile, "utf8"));
+      const today = statsData[statsData.length - 1];
+      const yesterday = statsData.length > 1 ? statsData[statsData.length - 2] : null;
+      stats = {
+        title: agent.dongtan2Stats.title,
+        today: today || { date: localDate(new Date()), count: 0 },
+        yesterday: yesterday,
+        change: today && yesterday ? today.count - yesterday.count : 0,
+      };
+    } catch (e) {
+      log("동탄2신도시 통계 로드 실패:", e.message);
+    }
+  }
+
+  const html = renderHtml(digest, { dateLabel, articleCount: articles.length, errors, articles, title: agent.mailTitle, note: agent.note, stats });
   const htmlPath = path.join(OUT_DIR, `${base}.html`);
   writeFileSync(htmlPath, html);
   log("html saved:", htmlPath);
