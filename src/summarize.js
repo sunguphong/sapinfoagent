@@ -1,6 +1,12 @@
-// Anthropic API로 기사 목록을 요약한다. 프롬프트의 주제별 부분(역할·카테고리·선별 규칙)은 에이전트 설정(agents/<id>.json 의 prompt)에서 받고,
+// Claude CLI 로 기사 목록을 요약한다. 프롬프트의 주제별 부분(역할·카테고리·선별 규칙)은 에이전트 설정(agents/<id>.json 의 prompt)에서 받고,
 // 출력 JSON 스키마는 mail.js 가 그대로 그리므로 고정이다.
-import Anthropic from "@anthropic-ai/sdk";
+//
+// 모델은 --model 로 지정한다 (기본 opus). Anthropic API(@anthropic-ai/sdk)를 직접 쓰지 않는 이유:
+// API 는 ANTHROPIC_API_KEY 가 필요하고 Claude Code 구독과 별도로 토큰당 과금된다. CLI 는 이 PC 의 구독 로그인을 그대로 쓴다.
+// (2026-10-05: SDK 로 바꿨다가 "Could not resolve authentication method" 로 발송이 멈춰 되돌림)
+import { spawnSync } from "node:child_process";
+
+const MODEL = process.env.CLAUDE_MODEL || "opus";
 
 export function buildPrompt(p = {}) {
   const rules = [
@@ -44,21 +50,15 @@ function extractJson(text) {
   return JSON.parse(t.slice(start, end + 1));
 }
 
-export async function summarize(articles, promptConfig) {
+export function summarize(articles, promptConfig) {
   const input = buildPrompt(promptConfig) + buildInput(articles);
-  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-
-  const message = await client.messages.create({
-    model: "claude-opus-5",
-    max_tokens: 4096,
-    messages: [
-      { role: "user", content: input }
-    ]
+  const isWin = process.platform === "win32";
+  const r = spawnSync(isWin ? "claude.cmd" : "claude", ["-p", "--model", MODEL, "--output-format", "text", "--tools", '""'], {
+    input, encoding: "utf8", shell: isWin, timeout: 20 * 60 * 1000, maxBuffer: 20 * 1024 * 1024,
   });
-
-  const text = message.content[0].type === "text" ? message.content[0].text : "";
-  const data = extractJson(text);
-
+  if (r.error) throw r.error;
+  if (r.status !== 0) throw new Error(`claude exited ${r.status}: ${r.stderr}`);
+  const data = extractJson(r.stdout);
   // index -> 원본 기사 연결
   for (const c of data.categories || []) {
     c.items = (c.items || []).map((it) => ({ ...it, article: articles[it.index] })).filter((it) => it.article);

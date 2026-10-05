@@ -75,8 +75,12 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
       <div style="margin-top:20px;padding:14px 16px;background:${C.goldSoft};border:1px solid ${C.goldLine};border-radius:10px">
         <div style="font-size:11px;font-weight:700;letter-spacing:.1em;color:${C.goldDeep};margin-bottom:8px">${esc(stats.title || "🏬 동탄2신도시 피부관리실 현황")}</div>
         <div style="font-size:13px;color:${C.ink};line-height:2">
-          <div><span style="color:${C.text2}">현재:</span> <span style="font-weight:700">${stats.today.count}개</span>${stats.total ? ` <span style="color:${C.text3};font-size:12px">(누적 ${stats.total}개)</span>` : ""}</div>
-          ${stats.yesterday ? `<div><span style="color:${C.text2}">어제:</span> <span>${stats.yesterday.count}개</span> <span style="font-weight:700;color:${stats.change > 0 ? "#16a34a" : stats.change < 0 ? "#dc2626" : C.text3}">${stats.change > 0 ? "+" : ""}${stats.change}</span></div>` : ""}
+          ${typeof stats.today.count === "number"
+            ? `<div><span style="color:${C.text2}">현재 (${esc(stats.today.date)}):</span> <span style="font-weight:700;font-size:15px">${stats.today.count}개</span></div>`
+            : `<div style="color:${C.text2}">아직 집계된 개수가 없습니다. <code>${esc(stats.file || "logs/skincare/stats.json")}</code> 에 오늘 개수를 적으면 다음 메일부터 표시됩니다.</div>`}
+          ${typeof stats.change === "number"
+            ? `<div><span style="color:${C.text2}">직전 (${esc(stats.yesterday.date)}):</span> <span>${stats.yesterday.count}개</span> &nbsp;<span style="font-weight:700;color:${stats.change > 0 ? "#16a34a" : stats.change < 0 ? "#dc2626" : C.text3}">${stats.change > 0 ? "▲ +" : stats.change < 0 ? "▼ " : "– "}${stats.change !== 0 ? Math.abs(stats.change) : "변동 없음"}</span></div>`
+            : ""}
         </div>
       </div>
       ` : ""}

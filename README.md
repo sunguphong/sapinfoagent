@@ -27,6 +27,8 @@ RSS 수집 (SAP News / SAP Community / Google News EN·KR)
 
 - Node.js 20 이상
 - [Claude Code CLI](https://claude.com/claude-code) (`claude` 명령이 PATH에 있어야 함)
+  - 요약은 `claude -p --model opus` 로 돌아갑니다. 다른 모델을 쓰려면 `.env` 에 `CLAUDE_MODEL=sonnet` 처럼 적습니다.
+  - CLI 를 쓰므로 이 PC 의 Claude 구독 로그인을 그대로 씁니다. `ANTHROPIC_API_KEY` 는 필요 없습니다.
 - Gmail 계정 + 앱 비밀번호 (Google 계정 → 보안 → 2단계 인증 → 앱 비밀번호)
 
 ## 설치

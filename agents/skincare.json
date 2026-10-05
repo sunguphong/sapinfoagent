@@ -11,9 +11,9 @@
   "lookbackHours": null,
   "maxArticles": null,
   "feeds": [
-    { "name": "Google News (피부·스킨케어)", "url": "https://news.google.com/rss/search?q=(피부관리+OR+스킨케어+OR+피부질환+OR+피부미용+OR+뷰티트렌드)+when:3d&hl=ko&gl=KR&ceid=KR:ko" },
-    { "name": "Google News (뷰티 제품·성분)", "url": "https://news.google.com/rss/search?q=(아토피+OR+건성피부+OR+여드름+OR+안티에이징+OR+피부성분)+when:3d&hl=ko&gl=KR&ceid=KR:ko" },
-    { "name": "Google News (동탄 피부관리실·뷰티)", "url": "https://news.google.com/rss/search?q=(동탄+AND+(피부관리실+OR+피부미용+OR+스킨케어+OR+뷰티))+when:3d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News (피부·스킨케어)", "url": "https://news.google.com/rss/search?q=(%ED%94%BC%EB%B6%80%EA%B4%80%EB%A6%AC%20OR%20%EC%8A%A4%ED%82%A8%EC%BC%80%EC%96%B4%20OR%20%ED%94%BC%EB%B6%80%EC%A7%88%ED%99%98%20OR%20%ED%94%BC%EB%B6%80%EB%AF%B8%EC%9A%A9%20OR%20%EB%B7%B0%ED%8B%B0%ED%8A%B8%EB%A0%8C%EB%93%9C)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News (뷰티 제품·성분)", "url": "https://news.google.com/rss/search?q=(%EC%95%84%ED%86%A0%ED%94%BC%20OR%20%EA%B1%B4%EC%84%B1%ED%94%BC%EB%B6%80%20OR%20%EC%97%AC%EB%93%9C%EB%A6%84%20OR%20%EC%95%88%ED%8B%B0%EC%97%90%EC%9D%B4%EC%A7%95%20OR%20%ED%94%BC%EB%B6%80%EC%84%B1%EB%B6%84)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko" },
+    { "name": "Google News (동탄 피부관리실·뷰티)", "url": "https://news.google.com/rss/search?q=%EB%8F%99%ED%83%84%20(%ED%94%BC%EB%B6%80%EA%B4%80%EB%A6%AC%EC%8B%A4%20OR%20%ED%94%BC%EB%B6%80%EB%AF%B8%EC%9A%A9%20OR%20%EC%8A%A4%ED%82%A8%EC%BC%80%EC%96%B4%20OR%20%EB%B7%B0%ED%8B%B0)%20when%3A3d&hl=ko&gl=KR&ceid=KR:ko" },
     { "name": "Google News EN (Beauty Trends)", "url": "https://news.google.com/rss/search?q=(skincare+OR+beauty+trend+OR+\"skin+care\"+OR+cosmetics)+when:3d&hl=en-US&gl=US&ceid=US:en" },
     { "name": "Google News EN (Dermatology)", "url": "https://news.google.com/rss/search?q=(dermatology+OR+\"skin+health\"+OR+\"beauty+science\")+when:3d&hl=en-US&gl=US&ceid=US:en" }
   ],

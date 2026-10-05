@@ -67,8 +67,8 @@ async function main() {
   if (COLLECT_ONLY) return {};
   if (articles.length === 0) throw new Error("수집된 기사가 없습니다");
 
-  log("summarizing with claude opus-5...");
-  const digest = await summarize(articles, agent.prompt);
+  log(`summarizing with claude (${process.env.CLAUDE_MODEL || "opus"})...`);
+  const digest = summarize(articles, agent.prompt);
   writeFileSync(path.join(OUT_DIR, `${base}-digest.json`), JSON.stringify(digest, null, 2));
   const picked = (digest.categories || []).reduce((n, c) => n + c.items.length, 0);
 
@@ -77,17 +77,21 @@ async function main() {
   if (AGENT_ID === "skincare" && agent.dongtan2Stats?.enabled) {
     try {
       const statsFile = path.join(ROOT, agent.dongtan2Stats.source);
+      // 개수는 사람이 stats.json 에 적는다(간단 버전). 그래서 "오늘 행"이 아니라
+      // 숫자가 적힌 가장 최근 두 건을 뽑아, 각 값에 그 집계 날짜를 함께 표시한다.
+      // 날짜별 합산(누적)은 쓰지 않는다 — 가게 수는 그날의 전체 개수이므로 25 + 25 = 50 이 되어 의미가 없다.
       const statsData = JSON.parse(readFileSync(statsFile, "utf8"));
-      const today = statsData[statsData.length - 1];
-      const yesterday = statsData.length > 1 ? statsData[statsData.length - 2] : null;
-      const total = statsData.reduce((sum, item) => sum + (item.count || 0), 0);
+      const counted = statsData.filter((e) => typeof e?.count === "number").sort((a, b) => String(a.date).localeCompare(String(b.date)));
+      const latest = counted[counted.length - 1] || null;
+      const prev = counted.length > 1 ? counted[counted.length - 2] : null;
       stats = {
         title: agent.dongtan2Stats.title,
-        today: today || { date: localDate(new Date()), count: 0 },
-        yesterday: yesterday,
-        change: today && yesterday ? today.count - yesterday.count : 0,
-        total: total,
+        today: latest || { date: localDate(new Date()), count: null },
+        yesterday: prev,
+        change: latest && prev ? latest.count - prev.count : null,
+        file: agent.dongtan2Stats.source,
       };
+      log(`동탄2신도시 통계: ${latest ? `${latest.date} ${latest.count}개${prev ? ` (직전 ${prev.date} ${prev.count}개)` : ""}` : "미입력"}`);
     } catch (e) {
       log("동탄2신도시 통계 로드 실패:", e.message);
     }
