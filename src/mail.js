@@ -73,11 +73,10 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
       <div style="font-size:12px;color:${C.text2};line-height:1.8;margin-top:6px">${srcList}${note ? `<br>${esc(note)}` : ""}</div>
       ${stats && stats.today ? `
       <div style="margin-top:20px;padding:14px 16px;background:${C.goldSoft};border:1px solid ${C.goldLine};border-radius:10px">
-        <div style="font-size:11px;font-weight:700;letter-spacing:.1em;color:${C.goldDeep};margin-bottom:6px">${esc(stats.title || "🏬 동탄2신도시 피부관리실 현황")}</div>
-        <div style="font-size:13px;color:${C.ink};line-height:1.6">
-          오늘: <span style="font-weight:700">${stats.today.count}개</span>
-          ${stats.yesterday ? `<br>어제: ${stats.yesterday.count}개
-          <span style="font-weight:700;color:${stats.change > 0 ? "#16a34a" : stats.change < 0 ? "#dc2626" : C.text3}">${stats.change > 0 ? "+" : ""}${stats.change}</span>` : ""}
+        <div style="font-size:11px;font-weight:700;letter-spacing:.1em;color:${C.goldDeep};margin-bottom:8px">${esc(stats.title || "🏬 동탄2신도시 피부관리실 현황")}</div>
+        <div style="font-size:13px;color:${C.ink};line-height:2">
+          <div><span style="color:${C.text2}">현재:</span> <span style="font-weight:700">${stats.today.count}개</span>${stats.total ? ` <span style="color:${C.text3};font-size:12px">(누적 ${stats.total}개)</span>` : ""}</div>
+          ${stats.yesterday ? `<div><span style="color:${C.text2}">어제:</span> <span>${stats.yesterday.count}개</span> <span style="font-weight:700;color:${stats.change > 0 ? "#16a34a" : stats.change < 0 ? "#dc2626" : C.text3}">${stats.change > 0 ? "+" : ""}${stats.change}</span></div>` : ""}
         </div>
       </div>
       ` : ""}

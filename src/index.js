@@ -80,11 +80,13 @@ async function main() {
       const statsData = JSON.parse(readFileSync(statsFile, "utf8"));
       const today = statsData[statsData.length - 1];
       const yesterday = statsData.length > 1 ? statsData[statsData.length - 2] : null;
+      const total = statsData.reduce((sum, item) => sum + (item.count || 0), 0);
       stats = {
         title: agent.dongtan2Stats.title,
         today: today || { date: localDate(new Date()), count: 0 },
         yesterday: yesterday,
         change: today && yesterday ? today.count - yesterday.count : 0,
+        total: total,
       };
     } catch (e) {
       log("동탄2신도시 통계 로드 실패:", e.message);
