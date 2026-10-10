@@ -1,5 +1,6 @@
 // RSS 수집. 피드 목록은 에이전트 설정(agents/<id>.json 의 feeds)에서 받는다.
 //   feed.keep = N : 이 피드의 기사는 상한(maxArticles)과 무관하게 최신순 N건을 먼저 확보한다 (예: 동탄 지역 소식)
+//   feed.lookbackHours = H : 이 피드만 최소 H시간 전 기사까지 받는다 (예: 기사가 드문 동탄 트램·GTX-C)
 //   제목 중복 제거는 피드 순서대로 먼저 나온 기사를 남기므로, 우선 확보할 피드를 목록 앞에 둔다.
 import Parser from "rss-parser";
 
@@ -34,7 +35,8 @@ export async function collect({ feeds, lookbackHours = 24, maxArticles = 40 } = 
   });
 
   // 최근 N시간 필터. 기사가 적으면(주말 등) 48h -> 72h로 단계 확장
-  const filterBy = (hours) => items.filter((a) => a.published && new Date(a.published).getTime() >= Date.now() - hours * 3600 * 1000);
+  const feedHours = Object.fromEntries(feeds.map((f) => [f.name, f.lookbackHours || 0]));
+  const filterBy = (hours) => items.filter((a) => a.published && new Date(a.published).getTime() >= Date.now() - Math.max(hours, feedHours[a.source] || 0) * 3600 * 1000);
   const MIN_ARTICLES = 8;
   let usedHours = lookbackHours;
   let recent = filterBy(usedHours);
