@@ -1,7 +1,7 @@
 /* ==========================================================================
    sapinfoagent 관리 웹 — Claude 스타일
    아이보리 종이 + 클레이(테라코타) 액센트, 세리프 제목, 평평한 카드, 그림자·광택 최소화.
-   라이트가 기본, 다크는 따뜻한 차콜. 색은 상태(ok/err/warn/info/neutral)와 클레이 액센트에만 쓴다.
+   다크가 기본(웜 블랙 + 클레이 잔불빛), 라이트는 아이보리 종이. 색은 상태(ok/err/warn/info/neutral)와 클레이 액센트에만 쓴다.
    ========================================================================== */
 
 :root {
@@ -9,40 +9,41 @@
   --font-mono: "JetBrains Mono", "D2Coding", "Cascadia Mono", Consolas, monospace;
   --font-display: "Source Serif 4", "Noto Serif KR", Georgia, "Times New Roman", serif;
 
-  /* 다크 — 따뜻한 차콜 */
-  --bg: #262624;
-  --bg-2: #1f1e1d;
-  --surface: #30302e;
-  --surface-solid: #30302e;
-  --surface-2: rgba(250,249,245,.05);
-  --surface-3: rgba(250,249,245,.09);
-  --border: rgba(222,220,209,.12);
-  --border-strong: rgba(222,220,209,.22);
-  --text: #faf9f5;
-  --text-2: #c2c0b6;
-  --text-3: #9c9a92;
-  --accent: #d97757;
-  --accent-2: #c96442;
-  --accent-ink: #ffffff;
-  --accent-soft: rgba(217,119,87,.14);
-  --accent-line: rgba(217,119,87,.42);
-  --accent-grad: #c96442;
+  /* 다크 (기본) — "Ember Study": 깊은 웜 블랙 + 클레이 잔불빛. 종이처럼 따뜻한 텍스트, 헤어라인 테두리 */
+  --bg: #131211;
+  --bg-2: #0e0d0c;
+  --surface: linear-gradient(180deg, rgba(250,236,220,.045) 0%, rgba(250,236,220,.018) 100%), #1b1a18;
+  --surface-solid: #1d1c1a;
+  --surface-2: rgba(250,240,228,.045);
+  --surface-3: rgba(250,240,228,.085);
+  --border: rgba(240,226,206,.085);
+  --border-strong: rgba(240,226,206,.16);
+  --text: #f4efe6;
+  --text-2: #bdb6aa;
+  --text-3: #8a8378;
+  --accent: #e08a68;
+  --accent-2: #cc6b48;
+  --accent-ink: #fffaf5;
+  --accent-soft: rgba(224,138,104,.11);
+  --accent-line: rgba(224,138,104,.40);
+  --accent-grad: linear-gradient(160deg, #e69676 0%, #d27450 48%, #b4573a 100%);
 
-  --ok: #8fbf7f;      --ok-bg: rgba(143,191,127,.12);   --ok-line: rgba(143,191,127,.32);
-  --err: #e5826b;     --err-bg: rgba(229,130,107,.13);  --err-line: rgba(229,130,107,.36);
-  --warn: #e3b55a;    --warn-bg: rgba(227,181,90,.12);  --warn-line: rgba(227,181,90,.34);
-  --info: #8fb3d9;    --info-bg: rgba(143,179,217,.12); --info-line: rgba(143,179,217,.32);
-  --neutral: #a8a69d; --neutral-bg: rgba(168,166,157,.12); --neutral-line: rgba(168,166,157,.28);
+  --ok: #9cc98a;      --ok-bg: rgba(156,201,138,.10);   --ok-line: rgba(156,201,138,.30);
+  --err: #ec8e78;     --err-bg: rgba(236,142,120,.11);  --err-line: rgba(236,142,120,.34);
+  --warn: #e8bd6a;    --warn-bg: rgba(232,189,106,.10); --warn-line: rgba(232,189,106,.32);
+  --info: #9dbde0;    --info-bg: rgba(157,189,224,.10); --info-line: rgba(157,189,224,.30);
+  --neutral: #a8a196; --neutral-bg: rgba(168,161,150,.10); --neutral-line: rgba(168,161,150,.26);
 
-  --log-bg: #1a1918;
-  --log-fg: #dedcd1;
-  --focus: #d97757;
-  --agent-color: #a8a69d;
+  --log-bg: #0b0a09;
+  --log-fg: #ddd6ca;
+  --focus: #e08a68;
+  --agent-color: #a8a196;
 
-  --shadow: 0 1px 2px rgba(0,0,0,.18), 0 6px 20px rgba(0,0,0,.18);
-  --shadow-sm: 0 1px 2px rgba(0,0,0,.16);
-  --glow: none;
-  --bg-art: none;
+  --shadow: inset 0 1px 0 rgba(255,240,225,.05), 0 1px 2px rgba(0,0,0,.4), 0 18px 40px -12px rgba(0,0,0,.55);
+  --shadow-sm: inset 0 1px 0 rgba(255,240,225,.045), 0 1px 2px rgba(0,0,0,.35), 0 10px 24px -14px rgba(0,0,0,.6);
+  --glow: 0 0 0 1px rgba(224,138,104,.35), 0 8px 26px -6px rgba(210,116,80,.45);
+  --bg-art: radial-gradient(900px 480px at 88% -10%, rgba(214,120,84,.13), transparent 62%),
+            radial-gradient(700px 420px at -6% 108%, rgba(214,160,110,.06), transparent 60%);
 
   --radius-s: 6px;
   --radius: 8px;
@@ -86,6 +87,7 @@ html[data-theme="light"] {
   --shadow-sm: 0 1px 2px rgba(20,20,19,.04);
   --glow: none;
   --bg-art: none;
+  --glow: none;
   color-scheme: light;
 }
 
@@ -94,6 +96,19 @@ html[data-agent="sap"] { --agent-color: #8fb3d9; }
 html[data-agent="realestate"] { --agent-color: #8fbf7f; }
 html[data-theme="light"][data-agent="sap"] { --agent-color: #3d6fa3; }
 html[data-theme="light"][data-agent="realestate"] { --agent-color: #4f8a47; }
+
+/* ---------- 다크 전용 디테일 (라이트는 평평하게 둔다) ---------- */
+html:not([data-theme="light"]) .brand-icon { background: var(--accent-grad); box-shadow: var(--glow); }
+html:not([data-theme="light"]) .sidebar { background: linear-gradient(180deg, rgba(214,120,84,.05), transparent 30%), var(--bg-2); border-right-color: rgba(240,226,206,.06); }
+html:not([data-theme="light"]) .menu-item.active { background: var(--accent-soft); color: var(--text); box-shadow: inset 2px 0 0 var(--accent); }
+html:not([data-theme="light"]) .menu-item.active .mi { color: var(--accent); }
+html:not([data-theme="light"]) .tile::after { content: ""; position: absolute; left: 20px; right: 20px; top: 0; height: 1px; background: linear-gradient(90deg, var(--accent-line), transparent 70%); }
+html:not([data-theme="light"]) .tile-value { color: #fbf6ee; }
+html:not([data-theme="light"]) .btn.primary { background: var(--accent-grad); box-shadow: inset 0 1px 0 rgba(255,255,255,.18), 0 6px 18px -6px rgba(210,116,80,.55); }
+html:not([data-theme="light"]) .btn.primary:hover { filter: brightness(1.07); }
+html:not([data-theme="light"]) .page-head h1 { font-size: 32px; }
+html:not([data-theme="light"]) .masthead { border-bottom-color: transparent; background: linear-gradient(90deg, var(--accent-line), var(--border) 35%, transparent) bottom / 100% 1px no-repeat; }
+html:not([data-theme="light"]) ::selection { background: rgba(224,138,104,.3); }
 
 /* ---------- 기본 ---------- */
 *, *::before, *::after { box-sizing: border-box; }

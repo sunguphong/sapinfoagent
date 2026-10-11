@@ -59,7 +59,7 @@ function initTheme() {
   const html = document.documentElement;
   const q = new URLSearchParams(location.search).get("theme");   // ?theme=light|dark 로 강제(확인용)
   if (q === "light" || q === "dark") html.dataset.theme = q;
-  if (!html.dataset.theme) html.dataset.theme = "light";          // 기본은 라이트 (Claude 스타일)
+  if (!html.dataset.theme) html.dataset.theme = "dark";           // 기본은 다크
   $("#theme-toggle").addEventListener("click", () => {
     html.dataset.theme = html.dataset.theme === "dark" ? "light" : "dark";
     try { localStorage.setItem("theme", html.dataset.theme); } catch {}
