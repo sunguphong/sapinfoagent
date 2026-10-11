@@ -59,7 +59,7 @@ function initTheme() {
   const html = document.documentElement;
   const q = new URLSearchParams(location.search).get("theme");   // ?theme=light|dark 로 강제(확인용)
   if (q === "light" || q === "dark") html.dataset.theme = q;
-  if (!html.dataset.theme) html.dataset.theme = "dark";           // 기본은 다크
+  if (!html.dataset.theme) html.dataset.theme = "light";          // 기본은 라이트 (Claude 스타일)
   $("#theme-toggle").addEventListener("click", () => {
     html.dataset.theme = html.dataset.theme === "dark" ? "light" : "dark";
     try { localStorage.setItem("theme", html.dataset.theme); } catch {}
@@ -300,6 +300,14 @@ function openMail(base) {
   ].filter(Boolean).join(" &nbsp;|&nbsp; ");
   const src = aq(`/mail/${m.file}`);
   $("#mail-frame").src = src;
+  // 미리보기 안의 링크는 새 탭으로 — 뉴스 사이트는 iframe 안 표시를 거부한다(X-Frame-Options)
+  $("#mail-frame").onload = (e) => {
+    try {
+      const d = e.target.contentDocument;
+      if (d?.head && !d.querySelector("base")) d.head.insertAdjacentHTML("afterbegin", '<base target="_blank">');
+      d?.querySelectorAll("a[href]").forEach((a) => { a.target = "_blank"; a.rel = "noopener"; });
+    } catch {}
+  };
   const open = $("#mail-open"); open.href = src; open.hidden = false;
   if (location.hash !== `#mails/${base}`) history.replaceState(null, "", `#mails/${base}`);
 }
