@@ -3,6 +3,7 @@
 import { existsSync, writeFileSync, appendFileSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { collect } from "./collect.js";
+import { addCompanyInfo } from "./jobs.js";
 import { summarize } from "./summarize.js";
 import { renderHtml, sendMail } from "./mail.js";
 import { ROOT, DEFAULT_AGENT, loadAgent, agentPaths } from "./agents.js";
@@ -62,6 +63,12 @@ async function main() {
   const { articles, errors, totalFetched, usedHours } = await collect({ feeds: agent.feeds, lookbackHours, maxArticles });
   log(`fetched ${totalFetched}, selected ${articles.length} (last ${usedHours}h), feed errors: ${errors.length}`);
   for (const e of errors) log("feed error:", e);
+  // companyInfo: 채용공고 회사별 사원수·최근 매출액·영업이익 (잡코리아 기업정보) — 메일 카드에 함께 표시된다
+  if (agent.companyInfo && !COLLECT_ONLY) {
+    const ci = await addCompanyInfo(articles);
+    log(`company info: ${ci.found} / ${ci.total} companies`);
+    for (const e of ci.errors) log("company info error:", e);
+  }
   writeFileSync(path.join(OUT_DIR, `${base}-articles.json`), JSON.stringify(articles, null, 2));
   saveRun({ fetched: totalFetched, selected: articles.length, usedHours, feedErrors: errors });
   if (COLLECT_ONLY) return {};

@@ -9,7 +9,7 @@
 | 부동산 브리핑 | `agents/realestate.json` | 국내 부동산 정책·시장·분양·대출 동향 + 동탄 지역 소식 | 매일 07:00 |
 | 증시 브리핑 | `agents/stock.json` | 전날 미국 증시 분석 + 오늘 국내 증시(코스피·코스닥) 전망 | 평일 07:00 |
 | 피부미용 브리핑 | `agents/skincare.json` | 피부 관리·스킨케어·뷰티 트렌드 및 전문가 팁 | 매일 08:00 |
-| SAP MM 구인정보 | `agents/sapmm-jobs.json` | 사람인·잡코리아·원티드·LinkedIn의 SAP MM 채용공고 (전에 보낸 적 없는 공고를 신규로 구분) | 매일 07:30 |
+| SAP MM 구인정보 | `agents/sapmm-jobs.json` | 사람인·잡코리아·원티드·LinkedIn의 SAP MM 채용공고 + 회사 사원수·매출액·영업이익 (전에 보낸 적 없는 공고를 신규로 구분) | 매일 07:30 |
 
 관리 웹(에이전트별 수동 실행 · 실행 기록 · 발송 메일 조회, 공통 환경설정 · 장애 기록)도 함께 들어 있습니다.
 실행 기록은 `logs/<id>/`, 결과물은 `output/<id>/` 에 에이전트별로 쌓입니다. 실행은 `node src/index.js --agent=<id>`, 스케줄러는 `run.cmd <id>`.

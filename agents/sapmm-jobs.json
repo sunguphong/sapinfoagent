@@ -1,16 +1,17 @@
 {
   "name": "SAP MM 구인정보",
   "order": 5,
-  "description": "사람인·잡코리아·원티드·LinkedIn의 SAP MM(구매·자재관리) 채용공고 (신규 공고 우선)",
+  "description": "사람인·잡코리아·원티드·LinkedIn의 SAP MM(구매·자재관리) 채용공고 + 회사 사원수·매출액·영업이익 (신규 공고 우선)",
   "schedule": "07:30",
   "task": "SAP Info Agent - SAP MM Jobs",
   "subjectPrefix": "[SAP MM 구인]",
   "mailTitle": "💼 SAP MM 구인정보 데일리",
   "fromName": "SAP MM Jobs Agent",
   "mailTo": "",
-  "lookbackHours": 168,
+  "lookbackHours": 336,
   "maxArticles": 60,
   "trackSeen": true,
+  "companyInfo": true,
   "feeds": [
     { "name": "사람인", "type": "saramin", "query": "SAP MM", "filter": "SAP" },
     { "name": "잡코리아", "type": "jobkorea", "query": "SAP MM", "filter": "SAP" },
@@ -18,7 +19,7 @@
     { "name": "LinkedIn", "type": "linkedin", "query": "SAP MM", "location": "South Korea", "filter": "SAP" }
   ],
   "prompt": {
-    "intro": "당신은 SAP MM(구매·자재관리) 모듈 컨설턴트를 위한 채용공고 브리핑 작성자입니다. 아래 목록은 채용 사이트 검색 결과이며, 각 항목은 기사 대신 채용공고입니다. snippet 에는 회사·조건(지역·경력·학력·고용형태)·마감일 등이 들어 있고, new: yes 는 이전 메일에 없던 신규 공고, new: no 는 이미 보낸 적 있는 공고입니다.",
+    "intro": "당신은 SAP MM(구매·자재관리) 모듈 컨설턴트를 위한 채용공고 브리핑 작성자입니다. 아래 목록은 채용 사이트 검색 결과이며, 각 항목은 기사 대신 채용공고입니다. snippet 에는 회사·조건(지역·경력·학력·고용형태)·마감일 등이 들어 있고, new: yes 는 이전 메일에 없던 신규 공고, new: no 는 이미 보낸 적 있는 공고입니다. snippet 끝의 '회사정보'는 잡코리아 기업정보에서 가져온 사원수·최근 매출액·영업이익이며, 메일에 별도로 표시되므로 summary 에 반복하지 않아도 됩니다. 회사 규모가 지원 판단에 의미 있으면 why 나 overview 에서 짧게 언급해도 됩니다.",
     "overview": "오늘 SAP MM 채용 시장 3~4문장 요약: 신규 공고 수, 눈에 띄는 회사·프로젝트, 요구 경력대, 운영(SM)·구축 프로젝트·S/4HANA 전환 비중 등",
     "categories": "신규 공고, 구축·S/4HANA 프로젝트, 운영(SM)·유지보수, 프리랜서·계약직, 계속 모집 중",
     "why": "지원 판단에 필요한 핵심(요구 경력, 고용형태, 근무지, 마감일, 우대사항 중 확인된 것) 1문장",
@@ -31,5 +32,5 @@
       "같은 회사의 같은 포지션이 여러 사이트에 올라온 경우 하나로 합치고, 마감일 등 정보가 더 자세한 쪽을 대표로 씁니다."
     ]
   },
-  "note": "사람인·잡코리아·원티드·LinkedIn 검색 결과(검색어 'SAP MM')를 매일 수집해 Claude가 MM 관련 공고만 추렸습니다. 이전 메일에 없던 공고를 신규로 표시하며, 잡코리아·원티드는 등록일이 제공되지 않아 수집 시각으로 표시됩니다. 세부 조건은 원문 공고에서 확인하세요."
+  "note": "사람인·잡코리아·원티드·LinkedIn 검색 결과(검색어 'SAP MM')를 매일 수집해 Claude가 MM 관련 공고만 추렸습니다. 이전 메일에 없던 공고를 신규로 표시하며, 잡코리아·원티드는 등록일이 제공되지 않아 수집 시각으로 표시됩니다. 회사별 사원수·최근 매출액·영업이익은 잡코리아 기업정보 기준이며, 헤드헌팅 공고는 실제 채용 회사가 아니라 서치펌 정보일 수 있습니다. 세부 조건은 원문 공고에서 확인하세요."
 }

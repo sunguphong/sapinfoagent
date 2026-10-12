@@ -16,6 +16,13 @@ const C = {
 const FONT = "'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif";
 
 // digest(요약 JSON) → 메일 HTML. 제목·안내문은 에이전트 설정(mailTitle, note)에서 받는다.
+// 채용공고 카드의 회사 정보 줄 (article.companyInfo 가 있을 때만)
+function companyLine(ci) {
+  if (!ci) return "";
+  const cell = (k, v) => `<span style="white-space:nowrap;margin-right:14px"><span style="color:${C.text3}">${k}</span> <b style="color:${C.ink}">${esc(v || "-")}</b></span>`;
+  return `<div style="font-size:12.5px;line-height:1.9;margin-top:10px;padding:8px 12px;background:${C.goldSoft};border:1px solid ${C.goldLine};border-radius:8px">${cell("사원수", ci.employees)}${cell("매출액", ci.revenue)}${cell("영업이익", ci.operatingProfit)}${ci.url ? `<a href="${esc(ci.url)}" style="color:${C.goldDeep};text-decoration:none;white-space:nowrap">${esc(ci.title || "")} 기업정보 →</a>` : ""}</div>`;
+}
+
 export function renderHtml(digest, { dateLabel, articleCount, errors = [], articles = [], title = "데일리 브리핑", note = "", stats = null }) {
   const selected = (digest.categories || []).reduce((n, c) => n + c.items.length, 0);
   const fmtDate = (d) => d ? new Date(d).toLocaleString("ko-KR", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false }) : "";
@@ -36,7 +43,7 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
           <span style="display:inline-block;background:${C.goldSoft};color:${C.goldDeep};border:1px solid ${C.goldLine};border-radius:999px;padding:1px 9px;font-weight:600">${esc(it.article.source)}</span>
           <span style="margin-left:6px">${esc(fmtDate(it.article.published))}</span><br>
           <span>원제: ${esc(it.article.title)}</span></div>
-        <div style="font-size:14px;line-height:1.7;color:${C.text}">${esc(it.summary)}</div>
+        <div style="font-size:14px;line-height:1.7;color:${C.text}">${esc(it.summary)}</div>${companyLine(it.article.companyInfo)}
         <div style="font-size:13px;line-height:1.6;color:${C.goldDeep};margin-top:8px;padding-left:12px;border-left:2px solid ${C.gold}">${esc(it.why)}</div>
         <div style="font-size:12.5px;margin-top:10px"><a href="${esc(it.article.link)}" style="color:${C.goldDeep};font-weight:600;text-decoration:none">원문 보기 →</a></div>
       </div>`).join("")}`).join("");
