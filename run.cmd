@@ -3,6 +3,7 @@ rem 작업 스케줄러가 호출하는 실행 스크립트. 첫 번째 인자�
 rem   run.cmd              -> SAP 브리핑 (작업 "SAP Info Agent", 06:55)
 rem   run.cmd realestate   -> 부동산 브리핑 (작업 "SAP Info Agent - RealEstate", 07:00)
 rem   run.cmd stock        -> 증시 브리핑 (작업 "SAP Info Agent - Stock", 평일 07:00)
+rem   run.cmd sapmm-jobs   -> SAP MM 구인정보 (작업 "SAP Info Agent - SAP MM Jobs", 07:30)
 chcp 65001 >nul
 cd /d D:\ANTI\sapinfoagent
 set "PATH=%PATH%;C:\Program Files\nodejs;C:\Users\DKSYSTEMS\AppData\Roaming\npm"

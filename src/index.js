@@ -67,6 +67,16 @@ async function main() {
   if (COLLECT_ONLY) return {};
   if (articles.length === 0) throw new Error("수집된 기사가 없습니다");
 
+  // trackSeen: 전에 메일로 보낸 링크를 logs/<agent>/seen.json 에 기억해 두고, 이번 수집분에 isNew 를 붙인다
+  // (채용공고처럼 같은 글이 며칠씩 계속 걸리는 경우). 기록은 실제 발송 후에만 저장하고 60일 지난 것은 지운다.
+  const seenFile = path.join(LOG_DIR, "seen.json");
+  let seenLinks = null;
+  if (agent.trackSeen) {
+    try { seenLinks = JSON.parse(readFileSync(seenFile, "utf8")); } catch { seenLinks = {}; }
+    for (const a of articles) a.isNew = !seenLinks[a.link];
+    log(`new: ${articles.filter((a) => a.isNew).length} / ${articles.length}`);
+  }
+
   log(`summarizing with claude (${process.env.CLAUDE_MODEL || "opus"})...`);
   const digest = summarize(articles, agent.prompt);
   writeFileSync(path.join(OUT_DIR, `${base}-digest.json`), JSON.stringify(digest, null, 2));
@@ -106,6 +116,12 @@ async function main() {
   if (DRY) { log("dry-run: mail not sent"); return {}; }
   const id = await sendMail({ subject: `${agent.subjectPrefix} ${dateLabel}`, html, fromName: agent.fromName, to: mailTo });
   log("mail sent:", id, "->", mailTo);
+  if (seenLinks) {
+    const now = new Date().toISOString(), cutoff = Date.now() - 60 * 86400 * 1000;
+    for (const a of articles) seenLinks[a.link] ||= now;
+    for (const [k, t] of Object.entries(seenLinks)) if (new Date(t).getTime() < cutoff) delete seenLinks[k];
+    writeFileSync(seenFile, JSON.stringify(seenLinks, null, 2));
+  }
   return { mailId: id, mailTo, mailSentAt: new Date().toISOString() };
 }
 

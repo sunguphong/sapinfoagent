@@ -39,7 +39,7 @@ ${rules.map((r) => `- ${r}`).join("\n")}
 
 function buildInput(articles) {
   return articles.map((a, i) =>
-    `[${i}] (${a.source}) ${a.title}\n    published: ${a.published}\n    snippet: ${a.snippet}`
+    `[${i}] (${a.source}) ${a.title}\n    published: ${a.published}${a.isNew === undefined ? "" : `\n    new: ${a.isNew ? "yes" : "no"}`}\n    snippet: ${a.snippet}`
   ).join("\n\n");
 }
 

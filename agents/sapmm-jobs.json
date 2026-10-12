@@ -1,0 +1,35 @@
+{
+  "name": "SAP MM 구인정보",
+  "order": 5,
+  "description": "사람인·잡코리아·원티드·LinkedIn의 SAP MM(구매·자재관리) 채용공고 (신규 공고 우선)",
+  "schedule": "07:30",
+  "task": "SAP Info Agent - SAP MM Jobs",
+  "subjectPrefix": "[SAP MM 구인]",
+  "mailTitle": "💼 SAP MM 구인정보 데일리",
+  "fromName": "SAP MM Jobs Agent",
+  "mailTo": "",
+  "lookbackHours": 168,
+  "maxArticles": 60,
+  "trackSeen": true,
+  "feeds": [
+    { "name": "사람인", "type": "saramin", "query": "SAP MM", "filter": "SAP" },
+    { "name": "잡코리아", "type": "jobkorea", "query": "SAP MM", "filter": "SAP" },
+    { "name": "원티드", "type": "wanted", "query": "SAP MM", "filter": "SAP" },
+    { "name": "LinkedIn", "type": "linkedin", "query": "SAP MM", "location": "South Korea", "filter": "SAP" }
+  ],
+  "prompt": {
+    "intro": "당신은 SAP MM(구매·자재관리) 모듈 컨설턴트를 위한 채용공고 브리핑 작성자입니다. 아래 목록은 채용 사이트 검색 결과이며, 각 항목은 기사 대신 채용공고입니다. snippet 에는 회사·조건(지역·경력·학력·고용형태)·마감일 등이 들어 있고, new: yes 는 이전 메일에 없던 신규 공고, new: no 는 이미 보낸 적 있는 공고입니다.",
+    "overview": "오늘 SAP MM 채용 시장 3~4문장 요약: 신규 공고 수, 눈에 띄는 회사·프로젝트, 요구 경력대, 운영(SM)·구축 프로젝트·S/4HANA 전환 비중 등",
+    "categories": "신규 공고, 구축·S/4HANA 프로젝트, 운영(SM)·유지보수, 프리랜서·계약직, 계속 모집 중",
+    "why": "지원 판단에 필요한 핵심(요구 경력, 고용형태, 근무지, 마감일, 우대사항 중 확인된 것) 1문장",
+    "pick": "SAP MM 관련 공고를 최대 25건까지 추립니다. new: yes 공고를 우선 모두 담고, new: no 공고는 '계속 모집 중' 카테고리에 마감이 임박하거나 조건이 좋은 것만 최대 5건 담습니다.",
+    "rules": [
+      "SAP MM(구매·자재관리, Materials Management) 모듈 업무가 포함된 공고만 담습니다. 여러 모듈을 함께 뽑는 공고(예: FI·CO·SD·PP·MM 운영)는 MM이 포함되면 담고, MM이 없는 순수 ABAP·FI·HR·BASIS 공고나 SAP와 무관한 공고는 제외합니다.",
+      "카테고리는 신규 공고를 성격에 따라 '구축·S/4HANA 프로젝트', '운영(SM)·유지보수', '프리랜서·계약직' 등으로 나누고, 분류가 애매한 신규 공고는 '신규 공고'에 둡니다. 이미 보낸 공고(new: no)는 '계속 모집 중'에만 둡니다. 해당 공고가 없는 카테고리는 만들지 않습니다.",
+      "title_ko 는 '회사명 · 포지션' 형식으로 씁니다 (예: 'IBM · SAP MM 컨설턴트'). 영문 공고는 포지션명을 자연스러운 한국어로 옮깁니다.",
+      "summary 에는 snippet 에서 확인되는 근무지·경력·고용형태·마감일을 빠짐없이 적고, snippet 에 없는 연봉·업무내용은 추측해서 쓰지 않습니다.",
+      "같은 회사의 같은 포지션이 여러 사이트에 올라온 경우 하나로 합치고, 마감일 등 정보가 더 자세한 쪽을 대표로 씁니다."
+    ]
+  },
+  "note": "사람인·잡코리아·원티드·LinkedIn 검색 결과(검색어 'SAP MM')를 매일 수집해 Claude가 MM 관련 공고만 추렸습니다. 이전 메일에 없던 공고를 신규로 표시하며, 잡코리아·원티드는 등록일이 제공되지 않아 수집 시각으로 표시됩니다. 세부 조건은 원문 공고에서 확인하세요."
+}
