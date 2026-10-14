@@ -13,6 +13,10 @@ const C = {
   headBg: "#0f131b", headBg2: "#161c27", headText: "#eceef2", headMuted: "#a5adba", headGold: "#d9bc82",
   overviewBg: "#fbf9f3",
 };
+// 강조 섹션(에이전트 설정 accentCategories) 색: 골드 톤 본문과 한눈에 구분되도록 차분한 블루 톤 바탕을 깐다.
+const A = {
+  panel: "#edf3fb", panelLine: "#c9d9ee", line: "#d3e0f1", deep: "#2c5487", accent: "#4a78b5", soft: "#e1ebf8", softLine: "#bcd0ea",
+};
 const FONT = "'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif";
 
 // digest(요약 JSON) → 메일 HTML. 제목·안내문은 에이전트 설정(mailTitle, note)에서 받는다.
@@ -23,30 +27,41 @@ function companyLine(ci) {
   return `<div style="font-size:12.5px;line-height:1.9;margin-top:10px;padding:8px 12px;background:${C.goldSoft};border:1px solid ${C.goldLine};border-radius:8px">${cell("사원수", ci.employees)}${cell("매출액", ci.revenue)}${cell("영업이익", ci.operatingProfit)}${ci.url ? `<a href="${esc(ci.url)}" style="color:${C.goldDeep};text-decoration:none;white-space:nowrap">${esc(ci.title || "")} 기업정보 →</a>` : ""}</div>`;
 }
 
-export function renderHtml(digest, { dateLabel, articleCount, errors = [], articles = [], title = "데일리 브리핑", note = "", stats = null }) {
+export function renderHtml(digest, { dateLabel, articleCount, errors = [], articles = [], title = "데일리 브리핑", note = "", stats = null, accentCategories = [] }) {
   const selected = (digest.categories || []).reduce((n, c) => n + c.items.length, 0);
   const fmtDate = (d) => d ? new Date(d).toLocaleString("ko-KR", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false }) : "";
   const srcCount = {};
   for (const a of articles) srcCount[a.source] = (srcCount[a.source] || 0) + 1;
   const srcList = Object.entries(srcCount).map(([s, n]) => `${esc(s)} ${n}건`).join(" &nbsp;·&nbsp; ");
-  const cats = (digest.categories || []).map((c, ci) => `
-    <div style="margin:${ci ? 34 : 30}px 0 14px">
-      <div style="font-size:11px;font-weight:700;letter-spacing:.14em;color:${C.goldDeep};text-transform:uppercase">${esc(c.name)}</div>
-      <div style="height:1px;background:linear-gradient(90deg,${C.gold},${C.lineSoft});margin-top:8px"></div>
+  // 카테고리 이름에 accentCategories 의 단어가 들어 있으면 그 섹션 전체를 블루 톤 패널로 감싼다 (예: 채용공고 메일 속 동국 계열사 뉴스)
+  const isAccent = (name = "") => accentCategories.some((k) => k && name.includes(k));
+  const cats = (digest.categories || []).map((c, ci) => {
+    const acc = isAccent(c.name);
+    const T = acc
+      ? { deep: A.deep, accent: A.accent, soft: A.soft, softLine: A.softLine, line: A.line, rule: `linear-gradient(90deg,${A.accent},${A.panelLine})` }
+      : { deep: C.goldDeep, accent: C.gold, soft: C.goldSoft, softLine: C.goldLine, line: C.line, rule: `linear-gradient(90deg,${C.gold},${C.lineSoft})` };
+    const body = `
+    <div style="margin:${acc ? 0 : ci ? 34 : 30}px 0 14px">
+      <div style="font-size:11px;font-weight:700;letter-spacing:.14em;color:${T.deep};text-transform:uppercase">${esc(c.name)}</div>
+      <div style="height:1px;background:${T.rule};margin-top:8px"></div>
     </div>
     ${c.items.map((it) => `
-      <div style="margin:0 0 12px;padding:16px 18px;background:${C.card};border:1px solid ${C.line};border-radius:12px">
+      <div style="margin:0 0 12px;padding:16px 18px;background:${C.card};border:1px solid ${T.line};border-radius:12px">
         <div style="font-size:15.5px;font-weight:700;line-height:1.45;letter-spacing:-.01em">
           <a href="${esc(it.article.link)}" style="color:${C.ink};text-decoration:none">${esc(it.title_ko)}</a>
         </div>
         <div style="font-size:12px;color:${C.text3};margin:8px 0 10px;line-height:1.6">
-          <span style="display:inline-block;background:${C.goldSoft};color:${C.goldDeep};border:1px solid ${C.goldLine};border-radius:999px;padding:1px 9px;font-weight:600">${esc(it.article.source)}</span>
+          <span style="display:inline-block;background:${T.soft};color:${T.deep};border:1px solid ${T.softLine};border-radius:999px;padding:1px 9px;font-weight:600">${esc(it.article.source)}</span>
           <span style="margin-left:6px">${esc(fmtDate(it.article.published))}</span><br>
           <span>원제: ${esc(it.article.title)}</span></div>
         <div style="font-size:14px;line-height:1.7;color:${C.text}">${esc(it.summary)}</div>${companyLine(it.article.companyInfo)}
-        <div style="font-size:13px;line-height:1.6;color:${C.goldDeep};margin-top:8px;padding-left:12px;border-left:2px solid ${C.gold}">${esc(it.why)}</div>
-        <div style="font-size:12.5px;margin-top:10px"><a href="${esc(it.article.link)}" style="color:${C.goldDeep};font-weight:600;text-decoration:none">원문 보기 →</a></div>
-      </div>`).join("")}`).join("");
+        <div style="font-size:13px;line-height:1.6;color:${T.deep};margin-top:8px;padding-left:12px;border-left:2px solid ${T.accent}">${esc(it.why)}</div>
+        <div style="font-size:12.5px;margin-top:10px"><a href="${esc(it.article.link)}" style="color:${T.deep};font-weight:600;text-decoration:none">원문 보기 →</a></div>
+      </div>`).join("")}`;
+    return acc
+      ? `<div style="margin:${ci ? 34 : 30}px 0 0;padding:18px 16px 6px;background:${A.panel};border:1px solid ${A.panelLine};border-radius:14px">${body}</div>`
+      : body;
+  }).join("");
 
   const errBlock = errors.length
     ? `<p style="font-size:12px;color:#be123c;margin:16px 0 0">피드 오류: ${errors.map(esc).join(" / ")}</p>` : "";

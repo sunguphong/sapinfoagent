@@ -114,7 +114,7 @@ async function main() {
     }
   }
 
-  const html = renderHtml(digest, { dateLabel, articleCount: articles.length, errors, articles, title: agent.mailTitle, note: agent.note, stats });
+  const html = renderHtml(digest, { dateLabel, articleCount: articles.length, errors, articles, title: agent.mailTitle, note: agent.note, stats, accentCategories: agent.accentCategories });
   const htmlPath = path.join(OUT_DIR, `${base}.html`);
   writeFileSync(htmlPath, html);
   log("html saved:", htmlPath);

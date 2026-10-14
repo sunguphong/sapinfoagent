@@ -12,6 +12,9 @@
   "maxArticles": 60,
   "trackSeen": true,
   "companyInfo": true,
+  "accentCategories": [
+    "동국"
+  ],
   "feeds": [
     {
       "name": "사람인",
