@@ -2,9 +2,12 @@
 ' 시작프로그램 폴더(shell:startup)에 복사해 두면 PC 로그인 시 자동 실행된다.
 '  - src\server.js : 관리 웹 (Basic Auth: .env 의 WEB_USER / WEB_PASS)
 '  - src\tunnel.js : localtunnel 고정 주소 공개 (https://<LT_SUBDOMAIN>.loca.lt)
+'  - ngrok         : ngrok 고정 주소 공개 (https://repaying-showing-gooey.ngrok-free.dev, 로그 logs\ngrok.log)
 Set sh = CreateObject("WScript.Shell")
 sh.CurrentDirectory = "D:\ANTI\sapinfoagent"
 node = """C:\Program Files\nodejs\node.exe"""
 sh.Run node & " ""D:\ANTI\sapinfoagent\src\server.js""", 0, False
 WScript.Sleep 3000  ' 서버가 5174에 먼저 뜨도록 잠깐 대기
 sh.Run node & " ""D:\ANTI\sapinfoagent\src\tunnel.js""", 0, False
+ngrok = """C:\Users\DKSYSTEMS\AppData\Local\Microsoft\WinGet\Links\ngrok.exe"""
+sh.Run ngrok & " http --url=https://repaying-showing-gooey.ngrok-free.dev 5174 --log=""D:\ANTI\sapinfoagent\logs\ngrok.log""", 0, False

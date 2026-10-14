@@ -387,51 +387,42 @@ $("#smtp-save").addEventListener("click", async () => {
 $("#collect-save").addEventListener("click", () => saveSettings({ lookbackHours: $("#set-lookback").value, maxArticles: $("#set-max").value }, "#collect-msg", "수집 옵션 저장 완료"));
 
 // ---------- 에이전트별 메일 수신자 ----------
-async function loadAgentMailTo(agentId) {
-  try {
-    const r = await api(`/api/agents/${agentId}/mail-to`);
-    return r.mailTo || "";
-  } catch (e) {
-    console.error("에이전트 mailTo 로드 실패:", e);
-    return "";
-  }
-}
-async function saveAgentMailTo(agentId, mailTo) {
-  try {
-    const r = await api(`/api/agents/${agentId}/mail-to`, {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ mailTo: mailTo.trim() })
-    });
-    return r;
-  } catch (e) {
-    console.error("에이전트 mailTo 저장 실패:", e);
-    throw e;
-  }
-}
+let agentMailSeq = 0;   // 에이전트를 빠르게 바꿀 때 늦게 도착한 이전 응답이 입력칸을 덮어쓰지 않게 한다
 async function renderAgentMailSelect() {
   const sel = $("#agent-mail-select");
   sel.innerHTML = (AGENTS || []).map((a) => `<option value="${esc(a.id)}">${esc(a.name)}</option>`).join("");
-  if (AGENTS.length > 0) {
-    sel.value = AGENTS[0].id;
-    await loadAgentMailToUI(AGENTS[0].id);
-  }
   sel.addEventListener("change", () => loadAgentMailToUI(sel.value));
+  if (AGENTS.length > 0) { sel.value = AGENTS[0].id; await loadAgentMailToUI(AGENTS[0].id); }
 }
 async function loadAgentMailToUI(agentId) {
-  const mailTo = await loadAgentMailTo(agentId);
-  $("#agent-mail-input").value = mailTo;
-  $("#agent-mail-msg").classList.add("hidden");
+  const seq = ++agentMailSeq, inp = $("#agent-mail-input"), save = $("#agent-mail-save");
+  inp.disabled = true; save.disabled = true; $("#agent-mail-msg").classList.add("hidden");
+  try {
+    const r = await api(`/api/agents/${agentId}/mail-to`);
+    if (seq !== agentMailSeq) return;
+    if (r?.ok === false || typeof r?.mailTo !== "string") throw new Error(r?.error || "수신자 정보를 불러오지 못했습니다");
+    inp.value = r.mailTo;
+    inp.disabled = false; save.disabled = false;
+  } catch (e) {
+    if (seq !== agentMailSeq) return;
+    inp.value = ""; msg("#agent-mail-msg", false, `❌ 불러오기 실패: ${esc(e.message)} — 새로고침 후 다시 시도하세요`);
+  }
 }
 $("#agent-mail-save").addEventListener("click", async () => {
-  const agentId = $("#agent-mail-select").value;
+  const agentId = $("#agent-mail-select").value, btn = $("#agent-mail-save");
   const mailTo = $("#agent-mail-input").value.trim();
+  const bad = mailTo.split(/[,;\s]+/).filter(Boolean).filter((e) => !/^[^\s@,]+@[^\s@,]+\.[^\s@,]+$/.test(e));
+  if (bad.length) { msg("#agent-mail-msg", false, `❌ 이메일 형식이 올바르지 않습니다: ${esc(bad.join(", "))}`); return; }
+  btn.disabled = true;
   try {
-    await saveAgentMailTo(agentId, mailTo);
-    msg("#agent-mail-msg", true, `✅ ${AGENTS.find(a => a.id === agentId)?.name} 메일 수신자 저장 완료: ${esc(mailTo || "(공통 수신자 사용)")}`);
+    const r = await api(`/api/agents/${agentId}/mail-to`, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ mailTo }) });
+    if (!r?.ok) throw new Error(r?.error || "서버 응답 오류");
+    if ($("#agent-mail-select").value === agentId) $("#agent-mail-input").value = r.mailTo;
+    const a = AGENTS.find((x) => x.id === agentId); if (a) a.mailTo = r.mailTo;
+    msg("#agent-mail-msg", true, `✅ ${esc(a?.name || agentId)} 메일 수신자 저장 완료: ${esc(r.mailTo || "(공통 수신자 사용)")}`);
   } catch (e) {
-    msg("#agent-mail-msg", false, `❌ ${esc(e.message || "저장 실패")}`);
-  }
+    msg("#agent-mail-msg", false, `❌ 저장 실패: ${esc(e.message || "알 수 없는 오류")}`);
+  } finally { btn.disabled = false; }
 });
 $("#agent-mail-clear").addEventListener("click", () => {
   if (confirm("비워도 되겠습니까? (공통 수신자를 사용하게 됩니다)")) {

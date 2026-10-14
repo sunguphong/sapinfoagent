@@ -6,7 +6,7 @@ import { spawn } from "node:child_process";
 import { existsSync, readFileSync, readdirSync, statSync, createReadStream, writeFileSync } from "node:fs";
 import path from "node:path";
 import { sendMail } from "./mail.js";
-import { ROOT, DEFAULT_AGENT, loadAgent, listAgents, agentPaths } from "./agents.js";
+import { ROOT, DEFAULT_AGENT, loadAgent, listAgents, agentPaths, saveAgentMailTo } from "./agents.js";
 
 const envPath = path.join(ROOT, ".env");
 if (existsSync(envPath)) process.loadEnvFile(envPath);
@@ -325,12 +325,8 @@ const server = http.createServer(async (req, res) => {
       if (req.method === "PUT" || req.method === "POST") {
         try {
           const body = await readBody(req);
-          const ag = loadAgent(agentId);
-          const agentPath = path.join(AGENTS_DIR, `${agentId}.json`);
-          const updated = { ...ag, mailTo: String(body.mailTo || "").trim() };
-          writeFileSync(agentPath, JSON.stringify(updated, null, 2));
-          log(`[${agentId}] mailTo 수정: ${updated.mailTo}`);
-          return json(res, 200, { ok: true, agentId, mailTo: updated.mailTo });
+          const mailTo = saveAgentMailTo(agentId, body.mailTo);
+          return json(res, 200, { ok: true, agentId, mailTo });
         } catch (e) { return json(res, 400, { ok: false, error: e.message }); }
       }
     }
