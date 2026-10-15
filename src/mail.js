@@ -15,7 +15,7 @@ const C = {
 };
 // 강조 섹션(에이전트 설정 accentCategories) 색: 골드 톤 본문과 한눈에 구분되도록 차분한 블루 톤 바탕을 깐다.
 const A = {
-  panel: "#edf3fb", panelLine: "#c9d9ee", line: "#d3e0f1", deep: "#2c5487", accent: "#4a78b5", soft: "#e1ebf8", softLine: "#bcd0ea",
+  panel: "#dde8f6", panelLine: "#bccfe8", card: "#eaf1fb", line: "#c4d6ee", deep: "#2c5487", accent: "#4a78b5", soft: "#d4e2f5", softLine: "#b3c9e6",
 };
 const FONT = "'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif";
 
@@ -38,15 +38,15 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
   const cats = (digest.categories || []).map((c, ci) => {
     const acc = isAccent(c.name);
     const T = acc
-      ? { deep: A.deep, accent: A.accent, soft: A.soft, softLine: A.softLine, line: A.line, rule: `linear-gradient(90deg,${A.accent},${A.panelLine})` }
-      : { deep: C.goldDeep, accent: C.gold, soft: C.goldSoft, softLine: C.goldLine, line: C.line, rule: `linear-gradient(90deg,${C.gold},${C.lineSoft})` };
+      ? { card: A.card, deep: A.deep, accent: A.accent, soft: A.soft, softLine: A.softLine, line: A.line, rule: `linear-gradient(90deg,${A.accent},${A.panelLine})` }
+      : { card: C.card, deep: C.goldDeep, accent: C.gold, soft: C.goldSoft, softLine: C.goldLine, line: C.line, rule: `linear-gradient(90deg,${C.gold},${C.lineSoft})` };
     const body = `
     <div style="margin:${acc ? 0 : ci ? 34 : 30}px 0 14px">
       <div style="font-size:11px;font-weight:700;letter-spacing:.14em;color:${T.deep};text-transform:uppercase">${esc(c.name)}</div>
       <div style="height:1px;background:${T.rule};margin-top:8px"></div>
     </div>
     ${c.items.map((it) => `
-      <div style="margin:0 0 12px;padding:16px 18px;background:${C.card};border:1px solid ${T.line};border-radius:12px">
+      <div style="margin:0 0 12px;padding:16px 18px;background:${T.card};border:1px solid ${T.line};border-radius:12px">
         <div style="font-size:15.5px;font-weight:700;line-height:1.45;letter-spacing:-.01em">
           <a href="${esc(it.article.link)}" style="color:${C.ink};text-decoration:none">${esc(it.title_ko)}</a>
         </div>
