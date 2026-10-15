@@ -1,6 +1,7 @@
 // 채용 사이트 검색 결과 수집. 채용공고는 RSS 가 없어서 검색 결과 페이지(또는 공개 JSON)를 직접 읽는다.
 // agents/<id>.json 의 feed 에 type 을 주면 collect.js 가 여기로 보낸다:
 //   { "name": "사람인", "type": "saramin", "query": "SAP MM" }   type: saramin | jobkorea | wanted | linkedin
+//   채용공고는 아니지만 같은 방식으로 읽는 행사 목록도 있다: type: onoffmix (온오프믹스 세미나·컨퍼런스 검색, SAP 브리핑 에이전트)
 // 반환 형식은 RSS 기사와 같다 (source, title, link, published, snippet) + company. 등록일이 없는 사이트(원티드)는
 // published 를 수집 시각으로 두므로, 새 공고인지는 index.js 의 seen 기록(trackSeen)으로 가린다.
 // addCompanyInfo() 는 수집 뒤 회사별 사원수·최근 매출액·영업이익을 잡코리아 기업정보에서 찾아 article.companyInfo 에 붙인다.
@@ -110,7 +111,32 @@ async function linkedin(q, feed) {
   }).filter((a) => a.title && a.link);
 }
 
-const SCRAPERS = { saramin, jobkorea, wanted, linkedin };
+// 온오프믹스: 행사(세미나·컨퍼런스·웨비나) 검색 결과. 등록일이 없어 published 는 수집 시각으로 두고,
+// 행사 일시(마지막 날짜)가 오늘보다 이전인 행사와 광고 카드(adv_list)는 뺀다.
+async function onoffmix(q) {
+  const html = await get(`https://www.onoffmix.com/event/main/?s=${enc(q)}`);
+  const today = new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Seoul" });
+  const now = new Date().toISOString();
+  return html.split('<article class="event_area event_main').slice(1).filter((b) => !b.startsWith(" adv_list")).map((b) => {
+    const when = text(pick(b, /<div class="list_date_place">[\s\S]*?<span class="date">([\s\S]*?)<\/span>/));
+    const days = [...when.matchAll(/(\d{4})\.(\d{2})\.(\d{2})/g)].map((m) => `${m[1]}-${m[2]}-${m[3]}`);
+    return {
+      title: decode(pick(b, /<h5 class="title[^"]*" title="([^"]*)"/)),
+      link: `https://onoffmix.com/event/${pick(b, /href="\/event\/(\d+)"/)}`,
+      published: now,
+      endDay: days[days.length - 1] || "",
+      snippet: [
+        `일시: ${when}`,
+        `장소: ${text(pick(b, /<span class="place">([\s\S]*?)<\/span>/))}`,
+        `${text(pick(b, /<span class="payment_type[^"]*">([\s\S]*?)<\/span>/))} ${text(pick(b, /<span class="category_type">([\s\S]*?)<\/span>/))}`,
+        `접수 상태(오늘 기준): ${text(pick(b, /<div class="event_state_area">([\s\S]*?)<\/div>\s*<\/div>/))}`,
+        `태그: ${text(pick(b, /<div class="list_event_tags">([\s\S]*?)<\/div>/))}`,
+      ].join(" / "),
+    };
+  }).filter((a) => a.title && !a.link.endsWith("/") && (!a.endDay || a.endDay >= today)).map(({ endDay, ...a }) => a);
+}
+
+const SCRAPERS = { saramin, jobkorea, wanted, linkedin, onoffmix };
 
 export function isJobFeed(feed) {
   return !!SCRAPERS[feed.type];

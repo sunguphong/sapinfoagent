@@ -16,6 +16,7 @@ export function buildPrompt(p = {}) {
     "title_ko와 summary, why는 반드시 한국어로 씁니다. 영어 문장을 그대로 두지 마세요.",
   ];
   return `${p.intro || "당신은 일일 뉴스 브리핑 작성자입니다."}
+오늘 날짜: ${new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Seoul" })}
 아래 기사 목록을 읽고 한국어로 정리하세요. 영어 기사는 제목과 내용을 모두 자연스러운 한국어로 번역해서 작성합니다(고유명사·제품명은 원문 유지 가능). 반드시 아래 JSON 스키마만 출력하고, 코드펜스나 다른 텍스트는 붙이지 마세요.
 
 {
