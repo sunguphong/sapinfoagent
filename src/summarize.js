@@ -54,7 +54,7 @@ function extractJson(text) {
 export function summarize(articles, promptConfig) {
   const input = buildPrompt(promptConfig) + buildInput(articles);
   const isWin = process.platform === "win32";
-  const r = spawnSync(isWin ? "claude.cmd" : "claude", ["-p", "--model", MODEL, "--output-format", "text", "--tools", '""'], {
+  const r = spawnSync("claude", ["-p", "--model", MODEL, "--output-format", "text", "--tools", '""'], {
     input, encoding: "utf8", shell: isWin, timeout: 20 * 60 * 1000, maxBuffer: 20 * 1024 * 1024,
   });
   if (r.error) throw r.error;

@@ -6,7 +6,7 @@ rem   run.cmd stock        -> 증시 브리핑 (작업 "SAP Info Agent - Stock",
 rem   run.cmd sapmm-jobs   -> SAP MM 구인정보 (작업 "SAP Info Agent - SAP MM Jobs", 07:30)
 chcp 65001 >nul
 cd /d D:\ANTI\sapinfoagent
-set "PATH=%PATH%;C:\Program Files\nodejs;C:\Users\DKSYSTEMS\AppData\Roaming\npm"
+set "PATH=%PATH%;C:\Program Files\nodejs;C:\Users\DKSYSTEMS\AppData\Roaming\npm;C:\Users\DKSYSTEMS\.local\bin"
 set "AGENT=%~1"
 if "%AGENT%"=="" set "AGENT=sap"
 if not exist logs\%AGENT% mkdir logs\%AGENT%
