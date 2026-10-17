@@ -1,0 +1,110 @@
+# 매일 아침 브리핑 발송 (PC 없이 GitHub Actions 에서 실행).
+# 발송 시각은 agents/<id>.json 의 schedule 과 맞춘다. cron 은 UTC 라 KST -9 시간 (전날 날짜).
+# GitHub 예약 실행은 부하에 따라 5~15분 늦게 시작될 수 있다.
+#
+# 필요한 저장소 Secrets: CLAUDE_CODE_OAUTH_TOKEN (claude setup-token), SMTP_USER, SMTP_PASS, MAIL_TO
+# 에이전트 간 실행 기록(seen.json, stats.json)은 ci-state 브랜치의 logs/<id>/ 에 보관한다.
+name: briefing
+
+on:
+  schedule:
+    - cron: "55 21 * * *"   # 06:55 KST  sap
+    - cron: "0 22 * * *"    # 07:00 KST  realestate, sapmm-jobs
+    - cron: "0 22 * * 0-4"  # 07:00 KST 평일  stock
+    - cron: "0 23 * * *"    # 08:00 KST  skincare
+  workflow_dispatch:
+    inputs:
+      agents:
+        description: "실행할 에이전트 id (쉼표 구분, 예: sap,stock)"
+        required: true
+        default: "sap"
+      dry_run:
+        description: "메일 없이 HTML 만 생성"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    outputs:
+      agents: ${{ steps.p.outputs.agents }}
+    steps:
+      - id: p
+        env:
+          SCHED: ${{ github.event.schedule }}
+          INPUT: ${{ github.event.inputs.agents }}
+        run: |
+          case "$SCHED" in
+            "55 21 * * *")  list="sap" ;;
+            "0 22 * * *")   list="realestate,sapmm-jobs" ;;
+            "0 22 * * 0-4") list="stock" ;;
+            "0 23 * * *")   list="skincare" ;;
+            *)              list="$INPUT" ;;
+          esac
+          echo "agents=$(echo "$list" | jq -Rc 'split(",") | map(gsub("^\\s+|\\s+$"; "")) | map(select(length > 0))')" >> "$GITHUB_OUTPUT"
+
+  run:
+    needs: pick
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        agent: ${{ fromJson(needs.pick.outputs.agents) }}
+    concurrency: briefing-${{ matrix.agent }}
+    env:
+      TZ: Asia/Seoul
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm install -g @anthropic-ai/claude-code
+
+      - name: 이전 기록 불러오기 (ci-state)
+        run: |
+          if git fetch --depth=1 origin ci-state 2>/dev/null; then
+            mkdir -p logs/${{ matrix.agent }}
+            git archive FETCH_HEAD logs/${{ matrix.agent }} 2>/dev/null | tar -x || true
+          fi
+
+      - name: 실행
+        run: node src/index.js --source=github --agent=${{ matrix.agent }} ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }}
+
+      - name: 기록 저장 (ci-state)
+        if: success() && hashFiles(format('logs/{0}/seen.json', matrix.agent)) != ''
+        run: |
+          a=${{ matrix.agent }}
+          cp logs/$a/seen.json /tmp/seen.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for i in 1 2 3; do
+            if git fetch --depth=1 origin ci-state 2>/dev/null; then git checkout -f -B ci-state FETCH_HEAD; else git checkout --orphan ci-state && git rm -rfq .; fi
+            mkdir -p logs/$a && cp /tmp/seen.json logs/$a/seen.json
+            git add -f logs/$a/seen.json
+            git diff --cached --quiet && exit 0
+            git commit -qm "state: $a seen.json $(date +%F)"
+            git push origin ci-state && exit 0
+            sleep 5
+          done
+          exit 1
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ${{ matrix.agent }}-${{ github.run_id }}
+          path: |
+            output/${{ matrix.agent }}/
+            logs/${{ matrix.agent }}/run-*.log
+          retention-days: 30

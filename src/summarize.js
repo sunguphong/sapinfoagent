@@ -54,7 +54,8 @@ function extractJson(text) {
 export function summarize(articles, promptConfig) {
   const input = buildPrompt(promptConfig) + buildInput(articles);
   const isWin = process.platform === "win32";
-  const r = spawnSync("claude", ["-p", "--model", MODEL, "--output-format", "text", "--tools", '""'], {
+  // 도구 없이 실행: Windows 는 shell 을 거치므로 '""' 로 빈 값을 넘기고, 그 외(GitHub Actions 등)는 빈 문자열을 그대로 넘긴다
+  const r = spawnSync("claude", ["-p", "--model", MODEL, "--output-format", "text", "--tools", isWin ? '""' : ""], {
     input, encoding: "utf8", shell: isWin, timeout: 20 * 60 * 1000, maxBuffer: 20 * 1024 * 1024,
   });
   if (r.error) throw r.error;
