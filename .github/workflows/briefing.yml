@@ -28,7 +28,7 @@ permissions:
 
 jobs:
   pick:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     outputs:
       agents: ${{ steps.p.outputs.agents }}
     steps:
@@ -48,7 +48,7 @@ jobs:
 
   run:
     needs: pick
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 30
     strategy:
       fail-fast: false
@@ -62,9 +62,9 @@ jobs:
       SMTP_PASS: ${{ secrets.SMTP_PASS }}
       MAIL_TO: ${{ secrets.MAIL_TO }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
@@ -81,6 +81,13 @@ jobs:
 
       - name: 실행
         run: node src/index.js --source=github --agent=${{ matrix.agent }} ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }}
+
+      - name: 오류 요약 (Annotations 에 표시)
+        if: failure()
+        run: |
+          msg=$(tail -n 12 logs/${{ matrix.agent }}/run-*.log 2>/dev/null | cut -c1-400)
+          msg=${msg//'%'/'%25'}; msg=${msg//$'\n'/'%0A'}
+          echo "::error title=${{ matrix.agent }} 실행 실패::${msg:-실행 로그 없음}"
 
       - name: 기록 저장 (ci-state)
         if: success() && hashFiles(format('logs/{0}/seen.json', matrix.agent)) != ''
@@ -100,7 +107,7 @@ jobs:
           done
           exit 1
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         if: always()
         with:
           name: ${{ matrix.agent }}-${{ github.run_id }}
