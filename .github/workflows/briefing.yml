@@ -89,6 +89,10 @@ jobs:
           msg=${msg//'%'/'%25'}; msg=${msg//$'\n'/'%0A'}
           echo "::error title=${{ matrix.agent }} 실행 실패::${msg:-실행 로그 없음}"
 
+      - name: 실패 알림 메일
+        if: failure() || cancelled()
+        run: node src/alert.js ${{ matrix.agent }} "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
       - name: 기록 저장 (ci-state)
         if: success() && hashFiles(format('logs/{0}/seen.json', matrix.agent)) != ''
         run: |
