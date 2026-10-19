@@ -1,6 +1,6 @@
 ﻿# 관리 웹(5174) + ngrok 터널 감시. 작업 스케줄러가 5분마다 watchdog.vbs 로 창 없이 실행한다.
 #  - 웹 서버가 안 떠 있으면 node src\server.js 를 띄운다.
-#  - ngrok 터널이 없으면 ngrok 을 다시 띄우고, 버전 거부(ERR_NGROK_121)면 ngrok update 후 재시도한다.
+#  - ngrok 터널이 없으면 ngrok 을 다시 띄우고, 그래도 안 뜨면 ngrok update 후 재시도한다.
 #  - 조치한 내용만 logs\watchdog.log 에 남긴다.
 $ErrorActionPreference = 'Continue'
 $Root    = $PSScriptRoot
@@ -58,12 +58,13 @@ if (-not (Test-Tunnel)) {
   if (-not $ng) { Log 'ngrok 터널 끊김 - ngrok.exe 를 찾지 못함'; exit 1 }
   if (Start-Ngrok $ng) { Log "ngrok 터널 끊겨 있어 다시 띄움 ($ng)"; exit 0 }
 
+  # 버전 거부(ERR_NGROK_121)는 로그에 남지만, winget 구버전의 'unknown flag: --url' 은 로그 없이 바로 종료되므로
+  # 실패하면 원인과 상관없이 ngrok update 를 한 번 시도한다.
   $tail = if (Test-Path $NgLog) { Get-Content $NgLog -Raw } else { '' }
-  if ($tail -match 'ERR_NGROK_121|too old') {
-    Log 'ngrok 버전이 낮아 거부됨 - ngrok update 실행'
-    & $ng update 2>&1 | Out-Null
-    if (Start-Ngrok $ng) { Log 'ngrok 업데이트 후 터널 복구'; exit 0 }
-  }
+  Log 'ngrok 터널 기동 실패 - ngrok update 후 재시도'
+  & $ng update 2>&1 | Out-Null
+  if (Start-Ngrok $ng) { Log 'ngrok 업데이트 후 터널 복구'; exit 0 }
+  $tail = if (Test-Path $NgLog) { Get-Content $NgLog -Raw } else { $tail }
   $last = if ($tail) { ($tail -split "`n" | Where-Object { $_ -match 'lvl=(eror|crit)|ERR_' } | Select-Object -Last 2) -join ' / ' } else { '' }
   Log "ngrok 터널 재기동 실패 $last"
   exit 1
