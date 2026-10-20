@@ -1,0 +1,23 @@
+[
+  {
+    "id": "20261020232304",
+    "agent": "realestate",
+    "startedAt": "2026-10-20T23:23:04.575Z",
+    "date": "2026-10-21",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261020232304.log",
+    "base": "2026-10-21_20261020232304",
+    "fetched": 557,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 19,
+    "html": "2026-10-21_20261020232304.html",
+    "mailId": "<ee694278-3641-d6a7-928e-0d6c9e6f5238@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-10-20T23:24:01.949Z",
+    "finishedAt": "2026-10-20T23:24:01.949Z"
+  }
+]
