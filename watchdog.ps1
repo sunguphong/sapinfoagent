@@ -84,7 +84,11 @@ function Invoke-Backstop {
   $missing = @($due | Where-Object { ((& $git -C $Root show "FETCH_HEAD:logs/$_/last-sent.txt" 2>$null) -join '').Trim() -ne $today })
   if (-not $missing) { return }
 
-  $tok = (("protocol=https`nhost=github.com`n`n" | & $git credential fill 2>$null) | Where-Object { $_ -like 'password=*' }) -replace '^password=', ''
+  # PowerShell 5.1 의 파이프 입력은 git 이 'missing protocol field' 로 거부하므로 cmd 리다이렉트로 넘긴다
+  $in = Join-Path $env:TEMP 'watchdog-gcred.txt'
+  [IO.File]::WriteAllText($in, "protocol=https`nhost=github.com`n`n")
+  $tok = ((cmd /c "`"$git`" credential fill < `"$in`"" 2>$null) | Where-Object { $_ -like 'password=*' }) -replace '^password=', ''
+  Remove-Item $in -ErrorAction SilentlyContinue
   if (-not $tok) { Log '브리핑 백업 실행 - GitHub 토큰(git credential)을 얻지 못함'; return }
   $body = @{ ref = 'main'; inputs = @{ agents = ($missing -join ','); dry_run = $false; skip_if_sent = $true } } | ConvertTo-Json -Depth 3
   try {
