@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20261020232304",
+    "agent": "stock",
+    "startedAt": "2026-10-20T23:23:04.022Z",
+    "date": "2026-10-21",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261020232304.log",
+    "base": "2026-10-21_20261020232304",
+    "fetched": 546,
+    "selected": 50,
+    "usedHours": 24,
+    "feedErrors": [
+      "Yahoo Finance: Status code 404"
+    ],
+    "picked": 16,
+    "html": "2026-10-21_20261020232304.html",
+    "mailId": "<fa70fd5b-f6c6-5287-799e-6894f670b6bd@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-10-20T23:24:06.798Z",
+    "finishedAt": "2026-10-20T23:24:06.799Z"
+  }
+]
