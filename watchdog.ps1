@@ -52,6 +52,51 @@ if (-not (Test-Port $Port)) {
   if (Test-Port $Port) { Log '웹 서버 꺼져 있어 다시 띄움' } else { Log '웹 서버 재기동 실패' }
 }
 
+# 1.5) 아침 브리핑 백업 실행
+#  GitHub 예약 실행이 2~3시간씩 늦어(2026-10-20·21 메일 미도착), 발송 시각 +15분 ~ 12:00 사이에 ci-state 의
+#  logs/<id>/last-sent.txt 가 오늘 날짜가 아닌 에이전트는 workflow_dispatch 로 바로 실행시킨다(에이전트당 하루 한 번).
+#  skip_if_sent=true 라 그 사이 예약 실행이 먼저 보냈으면 건너뛰고, 늦게 도착한 예약 실행도 같은 표시를 보고 건너뛴다.
+$Repo    = 'sunguphong/sapinfoagent'
+$BkFile  = Join-Path $Root 'logs\backstop.json'
+function Invoke-Backstop {
+  $now = Get-Date
+  if ($now.Hour -ge 12) { return }
+  $today = $now.ToString('yyyy-MM-dd')
+  $done = @{}
+  if (Test-Path $BkFile) {
+    try { $b = Get-Content $BkFile -Raw | ConvertFrom-Json; if ($b.date -eq $today) { $b.agents | ForEach-Object { $done[$_] = $true } } } catch {}
+  }
+  $due = @()
+  foreach ($f in Get-ChildItem (Join-Path $Root 'agents') -Filter *.json) {
+    $id = $f.BaseName
+    if ($done[$id]) { continue }
+    $sched = (Get-Content $f.FullName -Raw -Encoding UTF8 | ConvertFrom-Json).schedule
+    if (-not $sched) { continue }
+    if ($id -eq 'stock' -and $now.DayOfWeek -in 'Saturday','Sunday') { continue }   # briefing.yml 의 평일 예약과 맞춤
+    if ($now -lt ([datetime]::ParseExact("$today $sched", 'yyyy-MM-dd HH:mm', $null)).AddMinutes(15)) { continue }
+    $due += $id
+  }
+  if (-not $due) { return }
+
+  $git = Find-Exe 'git' @("$env:ProgramFiles\Git\cmd")
+  if (-not $git) { Log '브리핑 백업 실행 - git.exe 를 찾지 못함'; return }
+  & $git -C $Root fetch -q origin ci-state 2>$null
+  $missing = @($due | Where-Object { ((& $git -C $Root show "FETCH_HEAD:logs/$_/last-sent.txt" 2>$null) -join '').Trim() -ne $today })
+  if (-not $missing) { return }
+
+  $tok = (("protocol=https`nhost=github.com`n`n" | & $git credential fill 2>$null) | Where-Object { $_ -like 'password=*' }) -replace '^password=', ''
+  if (-not $tok) { Log '브리핑 백업 실행 - GitHub 토큰(git credential)을 얻지 못함'; return }
+  $body = @{ ref = 'main'; inputs = @{ agents = ($missing -join ','); dry_run = $false; skip_if_sent = $true } } | ConvertTo-Json -Depth 3
+  try {
+    Invoke-RestMethod -Method Post -Uri "https://api.github.com/repos/$Repo/actions/workflows/briefing.yml/dispatches" `
+      -Headers @{ Authorization = "Bearer $tok"; Accept = 'application/vnd.github+json' } -Body $body -ContentType 'application/json' -TimeoutSec 30 | Out-Null
+    Log "브리핑 백업 실행: 오늘 발송 기록이 없어 GitHub 실행 요청 ($($missing -join ', '))"
+    $all = @($done.Keys) + $missing
+    @{ date = $today; agents = $all } | ConvertTo-Json | Set-Content $BkFile -Encoding UTF8
+  } catch { Log "브리핑 백업 실행 요청 실패: $($_.Exception.Message)" }
+}
+try { Invoke-Backstop } catch { Log "브리핑 백업 실행 오류: $($_.Exception.Message)" }
+
 # ngrok 은 winget 이 아닌 이 폴더에 공식 zip 으로 설치해 쓴다.
 # (2026-10-20: 'ngrok update' 가 제자리 교체 도중 실패해 winget 의 ngrok.exe 를 지우고 .ngrok.exe.old 만 남겨 터널이 반나절 꺼졌다.
 #  그래서 update 는 쓰지 않고, 새 zip 을 임시 폴더에 받아 실행 확인이 된 경우에만 바꿔 넣는다.)

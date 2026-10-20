@@ -1,6 +1,9 @@
 # 매일 아침 브리핑 발송 (PC 없이 GitHub Actions 에서 실행).
 # 발송 시각은 agents/<id>.json 의 schedule 과 맞춘다. cron 은 UTC 라 KST -9 시간 (전날 날짜).
-# GitHub 예약 실행은 부하에 따라 5~15분 늦게 시작될 수 있다.
+# GitHub 예약 실행은 실제로 2~3시간씩 늦게 시작된다(2026-10-17~21 관측: 06:55 예약 → 08:40~09:50 시작).
+# 그래서 예약은 발송 시각보다 약 3시간 앞당기고, 정시(:00)를 피한 분으로 잡는다.
+# 그래도 늦으면 PC 의 watchdog.ps1 이 발송 시각 +15분에 오늘 성공 기록이 없는 에이전트를 직접 실행시킨다(skip_if_sent).
+# 같은 날 두 번 보내지 않도록 성공 시 ci-state 의 logs/<id>/last-sent.txt 에 날짜를 남기고, 예약 실행은 이를 보고 건너뛴다.
 #
 # 필요한 저장소 Secrets: CLAUDE_CODE_OAUTH_TOKEN (claude setup-token), SMTP_USER, SMTP_PASS, MAIL_TO
 # 에이전트 간 실행 기록(seen.json, stats.json)은 ci-state 브랜치의 logs/<id>/ 에 보관한다.
@@ -8,10 +11,10 @@ name: briefing
 
 on:
   schedule:
-    - cron: "55 21 * * *"   # 06:55 KST  sap
-    - cron: "0 22 * * *"    # 07:00 KST  realestate, sapmm-jobs
-    - cron: "0 22 * * 0-4"  # 07:00 KST 평일  stock
-    - cron: "0 23 * * *"    # 08:00 KST  skincare
+    - cron: "7 19 * * *"    # 04:07 KST  sap        (발송 목표 06:55)
+    - cron: "11 19 * * *"   # 04:11 KST  realestate, sapmm-jobs (07:00)
+    - cron: "11 19 * * 0-4" # 04:11 KST 평일  stock  (07:00)
+    - cron: "13 20 * * *"   # 05:13 KST  skincare   (08:00)
   workflow_dispatch:
     inputs:
       agents:
@@ -22,6 +25,10 @@ on:
         description: "메일 없이 HTML 만 생성"
         type: boolean
         default: true
+      skip_if_sent:
+        description: "오늘 이미 발송한 에이전트는 건너뜀 (PC 백업 실행용)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -38,16 +45,17 @@ jobs:
           INPUT: ${{ github.event.inputs.agents }}
         run: |
           case "$SCHED" in
-            "55 21 * * *")  list="sap" ;;
-            "0 22 * * *")   list="realestate,sapmm-jobs" ;;
-            "0 22 * * 0-4") list="stock" ;;
-            "0 23 * * *")   list="skincare" ;;
+            "7 19 * * *")    list="sap" ;;
+            "11 19 * * *")   list="realestate,sapmm-jobs" ;;
+            "11 19 * * 0-4") list="stock" ;;
+            "13 20 * * *")   list="skincare" ;;
             *)              list="$INPUT" ;;
           esac
           echo "agents=$(echo "$list" | jq -Rc 'split(",") | map(gsub("^\\s+|\\s+$"; "")) | map(select(length > 0))')" >> "$GITHUB_OUTPUT"
 
   run:
     needs: pick
+    if: needs.pick.outputs.agents != '[]'   # 예약 시각을 바꾼 직후 옛 예약이 늦게 도착하면 대상이 비어 있다
     runs-on: ubuntu-24.04
     timeout-minutes: 30
     strategy:
@@ -79,7 +87,18 @@ jobs:
             git archive FETCH_HEAD logs/${{ matrix.agent }} 2>/dev/null | tar -x || true
           fi
 
+      - name: 오늘 이미 발송했는지 확인
+        id: sent
+        run: |
+          if [ "${{ github.event_name }}" = schedule ] || [ "${{ github.event.inputs.skip_if_sent }}" = true ]; then
+            if [ "$(cat logs/${{ matrix.agent }}/last-sent.txt 2>/dev/null)" = "$(date +%F)" ]; then
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+              echo "::notice title=${{ matrix.agent }}::오늘($(date +%F)) 이미 발송해 건너뜀"
+            fi
+          fi
+
       - name: 실행
+        if: steps.sent.outputs.skip != 'true'
         run: node src/index.js --source=github --agent=${{ matrix.agent }} ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }}
 
       - name: 오류 요약 (Annotations 에 표시)
@@ -94,25 +113,26 @@ jobs:
         run: node src/alert.js ${{ matrix.agent }} "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
       - name: 기록 저장 (ci-state)
-        if: success() && hashFiles(format('logs/{0}/seen.json', matrix.agent)) != ''
+        if: success() && steps.sent.outputs.skip != 'true' && github.event.inputs.dry_run != 'true'
         run: |
           a=${{ matrix.agent }}
-          cp logs/$a/seen.json /tmp/seen.json
+          mkdir -p /tmp/state && date +%F > /tmp/state/last-sent.txt
+          [ -f logs/$a/seen.json ] && cp logs/$a/seen.json /tmp/state/
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           for i in 1 2 3; do
             if git fetch --depth=1 origin ci-state 2>/dev/null; then git checkout -f -B ci-state FETCH_HEAD; else git checkout --orphan ci-state && git rm -rfq .; fi
-            mkdir -p logs/$a && cp /tmp/seen.json logs/$a/seen.json
-            git add -f logs/$a/seen.json
+            mkdir -p logs/$a && cp /tmp/state/* logs/$a/
+            git add -f logs/$a/
             git diff --cached --quiet && exit 0
-            git commit -qm "state: $a seen.json $(date +%F)"
+            git commit -qm "state: $a $(date +%F)"
             git push origin ci-state && exit 0
             sleep 5
           done
           exit 1
 
       - uses: actions/upload-artifact@v6
-        if: always()
+        if: always() && steps.sent.outputs.skip != 'true'
         with:
           name: ${{ matrix.agent }}-${{ github.run_id }}
           path: |
