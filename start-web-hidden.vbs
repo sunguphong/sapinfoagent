@@ -9,5 +9,5 @@ node = """C:\Program Files\nodejs\node.exe"""
 sh.Run node & " ""D:\ANTI\sapinfoagent\src\server.js""", 0, False
 WScript.Sleep 3000  ' 서버가 5174에 먼저 뜨도록 잠깐 대기
 sh.Run node & " ""D:\ANTI\sapinfoagent\src\tunnel.js""", 0, False
-ngrok = """C:\Users\DKSYSTEMS\AppData\Local\Microsoft\WinGet\Packages\Ngrok.Ngrok_Microsoft.Winget.Source_8wekyb3d8bbwe\ngrok.exe"""
+ngrok = """" & sh.ExpandEnvironmentStrings("%LOCALAPPDATA%") & "\ngrok\bin\ngrok.exe"""  ' watchdog.ps1 이 관리하는 설치 위치
 sh.Run ngrok & " http --url=https://repaying-showing-gooey.ngrok-free.dev 5174 --log=""D:\ANTI\sapinfoagent\logs\ngrok.log""", 0, False
