@@ -1,0 +1,10 @@
+2026-10-21T22:16:28.213Z run 20261021221628 start (agent=sapmm-jobs "SAP MM 구인정보", source=github, mode=send)
+2026-10-21T22:16:28.214Z collecting from 7 feeds...
+2026-10-21T22:16:30.671Z fetched 171, selected 60 (last 336h), feed errors: 1
+2026-10-21T22:16:30.672Z feed error: 원티드: HTTP 403
+2026-10-21T22:16:32.509Z company info: 2 / 3 companies
+2026-10-21T22:16:32.509Z new: 48 / 60
+2026-10-21T22:16:32.509Z summarizing with claude (opus)...
+2026-10-21T22:17:07.660Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sapmm-jobs/2026-10-22_20261021221628.html
+2026-10-21T22:17:09.169Z mail sent: <ae464f39-c2f4-585b-be20-8112322660bf@gmail.com> -> upsan77@gmail.com
+2026-10-21T22:17:09.170Z done
