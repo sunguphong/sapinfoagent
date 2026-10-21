@@ -1,0 +1,15 @@
+2026-10-21T22:16:27.998Z run 20261021221627 start (agent=stock "증시 브리핑", source=github, mode=send)
+2026-10-21T22:16:27.998Z collecting from 9 feeds...
+2026-10-21T22:16:37.574Z fetched 30, selected 5 (last 72h), feed errors: 8
+2026-10-21T22:16:37.574Z feed error: Google News 뉴욕증시 마감 (KR): Status code 503
+2026-10-21T22:16:37.574Z feed error: Google News 오늘 국내 증시 전망 (KR): Status code 503
+2026-10-21T22:16:37.574Z feed error: Google News 외국인 수급·환율 (KR): Status code 503
+2026-10-21T22:16:37.574Z feed error: Google News 반도체·대형주 (KR): Status code 503
+2026-10-21T22:16:37.574Z feed error: Google News Wall Street close (EN): Status code 503
+2026-10-21T22:16:37.574Z feed error: Google News Fed·macro (EN): Status code 503
+2026-10-21T22:16:37.574Z feed error: Google News chips·big tech (EN): Status code 503
+2026-10-21T22:16:37.574Z feed error: Yahoo Finance: Status code 404
+2026-10-21T22:16:37.636Z summarizing with claude (opus)...
+2026-10-21T22:17:07.918Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/stock/2026-10-22_20261021221627.html
+2026-10-21T22:17:09.455Z mail sent: <42e469a2-b98f-7aa2-5fbe-1d6fa61a10b6@gmail.com> -> upsan77@gmail.com,zheng0107@daum.net
+2026-10-21T22:17:09.455Z done
