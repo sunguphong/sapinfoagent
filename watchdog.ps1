@@ -53,7 +53,8 @@ if (-not (Test-Port $Port)) {
 }
 
 # 1.5) 아침 브리핑 백업 실행
-#  GitHub 예약 실행이 2~3시간씩 늦어(2026-10-20·21 메일 미도착), 발송 시각 +15분 ~ 12:00 사이에 ci-state 의
+#  GitHub 예약 실행이 3시간씩 늦어(04:07 예약 → 07:16 시작, 2026-10-22·23), 사실상 이 PC 요청이 발송을 맡는다.
+#  발송 시각 10분 전 ~ 12:00 사이에(watchdog 5분 간격 + 실행 2~4분 → 발송 시각 직전 도착) ci-state 의
 #  logs/<id>/last-sent.txt 가 오늘 날짜가 아닌 에이전트는 workflow_dispatch 로 바로 실행시킨다(에이전트당 하루 한 번).
 #  skip_if_sent=true 라 그 사이 예약 실행이 먼저 보냈으면 건너뛰고, 늦게 도착한 예약 실행도 같은 표시를 보고 건너뛴다.
 $Repo    = 'sunguphong/sapinfoagent'
@@ -73,7 +74,7 @@ function Invoke-Backstop {
     $sched = (Get-Content $f.FullName -Raw -Encoding UTF8 | ConvertFrom-Json).schedule
     if (-not $sched) { continue }
     if ($id -eq 'stock' -and $now.DayOfWeek -in 'Saturday','Sunday') { continue }   # briefing.yml 의 평일 예약과 맞춤
-    if ($now -lt ([datetime]::ParseExact("$today $sched", 'yyyy-MM-dd HH:mm', $null)).AddMinutes(15)) { continue }
+    if ($now -lt ([datetime]::ParseExact("$today $sched", 'yyyy-MM-dd HH:mm', $null)).AddMinutes(-10)) { continue }
     # 관리 웹 등에서 PC 로 이미 보냈으면 제외 (2026-10-21: 07:19 수동 발송 뒤 08:22 백업 실행이 한 번 더 보냄)
     $runs = Join-Path $Root "logs\$id\runs.json"
     if (Test-Path $runs) {

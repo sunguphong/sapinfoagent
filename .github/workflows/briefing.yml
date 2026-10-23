@@ -2,7 +2,7 @@
 # 발송 시각은 agents/<id>.json 의 schedule 과 맞춘다. cron 은 UTC 라 KST -9 시간 (전날 날짜).
 # GitHub 예약 실행은 실제로 2~3시간씩 늦게 시작된다(2026-10-17~21 관측: 06:55 예약 → 08:40~09:50 시작).
 # 그래서 예약은 발송 시각보다 약 3시간 앞당기고, 정시(:00)를 피한 분으로 잡는다.
-# 그래도 늦으면 PC 의 watchdog.ps1 이 발송 시각 +15분에 오늘 성공 기록이 없는 에이전트를 직접 실행시킨다(skip_if_sent).
+# 실제 발송은 대부분 PC 의 watchdog.ps1 이 발송 시각 10분 전에 workflow_dispatch(skip_if_sent) 로 시작시킨다. 예약은 PC 가 꺼졌을 때의 대비책.
 # 같은 날 두 번 보내지 않도록 성공 시 ci-state 의 logs/<id>/last-sent.txt 에 날짜를 남기고, 예약 실행은 이를 보고 건너뛴다.
 #
 # 필요한 저장소 Secrets: CLAUDE_CODE_OAUTH_TOKEN (claude setup-token), SMTP_USER, SMTP_PASS, MAIL_TO
