@@ -1,0 +1,80 @@
+{
+  "overview": "오늘 새로 올라온 SAP 공고는 4건이고, 이 중 MM 모듈이 명시된 공고는 모베이스시스템의 PP·MM 모듈 컨설팅/ABAP 포지션(경기 수원, 경력 3년 이상) 1건뿐입니다. 에이스파트너스서치펌(서울 송파, 부장~이사급 비즈니스 리더 및 대리~차장급 모듈 개발/운영)과 오픈테크(서울 강서, 경력 6년 이상 개발자·컨설턴트)도 SAP 인력을 모집하지만 모듈이 명시되지 않아 목록에서 제외했으니, MM이 포함되는지는 직접 확인해 보는 것이 좋습니다. 공고 정보만으로는 구축·S/4HANA 전환 프로젝트인지 운영(SM)인지 구분할 수 없고, 요구 경력은 3년 이상의 중급 이상이 중심입니다. 동국 계열사 소식으로는 동국제강이 철근 판매가격을 유지하며 가격정책 변화를 예고했고, 동국씨엠은 2028년 PBR 0.27배 이상을 목표로 하는 기업가치 제고 계획을 공시했습니다.",
+  "categories": [
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "모베이스시스템 · SAP PP·MM 모듈 컨설팅/ABAP",
+          "summary": "㈜모베이스시스템이 SAP PP·MM 모듈 컨설팅과 ABAP 인력을 모집합니다. 근무지는 경기 수원시이고 경력 3년 이상을 요구하며, 즉시 지원할 수 있습니다. 고용형태와 마감일은 공고에 표시되어 있지 않습니다.",
+          "why": "MM이 명시된 유일한 신규 공고로 경력 3년 이상이면 지원할 수 있으며, 근무지는 수원이고 사원 12명 규모의 소형 SI·ERP 업체라 처우와 프로젝트 형태를 미리 확인해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "모베이스시스템 SAP(PP,MM) 모듈컨설팅/ ABAP",
+            "company": "㈜모베이스시스템",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50229001",
+            "published": "2026-10-23T04:15:01.707Z",
+            "jkCompanyNo": "47241197",
+            "snippet": "회사: ㈜모베이스시스템 / 경기 수원시 / 솔루션·SI·CRM·ERP, IT컨설팅 / 즉시 지원 / 경력3년↑ / 회사정보: 사원수 12명 / 매출액 - / 영업이익 -",
+            "companyInfo": {
+              "title": "㈜모베이스시스템",
+              "employees": "12명",
+              "revenue": "-",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/47241197"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "[동국제강] 철근 판매가격 유지…가격정책 변화 예고",
+          "summary": "동국제강이 철근 판매가격을 유지하기로 했습니다. 아울러 앞으로 가격정책을 바꿀 수 있다고 예고했습니다.",
+          "why": "철근 시황 대응 전략이 바뀔 수 있다는 신호로, 동국제강의 판매·구매 운영 방식 변화를 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 철근 판매價 유지...가격정책 변화 예고 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rUU9TVnJZVVdmcVVheTQwdGFMLVlpMlhOS0FRcERsODVCaUdZUldpN3c2ZWZtakkwVGlNTnpSbE9xREdmaTdVUW82NklKaUpERHIzdG1GNGItVDlpemg2NFhoMjdqM3NTdnpVQjNoT2tSM3VJ0gF0QVVfeXFMTmtRT1NWcllVV2ZxVWF5NDB0YUwtWWkyWE5LQVFwRGw4NUJpR1lSV2k3dzZlZm1qSTBUaU1OelJsT3FER2ZpN1VRbzY2SUppSkREcjN0bUY0Yi1UOWl6aDY0WGgyN2ozc1N2elVCM2hPa1IzdUk?oc=5",
+            "published": "2026-10-23T06:09:11.000Z",
+            "snippet": "동국제강, 철근 판매價 유지...가격정책 변화 예고 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 56,
+          "title_ko": "[동국씨엠] 2028년 PBR 0.27배 이상 목표, 기업가치 제고 계획 공시",
+          "summary": "동국씨엠이 2028년까지 PBR 0.27배 이상을 달성한다는 목표를 담은 기업가치 제고 계획을 공시했습니다. 동국제강그룹 3사가 함께 배당과 사업 경쟁력 강화를 축으로 저PBR 개선에 나선 흐름의 일환입니다.",
+          "why": "그룹 차원에서 주주환원과 경쟁력 강화를 추진하고 있어, 중장기 투자와 경영 효율화 기조를 가늠할 수 있습니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "동국씨엠, 2028년 PBR 0.27배 이상 목표 기업가치 제고 계획 공시 - 디지털투데이",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DbVhIc3RrZWN4TkcteG5JSVFoQlAtWEQzYkxXYVlhTy15UGVqQ1JWUTVDZGpiQmZpWGJnZWtjS29VVnhocFpKUHRJVVhDN1JmN1Q3TGlmMG10VVpvRnhXd1NjcWN3OVFjM2VXYTFtRkR1NXl0elEwbG9kdw?oc=5",
+            "published": "2026-10-21T06:41:04.000Z",
+            "snippet": "동국씨엠, 2028년 PBR 0.27배 이상 목표 기업가치 제고 계획 공시 디지털투데이",
+            "isNew": true
+          }
+        },
+        {
+          "index": 58,
+          "title_ko": "[동국씨엠] 철판 위의 나무, 빛으로 빚은 조약돌…동국씨엠의 금속 미학 (르포)",
+          "summary": "스틸데일리가 동국씨엠의 금속 표면 디자인과 미학을 현장 르포 형식으로 소개했습니다. 철판에 나무와 조약돌 같은 질감을 구현한 컬러강판 등의 사례를 다룬 기사입니다.",
+          "why": "동국씨엠이 디자인 중심의 고부가 컬러강판으로 차별화하는 전략을 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "[르포] 철판 위에 자란 나무, 빛으로 빚은 조약돌…동국씨엠의 금속 미학 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GMmhKN1FFTHFvaFVEejV5bVdGQlF6X0NWcXpUdEdULWZnNjg2a3NhRTBzekdBM0kzaTFESXlCN2NRaUNocEY1LVJFTU9PYWlXdUxRSEZfMFVlSGRvaEUtRE5tdmFPMjQ5S1JCUzVEbm7SAXRBVV95cUxQLW9XV294ZUxyODMySEkydlExQ1lUeHJBcXQ0X3ZtcmZyNUN5QWxnQzFrek9FRlkzb1Zlc2NoOTJLa2MtM1NEZWVnZmhBSG9wNDNXaXl1WWd0VmR2anVFN2Z2OG5HbEJEZmNNOUdxMWdRZlJxeQ?oc=5",
+            "published": "2026-10-18T23:00:00.000Z",
+            "snippet": "[르포] 철판 위에 자란 나무, 빛으로 빚은 조약돌…동국씨엠의 금속 미학 스틸데일리",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
