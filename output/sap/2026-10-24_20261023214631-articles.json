@@ -1,0 +1,282 @@
+[
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Prepare for SAP TechEd 2026 with the SAP Business AI Platform Maturity Assessment",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/prepare-for-sap-teched-2026-with-the-sap-business-ai-platform-maturity/ba-p/14490727",
+    "published": "2026-10-23T20:42:44.000Z",
+    "snippet": "As SAP TechEd 2026 approaches, now is the perfect time to assess where your organization stands on its AI journey. SAP Business AI Platform Maturity Assessment on SAP Discovery Center provides a practical way to evaluate your current state, identify opportunities for growth, and align your strategy with SAP Business AI Platform. In this blog, I'll walk through the assessment, highlight new AI-focu"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "From Innovation to Certification: How SAP Partners Are Turning AI Into Business Outcomes",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-innovation-to-certification-how-sap-partners-are-turning-ai-into/ba-p/14510034",
+    "published": "2026-10-23T18:52:00.000Z",
+    "snippet": "In a market where \"AI-powered\" appears on every product page, what separates credible innovation from noise? SAP Certification. Discover how SAP partners built real solutions on SAP BTP — and why getting certified was the move that set them apart."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Step-by-Step installing EWM Outbound Value Accelerator for SAP Signavio Process Intelligence",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/step-by-step-installing-ewm-outbound-value-accelerator-for-sap-signavio/ba-p/14510007",
+    "published": "2026-10-23T16:30:06.000Z",
+    "snippet": "We just concluded our webcast series on SAP Extended Warehouse Management (EWM) and SAP Signavio Process Intelligence with a hands-on installation workshop. The session guided attendees step by step through the setup of the embedded EWM Outbound Process Analytics Value Accelerator.If you missed it - or want to revisit the steps - the full recording is available here: https://event.on24.com/wcc/r/5"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "What's Next for SAP BusinessObjects BI? Join Our Two-Part Webcast Series",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/what-s-next-for-sap-businessobjects-bi-join-our-two-part-webcast-series/ba-p/14500741",
+    "published": "2026-10-23T15:12:50.000Z",
+    "snippet": "Join our focused, one-hour sessions in November covering the BI 2025/2027 roadmap, platform administration, BI LaunchPad evolution, Web Intelligence dashboarding, and Crystal Reports modernisation, and much more."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "SAP on IBM i Webcast: The Latest Migration and Security Advances",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-on-ibm-i-webcast-the-latest-migration-and-security-advances/ba-p/14509917",
+    "published": "2026-10-23T13:54:00.000Z",
+    "snippet": "Register for the upcoming SAP on IBM i Webcast to learn about doDMO, MWA, SAP NetWeaver RFC SDK and more."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Upcoming Expert-guided Implementation (EGI) sessions SAP Data & Analytics November 2026",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/upcoming-expert-guided-implementation-egi-sessions-sap-data-amp-analytics/ba-p/14508648",
+    "published": "2026-10-23T13:19:28.000Z",
+    "snippet": "Check out the upcoming Expert-guided Implementation sessions for SAP Data and Analytics for November"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Pull data from any API endpoint into SAP LeanIX without running a script outside your workspace",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/pull-data-from-any-api-endpoint-into-sap-leanix-without-running-a-script/ba-p/14509852",
+    "published": "2026-10-23T13:05:24.000Z",
+    "snippet": "Most custom integrations follow the same tired pattern: write a script, find somewhere to host it, babysit a cron job, rotate the credentials, and hope it keeps running. The new Custom Discovery Connector drops all of that. You describe the source, let AI generate a small fetch script, and LeanIX hosts, schedules, and runs it for you: credentials managed inside the platform, no servers, no middlew"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Changelog for SAP objects - Verify clean core level C compliance of your custom extensions",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/changelog-for-sap-objects-verify-clean-core-level-c-compliance-of-your/ba-p/14509473",
+    "published": "2026-10-23T12:56:35.000Z",
+    "snippet": "In the clean core level concept outlined in the Clean core extensibility for SAP S/4HANA Cloud whitepaper, custom extensions using arbitrary SAP internal objects can be qualified as conditional clean core Level C extensions if dedicated pre‑upgrade checks based on changelog for SAP objects are executed for these extensions. Internal SAP objects can change at any point in time during an upgrade. In"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "Confused About Your Career in SAP? Delphi Computech Announces - openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmhmTjFQUS1BZmZzT3hPSlBOZFhXMUo1S1NWTk91VzdJNUpiX2t1bUtIZWZ0dTRCekY5QnBqMnkwRDdUeDBlVGNGaDZrTEJCYU1vUm1jUWl6NjloX1RpaTRlUmxMMWZhTjZLMXV6RFIwRzlyUzdkZFlfSW9mY3lWRzJNZ01QVVRQZ0o5aU12MFhzMjI3STNEajdJeEg?oc=5",
+    "published": "2026-10-23T11:42:27.000Z",
+    "snippet": "Confused About Your Career in SAP? Delphi Computech Announces openPR.com"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "SAP lets AI play key role in its certification renewal process - CIO",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFl2S3dSSlk0dlRXNFFRVnZ2N0lHYmNJOE9GMzZfbmRFQjBVQzQtM1ZVVG5XbjhaY2s3dlNKdTI2eDZOTTFGWHN0Z2dOWGFtQ2xpdGVjQkhMeFVaZkhyMVZrcGxQSmhIQjc1S1dhc1l3engwTzBHSnFZQWEyOFVRU2hwMWlqdlJRZnpNNjZfTnZQOV9lZmhZVUxBdTYtd2x4OVVMRDln?oc=5",
+    "published": "2026-10-23T11:39:55.000Z",
+    "snippet": "SAP lets AI play key role in its certification renewal process CIO"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "SAP BTP Hackathon 2026 最優秀賞個別インタビュー",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-btp-hackathon-2026-%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E5%80%8B%E5%88%A5%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/ba-p/14507194",
+    "published": "2026-10-23T11:19:42.000Z",
+    "snippet": "はじめに 本ブログは「SAP BTP Hackathon 2026」において、最優秀賞を受賞されたTISI株式会社様の個別インタビュー記事です。 「SAP BTP Hackathon 2026」は、SAPジャパン株式会社の主催するパートナー/お客様向けのハッカソンイベントです。5年目の開催となった今年のハッカソンは、54社70チーム422名が参加されました。 イベントの流れとしては、2026年5月よりイネーブルメントセッションを実施し、同年6月より1週間のハッカソンを行いました。その後SAPジャパンによる選考を経て、7/3(金)に一次選考を突破したファイナリストチーム6組が集まり、たくさんの参加者やSAP社員が見守る中で、渾身のプレゼンテーションを行い、最優秀作品とチームを決める最終選考イベントを実施いたしました。 今年のハッカソンのテーマは、「業務プロセスを再設計せよ。〜 最強の“相棒”"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "TurboCore AI to Show Payroll Teams How AI Can Investigate Pay Variances in Free Webinar on 4 November - EIN Presswire",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZUd2cU54QTFEcThlVDNGMjRkQzR0TS1xeUhDRkhWNHA5NVAyYTY0RmNSbjRIMDJXUVRnNE42OXdRVGNzQ1hjd05mOExuTzBDMXBlaUlPZG90ek1nX2s4aFhqT1FSUTY2WjY0TWE2bVkyOS1zSm5aZzdBVkVkY3NUYUVVQmxmZmQ4NzVmUm95djc1QmNLZVh0N3ZFanFETk5JNVVjY3ltcHo2RFdUdDNpLWNXSVYwQW55Qmp6blV2NzJJWkZCbmFpNl9ISFNsTVJ1NUNoRUlzeEYwbHhrZWR6Q2p3?oc=5",
+    "published": "2026-10-23T11:15:00.000Z",
+    "snippet": "TurboCore AI to Show Payroll Teams How AI Can Investigate Pay Variances in Free Webinar on 4 November EIN Presswire"
+  },
+  {
+    "source": "SAP News Center",
+    "title": "For the 12th Time, SAP Named a Leader in Gartner® Magic Quadrant™ for Digital Commerce Platforms",
+    "link": "https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/",
+    "published": "2026-10-23T11:15:00.000Z",
+    "snippet": "SAP helps customers simplify complex commerce and prepare for what come next."
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "Manufacturing challenge to SAP-recognised AI innovation: How Varun Kumar Reddy Gaddam helped shape MyPSAAI - Zee News",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcnRqQlBjT1d5ejAwNy05SWpNQTQ5Zlh3aENHejh1cUY5cURHTDdXMnJjNTlOclprcGJvOFVUeDk5VlBTZGY0ZTlLQmVCUm1xYVQ4TUoyZkhhb2dhMnVVdGVlMWl0NHlOcVUtTGVKYXpTYXZlZzNONTRtY0VMREhQYW5CbVJXODljRTNpWFBsb042ODM3clducVN5NHFtTnF5elZCNEN0cFRZQkFLa2ZVNVJsYUNrQUVSNjB0b3NtN2pLaEs0eXB5eWRqS2NoY0hEMGY1NXk0T09fdHNaZWNITTFEaEJWTW9HU0FBWnhfTUpwLUXSAfgBQVVfeXFMTUpkODFmT2hmbFFJYXh1TVJuVGliZlR2eDhSdzNVZThMTnRYLTdtYWhCSXBvMk1nUDdFelRmanc3YTRnb2MxSlh5Q3lVUmVuWFNFQ3pTdHllVnJDQm41TU1hWUVPemZCVUNwMllfTHVWeVNOYnhDcGJGQWpoWDVITThiNmpQa1RpcTJfN1lpcENIQUIyZXp6aXk2U2hHTlZhN1pheGVBSHlHTm1DUEtoblQwWThpbUNOSmhIa0JVcHF1d3lPRGRhSGdkdWhZZFlQUXZVQ21TeVlPVnAtTWk5eGIyYzZsU2pXS3lsUXVsbG1RRmFIeXM2TU8?oc=5",
+    "published": "2026-10-23T10:32:42.000Z",
+    "snippet": "Manufacturing challenge to SAP-recognised AI innovation: How Varun Kumar Reddy Gaddam helped shape MyPSAAI Zee News"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Track Your Private Cloud Journey: New Adoption Milestones powered by SAP EarlyWatch Alert",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/track-your-private-cloud-journey-new-adoption-milestones-powered-by-sap/ba-p/14507630",
+    "published": "2026-10-23T09:16:47.000Z",
+    "snippet": "We are excited to announce a new capability for SAP S/4HANA Cloud Private Edition customers: adoption milestone tracking, powered by SAP EarlyWatch Alert data and available in the Customer Insights Dashboard (CID) on SAP for Me.If you are already familiar with the onboarding milestones for SAP S/4HANA Cloud Public Edition and SAP Integrated Business Planning (IBP), this is the Private Cloud counte"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "SAP receives the award from Ametic for its digital talent program SAP Impulsa Empleo - Demócrata",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUVmUktnZ1FFSllvR1RBVVg4RDFTMEM3akMtcDJ1NVBjZ1RjX2tXakstS2ZWS1lfdTF1ZEwwSWFmXzM1Y2wzcXJlRFVyZTFUaTN2cnZ6N1JHc2lYTWJYUWUwdDJhblVZZXBaSlM3ZzRaVG5mMkE1OVdVcXlNa3pyNm5YNDVpSTEtZ2VkOUFpc0tvblh0Q1ZxUEpKaUlhcDNMeXI1NDRUb0gwYUdWdDc4Rm4tSFAwOWliWjlhNndsZzNEMXfSAcMBQVVfeXFMTmlFZlJLZ2dRRUpZb0dUQVVYOEQxUzBDN2pDLXAydTVQY2dUY19rV2pLLUtmVktZX3UxdWRMMElhZl8zNWNsM3FyZURVcmUxVGkzdnJ2ejdSR3NpWE1iWFFlMHQyYW5VWWVwWkpTN2c0WlRuZjJBNTlXVXF5TWt6cjZuWDQ1aUkxLWdlZDlBaXNLb25YdENWcVBKSmlJYXAzTHlyNTQ0VG9IMGFHVnQ3OEZuLUhQMDlpYlo5YTZ3bGczRDF3?oc=5",
+    "published": "2026-10-23T09:15:07.000Z",
+    "snippet": "SAP receives the award from Ametic for its digital talent program SAP Impulsa Empleo Demócrata"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Proactive by Design: Introducing Adoption Milestone Tracking for S/4HANA Private Cloud",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/proactive-by-design-introducing-adoption-milestone-tracking-for-s-4hana/ba-p/14500591",
+    "published": "2026-10-23T09:05:50.000Z",
+    "snippet": "Moving your ERP to the cloud is one of the most significant transformations a business can undertake. For S/4HANA Private Cloud customers, the journey from contract signature to a fully operational, value-generating system spans months — sometimes years — of provisioning, configuration, testing, and go-live activities.It is a complex journey, and like any complex journey, the earlier you know you "
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Delete the Training Pipeline",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/delete-the-training-pipeline/ba-p/14509110",
+    "published": "2026-10-23T09:01:24.000Z",
+    "snippet": "Your lakehouse is fresh. Why are your forecasts still days old?Most predictive ML architectures contain the same contradiction: a continuously updated, zero-copy lakehouse feeds a pipeline that freezes the data, trains one model per tenant and use case, and retrains it on a schedule. Three thousand tenants and four use cases already mean twelve thousand model artifacts—each with its own lifecycle "
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "CDS Table Entities - Definition of Fields: built-in types and type mappings",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/cds-table-entities-definition-of-fields-built-in-types-and-type-mappings/ba-p/14498573",
+    "published": "2026-10-23T07:40:08.000Z",
+    "snippet": "You have certainly heard of CDS table entities as the successors of classic Dictionary tables. But how exactly do you define fields, and what types should you use?This article dives into the ABAP built-in types supported in CDS table entities, covering everything from numeric and character-like types to date/time, byte, currency, and geodata formats. Along the way, you will find practical guidance"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Introducing On-Premise Extractor, Advance Scalability & Security",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-on-premise-extractor-advance-scalability-amp-security/ba-p/14508487",
+    "published": "2026-10-23T06:48:56.000Z",
+    "snippet": "We've completely redesigned the On-Premises Extractor for SAP Signavio Process Intelligence. The new version brings high availability, key-pair authentication, and Java 25."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "SAP Key Management Service: Taking Control of Your Encryption Keys in the Cloud",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-key-management-service-taking-control-of-your-encryption-keys-in-the/ba-p/14505365",
+    "published": "2026-10-23T06:21:04.000Z",
+    "snippet": "How SAP Key Management Service empowers customers to manage their own cryptographic keys across SAP cloud services and products."
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "Kishore Hirani Appointed Group Chief Information Officer at Lloyds Metals & Energy - CXO Digitalpulse",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjFvX25PdEpneXRBa0tpc2I0czNjaWVJOUdtajE5WW9yY05abDd6dy11T1dMR29xVnMzU1ZNN0diRHliT1JNTWVLcXJkTmhtYkJpUFNEQTEwUDBvVkVMNmJ3ZlJ5VjZkc1lXVXdLUzRjUml2WHczdFJKSGl1bFpuWHdyYTFjUHdZdE5ZMm1XakVlVkdsSW9pVzlkTW40M0dybV9WejNWcXBEWVUzd0NBVzZjOA?oc=5",
+    "published": "2026-10-23T06:20:06.000Z",
+    "snippet": "Kishore Hirani Appointed Group Chief Information Officer at Lloyds Metals & Energy CXO Digitalpulse"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Enrichment of Solution Order Output with Information from Related Transactions Made Possible",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/enrichment-of-solution-order-output-with-information-from-related/ba-p/14505430",
+    "published": "2026-10-23T05:52:18.000Z",
+    "snippet": "Learn how to add more information to your Solution Order output forms without cluttering your database. Discover a modern approach to display dynamic information like pricing from follow-on documents, custom calculations, or related data—computed on-demand when generating order acknowledgements. Perfect for companies needing flexible output forms without permanent database extensions."
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "스타에셋파트너스, '스타라이즈 2026' 11월 24일 개최 - 벤처타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZaFZQd2FQTVZfZjdlNXFwa1FIXzR6cFpBMXlyU0VUQ0JUQzE2UlRrOUlScldQZUx6bXhpbVRiY0pYVm9EYjB3cThuZVVzOWhMLUM5UWlPN0ZyYUU1SW9GVG5vUEs0dw?oc=5",
+    "published": "2026-10-23T00:00:00.000Z",
+    "snippet": "스타에셋파트너스, '스타라이즈 2026' 11월 24일 개최 벤처타임즈"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "SAP Cloud ERP Revenue Jumps 29%, Spotlight on LG CNS - THE ELEC, Korea Electronics Industry Media",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43SXl2UjI2dGRKeWlXOEVJSjJ0X295SDZETmI1VWlVLTJBbkR3VjV3TE9xcmZMc3A1ZWktTTR0U2F3Wm9jckVNRFRqXzlYV1otTFZ3ZmRCXzM2Q2dJekF6YWpiLTJSRW8?oc=5",
+    "published": "2026-10-22T23:59:00.000Z",
+    "snippet": "SAP Cloud ERP Revenue Jumps 29%, Spotlight on LG CNS THE ELEC, Korea Electronics Industry Media"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "NetSuite launches free AI finance platform for startups - Portal ERP",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTdoMjgwVklJcnRpTi15czhEUFJ1UEZqNU9HeWhPQmc3dHJvSjBESHdKLW11UUlwYWJ0c1oyN2xJd3E0Z1pkMTQwWUQ4SmFXSjlWaF9TbFQ0ZUxtaklSVXpCNXFtZGQweUtoaV93MmN1eG1kSGp6cm1WQkNGSFJDN2tmVjhkVmlvd0E?oc=5",
+    "published": "2026-10-22T23:03:45.000Z",
+    "snippet": "NetSuite launches free AI finance platform for startups Portal ERP"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "SAP showcases Q3 customers as organizations across Asia Pacific embrace the Autonomous Enterprise - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTm5yVUh1NVVpeFNfTVA4Wl9mdWpYRjJQbWk2aktHTmp1Yko2cTkzQzlTNUtmX2htSTI2ZlpJZGZ6QlpMTW42MXhURko2OGZLWnZaUkxUVWJpWm1YZFdrZ3Rmb0FZWWVCWUZVcER5azV5cC1PeUZiVnZUVk5RTDdDVDdGTzNrUjBzb2JBTVFBTXZWNjBfLTJJcDEzTnBIYkZiaXhibjY3Y1prM0dWcXVGX2tES3I5cE85dFp5Q09VTjRJNlZmR2lLZGlFbw?oc=5",
+    "published": "2026-10-22T22:41:53.000Z",
+    "snippet": "SAP showcases Q3 customers as organizations across Asia Pacific embrace the Autonomous Enterprise SAP News Center"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "Pigment looks to acquire as it enters ERP market - Axios",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY05DdnRrVFh0cVVkT29DODV5bE5oeGxZVjVzeFBobHBDbjZjZVFRc2k4Y3hHbU9xU0ZVc1R4Ukg3VHBMZGZuNy1XWF9lWDFfNllLMDJZbVQ1QVlnYkxFSTFaMm02Vk5EUDQyUjNzWThIWk1XMERNWkZlRXN1S3hZX0JRcTBTUHdO?oc=5",
+    "published": "2026-10-22T21:50:14.000Z",
+    "snippet": "Pigment looks to acquire as it enters ERP market Axios"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Announces Record Third Quarter - ERP Today",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXdW01VHJaZGJLZy1aa1NfT2NCTXlkeV9kbWVRd3pZN2NuS2FIcTI5NVNWbTNFX0lDcHl3LXg0VW5OZkxkRWcwVGhoWHZ0TnltdGY3UEVYTUg3aGdkdXpNdjlwUQ?oc=5",
+    "published": "2026-10-22T18:03:49.000Z",
+    "snippet": "SAP Announces Record Third Quarter ERP Today"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Crosses €10 Billion Quarterly Revenue as Joule AI Agents Drive Cloud Backlog to Record - Tech Times",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWldZZGxrZk45TkVneFhMZnItVW10TUt4Qml6elU0d1lCakVQdlJZXzh0SXNqd1hHODA2bk15WEc5NEJaN29KYm5udzB2R3BhWHhKM29hQWRtTDRRQVdZZmpKS3NHaVdGUFF0M0JzZ0lFNkdFTWFWSC02d1lvaGRyQlB0WnpGajFrc2sxZUhXUVhUTzRiZHlSYUJWVzlzcG5iNHJJM0w2dk1HbEFfNnAtbzFTOGlULVJWdTNSaFpWN3lTOXJ5aHp0WjROMVVZRy13UHNOR0NFVzc?oc=5",
+    "published": "2026-10-22T14:17:01.000Z",
+    "snippet": "SAP Crosses €10 Billion Quarterly Revenue as Joule AI Agents Drive Cloud Backlog to Record Tech Times"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "신규 자동차 브랜드 iCAUR가 베트남에 진출합니다. 이 중국 자동차 브랜드는 무엇을 선보일까요? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJRSFlZWUVGR05tU3puQkdubHBfR0pYbXd2OVhFXzhuak01T0NSOE5xOG1lSllVQ3RnWWMtY0lBb2N1R2dGZEhPY2U2N2RrTnMwRFE4ZFl6Njhvand6Q3BrZ1dPTE9aSkVsUG1TU2Z2NE9kRGdJc3VPMDRSWFpQY0dmZmhzOE1nVU91Rjdyd2JxOTE2TVE?oc=5",
+    "published": "2026-10-22T10:23:26.000Z",
+    "snippet": "신규 자동차 브랜드 iCAUR가 베트남에 진출합니다. 이 중국 자동차 브랜드는 무엇을 선보일까요? Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Key facts: SAP SE Sponsored ADR Q3 €10.3B; €3.03B adj EBIT; ests +3% - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbi1IUGJGMlFMZWZNbzZmMGQ1TE1GQ3dta1lSVFBTRm16TVNJM2hoTWt1LWVLOGZkV1V5SU5xSUJvckU1ZEV3SXI3dnZGNEQ4ZG8tdGlDOVR6YmQyME5kU2l2WGhTTDRxQktudE5reW14UHZiX202SWc1eTZrZEJONG5pOUZ4TXJSNjN0M2kzOV9JRmp3c3ZuTy1nZFE0cWZ1ZmNobEhFUHQzVG96YkpvcU9xMmxzTWRwZnIzamozLUQ?oc=5",
+    "published": "2026-10-22T05:00:00.000Z",
+    "snippet": "Key facts: SAP SE Sponsored ADR Q3 €10.3B; €3.03B adj EBIT; ests +3% TradingView"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Quarterly Statement Q3 2026 - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcEpnYWExUEc3RmlrZmtSeUpoTG5MWEh2a3VtNUpsMnFuZ1FQQzduZTJyUkZGMEJUQXJrenBLY0NQeUFDRzk0RFEtRXVvOU80eTNiU3o0em5ZYU9kZW1idFZTT2RIdWF4QTFBazZSeGpDTk9vakROZDNEd21pSVRFWkpLZ0M0Ri0zdnBqSTlxalNJR21JM2hV?oc=5",
+    "published": "2026-10-21T20:05:00.000Z",
+    "snippet": "SAP Quarterly Statement Q3 2026 TradingView"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXRrWE9wemxUUWs1VU9lTGVxY1ZSbklQYTdxb3MyNkNSQXZJbC0wQTZlSWJzSXlSRjNoTlhvVlFGaEpFLUx6UlJvX1pjYVlYa2JWX1NOQm1XSmlyOFBtdzAwRXFKR3QtZFBoNlZFekI4X0hucHQ4SGM4V3VKd2N3VXJQME9vUkkyNmpOZ1gyU2YtZw?oc=5",
+    "published": "2026-10-21T11:21:26.000Z",
+    "snippet": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Lines Up Fameccanica Win and AI Certification Tool as Q3 Cloud Test Looms - AD HOC NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQzdyNnY5X0U4RUNwSmFLTGtzbWxVcThJTGEzZmQ0MmNJYWtGUnY4ZXZmLXRaYlRJN0pYSFg1SUxRRkZTNGlwZjJOTUdiVHFJQXpaWDRXaFBtS2xsQ3dYR0RRNzh6YkdiZTdRaHNVb3ZxRy0ySDJhMWtibnR1M3h6RS1sZDZfSTRLQ1I4WEJoNUxsUUZOc2VaYXdvT3o0MzRDN0RsLVpfZTNHc1RSeVhpUnNpWTRRVm83NjVfVV9qanVWeW9kY19lS2ViX1ZxM2JfU29UTXkxNjI5cUZEdWVlcnNzWQ?oc=5",
+    "published": "2026-10-21T09:40:36.000Z",
+    "snippet": "SAP Lines Up Fameccanica Win and AI Certification Tool as Q3 Cloud Test Looms AD HOC NEWS"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Nestlé Hands Its Overdue Invoices to SAP’s AI Agents - PYMNTS.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVl6dkVBZkdyMHRjc0lZUE9lRzFqLTJSR0RucFAxMUZFV0dfbEs4Mk1WOWw5Ym45dlhMV2Qzd2JseTNJbTVUNW5WUjZPSzh2VEsxdXFYazU5TG03TV9FMlYwWGFDNVdfcHpQUk01RmdpeXJ3ZU1CblAxcnRTWmhIY3VJZ3NQVEtMeWFiNjdDMW5rRGlqbVJ0QW5CSzNyLUtRdXZZNmhfR2VQSDF4T0E?oc=5",
+    "published": "2026-10-20T23:25:56.000Z",
+    "snippet": "Nestlé Hands Its Overdue Invoices to SAP’s AI Agents PYMNTS.com"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "까마우에서 베트남 문화의 날과 새우 축제가 곧 개최될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFphQzNoTkpVZENmcHJDT1dveVgtbEZyVldIblRFSlR2R2pDcmQxM2NLcVZzSUtTM20xSlZaLWU0TjRMdEpHTGNoNEp6cThVSFEzSjg3RDd4T3V2ZXlQQjhjRlA4NWJaRzlUemVHMVVudnVWWTFLOENJUkV2OFA4UjBEUkRMMEVHQ0hFWlZWSQ?oc=5",
+    "published": "2026-10-20T17:20:09.000Z",
+    "snippet": "까마우에서 베트남 문화의 날과 새우 축제가 곧 개최될 예정입니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "2026년 남부 산업 및 무역 부문 관련 일련의 행사가 곧 시작될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1ZjRV9TX3lrRFotYjZwTDYwQS1qZzVCbm14M1F5dzdONkRPeDl3Rm9weU11dzNJQ2J5bFVnWlU1aF8zSXNCeXZ3c3EwSTZPaVpnbXVaYVVzd3U5a0QyNGhveFhnem54SzV6OHpWSHRqd001NTRuUlJEQmZiM3VrNTZ2aWFOU0wzYXYzaVR4bEI?oc=5",
+    "published": "2026-10-20T13:37:28.000Z",
+    "snippet": "2026년 남부 산업 및 무역 부문 관련 일련의 행사가 곧 시작될 예정입니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "훈련 프로그램을 재구성하고, 유행을 맹목적으로 따르지 마십시오. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CTGx3V0pmb2o2d2RJMF9ia0lETnVDb2JuTGdwdWZjR1pCQjlOeTRsWmUtTjQ0SmkzZVFIT3B5ZzU3RzZRdVlpYXNlanFCXzJQMWJEYXNuRGo5alBfWFF3ZGhwVm40X3BhLXR2OG5PN1NOUUtWVWFGZ2F2dzI?oc=5",
+    "published": "2026-10-19T17:39:03.000Z",
+    "snippet": "훈련 프로그램을 재구성하고, 유행을 맹목적으로 따르지 마십시오. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "학교 디지털 안전에 관한 사이버 케어 서밋 2026이 곧 개최됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEh0SXVkOVBMQWFWU1lvMV9sWXp5WWdhZTJ1Sm1TWVo2Umg4WTJUMnB5SE9qWE1QNmM2eUQ3YzdYQTA5d21EaExXNm1iRjNRXzlKZkdXMFo4QnRnUUJSVDRXb2pCbHlKYkxJR3RHcnpsYWx1aWkyeVBsMjlMaUxUS2cxbzYtSTNTNkhDVjVtWXFSSDdEeVA0LQ?oc=5",
+    "published": "2026-10-19T04:18:50.000Z",
+    "snippet": "학교 디지털 안전에 관한 사이버 케어 서밋 2026이 곧 개최됩니다. Vietnam.vn"
+  }
+]
