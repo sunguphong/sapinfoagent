@@ -6,6 +6,7 @@ import { spawn } from "node:child_process";
 import { existsSync, readFileSync, readdirSync, statSync, createReadStream, writeFileSync } from "node:fs";
 import path from "node:path";
 import { sendMail } from "./mail.js";
+import { syncCi } from "./ci-sync.js";
 import { ROOT, DEFAULT_AGENT, loadAgent, listAgents, agentPaths, saveAgentMailTo } from "./agents.js";
 
 const envPath = path.join(ROOT, ".env");
@@ -355,3 +356,8 @@ const server = http.createServer(async (req, res) => {
 });
 
 server.listen(PORT, () => console.log(`sapinfoagent web: http://localhost:${PORT}`));
+
+// GitHub Actions 실행·발송 기록 가져오기 (ci-state 브랜치) — 시작 시와 5분마다
+const ciSync = () => syncCi().then((r) => { if (r && (r.runs || r.files)) console.log(`ci-sync: 실행 기록 ${r.runs}건, 파일 ${r.files}개 추가`); }).catch((e) => console.error("ci-sync 실패:", e.message));
+ciSync();
+setInterval(ciSync, 5 * 60 * 1000);

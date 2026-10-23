@@ -13,7 +13,7 @@ const ago = (iso) => { if (!iso) return ""; const s = Math.max(0, (Date.now() - 
 const until = (iso) => { const s = Math.max(0, (new Date(iso) - Date.now()) / 1000); const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60); return h ? `${h}시간 ${m}분 후` : `${m}분 후`; };
 const dur = (a, b) => { if (!a || !b) return ""; const s = Math.round((new Date(b) - new Date(a)) / 1000); return s >= 60 ? `${Math.floor(s / 60)}분 ${s % 60}초` : `${s}초`; };
 
-const SRC = { scheduler: "스케줄러", web: "웹", manual: "수동(CLI)" };
+const SRC = { github: "자동(GitHub)", scheduler: "스케줄러", web: "웹", manual: "수동(CLI)" };
 const MODE = { send: "발송", "dry-run": "드라이런", "collect-only": "수집만" };
 const STATUS = { success: "성공", error: "오류", running: "실행 중" };
 const badge = (cls, txt) => `<span class="badge ${cls}">${esc(txt)}</span>`;
