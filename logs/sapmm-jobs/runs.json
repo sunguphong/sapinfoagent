@@ -44,5 +44,28 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-10-23T21:52:01.255Z",
     "finishedAt": "2026-10-23T21:52:01.255Z"
+  },
+  {
+    "id": "20261024213437",
+    "agent": "sapmm-jobs",
+    "startedAt": "2026-10-24T21:34:37.025Z",
+    "date": "2026-10-25",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261024213437.log",
+    "base": "2026-10-25_20261024213437",
+    "fetched": 155,
+    "selected": 60,
+    "usedHours": 336,
+    "feedErrors": [
+      "원티드: HTTP 403"
+    ],
+    "picked": 3,
+    "html": "2026-10-25_20261024213437.html",
+    "mailId": "<9a491559-0918-1f8c-58e4-d84d6af811d7@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-10-24T21:35:03.928Z",
+    "finishedAt": "2026-10-24T21:35:03.928Z"
   }
 ]
