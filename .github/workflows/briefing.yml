@@ -16,6 +16,7 @@ on:
     - cron: "11 19 * * *"   # 04:11 KST  realestate, sapmm-jobs (07:00)
     - cron: "11 19 * * 0-4" # 04:11 KST 평일  stock  (07:00)
     - cron: "13 20 * * *"   # 05:13 KST  skincare   (08:00)
+    - cron: "21 19 * * *"   # 04:21 KST  ces        (07:30)
   workflow_dispatch:
     inputs:
       agents:
@@ -50,6 +51,7 @@ jobs:
             "11 19 * * *")   list="realestate,sapmm-jobs" ;;
             "11 19 * * 0-4") list="stock" ;;
             "13 20 * * *")   list="skincare" ;;
+            "21 19 * * *")   list="ces" ;;
             *)              list="$INPUT" ;;
           esac
           echo "agents=$(echo "$list" | jq -Rc 'split(",") | map(gsub("^\\s+|\\s+$"; "")) | map(select(length > 0))')" >> "$GITHUB_OUTPUT"
