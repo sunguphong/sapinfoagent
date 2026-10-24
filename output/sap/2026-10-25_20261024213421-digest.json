@@ -1,0 +1,199 @@
+{
+  "overview": "SAP가 2026년 3분기 실적에서 분기 매출 100억 유로를 처음으로 넘기며 사상 최대 실적을 발표했고, Joule AI 에이전트가 클라우드 백로그 증가를 이끈 것으로 평가됩니다. 네슬레의 연체 송장 처리 사례와 아시아태평양 고객 사례 등 'Autonomous Enterprise' 전략이 실제 고객 사례로 이어지고 있습니다. 기술 측면에서는 클린 코어 Level C 준수를 확인하는 'SAP 객체 변경 로그'가 소개되었고, CVSS 10.0 등급 취약점 패치도 주목할 부분입니다. 국내에서는 SAP ERP 차세대 전환을 앞두고 기업 비용 부담을 줄이는 방안이 논의되고 있습니다.",
+  "categories": [
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 10,
+          "title_ko": "SAP, 분기 매출 100억 유로 돌파…Joule AI 에이전트가 클라우드 백로그 사상 최대치 견인",
+          "summary": "SAP가 3분기 매출 약 103억 유로, 조정 EBIT 약 30억 3천만 유로로 사상 최대 분기 실적을 발표했습니다. Joule 기반 AI 에이전트 수요가 클라우드 백로그를 역대 최고 수준으로 끌어올린 것으로 분석됩니다.",
+          "why": "클라우드·AI 중심 전환이 매출로 확인되면서 고객사의 RISE·클라우드 전환 압력과 관련 프로젝트 수요가 더 커질 것으로 보입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Crosses €10 Billion Quarterly Revenue as Joule AI Agents Drive Cloud Backlog to Record - Tech Times",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWldZZGxrZk45TkVneFhMZnItVW10TUt4Qml6elU0d1lCakVQdlJZXzh0SXNqd1hHODA2bk15WEc5NEJaN29KYm5udzB2R3BhWHhKM29hQWRtTDRRQVdZZmpKS3NHaVdGUFF0M0JzZ0lFNkdFTWFWSC02d1lvaGRyQlB0WnpGajFrc2sxZUhXUVhUTzRiZHlSYUJWVzlzcG5iNHJJM0w2dk1HbEFfNnAtbzFTOGlULVJWdTNSaFpWN3lTOXJ5aHp0WjROMVVZRy13UHNOR0NFVzc?oc=5",
+            "published": "2026-10-22T14:17:01.000Z",
+            "snippet": "SAP Crosses €10 Billion Quarterly Revenue as Joule AI Agents Drive Cloud Backlog to Record Tech Times"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "SAP, 아시아태평양 3분기 고객 사례 공개…'자율 기업(Autonomous Enterprise)' 확산",
+          "summary": "SAP가 아시아태평양 지역에서 3분기에 자사 솔루션을 도입한 고객 사례를 소개했습니다. 여러 조직이 AI 기반 자율 운영 기업 모델을 받아들이고 있다고 강조했습니다.",
+          "why": "국내와 가까운 APAC 시장의 도입 사례는 영업 제안과 레퍼런스로 직접 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP showcases Q3 customers as organizations across Asia Pacific embrace the Autonomous Enterprise - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTm5yVUh1NVVpeFNfTVA4Wl9mdWpYRjJQbWk2aktHTmp1Yko2cTkzQzlTNUtmX2htSTI2ZlpJZGZ6QlpMTW42MXhURko2OGZLWnZaUkxUVWJpWm1YZFdrZ3Rmb0FZWWVCWUZVcER5azV5cC1PeUZiVnZUVk5RTDdDVDdGTzNrUjBzb2JBTVFBTXZWNjBfLTJJcDEzTnBIYkZiaXhibjY3Y1prM0dWcXVGX2tES3I5cE85dFp5Q09VTjRJNlZmR2lLZGlFbw?oc=5",
+            "published": "2026-10-22T22:41:53.000Z",
+            "snippet": "SAP showcases Q3 customers as organizations across Asia Pacific embrace the Autonomous Enterprise SAP News Center"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "네슬레, 연체 송장 처리를 SAP AI 에이전트에 맡긴다",
+          "summary": "네슬레가 연체된 송장 관리와 수금 업무에 SAP의 AI 에이전트를 도입했습니다. 매출채권 관리(AR) 같은 재무 프로세스에 에이전트형 AI가 실제로 적용된 사례입니다.",
+          "why": "FI-AR·수금 관리 영역에서 AI 에이전트 활용 시나리오를 구체적으로 보여주는 대형 레퍼런스입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Nestlé Hands Its Overdue Invoices to SAP’s AI Agents - PYMNTS.com",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVl6dkVBZkdyMHRjc0lZUE9lRzFqLTJSR0RucFAxMUZFV0dfbEs4Mk1WOWw5Ym45dlhMV2Qzd2JseTNJbTVUNW5WUjZPSzh2VEsxdXFYazU5TG03TV9FMlYwWGFDNVdfcHpQUk01RmdpeXJ3ZU1CblAxcnRTWmhIY3VJZ3NQVEtMeWFiNjdDMW5rRGlqbVJ0QW5CSzNyLUtRdXZZNmhfR2VQSDF4T0E?oc=5",
+            "published": "2026-10-20T23:25:56.000Z",
+            "snippet": "Nestlé Hands Its Overdue Invoices to SAP’s AI Agents PYMNTS.com"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "SAP, 2026 가트너 매직 쿼드런트 '재무용 클라우드 ERP' 부문 리더 선정",
+          "summary": "SAP가 2026년 가트너 매직 쿼드런트의 재무용 클라우드 ERP 부문에서 리더로 선정되었습니다. S/4HANA Cloud 재무 기능의 시장 경쟁력을 다시 한번 인정받았습니다.",
+          "why": "클라우드 ERP 솔루션을 비교하는 고객에게 SAP의 재무 솔루션을 설명할 때 객관적 근거로 쓸 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmN6Qk1CZ2JrQm5pQU84UW1YWVVKQVlOWUZOTWZOdy03XzFSYy1ENTVKN1BFdW5iX2Qxc0QxYmduTkRRYjhhTDVhNmpnLVRPM1hFZGk2Ukt6Z1dVNFdxRFB0dm1EdmpqMzBZRU5XTVRFWW41em1CS2xqTEtJS0JKMnl1YVNyZ3IyTE1DeDVZT3VsbVNZSzN3?oc=5",
+            "published": "2026-10-19T12:22:24.000Z",
+            "snippet": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance SAP News Center"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "SAP LeanIX, 가트너 매직 쿼드런트 '엔터프라이즈 아키텍처 도구' 부문 6년 연속 리더",
+          "summary": "SAP LeanIX가 가트너 매직 쿼드런트의 엔터프라이즈 아키텍처 도구 부문에서 6회 연속 리더로 선정되었습니다. LeanIX는 IT 환경 분석과 전환 계획 수립에 쓰이는 도구입니다.",
+          "why": "S/4HANA 전환 전 시스템 현황 분석과 로드맵 수립에 LeanIX를 활용하는 사례가 늘고 있어 알아둘 필요가 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXRrWE9wemxUUWs1VU9lTGVxY1ZSbklQYTdxb3MyNkNSQXZJbC0wQTZlSWJzSXlSRjNoTlhvVlFGaEpFLUx6UlJvX1pjYVlYa2JWX1NOQm1XSmlyOFBtdzAwRXFKR3QtZFBoNlZFekI4X0hucHQ4SGM4V3VKd2N3VXJQME9vUkkyNmpOZ1gyU2YtZw?oc=5",
+            "published": "2026-10-21T11:21:26.000Z",
+            "snippet": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 20,
+          "title_ko": "SAP, 학습자의 자격 유지를 돕는 AI 기반 롤플레이 도입",
+          "summary": "SAP가 인증 취득자가 자격을 유지할 수 있도록 AI 기반 롤플레이 학습 기능을 선보였습니다. 실제 업무 상황을 가정한 대화형 연습으로 역량을 점검하는 방식입니다.",
+          "why": "SAP 자격증을 보유한 컨설턴트라면 바뀌는 자격 유지 학습 방식을 미리 확인해 둘 필요가 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWJCSnJ1Vmh3MDFlNERmNVJTaV8zWmlJVS1ocVlBdEtDSG0zOUhrY090RzhETWh2bnUwX0VLQk1pYWF2MFR4a01QSWxiX2R2dFJPUE4yZThXZ3BXcXZPUlpibzZ6Y25IakhEZXU1WkcweVZpMm0tS1cwel9YREYtWTA0TmRHajU1MmhDS1c0SDNRRGc?oc=5",
+            "published": "2026-10-20T12:22:37.000Z",
+            "snippet": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified SAP News Center"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "SAP의 AI 메뉴에 '출처 표시 라벨' 도입…골드만삭스는 목표주가 258유로로 상향",
+          "summary": "SAP가 AI 기능에 출처(provenance) 정보를 표시하는 방식을 적용한다는 소식입니다. 같은 시기 골드만삭스는 SAP 목표주가를 258유로로 올렸습니다.",
+          "why": "AI 결과의 출처와 신뢰성 표시는 고객사의 AI 거버넌스·감사 요건과 직결되는 이슈입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP's AI Menu Comes With a Provenance Label as Goldman Raises the Bar to €258 - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV01qMDUxdGgyWFk2b1N2bHZ1Wkp4dDBEMkdpX0tPSE1YMnJ5NG5zQkVxNlVjeXVaUC1FTnNxWmFCd3AwZmJVcnpVbkdtQW8xclVGZm9Xa1JYREx6dVZJeUxxNU1VRnVUeWJNd0JsRFFlQ0Jod3BiOXhiNkNfdzYyd1MyekplY242dHp2Mm1QZGtZUUVWVFJFaVM4MGlBUGdQeXFsaDRCdlc3Q08yVXdXQXQzVzZ1REw2a3MyOHVHNE9lQ2RnRFpxaW1Xa3FVbE0zbXRCekpodnozd0RNZ0kxdUlB?oc=5",
+            "published": "2026-10-24T18:51:20.000Z",
+            "snippet": "SAP's AI Menu Comes With a Provenance Label as Goldman Raises the Bar to €258 ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "SAP Connect 2026: 자율형 CX가 실전 무대로 나서다",
+          "summary": "SAP Connect 2026에서 발표된 자율형 고객경험(CX) 비전을 다룬 기사입니다. AI 에이전트가 영업·서비스 등 CX 업무를 자율적으로 처리하는 방향을 제시했습니다.",
+          "why": "SAP CX 솔루션의 AI 에이전트 로드맵을 파악하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Connect 2026: Autonomous CX Steps Out of the Kitchen - CustomerThink",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2t6Y1laNUlhYm54MTUwR3dkbS1DUUt6azMtTENqR0JvVUlDZldVN1BmQnpEdjk3WVlBbTM0cEY3NERUd1BMZ3dZa25vWDRoZnMwaHVneDhuRFV0TmJSS25SaWh5ZGhtSk5tdzVMVjhwTDdzYzFubll3RXVaMHExekc4M3hGNXQ1QXc?oc=5",
+            "published": "2026-10-18T01:36:10.000Z",
+            "snippet": "SAP Connect 2026: Autonomous CX Steps Out of the Kitchen CustomerThink"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "SAP 객체 변경 로그(Changelog) – 커스텀 확장의 클린 코어 Level C 준수 여부 검증",
+          "summary": "S/4HANA Cloud 클린 코어 확장성 백서에 따르면, SAP 내부 객체를 사용하는 커스텀 확장도 'SAP 객체 변경 로그' 기반의 업그레이드 사전 점검을 수행하면 조건부 클린 코어 Level C로 인정받을 수 있습니다. 내부 객체는 업그레이드 때마다 바뀔 수 있으므로 이 점검으로 영향 범위를 미리 확인하는 것이 핵심입니다.",
+          "why": "기존 커스텀 개발을 클린 코어 기준에 맞춰 관리하고 업그레이드 리스크를 줄이려는 개발자와 아키텍트에게 실무적으로 중요한 내용입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Changelog for SAP objects - Verify clean core level C compliance of your custom extensions",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/changelog-for-sap-objects-verify-clean-core-level-c-compliance-of-your/ba-p/14509473",
+            "published": "2026-10-24T08:05:22.000Z",
+            "snippet": "In the clean core level concept outlined in the Clean core extensibility for SAP S/4HANA Cloud whitepaper, custom extensions using arbitrary SAP internal objects can be qualified as conditional clean core Level C extensions if dedicated pre‑upgrade checks based on changelog for SAP objects are executed for these extensions. Internal SAP objects can change at any point in time during an upgrade. In"
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "SAP의 10월: CVSS 10.0 취약점, 벨기에 AI 계약, TD Cowen의 클라우드 전망 상향",
+          "summary": "10월 SAP 보안 패치에 CVSS 10.0 등급의 치명적 취약점이 포함되었고, 벨기에에서 AI 관련 계약을 따냈다는 소식입니다. TD Cowen은 SAP 클라우드 사업에 대한 전망을 높였습니다.",
+          "why": "CVSS 10.0 취약점은 즉시 패치 적용 여부를 점검해야 하는 수준이므로 Basis·보안 담당자의 확인이 필요합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP's October Ledger: A CVSS 10.0 Flaw, a Belgian AI Deal, and TD Cowen's Raised Bet on Cloud - AD HOC NEWS",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOODVBMTZrWllqa1JSeTgtd3ZQaVB4LUE5ejFqZFZUWDI2a3ZWUEV6ZHJKazZNdWlRTkswVjJBX05MUGtCVG9sejJEVlVoeTJjeFNPdzJEZy1MV1JaeUxOSXFIUHk2eHc1U2RMdjRZTEJhb2sxeFplZE5IMkN6cFpWem1ILWZfR1BpRm5kSzJ3LUZ5b3ZOSzNsRVZ3dTl1d1hiWjU5TXNBbi1PNnVJMDVrc2F5Q29IaTJnLWZvVEQ0VWplSmhLbkphNFhJdUswNFh2QTdUdjJXUFlrQVhqLVo4U1d0bWVmZEMwSmxGaW9mdEJtQ1dw?oc=5",
+            "published": "2026-10-18T18:40:43.000Z",
+            "snippet": "SAP's October Ledger: A CVSS 10.0 Flaw, a Belgian AI Deal, and TD Cowen's Raised Bet on Cloud AD HOC NEWS"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 3,
+          "title_ko": "SAP ERP 차세대 전환 초읽기…기업 비용 부담 줄일 해법은",
+          "summary": "SAP ECC 지원 종료가 다가오면서 국내 기업의 차세대 ERP 전환이 본격화되고 있습니다. 전환 비용 부담을 줄이기 위한 여러 방안이 논의되고 있습니다.",
+          "why": "국내 고객사가 전환 전략을 세우고 예산을 잡을 때 고민하는 지점을 파악하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "SAP ERP 차세대 전환 초읽기…기업 비용 부담 줄일 해법은 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42TDJZdkpyQi1WYkswY3lJcEphcWpGaHZkSHRrQnpGbjF0b0lSWkdUNXdMMi1TOHNULW11WW8zdXNkZmkzRlpoaUlSZjk5RG1kblhxM3VR?oc=5",
+            "published": "2026-10-24T00:59:15.000Z",
+            "snippet": "SAP ERP 차세대 전환 초읽기…기업 비용 부담 줄일 해법은 지디넷코리아"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "일부 기업이 (SAP 전환을) 미루는 이유",
+          "summary": "IgniteSAP가 일부 기업이 SAP 전환이나 도입을 미루는 이유를 다룬 글입니다. 전환을 망설이게 만드는 조직적·비용적 요인을 살펴봅니다.",
+          "why": "전환을 주저하는 고객을 설득하고 대응 논리를 세우는 데 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Why Some Companies Delay - IgniteSAP",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LZm9JVFBoeVpPZGdKSHZEMGZuZ1Jfc29tTldleTVnVVJIdkFkZG04bHNMQk1MazFkX3dhUkRNY3E4TzFKd1JUbm4xRGtETU1tb1NZSlQyWW1zVHRKaTRlVzhsbw?oc=5",
+            "published": "2026-10-20T09:02:35.000Z",
+            "snippet": "Why Some Companies Delay IgniteSAP"
+          }
+        },
+        {
+          "index": 22,
+          "title_ko": "백 투 더 퓨처: SAP TechEd 30년",
+          "summary": "SAP 대표 기술 컨퍼런스인 TechEd의 30년 역사를 되돌아보는 글입니다. SAP 기술 생태계와 개발자 커뮤니티가 어떻게 발전해 왔는지 정리했습니다.",
+          "why": "SAP 기술 흐름의 변화를 한눈에 볼 수 있어 앞으로의 기술 방향을 이해하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Back to the Future: 30 Years of SAP TechEd - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ckdzN0xQalE2YjFNOVdhMVhfNW1TTDNrWUpnOUw1bExNa3B4QXJocVZXUTRvdUdnQndhT2xBUXVkV1h3dkZVZUk4VE1FYXJBMl84c01MTEsyendiVDBndWxvbkZBTFhZbld4MEduUUk1NFB2cXU1dlY0Zw?oc=5",
+            "published": "2026-10-20T10:27:37.000Z",
+            "snippet": "Back to the Future: 30 Years of SAP TechEd SAP News Center"
+          }
+        }
+      ]
+    }
+  ]
+}
