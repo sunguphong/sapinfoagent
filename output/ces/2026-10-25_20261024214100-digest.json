@@ -1,0 +1,129 @@
+{
+  "overview": "오늘은 CES 2027 개막(2027년 1월 6일 예정) D-73 시점으로, 국내외 기업들이 막바지 전시 준비에 들어가는 시기입니다. 가장 두드러진 흐름은 로봇이며, 삼성·LG가 CES를 약 두 달 앞두고 로봇 개발에 총력을 기울이는 가운데 이재용 회장과 류재철 LG전자 CEO가 직접 현장을 챙기는 것으로 전해졌습니다. 삼성·LG·현대차가 맞붙는 '휴머노이드 삼파전'이 CES 2027의 최대 관전 포인트로 꼽힙니다. 국내 스타트업과 콘텐츠 기업의 참가 확정 소식, 더밀크의 4년 연속 공식 미디어 파트너 선정 등 행사 준비 소식도 이어졌습니다. 지난 CES 화제작인 도넛랩 배터리의 후속 검증 결과도 나왔습니다.",
+  "categories": [
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현장 챙긴다",
+          "summary": "삼성전자와 LG전자가 CES 2027을 약 두 달 앞두고 로봇 개발에 역량을 집중하고 있습니다. 이재용 삼성전자 회장과 류재철 LG전자 CEO가 직접 개발 현장을 점검할 예정이며, 최고경영진이 로봇 사업을 직접 챙긴다는 점이 주목받고 있습니다.",
+          "why": "국내 양대 가전 기업이 CES 2027의 핵심 전시 테마로 로봇을 내세울 가능성이 커, 관련 부품·소재 공급망 전반에 파급 효과가 예상됩니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현장 챙긴다 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2bmZxZUVoTXVBZV9hN2ZPUS1CaFVnNlpSTE9JaDJMbU9BWWZSX09VemM1SUJUR0ZtY3FFY3lWVml6aGI0UUJwaF90Z0N2SjYxLV9ILW5CaXBMSXFYTkFydA?oc=5",
+            "published": "2026-10-23T23:00:00.000Z",
+            "snippet": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현장 챙긴다 아시아경제"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "[CES2027 프리뷰] 대기업 로봇대전 점화…삼성·LG·현대차 '휴머노이드 삼파전'",
+          "summary": "CES 2027에서 삼성·LG·현대차가 휴머노이드 로봇을 두고 정면 경쟁을 벌일 것으로 전망됩니다. 가전과 모빌리티를 대표하는 국내 대기업들이 같은 무대에서 로봇 기술력을 겨루는 구도가 형성되고 있습니다.",
+          "why": "국내 대기업의 휴머노이드 경쟁이 본격화하면서 피지컬 AI가 한국 IT·전자 산업의 차세대 성장 축으로 떠오르고 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[CES2027 프리뷰] 대기업 로봇대전 점화…삼성·LG·현대차 '휴머노이드 삼파전' - 녹색경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VSkJ0d2RHd2hpVXlQb0k0ZXhnQlBjX0o1LXN6NzhxSGo3Q201UFpsaUZCQjh2aXo1YzEwMzFqdm05MmJWc3dqREhQcWt0dXNKWFdmYmdNQm9LSlNlQUhXUTF4MjYzbHc?oc=5",
+            "published": "2026-10-23T03:30:58.000Z",
+            "snippet": "[CES2027 프리뷰] 대기업 로봇대전 점화…삼성·LG·현대차 '휴머노이드 삼파전' 녹색경제신문"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "더밀크, CES 2027 공식 미디어 파트너 선정…4년 연속 CTA와 협력",
+          "summary": "미국 실리콘밸리 기반 한국어 미디어 더밀크가 CES 주최사인 미국소비자기술협회(CTA)와 CES 2027 공식 미디어 파트너십을 맺었습니다. 이번이 4년 연속 협력입니다.",
+          "why": "국내 독자와 기업이 CES 현장 소식과 분석을 한국어로 더 빠르고 깊이 있게 접할 수 있는 창구가 유지됩니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "더밀크, CES 2027 공식 미디어 파트너…4년 연속 CTA와 협력 - 스타트업엔(StartupN)",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wTjUxa3MtOTRCeENNWmZpemZHSzAxRThqR0RLeURvXzlCbXJUc0dxVGI2SEtDVjhkYmdBaUpQTHhlTHV4SDZZV1lTQXk5VENJWjRSVGJrQ3BkQzlYZnRuZGJuQXlvUnJf0gFsQVVfeXFMUEpyN3A4QnlsRDhON0VzUTBmWXVnX1ZwTjNZT1FNaWxXaV9QdmFkVFItWkNEcDBTckd1eFFOVlY2R3BUN25vaElka0QzaFFVR2RpWXNuZTh5VzFOTTNnRHhudC1ncVAtclUwTzln?oc=5",
+            "published": "2026-10-23T07:55:18.000Z",
+            "snippet": "더밀크, CES 2027 공식 미디어 파트너…4년 연속 CTA와 협력 스타트업엔(StartupN)"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "가톨릭관동대 출신 스타트업 에어렛, 'KES 2026' 혁신상 수상…AI 신발 케어기로 CES 2027 참가 확정",
+          "summary": "가톨릭관동대 창업지원단 졸업기업 에어렛이 한국전자전(KES 2026)에서 혁신상을 받았습니다. 이 회사는 AI 신발 케어기를 앞세워 CES 2027 참가를 확정했습니다.",
+          "why": "대학 창업 기업이 국내 전시 수상을 발판으로 CES에 진출하는 사례로, 생활가전 분야 스타트업의 해외 진출 경로를 보여줍니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "가톨릭관동대 창업지원단 졸업기업 에어렛 ‘KES 2026’ 혁신상 수상.. ‘AI 신발 케어기로 CES 2027 참가 확정' - 베리타스알파",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUGR3VzBDb2VzVFNpMTZCQlAwZm0zZFlLS2pOVnV1V0FwbkxiZzB6UkRNMzVteU80WFZtTk1VMnFfckFxcUVWWHY5QS1pb2gzSDRRNThZSmVwY1ctdURBM0RNWHVoaEJNLXlGSg?oc=5",
+            "published": "2026-10-23T08:10:00.000Z",
+            "snippet": "가톨릭관동대 창업지원단 졸업기업 에어렛 ‘KES 2026’ 혁신상 수상.. ‘AI 신발 케어기로 CES 2027 참가 확정' 베리타스알파"
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "정키크림, 8분 하이브리드 애니메이션 공개…CES 2027서 7개 IP 선보인다",
+          "summary": "콘텐츠 기업 정키크림이 8분 분량의 하이브리드 애니메이션을 공개하고, CES 2027에서 자체 IP 7종을 선보이겠다고 밝혔습니다.",
+          "why": "가전·IT 중심이던 CES에서 K-콘텐츠와 엔터테크 기업의 참여가 늘고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "정키크림, 8분 하이브리드 애니메이션 공개… CES 2027서 7개 IP 선보인다 - 스포츠경향",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IekFBWU81MnJoRm1vMERsSWp4c3VDcDVZc3VaMVNCLVJKc1hZLURESG1SR0psMV8tLXlQYjNSYjdtMElFc2NHWEh3SXJycUlNSWRjTFJ6ZUttR1AxakHSAWNBVV95cUxNQ1k3N242QTN0azNmTnl1R2NTWlRxajJtVXUxTmxTWDZ4OFZIVnRiQ3lDbWIxazJiMVg2dmxfb1RPbU9iVE9jSmE2RnN3RVozd3FnUk0wYmNlSmNtUldxa1dMaWM?oc=5",
+            "published": "2026-10-23T00:56:00.000Z",
+            "snippet": "정키크림, 8분 하이브리드 애니메이션 공개… CES 2027서 7개 IP 선보인다 스포츠경향"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "CES 2027 체험형 마케팅에 대해 알아야 할 3가지",
+          "summary": "이벤트 마케팅 전문 매체 이벤트 마케터가 CES 2027의 체험형(Experiential) 전시·마케팅과 관련해 주목할 세 가지를 정리했습니다. 참가 기업들의 부스 운영과 관람객 체험 방식 변화가 핵심입니다.",
+          "why": "CES에 참가하는 국내 기업들이 부스 기획과 브랜드 체험 전략을 세울 때 참고할 만한 흐름입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "News Update: 3 Things to Know About Experiential at CES 2027 - Event Marketer",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRDJhQkoxdGVJd1VzbnhNZXpidEJVZ1Q1aW5fcjFpQWNrTFUxeThvT1hWRFlickltQ1lnSWlGbXJuZjlrY2lTdjhmWm5Gdm1rWEpuVUphRDlKRXE0WE5HUHl5d1JUYUxQUzRqd2poZHJJSV9qUTRQWXdUS1JrNHc0RmlPcEt5X0dSQkE?oc=5",
+            "published": "2026-10-23T14:30:35.000Z",
+            "snippet": "News Update: 3 Things to Know About Experiential at CES 2027 Event Marketer"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "CES 2027 엔터테인먼트 테크 인사이트 투어 참가자 모집",
+          "summary": "K-엔터테크 허브가 CES 2027 현장에서 엔터테인먼트 기술 동향을 살펴보는 인사이트 투어 참가자를 모집하고 있습니다.",
+          "why": "엔터테크 분야 국내 기업과 실무자가 CES 현장 트렌드를 체계적으로 살펴볼 기회입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "CES 2027 Entertainment Tech Insight Tour now recruiting - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05QXFFeXNlZVMxdUppLWVvbzhKSFJNY3FuQ3hIcDkyZmtoWWdxdVotcVBYbUp2OXZZdWYzbDdhME1lRVlJMHR4WGs0bXJQWFB2Ung1WUFJLXZaQQ?oc=5",
+            "published": "2026-10-24T19:15:46.000Z",
+            "snippet": "CES 2027 Entertainment Tech Insight Tour now recruiting K-EnterTech Hub"
+          }
+        }
+      ]
+    },
+    {
+      "name": "지난 CES 후속 소식",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "영하 30도에도 배터리 용량 97% 유지…도넛랩, 극저온 시험 결과 공개",
+          "summary": "CES 2026에서 전고체 배터리를 공개해 주목받은 핀란드 기업 도넛랩이 극저온 시험 결과를 내놓았습니다. 영하 30도 환경에서도 배터리 용량의 97%를 유지했다는 내용입니다.",
+          "why": "겨울철 전기차·모빌리티의 주행거리 감소 문제와 직결되는 결과로, 국내 배터리 업계도 눈여겨볼 만한 경쟁 기술 동향입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "영하 30도에도 배터리 용량 97% 유지…도넛랩 극저온 시험 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1JDZFRtWVZVLVRwcHUxM05qN1FyQzlkZkN2bEhmR29kU0dGS3MzVXFQenVhT2VDM0x5Ri1FMWhURXVKQk5oTm05WnRQOUNPVlZPckpZZ0lfcmFabUdUamdKeTVGWVFubmhIdGxLSm1ONHUzTlNySnd3QnBmZUx2TnpLV0RuNjNw?oc=5",
+            "published": "2026-10-24T20:00:00.000Z",
+            "snippet": "영하 30도에도 배터리 용량 97% 유지…도넛랩 극저온 시험 글로벌이코노믹"
+          }
+        }
+      ]
+    }
+  ]
+}
