@@ -1,0 +1,212 @@
+{
+  "overview": "10월 하순에 접어들면서 기온과 습도가 함께 떨어져 피부 장벽이 약해지기 쉬운 시기입니다. 오늘은 피부 장벽을 지키는 관리법과 아토피(습진) 맞춤 관리가 주요 화두로 떠올랐고, 장내 미생물과 여드름·탈모의 관계처럼 피부를 몸 전체의 건강과 연결해 보는 과학적 접근도 주목받았습니다. 페이스 테이핑 같은 SNS 유행 관리법이나 사진만 보고 판단하는 자가 진단은 근거가 부족하다는 전문가 경고도 함께 나왔습니다. 업계에서는 제약사의 피부미용·필러 시장 진출과 EU 화장품 성분 규제 변화가 눈에 띕니다.",
+  "categories": [
+    {
+      "name": "계절 피부 관리",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "준비하고, 보호하고, 지킨다: 미용 피부과의 피부 장벽 중심 접근법",
+          "summary": "미용 시술의 효과를 높이고 부작용을 줄이려면 시술 전후로 피부 장벽을 관리하는 것이 핵심이라는 전문가 견해를 다룹니다. 시술 전에는 장벽을 튼튼하게 준비하고, 시술 중에는 손상을 줄이며, 시술 후에는 회복을 돕는 단계별 관리가 강조됩니다.",
+          "why": "건조해지는 가을·겨울에 레이저나 필링을 받을 계획이라면 보습과 장벽 강화 관리를 먼저 해 두는 것이 좋습니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Prime, Protect, Preserve: The Skin Barrier Approach in Aesthetic Dermatology - Medical Dialogues",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY0E5VlFTOGl1QWhxbWw3M3NjSnFFZ2gxZXRuNm44WW1FMkRZRnlsMWpfd19GcmxQS002cjhHeURHX0pNNG1qdTcyMXNNcWl1YjZfelhWeXFlOTM5QlJ6bmdMSy1JRGdkcV96YUV4YzJxMFBaSll3NGtyV0lCOWtxSWlQX1FoUlVUc1V3SHg5aHpPTnFETFZSdTdwc3dEM0FCUmJkVktxM055UDZJQ3dBZDZCRlBibG1CSFFPMXc5NzlZRnhyY05wUWEyQkRJR290V0HSAdIBQVVfeXFMUGNBOVZRUzhpdUFocW1sNzNzY0pxRWdoMWV0bjZuOFltRTJEWUZ5bDFqX3dfRnJsUEtNNnI4R3lER19KTTRtanU3MjFzTXFpdWI2X3pYVnlxZTkzOUJSem5nTEstSURnZHFfemFFeGMycTBQWkpZdzRrcldJQjlrcUlpUF9RaFJVVHNVd0h4OWh6T05xRExWUnU3cHN3RDNBQlJiZFZLcTNOeVA2SUN3QWQ2QkZQYmxtQkhRTzF3OTc5WUZ4cmNOcFFhMkJESUdvdFdB?oc=5",
+            "published": "2026-10-24T06:30:22.000Z",
+            "snippet": "Prime, Protect, Preserve: The Skin Barrier Approach in Aesthetic Dermatology Medical Dialogues"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "습진 인식의 달: 획일적인 치료를 넘어 개인 맞춤 관리로",
+          "summary": "습진(아토피 피부염)은 환자마다 원인과 증상이 달라 하나의 방식으로 모두를 치료하기 어렵다는 점을 짚습니다. 피부과 전문가들은 증상의 정도와 생활 환경을 함께 고려하는 개인 맞춤 관리가 필요하다고 강조합니다.",
+          "why": "찬바람이 불면서 아토피 증상이 심해졌다면 남들이 쓰는 제품을 따라 쓰기보다 전문가와 상담해 내 피부에 맞는 관리법을 찾아야 합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Eczema Awareness Month: Moving Beyond One-Size-Fits-All Care - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV2dXbWJLQm05Z0tSQjBGUFA2b2ZMRF96MlFzTkVTZlRULUh6STN3NXVqY1YyR3FXaml2dkdrd2tUdk1tQUQtUDlpWVpwUVo2UlR0RE03YlBweW9OQTludjhhcXRhSVFKV1BXOW5nZTB3UkFYenJPelFnRnc2SnQ5NXJhUlgxdEM4ZU9RN3NUQzBXR2RzTjBKUXRMcWhNdw?oc=5",
+            "published": "2026-10-24T19:07:38.000Z",
+            "snippet": "Eczema Awareness Month: Moving Beyond One-Size-Fits-All Care Dermatology Times"
+          }
+        }
+      ]
+    },
+    {
+      "name": "전문가 팁",
+      "items": [
+        {
+          "index": 10,
+          "title_ko": "\"설마 나도?\" 피부 좋아지려다 오히려 독이 되는 행동 11가지",
+          "summary": "피부를 위해 한다고 생각했던 습관이 오히려 피부를 상하게 할 수 있다는 내용을 정리했습니다. 과도한 세안이나 각질 제거처럼 흔히 하는 관리 습관을 다시 점검해 보자는 취지입니다.",
+          "why": "건조한 계절에는 지나친 세안과 각질 제거가 장벽 손상을 키울 수 있으니 평소 루틴을 한 번 점검해 보세요.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "“설마 나도?” 피부 좋아지려 했는데, 오히려 독 되는 행동 11 - 헬스조선",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxSEdnRTFBUnp0UVczY3Awa042cGh2OXR5OG52X2hDZ0JCY21aY0ZhMDExa0dpcjNTMWMzSkNlRmpfN2VVTEhNN1ViWDlEOTR6cXVpZ1VXU2NKNlpTUlNFdWg5WHk5ZXVxNHI1LVZHSVZGM04wcW1zZm9kU2p5NEU?oc=5",
+            "published": "2026-10-24T12:00:00.000Z",
+            "snippet": "“설마 나도?” 피부 좋아지려 했는데, 오히려 독 되는 행동 11 헬스조선"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "SNS 속설 검증: 얼굴 테이핑으로 주름을 예방할 수 있을까?",
+          "summary": "SNS에서 유행하는 '페이스 테이핑' 주름 예방법이 과학적으로 효과가 있는지 피부과 전문가의 시각에서 살펴봅니다. 근거가 부족한 유행 관리법은 신중하게 받아들여야 한다는 점을 강조합니다.",
+          "why": "유행하는 셀프 관리법은 효과와 부작용을 먼저 확인한 뒤 시도하는 것이 안전합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Social Media Mythbusters: Can Face Taping Really Prevent Wrinkles? - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE9BSWRxR2ZxVkZua2NaY041T2tlRzExZTRleS1obGdjRzlORHZoQjd1Nlp4Q3JLcUZrSnV5akVyemVTRGJySEE3a01aUFp1bEpRekVyNC1XLW1XVGx5Y1BRVTZ6NVVyREFrWGM4NVg1dFlvbW1GN085NVNaMVdmWDJMaDU4VmJFMno4dnRKZ3lFVVNEOHVRLTJHS1NzMjFDU2tnOWpn?oc=5",
+            "published": "2026-10-24T15:07:36.000Z",
+            "snippet": "Social Media Mythbusters: Can Face Taping Really Prevent Wrinkles? Dermatology Times"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "피부 질환은 '사진 한 장'으로 진단할 수 없다",
+          "summary": "온라인에 올린 사진이나 앱만으로 피부 질환을 판단하는 데는 한계가 있다는 전문가 의견을 담았습니다. 정확한 진단을 위해서는 실제 진찰과 병력 확인이 필요하다고 강조합니다.",
+          "why": "피부 이상이 계속된다면 인터넷 검색이나 사진 비교로 끝내지 말고 피부과 전문의의 진료를 받는 것이 좋습니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "피부 질환은 ‘사진 한 장’으로 진단할 수 없다 - 한국의약통신",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIbnU4Wm9NaXlzTUZlYjNvN0NhWVFDT2s3N21VOTRMeVRwaXNfWXY0S1FxeHFid2F6S2t0T3pldUZsZDl3dTFvOWlTaGR0UjFSX0pobjk0MnJCY3A2V3EwY0t3Q3lkY3NMTGZv?oc=5",
+            "published": "2026-10-23T23:11:14.000Z",
+            "snippet": "피부 질환은 ‘사진 한 장’으로 진단할 수 없다 한국의약통신"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "호치민시 전문가들이 전하는 여드름성 피부 관리법",
+          "summary": "베트남 호치민시 피부 전문가들이 여드름이 잘 나는 피부를 관리하는 방법을 조언했습니다. 올바른 세안과 보습, 자극을 줄이는 생활 습관이 기본이라는 점을 짚습니다.",
+          "why": "여드름성 피부라도 보습을 거르지 않고 자극을 줄이는 것이 트러블 관리의 기본입니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "호치민시의 전문가들이 여드름이 나기 쉬운 피부를 관리하는 방법에 대해 조언합니다. - Vietnam.vn",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3MGxoSm5nSFpGSmJyTURpTmZTOUJscXBRenhkamljNmtSOU1zWWdlcldzVzdhZGNfcWNqTTBvQlBDVlpsZ0RZeVRRXzYzSlR4QTdfYnBxakNxaXRHSFB0QlRyMXJiZTJubEIwd3AtTlI1RWNLTGh0WkQ1SmRkRE0?oc=5",
+            "published": "2026-10-24T18:03:05.000Z",
+            "snippet": "호치민시의 전문가들이 여드름이 나기 쉬운 피부를 관리하는 방법에 대해 조언합니다. Vietnam.vn"
+          }
+        }
+      ]
+    },
+    {
+      "name": "피부 트렌드",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "여드름·탈모를 잡으려면 얼굴이 아닌 '장'을 봐야… 장내 미생물의 과학",
+          "summary": "장내 미생물 환경이 여드름과 탈모 같은 피부·모발 문제와 관련이 있다는 '장-피부 축' 연구를 소개합니다. 피부 문제를 겉에서만 관리하지 않고 식습관과 장 건강까지 함께 살펴보는 흐름이 커지고 있습니다.",
+          "why": "잦은 트러블이 고민이라면 스킨케어와 함께 식습관과 장 건강 관리도 같이 챙겨 보세요.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "여드름·탈모 잡으려면 얼굴 아닌 '장' 봐야… 장내 미생물의 과학 [똑똑한 웰니스] - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zMExaeTF6ektReUJRaVhodXFfOHg1c2VHUFRMcEE5bVdwYnF0M2xQaVJlaFE2cFdDUWpqb1FydWU3VlRLVEF4Z1E4dXZzWUZlVGdtZWZrVURoUQ?oc=5",
+            "published": "2026-10-24T20:00:00.000Z",
+            "snippet": "여드름·탈모 잡으려면 얼굴 아닌 '장' 봐야… 장내 미생물의 과학 [똑똑한 웰니스] 파이낸셜뉴스"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "재발 잦은 피지선 여드름, 피지선을 겨냥한 '네오빔' 레이저 치료 주목",
+          "summary": "자주 재발하는 여드름의 원인인 피지선을 직접 겨냥하는 레이저 치료가 관심을 받고 있다는 소식입니다. 반복되는 염증성 여드름을 관리하는 선택지 가운데 하나로 소개되었습니다.",
+          "why": "재발이 잦은 여드름은 홈케어만으로 한계가 있을 수 있으니, 전문의와 상담해 원인에 맞는 치료를 고려해 볼 수 있습니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "재발 잦은 피지선..춘천 여드름 네오빔 레이저, 피지선 타깃 치료 주목 - 대한청년일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kWDNtS1JXVzY5ODFDdDhzTF93S1BmdUk0WlVJMG5idDE3dUgxVy1udEtNbVQ1bVBOMXlnd25hRU5Ya1ZTb090NVhGdFdIVk9rWDNNeS1R?oc=5",
+            "published": "2026-10-24T12:48:45.000Z",
+            "snippet": "재발 잦은 피지선..춘천 여드름 네오빔 레이저, 피지선 타깃 치료 주목 대한청년일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "피부 과학·연구",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "모더나·머크 암 백신, 대규모 임상에서 흑색종 사망·재발 위험 42% 감소",
+          "summary": "모더나와 머크가 개발한 맞춤형 mRNA 암 백신을 면역항암제 펨브롤리주맙(키트루다)과 함께 쓰자, 수술로 흑색종을 제거한 환자의 재발·사망 위험이 42% 줄었다는 대규모 임상 결과입니다. 피부암 치료의 새로운 가능성으로 주목받고 있습니다.",
+          "why": "흑색종 같은 피부암은 조기 발견이 가장 중요하니, 새로 생기거나 모양이 변하는 점이 있다면 피부과 검진을 받으세요.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Moderna-Merck Cancer Vaccine Cuts Melanoma Death, Recurrence Risk by 42% in Major Trial - Medical Dialogues",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ05HTnBuRlNjRTVOMXdWV29RRHpub2J0RHYwOVZTOVRZYlFMY2RxSzJFOHJiRS1UWnp4NTJmcDNiLXUyNFFOOEM5LVBBNEJNYm9VT0JYRVNnamducHNuaEtKMTc1aEtFLTNYVGEyX3ZDcUhLdjJFcF9LZzRmNFd1RXhIaHBmeWdJWVhTdkVuRmQzNEdldUhJcmNfMXQ1azExLVBtcEU4QnJUbFIzREFDckVfdFBNV0laeEd2OE90bWx4bHh2aUl2OHJjT28wSnk5TVI0QzlkWDZ2dVlxOGfSAd4BQVVfeXFMTmdOR05wbkZTY0U1TjF3VldvUUR6bm9idER2MDlWUzlUWWJRTGNkcUsyRThyYkUtVFp6eDUyZnAzYi11MjRRTjhDOS1QQTRCTWJvVU9CWEVTZ2pnbnBzbmhLSjE3NWhLRS0zWFRhMl92Q3FIS3YyRXBfS2c0ZjRXdUV4SGhwZnlnSVlYU3ZFbkZkMzRHZXVISXJjXzF0NWsxMS1QbXBFOEJyVGxSM0RBQ3JFX3RQTVdJWnhHdjhPdG1seGx4dmlJdjhyY09vMEp5OU1SNEM5ZFg2dnVZcThn?oc=5",
+            "published": "2026-10-24T15:04:20.000Z",
+            "snippet": "Moderna-Merck Cancer Vaccine Cuts Melanoma Death, Recurrence Risk by 42% in Major Trial Medical Dialogues"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "편평태선, 구강암 위험 최대 14배·생식기암 위험 최대 24배 높일 수 있다 (JAMA)",
+          "summary": "국제 의학 학술지 JAMA에 실린 연구에 따르면, 염증성 피부·점막 질환인 편평태선 환자는 구강암과 생식기암 위험이 크게 높아질 수 있습니다. 편평태선 환자는 정기적인 추적 관찰이 중요하다는 점을 시사합니다.",
+          "why": "입안이나 피부에 오래가는 하얀 줄무늬나 보라색 발진이 있다면 가볍게 넘기지 말고 전문의 진료를 받아 보세요.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Lichen Planus May Increase Oral Cancer Risk Up to 14-Fold and Genital Cancer Risk Up to 24-Fold: JAMA - Medical Dialogues",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUnhqdVBTclg2RXdVcGhkWG5XX2JsUEc1MENDVTVzSWdOb0JWdFhOUUxLTF9EdnNfX25xZU5LVmNUaVgxSnZNVld6ZVJTOF80S0poazI2OG1VSERQV2QzWG5PMl9LRWRhRno2OUFNdlh3UnpxMG9EU21rR0NIMzBURlZJRGs0QzJGQkFtOFJEOFBTVnNtV0pkV2ZySGtHeUhMOUQtZW5hU0Q2ZnhkczFRX0xoMUczX3pfNzZzQXVxNjljSk5IZUU3aWk5aFN0c0paUzNPcWFkNHVaQUpUVDZiOUV6X3RFNmk2UXhPUNIB7AFBVV95cUxPUnhqdVBTclg2RXdVcGhkWG5XX2JsUEc1MENDVTVzSWdOb0JWdFhOUUxLTF9EdnNfX25xZU5LVmNUaVgxSnZNVld6ZVJTOF80S0poazI2OG1VSERQV2QzWG5PMl9LRWRhRno2OUFNdlh3UnpxMG9EU21rR0NIMzBURlZJRGs0QzJGQkFtOFJEOFBTVnNtV0pkV2ZySGtHeUhMOUQtZW5hU0Q2ZnhkczFRX0xoMUczX3pfNzZzQXVxNjljSk5IZUU3aWk5aFN0c0paUzNPcWFkNHVaQUpUVDZiOUV6X3RFNmk2UXhPUA?oc=5",
+            "published": "2026-10-24T05:40:45.000Z",
+            "snippet": "Lichen Planus May Increase Oral Cancer Risk Up to 14-Fold and Genital Cancer Risk Up to 24-Fold: JAMA Medical Dialogues"
+          }
+        }
+      ]
+    },
+    {
+      "name": "뷰티 뉴스",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "EU 의회, 화장품 속 CMR 물질 규정 간소화 승인",
+          "summary": "유럽의회가 화장품에 들어가는 발암성·생식독성·변이원성(CMR) 물질 관련 규정을 간소화하는 안을 승인했습니다. 글로벌 화장품 성분 규제와 업계의 제품 처방에 영향을 줄 수 있는 변화입니다.",
+          "why": "화장품 성분 규제는 나라마다 달라질 수 있으니, 해외 직구 제품은 성분표를 꼼꼼히 확인하는 습관이 좋습니다.",
+          "article": {
+            "source": "Google News EN (Beauty Trends)",
+            "title": "EU: Parliament approves simpler rules on CMR substances in cosmetics - Premium Beauty News",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Odmh1TFBOZ2RkTnFNckNCVTNPQnRQQ25qVHQwdkpsN1hiN0lXVF9IMjNxLVU0VVRhUlA2UmhsRElQdXJIeWpoYi0zbnNkYmlwNWN5QUxkX1ZzeDJjSGM0bHdaQ3h4RWUtRDFVdHktRjZwbGFoT2h6U1pQWm96UQ?oc=5",
+            "published": "2026-10-24T10:40:58.000Z",
+            "snippet": "EU: Parliament approves simpler rules on CMR substances in cosmetics Premium Beauty News"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "\"필러 시장 진출\"… 안국약품, 피부미용사업부 신설",
+          "summary": "안국약품이 피부미용사업부를 새로 만들고 필러 시장에 진출한다고 밝혔습니다. 제약사들이 잇따라 미용 의료 시장에 뛰어들면서 경쟁이 더 치열해질 전망입니다.",
+          "why": "필러 시술을 고려한다면 제품의 허가 여부와 시술자의 전문성을 꼭 확인하세요.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "\"필러시장 진출\"…안국약품, 피부미용사업부 신설 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zbHNsSE1YREt3NC1Pb2M3M013d0Roam5qWGpYSGtsVU9QaU9oMVBYZTMwNXozdVE1M1hMSXBRaHV5blpaNEhsNlhuam9Td2ZnMHc0Q1VEVWxUM2c2RFRBR1prYjk2MXAwcVczNkVPRFBxdlBpR2FoQdIBeEFVX3lxTE4zbHNsSE1YREt3NC1Pb2M3M013d0Roam5qWGpYSGtsVU9QaU9oMVBYZTMwNXozdVE1M1hMSXBRaHV5blpaNEhsNlhuam9Td2ZnMHc0Q1VEVWxUM2c2RFRBR1prYjk2MXAwcVczNkVPRFBxdlBpR2FoQQ?oc=5",
+            "published": "2026-10-24T07:01:00.000Z",
+            "snippet": "\"필러시장 진출\"…안국약품, 피부미용사업부 신설 뉴시스"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "\"다이소 전용\"… 유한양행, 스킨케어 신제품 출시",
+          "summary": "유한양행이 다이소 전용 스킨케어 신제품을 내놓았습니다. 제약사 브랜드의 저가 스킨케어가 늘면서 소비자의 선택지가 넓어지고 있습니다.",
+          "why": "합리적인 가격의 제품을 고를 때도 브랜드보다 내 피부 타입에 맞는 성분인지 먼저 확인하는 것이 중요합니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "\"다이소 전용\"…유한양행, 스킨케어 신제품 출시 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQmZQcDI3NTAzTjJ5R0lLVmFlQ1B4bnVSbklzaC1Za0JaVElETUFJZzhwc3ZaUW9BQWlzR3NsMHM2NmZyaktud2drUXkwVXZBU3JnZ19EWEtMcTJnRmJIdNIBeEFVX3lxTE1YTUFOMGY3eGdTbHhXRkFtbUZncTBIalBQeVMwVzBmVFJIS0ppRXdaZlNKdWtOLWVtZXFyd1U2MVpZMUdiSWdmVkg0TERycV9CaGVySHA5ZFhTUGt6U1BvZmZFTURqZmtER3lWOWo3QTlNQ09LQm82Qw?oc=5",
+            "published": "2026-10-24T03:01:00.000Z",
+            "snippet": "\"다이소 전용\"…유한양행, 스킨케어 신제품 출시 뉴시스"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "권혁환 피부미용업협동조합 이사장, 2026 소상공인의 날 산업포장 수상",
+          "summary": "권혁환 피부미용업협동조합 이사장이 2026년 소상공인의 날을 맞아 산업포장을 받았습니다. 피부미용업 소상공인의 권익 보호와 업계 발전에 기여한 공로를 인정받은 것으로 보입니다.",
+          "why": "피부관리실 운영자라면 협동조합 등 업계 단체의 지원 정책과 활동에 관심을 가져 볼 만합니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "권혁환 피부미용업협동조합 이사장, 2026 소상공인의 날 산업포장 수상 - 글로벌뉴스통신GNA",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ock5zVXphTjlwQTlYNm0tYkZraGJlMmdnbHpQRXZHbVVMbk51Nks3YVI2dEkwTURGZl9KRGFvem4yNlY4dk5HRzNsMlNXNUEzSmVKNHF4RnFRWXJuZVdIcTB3TXlIckJ2ajZGekxjZVR3b0d4?oc=5",
+            "published": "2026-10-24T07:16:43.000Z",
+            "snippet": "권혁환 피부미용업협동조합 이사장, 2026 소상공인의 날 산업포장 수상 글로벌뉴스통신GNA"
+          }
+        }
+      ]
+    }
+  ]
+}
