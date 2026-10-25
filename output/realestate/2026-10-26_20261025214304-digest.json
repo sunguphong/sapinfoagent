@@ -1,0 +1,225 @@
+{
+  "overview": "서울 집값이 89주째 오르면서 당분간 가계대출 규제 완화는 어려울 것이라는 관측이 나왔습니다. 전세가 월세로 바뀌는 흐름도 빨라져 서울 아파트 월세 거래 10건 중 4건에 이르고, 국민평형(전용 84㎡)과 노원·도봉·강북구에서도 고액 월세가 늘고 있습니다. 국정감사에서는 전월세 시장 불안에 대해 여야가 함께 정책 완화를 요구했고, 정부 측은 2028년 이후 공급이 늘면서 시장이 안정될 것이라고 전망했습니다. 동탄에서는 동탄1신도시 '아크메르 동탄'이 청약을 시작했고, 동탄역 이용수요 산정 오류를 지적하며 출입구 규모를 다시 산정해야 한다는 주장이 나왔습니다.",
+  "categories": [
+    {
+      "name": "정책·규제",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "규제에도 89주째 오른 집값…가계대출 완화 당분간 어려울 듯",
+          "summary": "대출 규제를 강화했는데도 집값이 89주 연속 오르면서 금융당국이 가계대출 규제를 완화하기 어렵다는 전망이 나왔습니다. 기사 제목만으로는 구체적인 대출 조건 변경 시기나 대상 지역은 확인되지 않으며, 현재의 대출 관리 기조가 당분간 이어질 것으로 보입니다.",
+          "why": "주택담보대출 한도가 쉽게 늘어나지 않을 가능성이 커 매수 계획을 세울 때 자금 조달 계획을 보수적으로 잡아야 합니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "조여도 89주째 오른 집값…가계대출 완화 당분간 어려울듯 - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLdFFHbnYweUdvSTk0MS1DNGt1QUFiVTkzZ1ZUemVrX1lfQkdFem93XzJjcHF4NGVTTWhINXgtcEt5Y2RYNXlpZXpSSWFzeFFueXc?oc=5",
+            "published": "2026-10-25T21:07:22.000Z",
+            "snippet": "조여도 89주째 오른 집값…가계대출 완화 당분간 어려울듯 매일경제 마켓"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "'민생 직결' 전월세 시장 불안에 여야 협력…정책 완화 '한목소리' [2026 국감]",
+          "summary": "2026년 국정감사에서 여야가 전월세 시장 불안이 민생과 직결된다며 관련 정책을 완화해야 한다는 데 의견을 모았습니다. 구체적인 완화 대상과 시행 시기는 아직 정해지지 않았고, 앞으로 정부의 후속 대책 여부가 관심사입니다.",
+          "why": "전월세 관련 규제가 바뀌면 임차인의 계약 조건과 임대 공급 여건이 직접 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "‘민생 직결’ 전월세 시장 불안에 여야 ‘맞손’…정책 완화 ‘한 목소리’ [2026 국감] - 쿠키뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoMnQzOTJ4QnViN1M0UkFKOEhQbkhFVGhSMFpBMjJTXzk0YVJiTzdXX3lVaElCcnBnQnhCVjFPQk0wTXBfeFVFR0hwSm9kcWVDQXdBaVhSMzQ3RjMwMXVCaS02SQ?oc=5",
+            "published": "2026-10-25T14:21:52.000Z",
+            "snippet": "‘민생 직결’ 전월세 시장 불안에 여야 ‘맞손’…정책 완화 ‘한 목소리’ [2026 국감] 쿠키뉴스"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "[사설] 중형 아파트까지 월세화…'종부세 부담 세입자 전가' 국회 경고 새겨야",
+          "summary": "서울 중형 아파트에서도 월세 전환이 빨라지자 종합부동산세 부담이 세입자에게 넘어가고 있다는 국회의 경고를 정책에 반영해야 한다는 사설입니다. 보유세 강화가 월세 상승으로 이어질 수 있다는 점을 짚었습니다.",
+          "why": "보유세 정책 방향에 따라 임대료 수준이 달라질 수 있어 세입자와 임대인 모두 눈여겨볼 내용입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "[사설] 중형 아파트도 월세화…‘종부세 부담 전가’ 국회 경고 새겨야 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55TG56UkZNTlNSRC0waWpUY0R0dWM1ejZnYmxqSWYxV2szN3RCMThTcUMydURIT0czT3BJVU81NG1BX2JYWWNiM1M2MEZ6OWd0a2fSAVNBVV95cUxPalFnVXVvVzFhNVlGbVMxWkdBakd1VFJQUndDaUlJWnVoa0RxbG9YOFNFVnpZMVhYWVk3a04tTFd5b1h0bUhZakZWUWFrYUo0a1BJZw?oc=5",
+            "published": "2026-10-25T15:01:06.000Z",
+            "snippet": "[사설] 중형 아파트도 월세화…‘종부세 부담 전가’ 국회 경고 새겨야 서울경제"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "황운하 의원, LH 공공분양 가격 산정 문제 지적…기존 아파트 매매시세 기준 적용 촉구",
+          "summary": "황운하 의원이 LH 공공분양 가격 산정 방식에 문제가 있다고 지적하며, 주변 기존 아파트 매매시세를 기준으로 분양가를 산정해야 한다고 요구했습니다. 현재 제안 단계로, 제도 변경 시기와 적용 대상은 정해지지 않았습니다.",
+          "why": "공공분양 가격 기준이 바뀌면 공공분양을 노리는 무주택 실수요자의 분양가 부담이 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "황운하 의원, LH 공공분양 가격 산정 문제 지적...기존 아파트 매매시세 기준 적용 촉구 - 뉴스티앤티",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vNXhyRW9WWkxxZmZCUll5TW5xeXVmS2trTV9iNTQzY0diMlo2VlZ6Uk8tWFZhR25UV0tkSjZISTBsaDJEN0Z5MFNzaDEyY0JoTFp6U19VLW1iMkQ2SnpseW5zdGcwLXl2Qmc?oc=5",
+            "published": "2026-10-25T16:11:00.000Z",
+            "snippet": "황운하 의원, LH 공공분양 가격 산정 문제 지적...기존 아파트 매매시세 기준 적용 촉구 뉴스티앤티"
+          }
+        }
+      ]
+    },
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "'국민평형'도 월세 100만원 시대…서울 아파트 거래 10건 중 4건이 월세",
+          "summary": "서울 아파트 임대차 거래 가운데 월세 비중이 약 40%까지 높아졌고, 전용 84㎡ 국민평형에서도 월세 100만원 이상 거래가 흔해졌습니다. 중형 면적의 월세 비중 상승폭이 소형의 2배에 이른다는 분석도 함께 나왔습니다(동아일보·서울신문 보도 종합).",
+          "why": "전세 매물이 줄고 월세 부담이 커지면서 무주택 가구의 주거비와 내 집 마련 시점 판단에 영향을 줍니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "'국평'도 월세 100만원 시대…서울 아파트 월세 10건 중 4건 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BaTczejVWUEx1aGtrN0ZYak9FZzBNV2o3S3pLenBiazEwYjR1ellSRXoxVVNzU09hODZfNThtREdFUkNxMTJGaV9TcllkclQ1bVJfMGFKeElrSWs?oc=5",
+            "published": "2026-10-25T20:05:00.000Z",
+            "snippet": "'국평'도 월세 100만원 시대…서울 아파트 월세 10건 중 4건 뉴스1"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "전세의 월세화 가속…'노도강'에서도 월세 300만원 수두룩 [부동산 머니무브③]",
+          "summary": "중저가 지역으로 꼽히던 노원·도봉·강북구(노도강)에서도 월세 300만원대 거래가 잇따르고 있습니다. 전세의 월세 전환이 서울 외곽 지역까지 퍼지고 있다는 분석입니다.",
+          "why": "서울 외곽에서도 임차 비용이 오르고 있어 저렴한 지역으로 옮기는 전략의 효과가 줄고 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "전세의 월세화 가속…'노도강'도 300만원 월세 수두룩[부동산 머니무브③] - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fUTRrWXBnQXVKNmtINS0zeDlkZ0V0aXFZQzFKSnRkVkVoRGtwdUY1ZE43dERmQm02SXVTYXpvRmctLXVCYXhPZjZoVUtxT09Wd2lwVV9RS0lhai12b1MwOGdrYWtIZzVaQWRjRXUzRVJfNTBEbXFyQdIBeEFVX3lxTE1fUTRrWXBnQXVKNmtINS0zeDlkZ0V0aXFZQzFKSnRkVkVoRGtwdUY1ZE43dERmQm02SXVTYXpvRmctLXVCYXhPZjZoVUtxT09Wd2lwVV9RS0lhai12b1MwOGdrYWtIZzVaQWRjRXUzRVJfNTBEbXFyQQ?oc=5",
+            "published": "2026-10-25T20:06:24.000Z",
+            "snippet": "전세의 월세화 가속…'노도강'도 300만원 월세 수두룩[부동산 머니무브③] 뉴시스"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "[부동산 먼데이 시그널] 서울 전세·소형 아파트값 상승…상업용 부동산은 우량 자산에 수요 집중",
+          "summary": "서울에서 전셋값과 소형 아파트값이 오르는 흐름이 이어지고 있습니다. 상업용 부동산 시장에서는 입지와 임차인이 우수한 우량 자산에 수요가 몰리는 양극화가 나타나고 있습니다.",
+          "why": "소형 주택 가격과 전셋값이 함께 오르면 초기 자금이 적은 실수요자의 진입 부담이 커집니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "[부동산 먼데이 시그널] 서울 전세·소형 집값 상승…상업용은 우량 자산에 수요 집중 - 월요신문",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IU0xncFZQenZNSExveUZPTk5OWUNTYU9MdWkxV0ZESThJTmh4MGVRaTd0SmF3WTRnVDVTX0FzdmU0UFU4MmdWR1lkVHNVSzdEYU5BWmFUQzA5RzFJOHRjRW9oWDhUY09yYUE?oc=5",
+            "published": "2026-10-25T20:00:00.000Z",
+            "snippet": "[부동산 먼데이 시그널] 서울 전세·소형 집값 상승…상업용은 우량 자산에 수요 집중 월요신문"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "이형일 \"부동산 시장 점차 안정될 것…2028년 이후 공급 늘어\" [2026 국감]",
+          "summary": "국정감사에서 이형일 정부 측 인사가 2028년 이후 주택 공급이 늘면서 부동산 시장이 점차 안정될 것이라고 밝혔습니다. 바꿔 말하면 그전까지는 공급 부족이 이어질 수 있다는 의미로도 읽힙니다.",
+          "why": "공급 확대 시점에 대한 정부 전망은 매수 시기를 정할 때 참고할 중요한 기준입니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "이형일 “부동산 시장 점점 안정될 것…2028년 이후 공급 늘어” [2026 국감] - 쿠키뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1US2ZUakVEZ1dMVmVqeXlmWE5ubTZwRlRaa29FamdnaGh3eXR5WTZiMGFQNFhnNVVWZUU5NFBJT0F0TkNoQ1o4MU1JTjU0QWFNOXAxN0dabDdES2RLN2N3M1BNOA?oc=5",
+            "published": "2026-10-25T14:43:58.000Z",
+            "snippet": "이형일 “부동산 시장 점점 안정될 것…2028년 이후 공급 늘어” [2026 국감] 쿠키뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "분양·청약",
+      "items": [
+        {
+          "index": 20,
+          "title_ko": "2·3기 신도시 아파트 분양가, 1년 새 최대 9000만원 올라",
+          "summary": "2기와 3기 신도시 아파트 분양가가 1년 사이 최대 9000만원 오른 것으로 나타났습니다. 공사비 상승 등으로 신도시에서도 분양가 부담이 커지고 있습니다.",
+          "why": "신도시 청약을 준비하는 실수요자는 늘어난 분양가에 맞춰 자금 계획을 다시 점검해야 합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "2·3기 신도시 아파트 분양가, 1년 새 최대 9000만원 올라 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFNoS1JhQlM4MGJyNGdBdkRKTzRHUjN3ZkgtSTdMWEttdjRSS0pRaEM0V3dXMEN4M3U4NHhxcGJ4YmFqYnBJZVVkdUh6TzFkS1kxblotaU9IcUxoR1FpT0twcmE3UUZjbHRXcUJjc3BHM2pBTkxDNVBmZS13em5rVXdNZDRwcHdY?oc=5",
+            "published": "2026-10-25T15:37:00.000Z",
+            "snippet": "2·3기 신도시 아파트 분양가, 1년 새 최대 9000만원 올라 조선일보"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "은마는 4억 부담, 잠실5단지는 8억 환급…재건축 사업성 가르는 '이것'",
+          "summary": "같은 강남권 재건축 단지라도 은마아파트는 조합원 분담금이 약 4억원으로 예상되는 반면, 잠실주공5단지는 약 8억원을 돌려받을 수 있는 것으로 분석됐습니다. 대지지분, 용적률 등 사업성을 결정하는 요소에 따라 수익이 크게 달라진다는 내용입니다.",
+          "why": "재건축 투자는 단지별 사업성 차이가 커서 분담금 구조를 먼저 확인해야 합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "은마는 4억 내는데 잠실5는 8억 환급…재건축 사업성 가르는 ‘이것’ - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTGY5U1VXZ2dDQ3VsV0U3ZUNkQVQ4eTVpU0tTXy04eW9MWkhvOGhTc0V3Umt0dU11NTFCRFhSdFBqUFpDOC1hOHVFcnpCVGx5RWxuQk51SXYxSnJ6RVJpWjl3NUZrZU45aVZTdDJoQUYyZlZVVVZJbE03UzZyclR3OQ?oc=5",
+            "published": "2026-10-25T20:08:02.000Z",
+            "snippet": "은마는 4억 내는데 잠실5는 8억 환급…재건축 사업성 가르는 ‘이것’ 이데일리"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 14,
+          "title_ko": "[르포] 동탄1신도시 중심 '아크메르 동탄'…84㎡ 17억원, 신축 갈아타기 수요 시험대",
+          "summary": "동탄1신도시 중심에 들어서는 '아크메르 동탄'이 이번 주 특별공급을 시작으로 청약에 들어갑니다. 전용 84㎡ 분양가가 약 17억원으로 높게 책정돼, 기존 주택에서 신축으로 옮기려는 수요가 얼마나 몰릴지가 관심사입니다(이투데이·서울경제 청약 일정 보도 종합).",
+          "why": "동탄1신도시 신축 분양가 수준과 청약 성적은 주변 아파트 시세에도 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "[르포] 동탄1 중심 ‘아크메르 동탄’…84㎡ 17억, 신축 갈아타기 수요 시험대 - 스트레이트뉴스",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxYVFMNFlqX3FTcWRJWkFIbDdqemV1U2FoTlZjdnIyLUlxdTJGcEcxR1FjNU9RSFU3Rmp0bVZhUldKNjV4MFk1NUdmQUlLTXBwV1Zsc1cwTGVIaHlSNmNpQ1JabkJEX1hZLUhPdHFSSDlmUzdFaWsw0gF3QVVfeXFMUHFhUUw0WWpfcVNxZElaQUhsN2p6ZXVTYWhOVmN2cjItSXF1MkZwRzFHUWM1T1FIVTdGanRtVmFSV0o2NXgwWTU1R2ZBSUtNcHBXVmxzVzBMZUhoeVI2Y2lDUlpuQkRfWFktSE90cVJIOWZTN0VpazA?oc=5",
+            "published": "2026-10-25T18:59:03.000Z",
+            "snippet": "[르포] 동탄1 중심 ‘아크메르 동탄’…84㎡ 17억, 신축 갈아타기 수요 시험대 스트레이트뉴스"
+          }
+        },
+        {
+          "index": 38,
+          "title_ko": "집값 뛰는 동탄에서 새 아파트 분양…이번 주 전국 5555가구 청약",
+          "summary": "이번 주 '아크메르 동탄'을 비롯해 전국 8개 단지에서 5555가구가 청약을 받습니다. 집값 상승세를 보이는 동탄에서 공급이 이뤄진다는 점이 주목받고 있습니다.",
+          "why": "동탄 청약을 준비 중이라면 이번 주 특별공급과 일반공급 일정을 놓치지 않아야 합니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "집값 뛰는 동탄서 새아파트 … 이번주 전국 5555가구 분양 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84VGVlYzZqNldlcF9xSUtsd3JzRC1hQzg5SWpzR2dwLTZJVElxd0ZraGRBMTRmMFJxZnNiWHhTRzRDV0tEWGlvc1RWb3FOZw?oc=5",
+            "published": "2026-10-25T08:06:34.000Z",
+            "snippet": "집값 뛰는 동탄서 새아파트 … 이번주 전국 5555가구 분양 매일경제"
+          }
+        },
+        {
+          "index": 41,
+          "title_ko": "\"동탄인덕원선 동탄역 이용수요 해명에 오류\"…전용기 의원 \"출입구 규모 재산정해야\"",
+          "summary": "전용기 의원이 동탄인덕원선 동탄역 이용수요를 두고 관계기관이 내놓은 해명에 오류가 있었으며, 산정 결과마다 수요가 최대 3.5배 차이 난다고 지적했습니다. 실제 수요에 맞게 동탄역 출입구 규모를 다시 산정해야 한다고 요구했습니다(중부일보·경인신문 보도 종합).",
+          "why": "동탄역 출입구 규모는 앞으로 역 이용 편의와 역세권 주거 가치에 직접 영향을 줍니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "\"동탄인덕원선 동탄역 이용수요 해명에 오류 있었다\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LdnY5N1ZDNzFidVZVc3lack9yQzF2dFR4UEdYUkRSYng2Y0llWkFXQV9aLU1xczgydC1tOHNmS1VEU3BORVpweWU4Ujd1RmR5MWRtTEhlZ1ZJYlJvbGpaOEhhVGZ2Ullzam50c2JrZnE2WnY4UmVBMdIBeEFVX3lxTE5LdnY5N1ZDNzFidVZVc3lack9yQzF2dFR4UEdYUkRSYng2Y0llWkFXQV9aLU1xczgydC1tOHNmS1VEU3BORVpweWU4Ujd1RmR5MWRtTEhlZ1ZJYlJvbGpaOEhhVGZ2Ullzam50c2JrZnE2WnY4UmVBMQ?oc=5",
+            "published": "2026-10-25T06:27:36.000Z",
+            "snippet": "\"동탄인덕원선 동탄역 이용수요 해명에 오류 있었다\" 뉴시스"
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "강남 주춤, 동탄 2.7% 상승…수도권 집값 지도 바뀐다",
+          "summary": "강남 집값 상승세가 꺾인 가운데 동탄 아파트값은 2.7% 오른 것으로 나타났습니다. 수도권 집값 흐름이 서울 핵심지에서 경기 남부 신도시로 옮겨가고 있다는 분석입니다.",
+          "why": "동탄 거주자와 매수 대기자에게 지역 시세 흐름을 판단하는 중요한 지표입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "강남 꺾이고 동탄 2.7% 상승, 수도권 집값 지도 바뀐다 - https://www.2news.co.kr/",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUmJDVmlSY05WRXJNREhCZ1JXT28xVE9pWExtVVBicnpWVVl3WDQyUXFibVJaZmFiRTNFaXVPT3AxUWUzaC1vZHhaZVhHX3h0dzEyY21JMndTSGxFQjRVSzIwclE4QVBS?oc=5",
+            "published": "2026-10-25T06:38:00.000Z",
+            "snippet": "강남 꺾이고 동탄 2.7% 상승, 수도권 집값 지도 바뀐다 https://www.2news.co.kr/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "\"강남까지 20분\"…철도 도시 의왕, 집값 반등 시작됐다",
+          "summary": "GTX-C 착공 호재와 인덕원~동탄선, 월곶~판교선 등 여러 철도 노선이 겹치면서 의왕 아파트값이 10.14% 오른 것으로 나타났습니다. 의왕에서는 4만3000가구 규모의 주택 공급도 추진되고 있습니다(재경일보 관련 보도 종합).",
+          "why": "GTX-C 착공이 노선 주변 집값에 실제로 반영되기 시작했다는 신호로, 정차역 인근 지역의 흐름을 가늠하는 참고 사례입니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "“강남까지 20분”…철도 도시 의왕, 집값 반전 시작됐다...GTX-C 인동선 ·월판선 겹친 의왕...4만3000가구 공급도 추진. - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16ZUpqQXZuaFdNSzZtSTQ1bU5EUXVwMDA2QW1yNkZrVXBMWV9CSmlaTmVQNDJqb1Bjb2E5WE1aMWpkVGJlb0dfMGNYNA?oc=5",
+            "published": "2026-10-25T19:56:00.000Z",
+            "snippet": "“강남까지 20분”…철도 도시 의왕, 집값 반전 시작됐다...GTX-C 인동선 ·월판선 겹친 의왕...4만3000가구 공급도 추진. 재경일보"
+          }
+        }
+      ]
+    }
+  ]
+}
