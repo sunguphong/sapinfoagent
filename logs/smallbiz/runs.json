@@ -1,0 +1,27 @@
+[
+  {
+    "id": "20261025214305",
+    "agent": "smallbiz",
+    "startedAt": "2026-10-25T21:43:05.910Z",
+    "date": "2026-10-26",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261025214305.log",
+    "base": "2026-10-26_20261025214305",
+    "fetched": 254,
+    "selected": 60,
+    "usedHours": 24,
+    "feedErrors": [
+      "경기도청 분야별 소식 (공식): fetch failed",
+      "경기도청 고시·공고 (공식): fetch failed",
+      "경기도청 경기도는 오늘 (공식): fetch failed"
+    ],
+    "picked": 5,
+    "html": "2026-10-26_20261025214305.html",
+    "mailId": "<d74fe3a0-8e36-f31d-7884-e5987f0888ca@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-10-25T21:43:44.221Z",
+    "finishedAt": "2026-10-25T21:43:44.221Z"
+  }
+]
