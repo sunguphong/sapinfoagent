@@ -1,0 +1,59 @@
+{
+  "overview": "오늘은 CES 2027 개막(2027년 1월 초 예정)을 약 두 달 남겨둔 시점으로, 참가 기업들의 전시 준비가 본격화되고 있습니다. 가장 눈에 띄는 흐름은 로봇으로, 삼성과 LG가 CES 2027을 겨냥해 로봇 개발에 총력을 기울이고 있으며 이재용 회장과 류재철 대표가 직접 현장을 챙기는 것으로 전해졌습니다. 국내에서는 CES 2027 현장을 둘러보는 엔터테크 인사이트 투어 참가자 모집도 시작됐습니다. 지난 CES 2026 발표 제품의 후속 소식으로는 도넛랩 배터리의 극저온 시험 결과가 나왔습니다. 오늘 수집된 기사 상당수는 '한국판 CES'로 불린 대구 FIX 2026이나 CES와 직접 관련 없는 일반 IT 기사여서, CES와 직접 관련된 3건만 추렸습니다.",
+  "categories": [
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "삼성·LG, CES 두 달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현장 챙긴다",
+          "summary": "삼성전자와 LG전자가 CES 2027 개막을 약 두 달 앞두고 로봇 개발에 역량을 집중하고 있습니다. 이재용 삼성전자 회장과 류재철 LG전자 대표가 개발 현장을 직접 챙기는 것으로 알려져, CES 2027에서 양사의 로봇이 핵심 전시 품목이 될 가능성이 커졌습니다. 같은 내용의 영문판 기사(18번)도 함께 보도됐습니다.",
+          "why": "CES 2027에서 삼성·LG가 로봇 경쟁을 펼치면 국내 로봇 부품·센서·AI 공급망 기업에도 협력과 수요 확대의 기회가 생길 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현장 챙긴다 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2bmZxZUVoTXVBZV9hN2ZPUS1CaFVnNlpSTE9JaDJMbU9BWWZSX09VemM1SUJUR0ZtY3FFY3lWVml6aGI0UUJwaF90Z0N2SjYxLV9ILW5CaXBMSXFYTkFydA?oc=5",
+            "published": "2026-10-23T23:00:00.000Z",
+            "snippet": "삼성·LG, CES 2달 앞두고 로봇 개발 '총력전'…이재용·류재철 직접 현장 챙긴다 아시아경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "CES 2027 엔터테크 인사이트 투어 참가자 모집",
+          "summary": "K-EnterTech Hub가 CES 2027 현장에서 엔터테인먼트 기술 동향을 살펴보는 인사이트 투어의 참가자를 모집합니다. 같은 내용의 영문 공지(13번)도 함께 게시됐습니다. 모집 기간과 세부 일정은 기사에서 확인되지 않아 원문 공지를 확인해야 합니다.",
+          "why": "콘텐츠·엔터테크 업계 실무자가 CES 2027 현장을 체계적으로 둘러보며 글로벌 트렌드와 네트워크를 확보할 수 있는 기회입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES 2027 엔터테크 인사이트 투어 참가자 모집 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5UGZxZkJKWElyZHE1dml5WkFna0ZPWmU2a3RNalRqekJXWTZ3QzJqWWJpV0lwdXJwTTRVeGw4UWRuc2ExUktEQ01EUlY2c0pyQXF0V0t3?oc=5",
+            "published": "2026-10-24T21:41:20.000Z",
+            "snippet": "CES 2027 엔터테크 인사이트 투어 참가자 모집 K-EnterTech Hub"
+          }
+        }
+      ]
+    },
+    {
+      "name": "지난 CES 발표 제품 후속 소식",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "영하 30도에서도 배터리 용량 97% 유지…도넛랩, 극저온 시험 결과 공개",
+          "summary": "CES 2026에서 전고체 배터리를 공개해 주목받은 도넛랩이 극저온 시험 결과를 내놨습니다. 영하 30도 환경에서도 배터리 용량의 97%를 유지했다고 밝혔습니다. 다만 이는 회사 측 발표인 만큼 독립적인 검증과 양산 성능 확인이 필요합니다.",
+          "why": "저온에서 성능이 떨어지는 전기차 배터리의 약점을 개선했다는 주장이어서, 차세대 배터리 경쟁을 벌이는 국내 배터리 3사와 소재 업계가 눈여겨볼 소식입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "영하 30도에도 배터리 용량 97% 유지…도넛랩 극저온 시험 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1JDZFRtWVZVLVRwcHUxM05qN1FyQzlkZkN2bEhmR29kU0dGS3MzVXFQenVhT2VDM0x5Ri1FMWhURXVKQk5oTm05WnRQOUNPVlZPckpZZ0lfcmFabUdUamdKeTVGWVFubmhIdGxLSm1ONHUzTlNySnd3QnBmZUx2TnpLV0RuNjNw?oc=5",
+            "published": "2026-10-24T20:00:00.000Z",
+            "snippet": "영하 30도에도 배터리 용량 97% 유지…도넛랩 극저온 시험 글로벌이코노믹"
+          }
+        }
+      ]
+    }
+  ]
+}
