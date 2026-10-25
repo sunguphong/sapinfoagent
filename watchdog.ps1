@@ -73,7 +73,7 @@ function Invoke-Backstop {
     if ($done[$id]) { continue }
     $sched = (Get-Content $f.FullName -Raw -Encoding UTF8 | ConvertFrom-Json).schedule
     if (-not $sched) { continue }
-    if ($id -eq 'stock' -and $now.DayOfWeek -in 'Saturday','Sunday') { continue }   # briefing.yml 의 평일 예약과 맞춤
+    if ($id -eq 'stock' -and $now.DayOfWeek -eq 'Sunday') { continue }   # briefing.yml 의 월~토 예약과 맞춤
     if ($now -lt ([datetime]::ParseExact("$today $sched", 'yyyy-MM-dd HH:mm', $null)).AddMinutes(-10)) { continue }
     # 관리 웹 등에서 PC 로 이미 보냈으면 제외 (2026-10-21: 07:19 수동 발송 뒤 08:22 백업 실행이 한 번 더 보냄)
     $runs = Join-Path $Root "logs\$id\runs.json"
