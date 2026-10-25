@@ -13,7 +13,7 @@ name: briefing
 on:
   schedule:
     - cron: "7 19 * * *"    # 04:07 KST  sap        (발송 목표 06:55)
-    - cron: "11 19 * * *"   # 04:11 KST  realestate, sapmm-jobs (07:00)
+    - cron: "11 19 * * *"   # 04:11 KST  realestate, sapmm-jobs, smallbiz (07:00)
     - cron: "11 19 * * 0-4" # 04:11 KST 평일  stock  (07:00)
     - cron: "13 20 * * *"   # 05:13 KST  skincare   (08:00)
     - cron: "21 19 * * *"   # 04:21 KST  ces        (07:30)
@@ -48,7 +48,7 @@ jobs:
         run: |
           case "$SCHED" in
             "7 19 * * *")    list="sap" ;;
-            "11 19 * * *")   list="realestate,sapmm-jobs" ;;
+            "11 19 * * *")   list="realestate,sapmm-jobs,smallbiz" ;;
             "11 19 * * 0-4") list="stock" ;;
             "13 20 * * *")   list="skincare" ;;
             "21 19 * * *")   list="ces" ;;
