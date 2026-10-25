@@ -12,6 +12,13 @@ function stripHtml(s = "") {
   return s.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 }
 
+// 중기부 RSS 처럼 pubDate 를 "20261023102139"(KST) 로 주는 피드가 있어 ISO 로 바꾼다. 그대로 두면 날짜 필터에서 모두 빠진다.
+function normalizeDate(it) {
+  const d = it.isoDate || it.pubDate || null;
+  const m = /^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})$/.exec(String(d || "").trim());
+  return m ? `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}+09:00` : d;
+}
+
 function normalizeTitle(t = "") {
   return t.toLowerCase().replace(/\s+-\s+[^-]+$/, "").replace(/[^a-z0-9가-힣]+/g, " ").trim();
 }
@@ -25,7 +32,7 @@ export async function collect({ feeds, lookbackHours = 24, maxArticles = 40 } = 
       source: f.name,
       title: (it.title || "").trim(),
       link: it.link,
-      published: it.isoDate || it.pubDate || null,
+      published: normalizeDate(it),
       snippet: stripHtml(it.contentSnippet || it.content || it.summary || "").slice(0, 400),
     }));
   }));

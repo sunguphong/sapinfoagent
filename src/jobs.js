@@ -136,7 +136,60 @@ async function onoffmix(q) {
   }).filter((a) => a.title && !a.link.endsWith("/") && (!a.endDay || a.endDay >= today)).map(({ endDay, ...a }) => a);
 }
 
-const SCRAPERS = { saramin, jobkorea, wanted, linkedin, onoffmix };
+// 화성시청 게시판(기본 1019 시정알림방): RSS 가 없어 목록 표를 읽는다. query 는 게시판 번호(q_bbsCode).
+// 지원사업·모집 공고가 섞여 올라오므로 feed.filter 로 소상공인 관련 제목만 남긴다 (소상공인 지원 브리핑 에이전트).
+async function hscity(q) {
+  const code = q || "1019";
+  const html = await get(`https://www.hscity.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=${enc(code)}&q_currPage=1&q_rowPerPage=50`);
+  return html.split("<tr>").slice(1).map((b) => {
+    const day = pick(b, /등록일자 : ">(\d{4}-\d{2}-\d{2})</);
+    return {
+      title: text(pick(b, /BD_selectBbs\.do\?[^"]*q_bbscttSn=\d+\s*">([\s\S]*?)<\/a>/)),
+      link: `https://www.hscity.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=${code}&q_bbscttSn=${pick(b, /q_bbscttSn=(\d+)/)}`,
+      published: day ? `${day}T09:00:00+09:00` : null,
+      snippet: `화성시청 공고 / 담당부서: ${text(pick(b, /담당부서 : ">([\s\S]*?)<\/td>/))} / 등록일: ${day}`,
+    };
+  }).filter((a) => a.title && a.published);
+}
+
+// 경기도청 게시판: 목록이 /ajax/board/getList.do (POST, JSON) 로 그려진다. query 는 "bsIdx:menuId" (예: 469:1547 고시·공고).
+// feed.keywords 가 있으면 제목 검색(keyfield=SUBJECT)을 키워드마다 보내 합친다. 없으면 최신 50건.
+async function ggboard(q, feed = {}) {
+  const [bsIdx, menuId] = String(q).split(":");
+  const one = async (keyword = "") => {
+    const r = await fetch("https://www.gg.go.kr/ajax/board/getList.do", {
+      method: "POST", signal: AbortSignal.timeout(20000),
+      headers: { "User-Agent": UA, "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8" },
+      body: new URLSearchParams({ bsIdx, menuId, offset: "0", limit: keyword ? "20" : "50", ...(keyword ? { keyfield: "SUBJECT", keyword } : {}) }),
+    });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return (await r.json()).items || [];
+  };
+  const lists = await Promise.all((feed.keywords?.length ? feed.keywords : [""]).map(one));
+  const seen = new Set();
+  return lists.flat().filter((i) => !seen.has(i.B_IDX) && seen.add(i.B_IDX)).map((i) => ({
+    title: decode(i.SUBJECT || "").trim(),
+    link: `https://www.gg.go.kr/bbs/boardView.do?bIdx=${i.B_IDX}&bsIdx=${bsIdx}&menuId=${menuId}`,
+    published: i.WRITE_DATE3 ? `${i.WRITE_DATE3.replace(" ", "T")}+09:00` : null,
+    snippet: `경기도청 게시글 / 담당부서: ${i.WRITER || ""} / 등록일: ${i.WRITE_DATE2 || ""}`,
+  })).filter((a) => a.title && a.published);
+}
+
+// 경기도시장상권진흥원(경상원) 게시판: query 는 boardManagementNo (1 공지사항 — 경기도·유관기관 소상공인 공고가 함께 올라온다).
+async function gmr(q) {
+  const html = await get(`https://www.gmr.or.kr/base/board/list?boardManagementNo=${enc(q || "1")}&menuLevel=2&menuNo=14`);
+  return html.split("<tr>").slice(1).filter((b) => b.includes("base/board/read")).map((b) => {
+    const day = pick(b, /(20\d\d-\d\d-\d\d)/);
+    return {
+      title: text(pick(b, /<a href="[^"]*base\/board\/read[^"]*"[^>]*>([\s\S]*?)<\/a>/)),
+      link: decode(pick(b, /<a href="([^"]*base\/board\/read[^"]*)"/)).replace(":443", ""),
+      published: day ? `${day}T09:00:00+09:00` : null,
+      snippet: `경기도시장상권진흥원 공지 / 등록일: ${day}`,
+    };
+  }).filter((a) => a.title && a.published);
+}
+
+const SCRAPERS = { saramin, jobkorea, wanted, linkedin, onoffmix, hscity, ggboard, gmr };
 
 export function isJobFeed(feed) {
   return !!SCRAPERS[feed.type];
