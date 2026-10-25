@@ -1,0 +1,191 @@
+[
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "The Hidden Security Habit Every SAP BTP Admin Must Master: Service Key Rotation",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/the-hidden-security-habit-every-sap-btp-admin-must-master-service-key/ba-p/14510539",
+    "published": "2026-10-25T17:34:09.000Z",
+    "snippet": "Introduction: the credential nobody ownsA service key is usually created in thirty seconds, pasted into a .env file or a CI variable or Destination or any 3rd Party applications, and then forgotten for years. That is exactly why it becomes one of the most dangerous objects in your SAP BTP landscape.If you integrate anything with BTP from outside the platform (a local development machine, an on-pre"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Joule Agents on SAP Cloud ERP Private: What Really Happens When You Try to Activate One",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/joule-agents-on-sap-cloud-erp-private-what-really-happens-when-you-try-to/ba-p/14510515",
+    "published": "2026-10-25T15:09:49.000Z",
+    "snippet": "A customer has AI Units, Business Data Cloud and an approved finance use case. They still cannot switch on a single agent, and the reason is not on any architecture slide. This post walks through how to think about it, what the options actually are, and how to work outwhich path fits your landscape."
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "Japan Cloud ERP Market Forecast to Reach US$14.3 Billion by 2035 - openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHg0Wng5N3Vkalkxb3pYd0JGRjF3YXpGOEh6Mnk3MVdLUlR2bTl3VGVmVWJsalJVRHFCZ2wxSE1kUmJPOE81cGhScUk1UkNGVVd4M3J2UVVEVHZoWWw4MDVhWWZHTjhmQkIzLXpmZ0dPak1JOFBUNUx3QWVicVp2VWhXeHRmUUNGWGItajE0ZFR2YjdESzFzSGxrZkdFcXNyWnc?oc=5",
+    "published": "2026-10-25T13:12:58.000Z",
+    "snippet": "Japan Cloud ERP Market Forecast to Reach US$14.3 Billion by 2035 openPR.com"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "United States Cloud ERP Market Forecast to Reach US$289.48 - openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDVib1dlbzhSNGlVSzJHVWh0SmFheE1aZGRWd2YxblZaS3ZSeFpSNzFjVlZzeDZLeGhjTnRiZXdHUWZxM3ZQRVNnakRNbTVXY1V0WWtYQ2FzaEtVaktwVUZ1Rl9tNDBSLXU4RXpZNlFnNklkblFMUk1fUzJ4eENzUm1PdFp3UHZVVDhKTmdObXV1Y2FmVWpySmd3?oc=5",
+    "published": "2026-10-25T12:53:11.000Z",
+    "snippet": "United States Cloud ERP Market Forecast to Reach US$289.48 openPR.com"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "SAP코리아, 하나은행·PwC 등 5개사와 성장기업 100곳 ERP·AI 전환 지원 - 테크수다",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEljenVTVDRINVlnUUNnclJyZzZiR1NhUEVURWc1ZlZrV052a0syNzNOYjJIb2laT0xZY0p3T2R2VzZzcXhTaXpOMF8xcEtyMUJIWjgtcGJBUzJDN1I2aDB4SnJ0aGVjaGJIOWYxZGVyd3Nza180WlEyQnZ3Mnd4bUNGYjJObkVyMnpzWUtxMNIBjwFBVV95cUxOOEljenVTVDRINVlnUUNnclJyZzZiR1NhUEVURWc1ZlZrV052a0syNzNOYjJIb2laT0xZY0p3T2R2VzZzcXhTaXpOMF8xcEtyMUJIWjgtcGJBUzJDN1I2aDB4SnJ0aGVjaGJIOWYxZGVyd3Nza180WlEyQnZ3Mnd4bUNGYjJObkVyMnpzWUtxMA?oc=5",
+    "published": "2026-10-25T07:42:22.000Z",
+    "snippet": "SAP코리아, 하나은행·PwC 등 5개사와 성장기업 100곳 ERP·AI 전환 지원 테크수다"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "비엘 크리스탈은 하이퐁에 5G를 통합한 스마트 공장을 건설하기 위해 약 5억 달러를 추가 투자하고 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEItemRuaTJkQXJPdVRNbXlici1PeDE2Vm5Wb3dqUkkyYlAtVGIxQVV6N1FKZklHZEp4V2ZnLVhtQWdERjFLbkVXbkFOYV9fZGZMQmNpWklFM29GdF9vNk1scWdIbFl1bFU5aEhUc0EwcmQtTWtLbVJNZkpfeHRyOWl3b3dRRFROampOWFcyWk9jR1c1X1I4S3duQ1dVa1paMTdQeEhUQVR4QXNud2FlangySi02dU9sQ2w4?oc=5",
+    "published": "2026-10-25T03:48:14.000Z",
+    "snippet": "비엘 크리스탈은 하이퐁에 5G를 통합한 스마트 공장을 건설하기 위해 약 5억 달러를 추가 투자하고 있습니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "Learn Why The Bull Case For Vertex (VERX) Could Change Following Oracle Cloud Validation - Simply Wall Street",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEtHZ28xNXZhTUhLbl9VMl85X0xIcUJjRlYyNk92eTg1QndNQmZYbXAwMFEta05oX2d6eGs1TVBZd1gybm1WSXJxbFpOZFJhZ1lCdk1KekNMU0IycS1MRkxRWTVCNXNvRklISV9nT0lGODQ1NzAxSHlwcFFpWmNqSExzNWZGWXFTWlVxX1k3TGdHcWc0aGpOVmdhdEdXMHotUUdOdzJsb1V2bS1ObElkUkZ5Z1FCdUU2VVdOTWppZXg1eloyYW1SY9IByAFBVV95cUxQZEtHZ28xNXZhTUhLbl9VMl85X0xIcUJjRlYyNk92eTg1QndNQmZYbXAwMFEta05oX2d6eGs1TVBZd1gybm1WSXJxbFpOZFJhZ1lCdk1KekNMU0IycS1MRkxRWTVCNXNvRklISV9nT0lGODQ1NzAxSHlwcFFpWmNqSExzNWZGWXFTWlVxX1k3TGdHcWc0aGpOVmdhdEdXMHotUUdOdzJsb1V2bS1ObElkUkZ5Z1FCdUU2VVdOTWppZXg1eloyYW1SYw?oc=5",
+    "published": "2026-10-25T02:56:44.000Z",
+    "snippet": "Learn Why The Bull Case For Vertex (VERX) Could Change Following Oracle Cloud Validation Simply Wall Street"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "\"돈 다루는 AI, 99.9%도 안 된다\"…숫자 하나에 회사 흔들 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4cERKdkJFbWV1bzNFWDZjWXFUX0V2TmlXcllzcC1lMGdaNzVPbDBEZkxyVmRNRW1YUUp2T2J2TWdtMFp0OEdhdG5Mb1hGOWRyNXgtUjFSQ3YwaVpKY3JSYmZsSExTVU1wWTRxZGZmeGlyRDFYOXUyWdIBeEFVX3lxTFB4cERKdkJFbWV1bzNFWDZjWXFUX0V2TmlXcllzcC1lMGdaNzVPbDBEZkxyVmRNRW1YUUp2T2J2TWdtMFp0OEdhdG5Mb1hGOWRyNXgtUjFSQ3YwaVpKY3JSYmZsSExTVU1wWTRxZGZmeGlyRDFYOXUyWQ?oc=5",
+    "published": "2026-10-24T22:00:00.000Z",
+    "snippet": "\"돈 다루는 AI, 99.9%도 안 된다\"…숫자 하나에 회사 흔들 뉴시스"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "TurboCore AI to Show Payroll Teams How AI Can Investigate Pay Variances in Free Webinar on 4 November - Lohud",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZTVuODd0NnNVaWh0eGU5QWs5c0ZBRUtxakFrTFp1TlUwTDYxajgyWXBCeU5tbDJFU3JoUnZ4T0Jyb3dSZ05lYTNDTWxnc2ZBQjJOU3drNWhEYTVlNnJQaVBWa2c4NVV4eG8yalRBaV9nY3lPMmZOUFZ2Wm82VVNqZENWVmV5LUlFV3RpYzlYSUY1UTJnTFUtZWg5RVZKbXNOaTF1RmNMRGNsaENnU0JsdG81Zk56M1hVcmhRVzNHUjBMSWRoNUE4WnZta2hyTk1BM3pqdURVdEJHcWJKVy1VWnFwaUE3Zw?oc=5",
+    "published": "2026-10-23T12:14:20.000Z",
+    "snippet": "TurboCore AI to Show Payroll Teams How AI Can Investigate Pay Variances in Free Webinar on 4 November Lohud"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Confused About Your Career in SAP? Delphi Computech Announces - openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmhmTjFQUS1BZmZzT3hPSlBOZFhXMUo1S1NWTk91VzdJNUpiX2t1bUtIZWZ0dTRCekY5QnBqMnkwRDdUeDBlVGNGaDZrTEJCYU1vUm1jUWl6NjloX1RpaTRlUmxMMWZhTjZLMXV6RFIwRzlyUzdkZFlfSW9mY3lWRzJNZ01QVVRQZ0o5aU12MFhzMjI3STNEajdJeEg?oc=5",
+    "published": "2026-10-23T11:42:27.000Z",
+    "snippet": "Confused About Your Career in SAP? Delphi Computech Announces openPR.com"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "학술대회: 새로운 시대 안장성 사회발전의 혁신, 기구 재편 및 관리 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0o5Tjk3MUFPY1NHR0U5NHdpbXlRSmxEeTk3elVyMFZUNncwVW1aaDcxWmRUWUdmVmZlc0lGUnh6a0dILU9UTTZWMS1ZSFdpbW4wdlk0MksySDluOTlXREZsdU8yaHNkUVZQLUlsTU5UOTdSbGhmWDdmUWZJYVJTc2tqWHRob2R5OG9ISVRpRjc3SW84QzctSlpISFJUN0kwaENNanJsX1hCNlZRNG5IU1N2SG5DYmRlRTVDaGRVN3MwOVBTWnk1bGZJMWwtLWZtbzNKVU9GeWM?oc=5",
+    "published": "2026-10-23T07:00:00.000Z",
+    "snippet": "학술대회: 새로운 시대 안장성 사회발전의 혁신, 기구 재편 및 관리 Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "스타에셋파트너스, '스타라이즈 2026' 11월 24일 개최 - 벤처타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZaFZQd2FQTVZfZjdlNXFwa1FIXzR6cFpBMXlyU0VUQ0JUQzE2UlRrOUlScldQZUx6bXhpbVRiY0pYVm9EYjB3cThuZVVzOWhMLUM5UWlPN0ZyYUU1SW9GVG5vUEs0dw?oc=5",
+    "published": "2026-10-23T00:00:00.000Z",
+    "snippet": "스타에셋파트너스, '스타라이즈 2026' 11월 24일 개최 벤처타임즈"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "신규 자동차 브랜드 iCAUR가 베트남에 진출합니다. 이 중국 자동차 브랜드는 무엇을 선보일까요? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJRSFlZWUVGR05tU3puQkdubHBfR0pYbXd2OVhFXzhuak01T0NSOE5xOG1lSllVQ3RnWWMtY0lBb2N1R2dGZEhPY2U2N2RrTnMwRFE4ZFl6Njhvand6Q3BrZ1dPTE9aSkVsUG1TU2Z2NE9kRGdJc3VPMDRSWFpQY0dmZmhzOE1nVU91Rjdyd2JxOTE2TVE?oc=5",
+    "published": "2026-10-22T10:23:26.000Z",
+    "snippet": "신규 자동차 브랜드 iCAUR가 베트남에 진출합니다. 이 중국 자동차 브랜드는 무엇을 선보일까요? Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Key facts: SAP SE Sponsored ADR Q3 €10.3B; €3.03B adj EBIT; ests +3% - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbi1IUGJGMlFMZWZNbzZmMGQ1TE1GQ3dta1lSVFBTRm16TVNJM2hoTWt1LWVLOGZkV1V5SU5xSUJvckU1ZEV3SXI3dnZGNEQ4ZG8tdGlDOVR6YmQyME5kU2l2WGhTTDRxQktudE5reW14UHZiX202SWc1eTZrZEJONG5pOUZ4TXJSNjN0M2kzOV9JRmp3c3ZuTy1nZFE0cWZ1ZmNobEhFUHQzVG96YkpvcU9xMmxzTWRwZnIzamozLUQ?oc=5",
+    "published": "2026-10-22T05:00:00.000Z",
+    "snippet": "Key facts: SAP SE Sponsored ADR Q3 €10.3B; €3.03B adj EBIT; ests +3% TradingView"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Lines Up Fameccanica Win and AI Certification Tool as Q3 Cloud Test Looms - AD HOC NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQzdyNnY5X0U4RUNwSmFLTGtzbWxVcThJTGEzZmQ0MmNJYWtGUnY4ZXZmLXRaYlRJN0pYSFg1SUxRRkZTNGlwZjJOTUdiVHFJQXpaWDRXaFBtS2xsQ3dYR0RRNzh6YkdiZTdRaHNVb3ZxRy0ySDJhMWtibnR1M3h6RS1sZDZfSTRLQ1I4WEJoNUxsUUZOc2VaYXdvT3o0MzRDN0RsLVpfZTNHc1RSeVhpUnNpWTRRVm83NjVfVV9qanVWeW9kY19lS2ViX1ZxM2JfU29UTXkxNjI5cUZEdWVlcnNzWQ?oc=5",
+    "published": "2026-10-21T09:40:36.000Z",
+    "snippet": "SAP Lines Up Fameccanica Win and AI Certification Tool as Q3 Cloud Test Looms AD HOC NEWS"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "WEBINAR: From Complexity to Clarity: Building an Autonomous Enterprise for a More Resilient Future - Oil & Gas IQ",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnRRd3pHNzJ2d0ViQzU2ajFNcVV6VmRfQWRwTFRfVjUtRlRkcG1FTExKUU5zTFlTbEJyUGhoN0VOLXhZSWdXY19TZzR0OEk1T0ljMEdGTFRzaVpJY2hvZzdpRUdaM2NLeEQ1dU16MmYtbkdRdXBUeThyVHQ1UU5Ga1lCUUxTbUFBdVhmb2pONjFZcFNKZ2NnZHhLUGE5UWlSeUNoWDJMNWVkSktxZUVYRmd2TGxlZTV2SmtWalk2NlRxOWNaa19EWVRLcnNiRDFfbnNnNnJyZ0JCdHVPLWp1NC1GdXM?oc=5",
+    "published": "2026-10-21T07:00:00.000Z",
+    "snippet": "WEBINAR: From Complexity to Clarity: Building an Autonomous Enterprise for a More Resilient Future Oil & Gas IQ"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "까마우에서 베트남 문화의 날과 새우 축제가 곧 개최될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFphQzNoTkpVZENmcHJDT1dveVgtbEZyVldIblRFSlR2R2pDcmQxM2NLcVZzSUtTM20xSlZaLWU0TjRMdEpHTGNoNEp6cThVSFEzSjg3RDd4T3V2ZXlQQjhjRlA4NWJaRzlUemVHMVVudnVWWTFLOENJUkV2OFA4UjBEUkRMMEVHQ0hFWlZWSQ?oc=5",
+    "published": "2026-10-20T17:20:09.000Z",
+    "snippet": "까마우에서 베트남 문화의 날과 새우 축제가 곧 개최될 예정입니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "2026년 남부 산업 및 무역 부문 관련 일련의 행사가 곧 시작될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1ZjRV9TX3lrRFotYjZwTDYwQS1qZzVCbm14M1F5dzdONkRPeDl3Rm9weU11dzNJQ2J5bFVnWlU1aF8zSXNCeXZ3c3EwSTZPaVpnbXVaYVVzd3U5a0QyNGhveFhnem54SzV6OHpWSHRqd001NTRuUlJEQmZiM3VrNTZ2aWFOU0wzYXYzaVR4bEI?oc=5",
+    "published": "2026-10-20T13:37:28.000Z",
+    "snippet": "2026년 남부 산업 및 무역 부문 관련 일련의 행사가 곧 시작될 예정입니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWJCSnJ1Vmh3MDFlNERmNVJTaV8zWmlJVS1ocVlBdEtDSG0zOUhrY090RzhETWh2bnUwX0VLQk1pYWF2MFR4a01QSWxiX2R2dFJPUE4yZThXZ3BXcXZPUlpibzZ6Y25IakhEZXU1WkcweVZpMm0tS1cwel9YREYtWTA0TmRHajU1MmhDS1c0SDNRRGc?oc=5",
+    "published": "2026-10-20T12:22:37.000Z",
+    "snippet": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Back to the Future: 30 Years of SAP TechEd - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ckdzN0xQalE2YjFNOVdhMVhfNW1TTDNrWUpnOUw1bExNa3B4QXJocVZXUTRvdUdnQndhT2xBUXVkV1h3dkZVZUk4VE1FYXJBMl84c01MTEsyendiVDBndWxvbkZBTFhZbld4MEduUUk1NFB2cXU1dlY0Zw?oc=5",
+    "published": "2026-10-20T10:27:37.000Z",
+    "snippet": "Back to the Future: 30 Years of SAP TechEd SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Why Some Companies Delay - IgniteSAP",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LZm9JVFBoeVpPZGdKSHZEMGZuZ1Jfc29tTldleTVnVVJIdkFkZG04bHNMQk1MazFkX3dhUkRNY3E4TzFKd1JUbm4xRGtETU1tb1NZSlQyWW1zVHRKaTRlVzhsbw?oc=5",
+    "published": "2026-10-20T09:02:35.000Z",
+    "snippet": "Why Some Companies Delay IgniteSAP"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Ties Partner AI Targets to October 21 Earnings Test - ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkNibXV4NWJ6bnh0SzdxUGZYaU91OGx1Z0F3cGhpc0xPVG83dEcwUF9tLXZqNU96YVpBWDVNOWd1Qy1ZSVVDOTZkRGp1Tlp4SlpsRkNsYVVYVVFNVHJEZjdwRjZvMTBWZ2hxTU5DdV8td3JHbF9EbC1BZjZiaGUyd0Q3NjVzdnZ4UGJ3dXl0emVrT1ZtVnhTYXhqR2kyb2dwbWlTb2RhWERtZGV1OVFUb2ZZM0dWVFhrU3o1OG8tZGhFYWJfbUE?oc=5",
+    "published": "2026-10-20T05:50:49.000Z",
+    "snippet": "SAP Ties Partner AI Targets to October 21 Earnings Test ad-hoc-news.de"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "훈련 프로그램을 재구성하고, 유행을 맹목적으로 따르지 마십시오. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CTGx3V0pmb2o2d2RJMF9ia0lETnVDb2JuTGdwdWZjR1pCQjlOeTRsWmUtTjQ0SmkzZVFIT3B5ZzU3RzZRdVlpYXNlanFCXzJQMWJEYXNuRGo5alBfWFF3ZGhwVm40X3BhLXR2OG5PN1NOUUtWVWFGZ2F2dzI?oc=5",
+    "published": "2026-10-19T17:39:03.000Z",
+    "snippet": "훈련 프로그램을 재구성하고, 유행을 맹목적으로 따르지 마십시오. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "1,000 AI Agents by SAP TechEd: SAP and Partners Accelerate Together - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVF3Rjc3M1VaWHpTWlZIMHJkNzNyWW5na0ZSRE41WU9UVDFOU3J1TE1lVnVBVWozN3o4VEwzYkxlRDR0ZXNTMFRVRkg4R3pfRWJKajU4VUFkcXd0OGJSMVR3aTJ1YzFWTE9hSjliM0FLY1RsSHdSSjB6Y1lNTjY0X1ZSdUxJYm93elZydURVMmRCOUlEbDh3YQ?oc=5",
+    "published": "2026-10-19T15:11:45.000Z",
+    "snippet": "1,000 AI Agents by SAP TechEd: SAP and Partners Accelerate Together SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmN6Qk1CZ2JrQm5pQU84UW1YWVVKQVlOWUZOTWZOdy03XzFSYy1ENTVKN1BFdW5iX2Qxc0QxYmduTkRRYjhhTDVhNmpnLVRPM1hFZGk2Ukt6Z1dVNFdxRFB0dm1EdmpqMzBZRU5XTVRFWW41em1CS2xqTEtJS0JKMnl1YVNyZ3IyTE1DeDVZT3VsbVNZSzN3?oc=5",
+    "published": "2026-10-19T12:22:24.000Z",
+    "snippet": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP's Buyback Ledger Meets Its AI Pitch as October 21 Earnings Test Approaches - ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcktBcDU5eDFVMzh6bFZCbE5VLWJJSllmdXFyNjQ2V0U1aGMxQ0Y4S1c4eElWNFJTNTh2Tm9qRUlObTZTVW9GaVdDWlQxMUtzcDhWcE05ZmdsaWJKc0l4X1o4RlNGRFgyX1NQRG5hTnpVcEVFbDE5b05zTERkZGdsLWtudlJSX3NPVXUyWEJkaW5vLXBrU21mY3BFMHRJR2NzM2l1YzFJSlhvU2NWZ3d1a0haYzQ1WEJRVDdEbTFDUFphRUdVQkp5Qk5TMFgwcGItLWY1RXQ3SVZRek0wdFZDckRJQVU?oc=5",
+    "published": "2026-10-19T05:01:06.000Z",
+    "snippet": "SAP's Buyback Ledger Meets Its AI Pitch as October 21 Earnings Test Approaches ad-hoc-news.de"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "학교 디지털 안전에 관한 사이버 케어 서밋 2026이 곧 개최됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEh0SXVkOVBMQWFWU1lvMV9sWXp5WWdhZTJ1Sm1TWVo2Umg4WTJUMnB5SE9qWE1QNmM2eUQ3YzdYQTA5d21EaExXNm1iRjNRXzlKZkdXMFo4QnRnUUJSVDRXb2pCbHlKYkxJR3RHcnpsYWx1aWkyeVBsMjlMaUxUS2cxbzYtSTNTNkhDVjVtWXFSSDdEeVA0LQ?oc=5",
+    "published": "2026-10-19T04:18:50.000Z",
+    "snippet": "학교 디지털 안전에 관한 사이버 케어 서밋 2026이 곧 개최됩니다. Vietnam.vn"
+  }
+]

@@ -1,0 +1,155 @@
+{
+  "overview": "SAP는 3분기 매출 103억 유로, 조정 영업이익 30억 3천만 유로를 발표했습니다. 2026 Gartner 매직 쿼드런트 재무용 클라우드 ERP 부문 리더로 선정되며 클라우드 ERP 경쟁력도 다시 확인했습니다. SAP TechEd를 앞두고 파트너와 함께 AI 에이전트 1,000개 확보에 나섰고, AI 롤플레이 기반 자격 유지 도구를 내놓는 등 AI 생태계 확장에 속도를 내고 있습니다. 국내에서는 SAP코리아가 하나은행·PwC 등 5개사와 손잡고 성장기업 100곳의 ERP·AI 전환을 지원합니다. 현장에서는 Joule 에이전트 활성화 조건과 BTP 서비스 키 교체 같은 실무 보안 과제가 주목받고 있습니다.",
+  "categories": [
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "SAP 3분기 실적: 매출 103억 유로, 조정 EBIT 30억 3천만 유로",
+          "summary": "SAP가 3분기 매출 103억 유로, 조정 영업이익(EBIT) 30억 3천만 유로를 발표했습니다. 실적은 시장 예상치를 소폭 웃돈 것으로 전해졌습니다.",
+          "why": "클라우드 전환 수요와 SAP의 투자 여력을 가늠할 수 있어 고객 제안과 프로젝트 파이프라인 전망에 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Key facts: SAP SE Sponsored ADR Q3 €10.3B; €3.03B adj EBIT; ests +3% - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbi1IUGJGMlFMZWZNbzZmMGQ1TE1GQ3dta1lSVFBTRm16TVNJM2hoTWt1LWVLOGZkV1V5SU5xSUJvckU1ZEV3SXI3dnZGNEQ4ZG8tdGlDOVR6YmQyME5kU2l2WGhTTDRxQktudE5reW14UHZiX202SWc1eTZrZEJONG5pOUZ4TXJSNjN0M2kzOV9JRmp3c3ZuTy1nZFE0cWZ1ZmNobEhFUHQzVG96YkpvcU9xMmxzTWRwZnIzamozLUQ?oc=5",
+            "published": "2026-10-22T05:00:00.000Z",
+            "snippet": "Key facts: SAP SE Sponsored ADR Q3 €10.3B; €3.03B adj EBIT; ests +3% TradingView"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "SAP, 2026 Gartner 매직 쿼드런트 '재무용 클라우드 ERP' 부문 리더 선정",
+          "summary": "SAP가 2026년 Gartner 매직 쿼드런트의 재무용 클라우드 ERP 부문에서 리더로 선정됐다고 발표했습니다. 클라우드 ERP 재무 영역에서 시장 입지를 다시 인정받은 결과입니다.",
+          "why": "재무 클라우드 ERP를 도입하려는 고객에게 SAP를 제안할 때 객관적 근거로 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmN6Qk1CZ2JrQm5pQU84UW1YWVVKQVlOWUZOTWZOdy03XzFSYy1ENTVKN1BFdW5iX2Qxc0QxYmduTkRRYjhhTDVhNmpnLVRPM1hFZGk2Ukt6Z1dVNFdxRFB0dm1EdmpqMzBZRU5XTVRFWW41em1CS2xqTEtJS0JKMnl1YVNyZ3IyTE1DeDVZT3VsbVNZSzN3?oc=5",
+            "published": "2026-10-19T12:22:24.000Z",
+            "snippet": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance SAP News Center"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "SAP, 3분기 클라우드 실적 발표 앞두고 Fameccanica 수주·AI 자격 인증 도구 공개",
+          "summary": "SAP가 3분기 실적 발표를 앞두고 이탈리아 기계 제조사 Fameccanica 수주 사례와 AI 기반 자격 인증 도구를 내세웠습니다. 클라우드 성장세를 증명하려는 행보로 풀이됩니다.",
+          "why": "제조업 클라우드 ERP 레퍼런스와 SAP의 교육·인증 전략 변화를 함께 살펴볼 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Lines Up Fameccanica Win and AI Certification Tool as Q3 Cloud Test Looms - AD HOC NEWS",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQzdyNnY5X0U4RUNwSmFLTGtzbWxVcThJTGEzZmQ0MmNJYWtGUnY4ZXZmLXRaYlRJN0pYSFg1SUxRRkZTNGlwZjJOTUdiVHFJQXpaWDRXaFBtS2xsQ3dYR0RRNzh6YkdiZTdRaHNVb3ZxRy0ySDJhMWtibnR1M3h6RS1sZDZfSTRLQ1I4WEJoNUxsUUZOc2VaYXdvT3o0MzRDN0RsLVpfZTNHc1RSeVhpUnNpWTRRVm83NjVfVV9qanVWeW9kY19lS2ViX1ZxM2JfU29UTXkxNjI5cUZEdWVlcnNzWQ?oc=5",
+            "published": "2026-10-21T09:40:36.000Z",
+            "snippet": "SAP Lines Up Fameccanica Win and AI Certification Tool as Q3 Cloud Test Looms AD HOC NEWS"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "일본 클라우드 ERP 시장, 2035년 143억 달러 규모 전망",
+          "summary": "시장조사 보고서에 따르면 일본 클라우드 ERP 시장은 2035년까지 143억 달러 규모로 성장할 전망입니다. 아시아 주요 시장에서도 클라우드 ERP 수요가 꾸준히 늘고 있음을 보여줍니다.",
+          "why": "인접 아시아 시장의 클라우드 ERP 성장 전망은 국내 RISE·GROW with SAP 수요를 예측하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Japan Cloud ERP Market Forecast to Reach US$14.3 Billion by 2035 - openPR.com",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHg0Wng5N3Vkalkxb3pYd0JGRjF3YXpGOEh6Mnk3MVdLUlR2bTl3VGVmVWJsalJVRHFCZ2wxSE1kUmJPOE81cGhScUk1UkNGVVd4M3J2UVVEVHZoWWw4MDVhWWZHTjhmQkIzLXpmZ0dPak1JOFBUNUx3QWVicVp2VWhXeHRmUUNGWGItajE0ZFR2YjdESzFzSGxrZkdFcXNyWnc?oc=5",
+            "published": "2026-10-25T13:12:58.000Z",
+            "snippet": "Japan Cloud ERP Market Forecast to Reach US$14.3 Billion by 2035 openPR.com"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 23,
+          "title_ko": "SAP TechEd까지 AI 에이전트 1,000개: SAP와 파트너의 공동 가속",
+          "summary": "SAP가 SAP TechEd 전까지 파트너와 함께 AI 에이전트 1,000개를 확보하겠다는 목표를 밝혔습니다. 파트너 생태계를 중심으로 에이전트 기반 AI 확산에 속도를 내고 있습니다.",
+          "why": "파트너사와 컨설턴트가 Joule 에이전트 개발·도입 사업 기회를 미리 준비할 수 있는 신호입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "1,000 AI Agents by SAP TechEd: SAP and Partners Accelerate Together - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVF3Rjc3M1VaWHpTWlZIMHJkNzNyWW5na0ZSRE41WU9UVDFOU3J1TE1lVnVBVWozN3o4VEwzYkxlRDR0ZXNTMFRVRkg4R3pfRWJKajU4VUFkcXd0OGJSMVR3aTJ1YzFWTE9hSjliM0FLY1RsSHdSSjB6Y1lNTjY0X1ZSdUxJYm93elZydURVMmRCOUlEbDh3YQ?oc=5",
+            "published": "2026-10-19T15:11:45.000Z",
+            "snippet": "1,000 AI Agents by SAP TechEd: SAP and Partners Accelerate Together SAP News Center"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "SAP Cloud ERP Private에서 Joule 에이전트 활성화 시 실제로 벌어지는 일",
+          "summary": "한 고객사는 AI Units와 Business Data Cloud, 승인된 재무 유스케이스를 모두 갖췄는데도 에이전트를 하나도 켤 수 없었습니다. 글쓴이는 아키텍처 슬라이드에는 나오지 않는 그 원인을 짚고, 각자의 랜드스케이프에 맞는 선택지와 판단 기준을 정리합니다.",
+          "why": "Private Edition 고객에게 Joule 에이전트를 제안하거나 도입할 때 놓치기 쉬운 전제 조건을 미리 점검할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Joule Agents on SAP Cloud ERP Private: What Really Happens When You Try to Activate One",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/joule-agents-on-sap-cloud-erp-private-what-really-happens-when-you-try-to/ba-p/14510515",
+            "published": "2026-10-25T15:09:49.000Z",
+            "snippet": "A customer has AI Units, Business Data Cloud and an approved finance use case. They still cannot switch on a single agent, and the reason is not on any architecture slide. This post walks through how to think about it, what the options actually are, and how to work outwhich path fits your landscape."
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "SAP, 학습자의 자격 유지를 돕는 AI 롤플레이 기능 도입",
+          "summary": "SAP가 학습자가 SAP 자격을 유지하도록 돕는 AI 기반 롤플레이 기능을 선보였습니다. AI를 활용한 실습형 학습으로 인증 관리 방식이 바뀌고 있습니다.",
+          "why": "SAP 자격을 보유한 컨설턴트는 자격 유지 방식의 변화를 확인하고 학습 계획에 반영할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWJCSnJ1Vmh3MDFlNERmNVJTaV8zWmlJVS1ocVlBdEtDSG0zOUhrY090RzhETWh2bnUwX0VLQk1pYWF2MFR4a01QSWxiX2R2dFJPUE4yZThXZ3BXcXZPUlpibzZ6Y25IakhEZXU1WkcweVZpMm0tS1cwel9YREYtWTA0TmRHajU1MmhDS1c0SDNRRGc?oc=5",
+            "published": "2026-10-20T12:22:37.000Z",
+            "snippet": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 4,
+          "title_ko": "SAP코리아, 하나은행·PwC 등 5개사와 성장기업 100곳 ERP·AI 전환 지원",
+          "summary": "SAP코리아가 하나은행, PwC 등 5개사와 협력해 국내 성장기업 100곳의 ERP·AI 전환을 지원합니다. 금융사와 컨설팅사가 함께 참여해 중견·성장기업의 클라우드 ERP 도입 문턱을 낮추려는 시도입니다.",
+          "why": "국내 중견·성장기업 대상 GROW with SAP 등 신규 구축 수요가 늘어날 수 있어 영업·구축 기회를 살펴볼 만합니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "SAP코리아, 하나은행·PwC 등 5개사와 성장기업 100곳 ERP·AI 전환 지원 - 테크수다",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEljenVTVDRINVlnUUNnclJyZzZiR1NhUEVURWc1ZlZrV052a0syNzNOYjJIb2laT0xZY0p3T2R2VzZzcXhTaXpOMF8xcEtyMUJIWjgtcGJBUzJDN1I2aDB4SnJ0aGVjaGJIOWYxZGVyd3Nza180WlEyQnZ3Mnd4bUNGYjJObkVyMnpzWUtxMNIBjwFBVV95cUxOOEljenVTVDRINVlnUUNnclJyZzZiR1NhUEVURWc1ZlZrV052a0syNzNOYjJIb2laT0xZY0p3T2R2VzZzcXhTaXpOMF8xcEtyMUJIWjgtcGJBUzJDN1I2aDB4SnJ0aGVjaGJIOWYxZGVyd3Nza180WlEyQnZ3Mnd4bUNGYjJObkVyMnpzWUtxMA?oc=5",
+            "published": "2026-10-25T07:42:22.000Z",
+            "snippet": "SAP코리아, 하나은행·PwC 등 5개사와 성장기업 100곳 ERP·AI 전환 지원 테크수다"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "모든 SAP BTP 관리자가 익혀야 할 숨은 보안 습관: 서비스 키 교체",
+          "summary": "서비스 키는 30초 만에 만들어져 .env 파일, CI 변수, Destination, 외부 애플리케이션 등에 붙여 넣어진 뒤 몇 년씩 방치되곤 합니다. 글쓴이는 바로 이 때문에 서비스 키가 BTP 랜드스케이프에서 가장 위험한 객체가 된다고 지적하며, 외부 연동 환경에서 정기적으로 교체하는 방법을 설명합니다.",
+          "why": "BTP를 외부 시스템과 연동하는 프로젝트라면 자격 증명 관리 체계를 점검하고 보안 사고를 예방하는 데 바로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "The Hidden Security Habit Every SAP BTP Admin Must Master: Service Key Rotation",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/the-hidden-security-habit-every-sap-btp-admin-must-master-service-key/ba-p/14510539",
+            "published": "2026-10-25T17:34:09.000Z",
+            "snippet": "Introduction: the credential nobody ownsA service key is usually created in thirty seconds, pasted into a .env file or a CI variable or Destination or any 3rd Party applications, and then forgotten for years. That is exactly why it becomes one of the most dangerous objects in your SAP BTP landscape.If you integrate anything with BTP from outside the platform (a local development machine, an on-pre"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "백 투 더 퓨처: SAP TechEd 30년",
+          "summary": "SAP가 기술 컨퍼런스 SAP TechEd의 30년 역사를 되돌아봤습니다. TechEd가 SAP 기술 생태계와 함께 어떻게 변해왔는지를 조명합니다.",
+          "why": "TechEd의 흐름을 통해 SAP 기술 전략이 어떻게 진화해왔는지 이해하고, 앞으로의 방향을 가늠하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Back to the Future: 30 Years of SAP TechEd - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ckdzN0xQalE2YjFNOVdhMVhfNW1TTDNrWUpnOUw1bExNa3B4QXJocVZXUTRvdUdnQndhT2xBUXVkV1h3dkZVZUk4VE1FYXJBMl84c01MTEsyendiVDBndWxvbkZBTFhZbld4MEduUUk1NFB2cXU1dlY0Zw?oc=5",
+            "published": "2026-10-20T10:27:37.000Z",
+            "snippet": "Back to the Future: 30 Years of SAP TechEd SAP News Center"
+          }
+        }
+      ]
+    }
+  ]
+}
