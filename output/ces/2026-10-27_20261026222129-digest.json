@@ -1,0 +1,72 @@
+{
+  "overview": "오늘은 CES 2027 개막(2027년 1월 6일 예정)을 약 10주 앞둔 시점(D-71)으로, 참가 기업들의 사전 전시 계획이 하나둘 공개되고 있습니다. 가장 큰 소식은 삼성전자가 CES 2027에서 사람처럼 손가락 10개를 가진 '로봇 손'을 단 휴머노이드 공개를 추진한다는 보도입니다. CES 2026에서 아틀라스를 선보인 현대차그룹과 함께 국내 대기업 간 휴머노이드 경쟁이 CES 무대로 옮겨갈 전망입니다. K-뷰티 디바이스 스타트업 뷰앤디도 CES 2027 참가를 확정해 뷰티테크 기업의 북미 진출이 이어지고 있습니다. 해외에서는 지난 CES에서 주목받았던 xMEMS의 반도체형 냉각 칩과 Realbotix의 휴머노이드 로봇이 양산·제품 라인업 단계로 넘어가는 후속 소식이 나왔습니다.",
+  "categories": [
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 23,
+          "title_ko": "삼성전자, 내년 CES서 휴머노이드 공개 추진…'글로벌 최고 수준 로봇 손' 장착",
+          "summary": "삼성전자가 2027년 1월 열리는 CES 2027에서 자체 휴머노이드 로봇 공개를 추진하고 있으며, 핵심 차별점으로 글로벌 최고 수준의 '로봇 손'을 내세울 계획입니다. 한겨레 단독 보도에 따르면 삼성은 사람처럼 손가락 10개를 갖춘 구조를 택해, 손가락 8개 방식을 채택한 현대차그룹과 다른 길을 갑니다. 현대차그룹은 CES 2026 개막 전날인 2026년 1월 5일(현지시간) 라스베이거스 만달레이베이에서 차세대 전동식 휴머노이드 '아틀라스'를 공개한 바 있습니다.",
+          "why": "휴머노이드 경쟁의 핵심이 정교한 '손 기술'로 옮겨가면서, CES 2027이 삼성과 현대차 등 국내 대기업 로봇 전략이 정면으로 비교되는 무대가 될 전망입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성전자, 내년 CES서 '휴머노이드' 공개 추진…\"글로벌 최고 수준 '로봇 손' 장착\" - 뉴스웍스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjWXI5VW1nX3RtZVVOY3JUN1RpQVNsRmpxdk1GdlhXMExlWEF3cXpqT1R0cEQ1VHZLZ3dhUHdQcThZTmtqc3NHdWEzWlVVdGZQQ3lyeXR4aHI4T0tlaXhvZGR4WnJfRzV6cHFyZmpEeGRtbHPSAXNBVV95cUxQY1lyOVVtZ190bWVVTmNyVDdUaUFTbEZqcXZNRnZYVzBMZVhBd3F6ak9UdHBENVR2S2d3YVB3UHE4WU5ranNzR3VhM1pVVXRmUEN5cnl0eGhyOE9LZWl4b2RkeFpyX0c1enBxcmZqRHhkbWxz?oc=5",
+            "published": "2026-10-26T08:24:41.000Z",
+            "snippet": "삼성전자, 내년 CES서 '휴머노이드' 공개 추진…\"글로벌 최고 수준 '로봇 손' 장착\" 뉴스웍스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "뷰앤디, 뉴욕 팝업 이어 CES 2027 참가…북미 진출 확대",
+          "summary": "K-뷰티 디바이스 브랜드 뷰앤디가 뉴욕 신세계 하이퍼그라운드 팝업 참가에 이어 CES 2027에도 출전해 북미 시장 공략을 본격화합니다. 화장품으로 미국 시장을 연 국내 뷰티 업계가 미용기기로 영역을 넓히는 흐름 속에서 나온 행보입니다.",
+          "why": "CES가 K-뷰티테크 스타트업의 북미 진출 관문으로 자리 잡으면서, 국내 뷰티 디바이스 기업들의 CES 참가가 더 늘어날 것으로 보입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "뷰앤디, 뉴욕 팝업 이어 CES 2027 참가…북미 진출 확대 - 시선뉴스",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bldPYXdTR0JKRG40SWNoWWFQY1BfTURMU0Z0VDBuN1JBTGx2azIxQ1FGbjRXSVpNWUVTNm95cXh4bXJIa0x1bTl0czM0cGU0c2U4OG82cTk4NjgycG4wRTktZWl2MWcybVREeGwxc9IBckFVX3lxTE9TaFhPTXlINVpNRjJQYUthckROUWV3WV91MDdRbDNNVlBXUl84NVQwWF9Tc0JTaVE4UkxEUFA2NVpRb2JTLUs4dzA1QUJjdUFUd3pDWUJJZGxWbHRYTGVrX2tlWHNJeGFpQzBEbDlqM2tXdw?oc=5",
+            "published": "2026-10-26T08:24:07.000Z",
+            "snippet": "뷰앤디, 뉴욕 팝업 이어 CES 2027 참가…북미 진출 확대 시선뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 기업·지난 CES 후속 소식",
+      "items": [
+        {
+          "index": 14,
+          "title_ko": "xMEMS, AI 기기용 반도체형 냉각 칩 양산 시작",
+          "summary": "MEMS 기반 오디오·냉각 칩 기업 xMEMS가 팬 없이 칩 자체로 열을 식히는 반도체형(솔리드 스테이트) 냉각 칩의 양산에 들어갔습니다. 이 칩은 xMEMS가 CES에서 선보이며 주목받았던 초소형 능동 냉각 기술의 후속 제품으로, 발열이 커지는 AI 스마트폰·초슬림 기기를 겨냥합니다.",
+          "why": "온디바이스 AI로 발열 관리가 중요해지면서, 국내 스마트폰·노트북 제조사와 부품 업계가 새로운 냉각 방식을 검토할 계기가 될 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "xMEMS Begins Mass Production of Solid-State Cooling Chips for AI Devices - Refindustry",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2pYOF9WNVlDbWY2QmF0dml5bGNUY3NZS1g4QlR6VVZWSDRoalpRcnl1NExNRnVoRDJmc1llcnNSMU1aWnB5elY2bkluRV9DUTVkX2R5ZDVXVzRZS3JHdnZta2wxRnF0Y1E3LXZfTVdla3dtTkdzMHRBZXNPbDVUeEY0aVdraWNzaks5dF96RE9mYXJoNkY3cV9wZzM0UWR6bjR0bg?oc=5",
+            "published": "2026-10-26T12:45:00.000Z",
+            "snippet": "xMEMS Begins Mass Production of Solid-State Cooling Chips for AI Devices Refindustry"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "Realbotix, 휴머노이드 로봇 'Echo' 라인업 출시",
+          "summary": "CES에서 사람을 닮은 휴머노이드 로봇을 선보여 온 Realbotix가 새 휴머노이드 로봇 제품군 'Echo'를 출시했습니다. 같은 날 나온 관련 보도에 따르면 전신형 휴머노이드는 대당 5만 9,950달러이며, 2027년 하반기에 25대만 인도될 예정입니다.",
+          "why": "휴머노이드 로봇이 소량이지만 실제 판매 단계로 들어서면서, CES 2027에서 국내 기업들의 휴머노이드가 가격·상용화 시점 면에서도 비교 대상이 될 것으로 보입니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "Realbotix Launches Echo Humanoid Robot Line - Business Wire",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEZwY1dCOEdBcUhxdWdUZWhTa2tldGc0T3QwS3dSU2E0aDN4MW5SamFYRjhfS3h4ZmRjNmdDTTQzZ0M5d0l4S21adU5JUkRsUDZTdFphZWVCcUVpUVBqeGtpb2dGNWUxWGtvb3N4TFhaU0dKbVhVTUNTVlI0NWVkeldmSE5uSFdBUDhSWm1yWlpXcXhFOFpmb3ctRm9tT21WTGc?oc=5",
+            "published": "2026-10-26T11:30:00.000Z",
+            "snippet": "Realbotix Launches Echo Humanoid Robot Line Business Wire"
+          }
+        }
+      ]
+    }
+  ]
+}

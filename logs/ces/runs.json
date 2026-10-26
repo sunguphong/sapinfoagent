@@ -40,5 +40,26 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-10-25T21:54:07.950Z",
     "finishedAt": "2026-10-25T21:54:07.950Z"
+  },
+  {
+    "id": "20261026222129",
+    "agent": "ces",
+    "startedAt": "2026-10-26T22:21:29.292Z",
+    "date": "2026-10-27",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261026222129.log",
+    "base": "2026-10-27_20261026222129",
+    "fetched": 77,
+    "selected": 50,
+    "usedHours": 48,
+    "feedErrors": [],
+    "picked": 4,
+    "html": "2026-10-27_20261026222129.html",
+    "mailId": "<630c9896-d845-df2c-bd82-01295b2cbe0a@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-10-26T22:22:08.556Z",
+    "finishedAt": "2026-10-26T22:22:08.556Z"
   }
 ]

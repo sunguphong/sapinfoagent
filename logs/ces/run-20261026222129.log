@@ -1,0 +1,7 @@
+2026-10-26T22:21:29.507Z run 20261026222129 start (agent=ces "CES 브리핑", source=github, mode=send)
+2026-10-26T22:21:29.508Z collecting from 5 feeds...
+2026-10-26T22:21:31.096Z fetched 77, selected 50 (last 48h), feed errors: 0
+2026-10-26T22:21:31.097Z summarizing with claude (opus)...
+2026-10-26T22:22:07.406Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/ces/2026-10-27_20261026222129.html
+2026-10-26T22:22:08.556Z mail sent: <630c9896-d845-df2c-bd82-01295b2cbe0a@gmail.com> -> upsan77@gmail.com
+2026-10-26T22:22:08.556Z done
