@@ -1,0 +1,261 @@
+{
+  "overview": "서울에서는 매물이 쌓이며 집값 조정 신호가 나오고 있습니다. 서울 아파트 매물이 8만 건에 가까워졌고 강남은 11주 연속 하락했으며, 잠실주공처럼 재건축 단지에서 큰 폭의 하락 사례도 나왔습니다. 반면 전월세 시장은 강북 평균 전셋값이 처음 6억 원을 넘고 월세 비중이 과반을 차지하는 등 세입자 부담이 커지고 있으며, 내년 전세 매물 부족이 더 심해질 것이라는 전망도 나옵니다. 금리 부담과 대출 규제가 실수요자와 지방 시장을 압박하는 가운데, 반도체 산업 수요를 등에 업은 경기도 집값 오름폭은 서울을 앞질렀습니다. 동탄에서는 포스코이앤씨의 '아크메르 동탄'(1,808가구)이 청약을 시작했고, 동탄역 이용 수요 해명 오류가 국정감사에서 지적됐습니다.",
+  "categories": [
+    {
+      "name": "정책·규제",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "전셋집 구하기 어려운데…정부 공적주택 10만 호 공급은 언제",
+          "summary": "전세 매물 부족이 심해지는 가운데, 정부가 내놓은 공적주택 10만 호 공급 계획의 실제 공급 시점이 불투명하다는 지적입니다. 기사 목록에는 구체적인 공급 일정이나 대상 지역이 나와 있지 않습니다.",
+          "why": "공공 임대·분양 물량이 언제 풀리느냐에 따라 무주택 세입자의 주거 대안과 전셋값 흐름이 달라집니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "전셋집 못 구해 난리인데…정부 공적 주택 10만호 공급은 언제 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tam96bnlucDdmU3lEZjN5cm1pUU5BWDRVRWlzdVZQZ3M2WGx0eEtGdVY3SGgtd0lBdXVidFMtMmQ1Q2RrR0cweUZ0TWw2VXhjYjFKVm9TQURsT0cyVmtQdtIBeEFVX3lxTE82elNyWjllSGpFc2trdEhnRjdJNXROdVB4WG1ROG05aF9ETk9WZThpQTc5MUM4TVFyVl9mZnlOZGlRa1FLS25mSlpjNVNja0o3OFprRHNOdjVqMC1XYmM3aGkxRHVmSi02WmFtY2JFb2dqcVBqaFRRQQ?oc=5",
+            "published": "2026-10-26T21:00:00.000Z",
+            "snippet": "전셋집 못 구해 난리인데…정부 공적 주택 10만호 공급은 언제 뉴시스"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "[단독] 대출 규제의 '정책 역설' 확인…서울보다 지방 시장이 발목",
+          "summary": "주택담보대출 규제가 원래 겨냥한 서울보다 지방 주택시장의 거래와 수요를 더 위축시켰다는 분석입니다. 규제의 구체적인 시행 시기나 대출 조건은 기사 목록에 나와 있지 않습니다.",
+          "why": "지방에서 집을 사거나 팔 계획이 있다면, 대출 규제가 지역별로 다르게 작용한다는 점을 감안해야 합니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "[단독] 대출 옥죈 ‘정책의 역설’ 증명됐다…서울 대신 지방만 발목 - 미주중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85YnRhYVpYRXBZNUZaMS1SM0dvblZjbTNCR2thd282OWlZZ0hFZ1I2QVNkOEZyQ1V4S3RHa3RJNzltYndjR2Z2U2RROXF6Y2k4emdvcW56SUU1RGt0eXQta0N3?oc=5",
+            "published": "2026-10-26T20:00:00.000Z",
+            "snippet": "[단독] 대출 옥죈 ‘정책의 역설’ 증명됐다…서울 대신 지방만 발목 미주중앙일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "서울 아파트 매물 8만 건 육박…강남 11주째 하락, 집값 폭락 시작됐나",
+          "summary": "서울 아파트 매물이 8만 건에 가까워졌고, 강남권 아파트값은 11주 연속 하락했습니다. 다른 보도에서는 매물이 약 30% 늘면서 연말 집값 안정 가능성이 거론되고 있습니다.",
+          "why": "매물이 늘고 가격이 약세로 돌아서면 매수자가 협상에서 유리해지므로, 내 집 마련 시점을 판단하는 데 중요한 지표입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트 매물 8만건 육박…강남은 11주째 하락, 집값 폭락 시작됐나? [숫자 뒤의 진실] - 세계일보",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PazZ0QmdPZGg3bnZFbWpVa21Ia293RnA2emZyRjRQOTZUYmlDZjQzOVc1SzVQWXFvdE9zbENIa0dhVWlweU5vYUlhOGt4OGprVzlEMXhXNUnSAVRBVV95cUxNakh2YTB5VjVPOXoxYktzN1JSb2l6dGFrR0xHVkhHTXZkZC1aZGtGMWgwMDZ3blU4bjlqbVJrRnpWNDhaUVZGdlBYZ0I0M1haX29UVWM?oc=5",
+            "published": "2026-10-26T20:00:00.000Z",
+            "snippet": "서울 아파트 매물 8만건 육박…강남은 11주째 하락, 집값 폭락 시작됐나? [숫자 뒤의 진실] 세계일보"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "'반도체 머니' 몰리며 경기 집값 오름폭, 서울 추월",
+          "summary": "반도체 산업 관련 수요가 유입되면서 경기도 아파트값 상승폭이 서울을 넘어섰습니다. 반도체 산업단지 인근 지역을 중심으로 수요가 강한 것으로 보입니다.",
+          "why": "용인·화성·평택 등 반도체 벨트 인근 실수요자와 투자자에게는 지역 간 가격 흐름이 바뀌고 있다는 신호입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "'반도체 머니' 우르르, 서울 뛰어넘었다...경기 집값 오름폭, 서울 추월 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41OGgzbUZFMGplT29EZFAxRDlvcG8tTGEtd1JLRzlfd2gyX1lmaV9QUFZKNXYtVERWaDZVLW1BQ1VjQXFsM0g0aWZEVUVrYUlCOVJGN1UyeWFPd1VpSjY0RXJjRGY4N0ZlLXNENEdvd9IBb0FVX3lxTE41OGgzbUZFMGplT29EZFAxRDlvcG8tTGEtd1JLRzlfd2gyX1lmaV9QUFZKNXYtVERWaDZVLW1BQ1VjQXFsM0g0aWZEVUVrYUlCOVJGN1UyeWFPd1VpSjY0RXJjRGY4N0ZlLXNENEdvdw?oc=5",
+            "published": "2026-10-26T19:10:00.000Z",
+            "snippet": "'반도체 머니' 우르르, 서울 뛰어넘었다...경기 집값 오름폭, 서울 추월 - 머니투데이 머니투데이"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "잠실주공, 두 달 새 5억 원 급락…\"분담금 증가·투자 위축 영향\"",
+          "summary": "서울 송파구 잠실주공 재건축 단지 가격이 두 달 만에 약 5억 원 떨어졌습니다. 조합원 분담금이 늘어날 것이라는 우려와 투자 심리 위축이 원인으로 꼽힙니다.",
+          "why": "재건축 투자에서는 분담금 증가가 수익성과 가격을 크게 흔들 수 있다는 점을 보여 주는 사례입니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "잠실주공 2개월 새 5억 급락…\"분담금 증가, 투자 위축 영향\" - 동행미디어 시대",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrb0VWV0tDRWxxSTF5aHJURkdCX3pDaWZXUzdaYloxa2xDRGdyQk1jYThrNkpXcEZ0U1Z4UnUwQjFCQ2xYTnUzMFI0cmluWmxHRFVZUDdCQUZnMERZLUE?oc=5",
+            "published": "2026-10-26T21:08:00.000Z",
+            "snippet": "잠실주공 2개월 새 5억 급락…\"분담금 증가, 투자 위축 영향\" 동행미디어 시대"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "\"벼랑 끝 내 집 마련\"…멈추지 않는 '생애 첫 생존 매수' 행렬",
+          "summary": "전월세 부담이 커지자 무주택자들이 생애 첫 주택 매수에 나서는 흐름이 이어지고 있습니다. 임대료 상승을 피하려는 '생존형 매수'라는 평가가 나옵니다.",
+          "why": "전월세 부담이 실수요자의 매수를 앞당기고 있어, 매수와 임차 중 무엇이 유리한지 따져 볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"벼랑 끝 내 집 마련\"…꺾이지 않는 '생애 첫 생존매수' 행렬 [시장톡] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xd0JFTmlqSERZeEIwZ3lIYjZnLU9DRWJjbm1XMG5UcmdzSjg4N0VTSnoyN1NNYjF5SGRZeEFqYWJINDJPQjZEWGFMUW13a24zSHNmejFDQlRIZw?oc=5",
+            "published": "2026-10-26T21:30:01.000Z",
+            "snippet": "\"벼랑 끝 내 집 마련\"…꺾이지 않는 '생애 첫 생존매수' 행렬 [시장톡] 한국경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "전월세",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "\"올해 전월세 시장은 그나마 나은 시기\"…2027년 전세 매물 부족 심화 전망",
+          "summary": "올해가 오히려 전월세 시장의 좋은 시기였고, 2027년에는 전세 매물 부족이 더 빨라질 것이라는 전망이 나왔습니다. 입주 물량 감소와 전세의 월세 전환이 주요 원인으로 거론됩니다.",
+          "why": "내년에 전세 계약 만료를 앞둔 세입자라면 재계약이나 이사 계획을 미리 세워 둘 필요가 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"올해 전월세 시장이 화양연화\"…2027년 전세 매물 기근 가속화 전망 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VRVV6MlNMSGN4TzdWXzRRY2RnX1RRWTdvSGxFV01uVkdzZWJZWnpBeWQwWXdBYjMxUzJHeHh3YVFxLVNEQS11cjcydjBqSTNjRExGclVwMmZGa1lydHVaatIBeEFVX3lxTE9DaXR1cHkyaW1pNzZ1ZEh1QjV5MktpNnZ0eWlFZUdIQU93a0FNU1hKVlBpa3NXTEpWMmp4amV3OWEyVFRDV284MVpkcHJYS1BYRzVTVjNVSlFoMjlUc2NyRnJvWncwZUpTcVdBLXB4VG1pOG0ydTVhTw?oc=5",
+            "published": "2026-10-26T21:45:00.000Z",
+            "snippet": "\"올해 전월세 시장이 화양연화\"…2027년 전세 매물 기근 가속화 전망 뉴시스"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "강북 아파트 평균 전셋값 처음 6억 원 돌파…서민 부담 가중",
+          "summary": "서울 강북 지역 아파트 평균 전셋값이 처음으로 6억 원을 넘었습니다. 전셋값이 빠르게 오르면서 서민 세입자의 부담이 커지고 있습니다.",
+          "why": "전셋값 상승은 전세가율을 끌어올려 매매 수요로 이어질 수 있고, 세입자는 보증금 마련 계획을 다시 점검해야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "강북 아파트 평균 전셋값 첫 6억 돌파…서민들 한숨 커진다 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RRWtzMVUzYks5eUxjLXFZZVhmUzlBb2wtbm1kWjgwSDlDNE9DMF9wMDdQUUUyb0VEdVVEbzRjNTJvU1JLUm9qdUFwb2FxeTZYVTVYTUQ2NGhJQ1ZxaWo1SkZtZ0w3SUw2OEk0SjZfa3lFQjhKbjFkd9IBeEFVX3lxTE5RRWtzMVUzYks5eUxjLXFZZVhmUzlBb2wtbm1kWjgwSDlDNE9DMF9wMDdQUUUyb0VEdVVEbzRjNTJvU1JLUm9qdUFwb2FxeTZYVTVYTUQ2NGhJQ1ZxaWo1SkZtZ0w3SUw2OEk0SjZfa3lFQjhKbjFkdw?oc=5",
+            "published": "2026-10-26T20:06:00.000Z",
+            "snippet": "강북 아파트 평균 전셋값 첫 6억 돌파…서민들 한숨 커진다 뉴시스"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "서울 아파트 월세 10건 중 4건은 100만 원 넘어",
+          "summary": "서울 아파트 월세 거래의 약 40%가 월 100만 원 이상인 것으로 나타났습니다. 보증금 1억 5,000만 원에 월 170만 원을 내는 사례도 보도되는 등 고액 월세가 늘고 있습니다.",
+          "why": "월세 부담이 커지면 매달 내는 주거비가 매수 시 대출 이자와 비슷해질 수 있어, 임차와 매수를 비교하는 기준이 달라집니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트 월세 10건중 4건 100만원 넘는다 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1V0QzLXZsNEVZS2VQOWRtZEUybWNud19YYnMzMlJtdFI3T1BPWHAtdEhLNmJJMVN4YWtnNXhUR3Y4UDBmUkFXRkxUUkIxMGVvdG1wTjhkWVNKYldaM1l5UkdtTVVDUdIBZkFVX3lxTFA1V0QzLXZsNEVZS2VQOWRtZEUybWNud19YYnMzMlJtdFI3T1BPWHAtdEhLNmJJMVN4YWtnNXhUR3Y4UDBmUkFXRkxUUkIxMGVvdG1wTjhkWVNKYldaM1l5UkdtTVVDUQ?oc=5",
+            "published": "2026-10-26T15:30:00.000Z",
+            "snippet": "서울 아파트 월세 10건중 4건 100만원 넘는다 동아일보"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "아파트 임대차 시장에서 월세가 전세 추월…5년 새 처음 과반",
+          "summary": "아파트 임대차 거래에서 월세 비중이 최근 5년 사이 처음으로 절반을 넘었습니다. 전세 중심이던 임대차 시장이 월세 중심으로 바뀌고 있습니다.",
+          "why": "전세 매물이 줄어드는 구조적 변화이므로 세입자는 월세를 전제로 주거비 계획을 세워야 할 수 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "아파트 시장 ‘월세 > 전세’ 5년새 첫 과반 - 강원도민일보",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SXZUQ1hhVlJ6VHRPeTl6NVpqSS03cG9rZnpXUTQxN2pUbFhZVXF0R1R1cUpBcGZCT3Y2V0JzUzRCeVhjRnVkSzRNOVBTZFZIOEZ4c2VZWml4VTZBVXY0d3FySkFMbHc?oc=5",
+            "published": "2026-10-26T15:02:01.000Z",
+            "snippet": "아파트 시장 ‘월세 > 전세’ 5년새 첫 과반 강원도민일보"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "경기도도 월세 200만 원이 '뉴노멀'…강남 집값 약세는 계속",
+          "summary": "경기도 아파트에서도 월세 200만 원 수준의 거래가 흔해지고 있습니다. 반면 서울 강남 집값은 약세가 이어지고 있습니다.",
+          "why": "서울을 피해 경기도로 옮기려는 세입자도 높은 월세 부담을 피하기 어려워지고 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "경기도 월세도 200만원이 ‘뉴노멀’ … 강남 집값 약세는 지속 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tWVZkMFdQeHFENXBwUExIY0xzaVRXcnlyUExXYS1DNF9PREVBbDRvYUwyNF9yNzBpRjRQeGFkem5NVXZUR2EyanhlZnRMdkRwMU54bEc0dTM?oc=5",
+            "published": "2026-10-26T20:00:00.000Z",
+            "snippet": "경기도 월세도 200만원이 ‘뉴노멀’ … 강남 집값 약세는 지속 매일경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "금융·대출",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "\"5억 대출 월 이자 270만~300만 원…주담대 8%대 오면 영끌족 비명\"",
+          "summary": "주택담보대출 5억 원 기준 월 이자가 270만~300만 원에 이른다는 분석입니다. 주담대 금리가 8%대까지 오르면 무리하게 대출받아 집을 산 이른바 '영끌족'의 부담이 크게 늘 것이라는 우려가 나옵니다.",
+          "why": "대출로 집을 사려는 사람은 금리가 더 오를 경우를 가정하고 상환 능력을 점검해야 합니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "\"5억 대출 월 이자 270~300만원…주담대 8%대 오면 영끌족 비명\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tRFQ3VWlQWXpBWlY1YmtCYzVpZkZPbmlIdVE0VlljbVEwOGhoMDhBY0lqNWMxdFg0Sk1CV2hqMGhoa1JnRUlxWG9oczNZN2xOXzBrT2x5V0xSZGkxbmxHZNIBeEFVX3lxTE1wUnhfWjlxRFBpdVZHVkItVDdnOHVBTTlmT3BaV0IzcHFZdzRRWnZNV1JITkFTMXh2N2VqVGwyTkhrSXo4TXNBWWc3bWgyejdJYm5sVzlDWExNNGE5NlNlS2RkOWhWQUVMSlRFOVlqdFpYWS1raThmVw?oc=5",
+            "published": "2026-10-26T21:00:00.000Z",
+            "snippet": "\"5억 대출 월 이자 270~300만원…주담대 8%대 오면 영끌족 비명\" 뉴시스"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "고금리에 중소기업 건전성 비상…기업은행 연체율 15년여 만에 최고",
+          "summary": "고금리가 이어지면서 IBK기업은행의 중소기업 대출 연체율이 15년여 만에 가장 높은 수준으로 올랐습니다. 중소기업 전반의 재무 건전성에 경고등이 켜졌습니다.",
+          "why": "연체율이 오르면 금융권이 대출 심사를 더 깐깐하게 할 수 있어, 주담대를 포함한 대출 환경 전반에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "고금리에 中企 건전성 비상…기업銀 연체율 15년여 만에 최고 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByVmxxYkwyZUpjX0F3SDIzYmZNYi1QakVjN2FrbnBCQ2t1YUN6am13ZElVM0UtZmZUUUNjVDJFalhycDVvSDJ4NWFMcXItVmFSM2p4eXh1LWhPYW_SAWBBVV95cUxPMUdEWWkxdzJJSXlPcmJNbnZMRU9iTmdNZXQ4ZzZWS0FUMnFNcS1JTzhlWkJwaHdWdllJWmp3LUt3eUotYUszeDNyUHhlOHdrcjVmajF0UDk0MV81alRnN3k?oc=5",
+            "published": "2026-10-26T20:55:00.000Z",
+            "snippet": "고금리에 中企 건전성 비상…기업銀 연체율 15년여 만에 최고 연합뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "포스코이앤씨 '아크메르 동탄' 1,808가구 청약 시작",
+          "summary": "포스코이앤씨가 동탄1신도시에 짓는 '아크메르 동탄' 1,808가구가 특별공급에 이어 26일부터 본격적으로 청약을 받습니다. 삼성전자 사업장과 가까운 이른바 '반세권' 입지가 강조됐으며, 분양가가 높은 편이라 흥행 여부에 관심이 쏠립니다.",
+          "why": "동탄1신도시에서 대규모로 새로 공급되는 단지라, 청약 결과가 주변 시세와 지역 분양시장 분위기를 가늠하는 잣대가 됩니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "포스코이앤씨, ‘아크메르 동탄’ 1808가구 청약 돌입 - 한국금융경제신문",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RjZ4dkVCcnJHWGlvemNmTGNVbmRUUUlwb2NnVXJpVkdMWjJJV2lZbEJ3aHJ3TndFNzhGSm9oNUZoVGc1VXVkRVVqMHZ6Sk1jMkZLTjFUN1p3OXFISXZKNFhlcVdZZlZjLU9RVtIBcEFVX3lxTE9QUjE5WFp4UXZiZ2JoVWxHdGVnenJ5TjBlZEx5ckhVYzRNVmRRRzZKWHlJQWVaS3FSbmVRVFhyWHJfTUpVMjRCOE1ZWXVEOEEyM3dfYnMxNmNCd3Baa2VEX25zQmtJY1p6OWdmdWxPZ3A?oc=5",
+            "published": "2026-10-26T10:31:44.000Z",
+            "snippet": "포스코이앤씨, ‘아크메르 동탄’ 1808가구 청약 돌입 한국금융경제신문"
+          }
+        },
+        {
+          "index": 43,
+          "title_ko": "[2026 국정감사] 국가철도공단, 동탄역 이용 수요 '2만 8,000명' 해명 오류 인정",
+          "summary": "국가철도공단이 동탄역 이용 수요를 '2만 8,000명'이라고 설명한 것이 잘못됐다는 점을 국정감사에서 인정했습니다. 동탄역 수요 산정의 정확성이 도마에 올랐습니다.",
+          "why": "동탄역의 이용 수요 추정은 열차 운행 횟수와 교통 투자 결정에 영향을 주므로, 역세권 주거 가치와도 관련이 있습니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "[2026 국정감사] 동탄역 이용수요 '2만 8,000명' 해명 오류…철도공단 국감서 인정 - 한국철도일보",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fd0lyeGNkY0JFWHk3SUp1MkhaSktqWHEtVEd6LXROSVJWdFNEbVpvYzlER0p4cHFNcEMyVTZTRlR0TUhHcElNZXV1UkwzcnAtTlJnWE5uYmI4TjZNWU9sVmhRRU44akJaalJrajlrbEI?oc=5",
+            "published": "2026-10-26T07:38:59.000Z",
+            "snippet": "[2026 국정감사] 동탄역 이용수요 '2만 8,000명' 해명 오류…철도공단 국감서 인정 한국철도일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 트램",
+      "items": [
+        {
+          "index": 44,
+          "title_ko": "동탄2 주민 10명 중 8명 \"교통 개선이 최우선\"…동마다 원하는 교통수단 달라",
+          "summary": "이준석 의원실이 동탄2신도시 주민을 대상으로 예산 우선순위를 조사한 결과, 교통 개선을 가장 먼저 꼽은 응답이 많았습니다. 매체에 따라 63%~80%로 보도됐습니다. 동별로 버스, 도로, 트램 등 원하는 교통수단이 서로 다르게 나타났습니다.",
+          "why": "트램을 비롯한 교통 인프라에 대한 주민 요구가 확인된 만큼, 예산 배정과 사업 속도에 따라 동탄2 각 동의 생활 편의와 주거 선호가 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "동탄2 주민 10명 중 8명 \"교통 개선이 우선\"…동별 수요 달라 - 경인방송 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRFU4TS1yVXNVNUM1UTNDQ3k2bWw4NTBrSkc1N1AtRE1xQVJSbHhRLW9BZTNPSzF5dkJTbV9zN0hlVVNiQmdGSEhGM3JXcEp3TmhxbHlXYWlXWU54eWNhQzl1TXo?oc=5",
+            "published": "2026-10-26T06:56:21.000Z",
+            "snippet": "동탄2 주민 10명 중 8명 \"교통 개선이 우선\"…동별 수요 달라 경인방송 뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "HDC현대산업개발, 4,482억 원 규모 금정역세권1구역 재개발 시공사로 선정",
+          "summary": "HDC현대산업개발이 군포 금정역세권1구역 재개발 사업의 시공사로 선정됐습니다. 사업 규모는 4,482억 원입니다. 금정역은 GTX-C 노선이 정차할 예정인 역입니다.",
+          "why": "GTX-C 정차역 주변 정비사업이 본격화되면 역세권 주거 환경과 시세에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "IPARK현대산업개발, 4482억원 규모 금정역세권1구역 재개발 시공사 선정 - 에너지경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfMlp1SmFzbkVFSnZxam9uS08taVVpcTFKVW9SM0ZSTUpQbGdDT0tqV1dLOWl0UTVkWE15bmlqbEVpaGJLelNDSjZrQmxwNEFNVFYtTWU1aFMwU29fd1lqREVCTQ?oc=5",
+            "published": "2026-10-26T14:02:54.000Z",
+            "snippet": "IPARK현대산업개발, 4482억원 규모 금정역세권1구역 재개발 시공사 선정 에너지경제신문"
+          }
+        }
+      ]
+    }
+  ]
+}
