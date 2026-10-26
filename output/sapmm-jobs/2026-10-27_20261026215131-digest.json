@@ -1,0 +1,177 @@
+{
+  "overview": "오늘 SAP MM 관련 신규 공고는 3건으로, 한국앤컴퍼니그룹 계열 한국네트웍스의 SD 또는 MM 모듈 운영 경력직(7년 이상)이 가장 눈에 띕니다. 이 밖에 로이컨설팅이 글로벌 컨설팅펌의 전 모듈 컨설턴트(4년 이상, 정규직)를 대리 모집하고, 지에스비아이가 동대문 소재 대기업 SAP 운영(ABAP·MM) 프리랜서(6~10년)를 찾고 있습니다. 요구 경력은 4~10년 이상의 중·고급 인력에 몰려 있습니다. 공고 대부분이 운영(SM) 성격이고, S/4HANA 전환이나 구축 프로젝트를 명시한 공고는 없습니다. 동국 계열사에서는 동국제강 스틸샵의 하나은행·하나카드 공급망 금융 구축과 동국씨엠의 가전용 강판 수요 우려가 새로 보도됐습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "한국네트웍스 · SAP SD 또는 MM 모듈 운영(경력)",
+          "summary": "한국앤컴퍼니그룹 계열 IT 서비스사 한국네트웍스가 SAP 시스템의 SD 또는 MM 모듈 운영을 맡을 경력직을 채용합니다. 근무지는 경기 성남시이고 경력 7년 이상이 필요하며, 지원은 회사 홈페이지에서 받습니다. 고용형태와 마감일은 공고 요약에 나와 있지 않습니다.",
+          "why": "MM 운영 경력 7년 이상이면 그룹 계열 IT사 정규 포지션을 노려볼 수 있으나, 마감일이 명시되지 않았으니 홈페이지에서 일정을 먼저 확인해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[한국앤컴퍼니그룹] 한국네트웍스 경력 채용(SAP시스템 SD or MM모듈 운영)",
+            "company": "㈜한국네트웍스",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50241886",
+            "published": "2026-10-26T06:08:35.680Z",
+            "jkCompanyNo": "275025",
+            "snippet": "회사: ㈜한국네트웍스 / 경기 성남시 / 솔루션·SI·CRM·ERP, 소프트웨어개발자 / 홈페이지 지원 / 경력7년↑ / 회사정보: 사원수 192명 / 매출액 525억 8천만원 (2025년) / 영업이익 10억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜한국네트웍스",
+              "employees": "192명",
+              "revenue": "525억 8천만원 (2025년)",
+              "operatingProfit": "10억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/275025"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "프리랜서·계약직",
+      "items": [
+        {
+          "index": 5,
+          "title_ko": "지에스비아이 · 대기업 SAP 운영(ABAP·MM) 프리랜서",
+          "summary": "지에스비아이가 동대문 소재 대기업의 SAP 운영을 맡을 ABAP·MM 인력을 프리랜서로 모집합니다. 근무지는 서울 중구이며 경력 6~10년, 초대졸 이상이 조건입니다. 마감은 10월 30일(금)입니다.",
+          "why": "MM과 ABAP를 함께 다루는 6~10년차 프리랜서에게 맞는 공고이며, 마감이 사흘 뒤(10/30)라 서둘러야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[동대문/대기업] SAP 운영, ABAP MM",
+            "company": "지에스비아이 주식회사",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55389903",
+            "published": "2026-10-26T00:00:00.000Z",
+            "snippet": "회사: 지에스비아이 주식회사 / 조건: 서울 중구 경력 6~10년 초대졸↑ 프리랜서 / 마감: ~ 10/30(금) / 분야: SAP , 소프트웨어개발",
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 4,
+          "title_ko": "로이컨설팅(서치펌) · 글로벌 컨설팅펌 SAP 모듈 컨설턴트(전 모듈)",
+          "summary": "서치펌 로이컨설팅이 SAP 분야 글로벌 컨설팅펌의 모듈 컨설턴트를 전 모듈 대상으로 모집합니다. 근무지는 서울 강남구이며 경력 4년 이상, 대졸 이상, 정규직입니다. 마감은 11월 1일(일)입니다.",
+          "why": "전 모듈 모집이라 MM 컨설턴트도 지원할 수 있고, 4년 이상이면 글로벌 펌 정규직을 노려볼 기회입니다. 다만 마감(11/01)이 임박했습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[SAP분야 리딩 글로벌 컨설팅펌] SAP 모듈 컨설턴트 [전모듈]",
+            "company": "로이컨설팅(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55396673",
+            "published": "2026-10-26T00:00:00.000Z",
+            "snippet": "회사: 로이컨설팅(주) / 조건: 서울 강남구 경력4년↑ 대졸↑ 정규직 / 마감: ~ 11/01(일) / 분야: SAP , 서치펌",
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영 담당자(FI·CO·SD·PP·MM)",
+          "summary": "FI·CO·SD·PP·MM 모듈 운영(SM) 담당자를 모집하는 공고입니다. 근무지는 서울 마포구이며 경력 5년 이상, 대졸 이상, 정규직입니다. 마감은 10월 30일(금)입니다.",
+          "why": "MM이 포함된 통합 운영 정규직이고 마감(10/30)이 임박해, 아직 지원하지 않았다면 바로 검토해야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55383805",
+            "published": "2026-10-24T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: ~ 10/30(금) / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "isNew": false
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "모베이스시스템 · SAP PP·MM 모듈 컨설팅/ABAP",
+          "summary": "모베이스시스템이 SAP PP·MM 모듈 컨설팅과 ABAP 인력을 모집합니다. 근무지는 경기 수원시이며 경력 3년 이상이고, 즉시 지원할 수 있습니다. 고용형태와 마감일은 공고 요약에 나와 있지 않습니다.",
+          "why": "경력 3년 이상으로 진입 문턱이 낮은 PP·MM 포지션이지만, 사원 12명의 소규모 회사라 처우와 프로젝트 안정성을 확인해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "모베이스시스템 SAP(PP,MM) 모듈컨설팅/ ABAP",
+            "company": "㈜모베이스시스템",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50229001",
+            "published": "2026-10-23T04:15:01.707Z",
+            "jkCompanyNo": "47241197",
+            "snippet": "회사: ㈜모베이스시스템 / 경기 수원시 / 솔루션·SI·CRM·ERP, IT컨설팅 / 즉시 지원 / 경력3년↑ / 회사정보: 사원수 12명 / 매출액 - / 영업이익 -",
+            "companyInfo": {
+              "title": "㈜모베이스시스템",
+              "employees": "12명",
+              "revenue": "-",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/47241197"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 51,
+          "title_ko": "[동국제강] 스틸샵, 하나은행·하나카드와 '공급망 금융' 구축",
+          "summary": "동국제강이 철강 온라인 판매 플랫폼 '스틸샵'에 하나은행·하나카드와 함께 공급망 금융을 구축하기로 했습니다. 철강재를 사는 중소기업과 소상공인 회원사가 대출과 결제를 한 번에 처리할 수 있도록 지원합니다. 같은 내용이 여러 언론사에서 함께 보도됐습니다.",
+          "why": "철강 유통에 금융을 결합해 구매·결제 프로세스를 디지털화하는 움직임으로, 구매·대금결제 시스템 연계 수요와 이어질 수 있는 동향입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강 스틸샵, 하나은행·하나카드와 ‘공급망 금융’ 구축 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ibFhOZmZMXzRGdXUzSE90NjNmVFpWTGN2VVBoSWVEWWJRYk1sQV9Bb2M3LU1vSkw4V2dkcURPOG1nOGozTVhtX241RVBVdVQwSlpCQg?oc=5",
+            "published": "2026-10-22T00:48:00.000Z",
+            "snippet": "동국제강 스틸샵, 하나은행·하나카드와 ‘공급망 금융’ 구축 이투데이",
+            "isNew": true
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "[동국씨엠] \"가전 주도권은 이미 중국으로\"…한국 강판 수요처 우려",
+          "summary": "동국씨엠이 가전 산업의 주도권이 이미 중국으로 넘어갔다고 진단했습니다. 이 때문에 국내 컬러강판 등 가전용 강판의 수요처 확보가 과제로 떠오르고 있습니다.",
+          "why": "주력 수요처인 가전 시장이 위축되면서 동국씨엠의 판매 구조와 수출 전략이 바뀔 가능성을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "동국씨엠 \"가전 주도권은 이미 중국으로\"…韓 강판 누가 사나 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jbWxpU1B3aElVQUJQQmVjZ2VOVnRQczZIeHEtMWFvdDA2Z2xrck5PS01YczM2cUU4eEZ2NlpOWVkzWHktSW9kdk1rNjExS0wzYV9OQWc4ckRHUGFGTDdtNGRYd0VRVlY3S05xUmlMZmk?oc=5",
+            "published": "2026-10-25T20:00:00.000Z",
+            "snippet": "동국씨엠 \"가전 주도권은 이미 중국으로\"…韓 강판 누가 사나 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "[동국씨엠] 중국산 도금강판 수입 76% 급감…국내 철강사 판매 회복은 '아직'",
+          "summary": "중국산 도금강판 수입이 76% 급감했지만, 국내 철강사의 판매 회복은 아직 뚜렷하지 않다는 보도입니다.",
+          "why": "수입 감소에도 내수 부진이 이어지고 있어, 동국씨엠 등 도금·컬러강판 업체의 업황 회복이 더딜 수 있다는 신호입니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "中 도금강판 수입 76% 급감…국내 철강사 판매 회복은 '아직' - 아이뉴스24",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5haVFmTHdubkVyRDNlRWt5Q0ZCdklzNDhaMTBpNTE2UkgyZkFHd0xDNlMtQzhWVV94dDdzdlcwUjlkTXpXNEhCZ0VYNA?oc=5",
+            "published": "2026-10-26T05:30:02.000Z",
+            "snippet": "中 도금강판 수입 76% 급감…국내 철강사 판매 회복은 '아직' 아이뉴스24",
+            "isNew": true
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "[동국제강] '명동밥집'에 10억 원 추가 후원…10년 기부 약속",
+          "summary": "동국제강이 무료 급식소 '명동밥집'에 10억 원을 추가로 후원합니다. 사재 기부로 시작한 지원을 10년간 이어가는 장기 약속으로 확대했습니다.",
+          "why": "그룹 차원에서 사회공헌을 장기적으로 이어가겠다는 의지를 보여주는 ESG 활동입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, '명동밥집'에 10억원 추가 후원…사재 기부가 10년의 약속으로 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51R1A4d3ItSzJIeEoycUtXWW9hNHd3YjR5SG03bnZZd1BJbzd1VkJrYmlMc19Wc0pQc09zNXM1X3Q5RGpjLUNIV3JjdDNfXzZYUzc4bk85SHJOZw?oc=5",
+            "published": "2026-10-26T06:47:42.000Z",
+            "snippet": "동국제강, '명동밥집'에 10억원 추가 후원…사재 기부가 10년의 약속으로 한국경제",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
