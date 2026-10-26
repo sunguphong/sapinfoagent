@@ -1,0 +1,225 @@
+{
+  "overview": "■ 전날 미국 증시\n26일(현지) 뉴욕증시는 앤트로픽의 IPO(기업공개) 신청 소식에 AI 투자심리가 살아나면서 3대 지수가 모두 올랐습니다. 다우는 0.29%, 나스닥은 0.83% 상승했고, S&P500과 나스닥은 이틀 연속 하락에서 벗어났습니다. 필라델피아 반도체지수(SOX)가 3% 가까이 뛰는 등 반도체·기술주가 상승을 이끌었습니다. 엔비디아는 2.39% 올랐고, 인텔·ARM·루멘텀도 강세였습니다. 테슬라는 바클레이즈의 투자의견 상향과 스페이스X 합병 기대로 5% 넘게 급등했지만, 애플은 1.1% 하락했습니다. 국제유가는 6개월 최고치에서 소폭 내려왔고, 비트코인은 8만 달러를 회복하지 못했습니다. 이번 주 연준(Fed)의 금리 결정과 아마존·알파벳·마이크로소프트 실적 발표를 앞두고 관망 심리도 함께 나타났습니다.\n\n■ 오늘 국내 증시 전망\n전날 코스피는 외국인의 대규모 매도로 5500선 아래로, 코스닥은 730선 아래로 밀렸습니다. 오늘은 미국 반도체지수가 3% 가까이 오른 영향으로 반도체 중심의 반등 시도가 나타날 가능성이 있어 '상승 우세'에 무게를 둡니다. 다만 외국인 매도가 계속되고 있고, 골드만삭스가 코스피 목표치를 낮췄으며, 연준 결정과 빅테크 실적을 앞둔 관망 심리가 강해 반등 폭은 제한적일 수 있습니다. 내일 발표되는 SK하이닉스 3분기 실적과 주주환원 규모가 반도체 수급의 분수령이 될 전망입니다. 테슬라 급등은 2차전지·자율주행 관련주 심리에 우호적일 수 있습니다. 반면 환율 변동과 외국인 수급 이탈 지속 여부는 핵심 리스크로 점검이 필요합니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "[뉴욕마감] 앤트로픽 IPO에 AI 투자심리 회복…나스닥 0.83% 상승",
+          "summary": "앤트로픽의 상장 신청 소식에 AI 관련주 투자심리가 살아나며 뉴욕증시 3대 지수가 일제히 올랐습니다. 다우는 0.29%, 나스닥은 0.83% 상승했고, S&P500과 나스닥은 이틀 연속 하락을 끊었습니다.",
+          "why": "AI 투자심리 회복은 삼성전자·SK하이닉스 등 국내 AI 반도체 밸류체인의 반등 시도에 우호적인 신호입니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[뉴욕마감]앤트로픽 IPO에 AI 투자심리 회복…나스닥 0.83% 상승 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56Zlo1SDFTdGdGQjhGT1hVMjFmUm5yNlJUUnB5TnlwTGJtWEc3WDRaRUlQQkZFdVBNRXo5UkZyeFAxWnhaNW5qeVJGLUo1dDVhaTg2TlM5ZExnN05FYk1zOWJqWUtFRnM?oc=5",
+            "published": "2026-10-26T20:34:52.000Z",
+            "snippet": "[뉴욕마감]앤트로픽 IPO에 AI 투자심리 회복…나스닥 0.83% 상승 뉴스1"
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "미 증시 마감: 나스닥 0.82%↑, 반도체지수 3% 가까이 상승…테슬라 5% 넘게 급등",
+          "summary": "앤트로픽의 투자설명서 제출 이후 AI 관련주가 오르면서 필라델피아 반도체지수(SOX)가 3% 가까이 상승했습니다. 테슬라도 5% 넘게 급등하며 지수 상승에 힘을 보탰습니다.",
+          "why": "SOX 강세는 전날 반등에 실패한 국내 반도체주의 개장 초 반등 가능성을 높이는 요인입니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "US Stocks Close: Nasdaq Rises 0.82%, SOX Gains Nearly 3%; AI-Related Stocks Rise After Anthropic Files Prospectus, Tesla Rises Over 5% - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObkpIYXZYdURldE5NSmc3MndROGdTS0VxV0J2QUt2NEdPWUllaF9vdGVjV0R5Z041WG4zM1VmeDNaYjlCSjR5X0loRUVOM24yVVd2SzM2c2VsSkExRm5vajdvRDRLeGpQX3dPRWF6NXZvR2VDYVRmcGl6Mzk0bXZMcm1uVi1HeXhKcHJlaWkxZEZBVC1XSXVFOFIzMlBEcDFOS2ViNWRpMEFMdTRQYVlINWpvT3BUMTZDcWhDb2s3YzRVVWhZbnctWg?oc=5",
+            "published": "2026-10-26T20:22:37.000Z",
+            "snippet": "US Stocks Close: Nasdaq Rises 0.82%, SOX Gains Nearly 3%; AI-Related Stocks Rise After Anthropic Files Prospectus, Tesla Rises Over 5% TradingKey"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "美 증시, AI 훈풍에 나스닥 0.83% 상승…국제유가는 6개월 최고치서 후퇴",
+          "summary": "AI 기대감으로 기술주가 강세를 보인 가운데, 국제유가는 6개월 최고치에서 소폭 내려왔습니다. 유가 상승세가 한풀 꺾이면서 인플레이션 우려도 다소 누그러졌습니다.",
+          "why": "유가 하락은 항공·화학 등 원가 부담 업종에 단기적으로 긍정적이고, 정유주에는 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "美 증시, AI 훈풍에 나스닥 0.83% 상승···국제유가는 6개월 최고치서 후퇴 - 스마트비즈",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOU9yblQxMjlYRndYMTVrWTFpcnFTN2FydWoyTDFEZElCWXlrTW9XaW9CNUFWT3VsUEdsSklCbHFmNnFQVDBNRkZ3c3F3bjlFeEw5SmFSdnAtYWtXRk9XeklSZ0d2NEVrdXlMNQ?oc=5",
+            "published": "2026-10-26T20:59:10.000Z",
+            "snippet": "美 증시, AI 훈풍에 나스닥 0.83% 상승···국제유가는 6개월 최고치서 후퇴 스마트비즈"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "연준, 이번 주 금리 동결 전망…워시 의장, '인상 없이 12월 기대 유지' 소통 시험대",
+          "summary": "시장은 이번 주 연준의 금리 동결을 예상하고 있습니다. 관심은 워시 의장이 이번에 금리를 올리지 않는 이유를 설명하면서도 12월 정책 기대를 어떻게 관리하느냐에 쏠려 있습니다.",
+          "why": "연준의 메시지에 따라 달러·원 환율과 외국인 수급 방향이 달라질 수 있어, 결정 전까지 국내 증시는 관망 장세가 이어질 가능성이 큽니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Fed Expected to Hold Rates This Week; Warsh Faces Communication Test: How to Explain No Hike Without Undermining December Expectations - BigGo Finance",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xanQySlNjRElqUk1hanNMNkdiMV9NM3BlTEdZc0VoOVYtX1dDdzYyNlM0UDh6YTJNTncwM0xsaDR5djZUenVPOVhWbmo2YU1RaWViM19SaC0zYWkwdUpPX2h1N2F6MFFrSWdCcTlVMEc5WXZ5ZEE?oc=5",
+            "published": "2026-10-26T20:35:00.000Z",
+            "snippet": "Fed Expected to Hold Rates This Week; Warsh Faces Communication Test: How to Explain No Hike Without Undermining December Expectations BigGo Finance"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "이번 주 외환·채권 시장: 연준 등 주요 중앙은행 결정에 주목",
+          "summary": "이번 주에는 연준을 비롯한 여러 주요 중앙은행의 통화정책 결정이 몰려 있어 외환·채권 시장의 변동성이 커질 수 있습니다. 투자자들은 각국의 금리 경로 신호를 주시하고 있습니다.",
+          "why": "주요국 금리 결정에 따른 달러 흐름은 원화 환율과 외국인 순매수·순매도 방향에 직접 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus - WSJ",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+            "published": "2026-10-26T20:55:42.000Z",
+            "snippet": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus WSJ"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 증시 전망",
+      "items": [
+        {
+          "index": 47,
+          "title_ko": "외국인 '매도 폭탄'…코스피 5500선·코스닥 730선 동시 붕괴",
+          "summary": "전날 외국인의 대규모 매도로 코스피는 5500선, 코스닥은 730선 아래로 동시에 밀렸습니다. 간밤 미국 반도체지수가 3% 가까이 오른 만큼 오늘은 반등 시도가 나타날 가능성이 있습니다. 다만 외국인 매도가 멈추는지가 반등 강도를 좌우할 전망입니다.",
+          "why": "외국인 매도가 줄어들면 낙폭이 컸던 반도체·대형주 중심의 기술적 반등 가능성이 높아집니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "외국인 '매도 폭탄'…코스피 5500선·코스닥 730선 동시 붕괴 - 센트럴경제",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GS09ra1lGaGxTd2NnS3ZKM2lxeXA1b05aS1lURzdwQWJRVzVINndZSmU1eDVxaUxLNmoweUVZRjBPdThJbjBSaFVPQW9XT0N3bUxJeXowVl9TRW9jODIxMWRoaW1MQdIBakFVX3lxTE9lN2NKNUc4ZzNTelc3QmZGSnhDQmI4bUxiM0xDQ3ZSZ2Vma1huaWFtLU5zVHVNYW8zakk0ZmJHOEpiR2RZc1drLXZMNTBQaVpFYTRRc2lZZ0ZwNWZVOGY2ZzdFSF9mTlo3WXc?oc=5",
+            "published": "2026-10-26T10:27:52.000Z",
+            "snippet": "외국인 '매도 폭탄'…코스피 5500선·코스닥 730선 동시 붕괴 센트럴경제"
+          }
+        },
+        {
+          "index": 49,
+          "title_ko": "코스피, 반도체 반등 무산에 5500선 내줘",
+          "summary": "전날 코스피는 반도체주 반등이 무산되면서 5500선을 내줬습니다. 간밤 엔비디아(+2.39%) 등 미국 반도체주가 강세를 보인 만큼, 오늘은 반도체 업종의 반등 재시도 여부가 지수 방향을 가를 것으로 보입니다.",
+          "why": "삼성전자·SK하이닉스의 흐름이 오늘 코스피 방향을 좌우할 핵심 변수입니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "코스피, 반도체 반등 무산에 5500선 내줘 - 스트레이트뉴스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aZXFzVElicmRSUWJSQmtjamllUDFwX1hEcHp4MEZ3c3lIY3hPa2N6MndidXRKaHQ1UXFQU0FYazAzYUhreEQzbUpRbVMzbDlFZVlLR3cyQmtUVURZWGNwY0NEYkFoZDdsbl9neUxLUDNnNW_SAXdBVV95cUxQSzRNUnpmTmVXVHUyNk9lamdBRDZkZGV3dThHTEZ6TFpTRU90d3FKOFFtQ3RQV0k2TnloVkxKeG83YTJ4dmg0OFJnTnFpbGR5Wkg3SXB2MjM1VnpaMXlSdkwxdk5SM3JpdU1zUkxxTEFaU2J2Uy1vQQ?oc=5",
+            "published": "2026-10-26T07:33:38.000Z",
+            "snippet": "코스피, 반도체 반등 무산에 5500선 내줘 스트레이트뉴스"
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "SK하이닉스·알리바바에 쏠린 경계감…골드만은 코스피 전망 하향, 모건스탠리는 중국 AI 경고",
+          "summary": "골드만삭스가 코스피 목표치를 낮췄지만, 여전히 현 수준 대비 60% 이상의 상승 여력이 있다고 평가했습니다. 모건스탠리는 중국 AI 관련 위험을 경고했고, SK하이닉스 실적을 앞두고 경계감도 커진 상황입니다.",
+          "why": "해외 투자은행의 전망 하향은 외국인 수급에 부담이지만, 중장기 상승 여력 평가는 하단을 받쳐주는 요인입니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "SK하이닉스·알리바바에 쏠린 경계감···골드만은 코스피 전망 낮추고, 모건스탠리는 중국 AI 경고 - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOd0c3RE5abXpiMmJhVlpkQU9jSzZCbzBwMmFhcEZLSmlfUjBYSkxOM3hwdS1WeXIyaEFuVVFFR0VPNXRXZ2VncHpCN01tZUlGR3BJUDZMTTRtdl9WSVdSNG51dXdBYW9CYmM0ZHpMQTkwY1BSTy1MNnNxRjFySFVBYUtyVENwRG1xMm9pTlAyOTdQTEdFd0wzQUZCUm96c1dKSXFxaDU0X0dJMUdVQTFHWFJ1VnpEdUxoUHFHV2o3azc0YUhJeGVUTTROYWxWX2ZiSWdTODNKQ3JaMUFlakE5dUtLOF9VZTByeEpianlCaFluUjlYUXRkMTdzeWQzS0V3RGtfZlhBRlpyaW41WEVBYTlMR0JiV1doVDlYa3M3QWN4VENPZjVBTFBjQTBPeFdsWVJid01yNkFldEpGWVl6ZFpyaXpKWVgx?oc=5",
+            "published": "2026-10-26T14:19:56.000Z",
+            "snippet": "SK하이닉스·알리바바에 쏠린 경계감···골드만은 코스피 전망 낮추고, 모건스탠리는 중국 AI 경고 Benzinga"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "\"이번 주도 반등 없으면 큰일\"…삼전닉스 주주환원·빅테크 실적·美금리 발표 줄줄이",
+          "summary": "이번 주에는 삼성전자·SK하이닉스의 주주환원 발표, 미국 빅테크 실적, 연준 금리 결정이 한꺼번에 몰려 있습니다. 시장은 이 이벤트들이 하락장 반전의 계기가 될지 주목하고 있습니다.",
+          "why": "이벤트가 몰린 주간이라 지수 변동성이 커질 수 있고, 결과에 따라 반도체 대형주의 방향이 정해질 가능성이 높습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "“이번주도 반등 없으면 큰일”…삼전닉스 주주환원·빅테크 실적·美금리 나온다 - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hTFhaR3VCc0ZPZ0toM1J5UU1oUXgyeWdDX1NMeE82WGhrOXBORnN0aDhObl9jSUlBVjBacmRYbUdRZGZpX2tGRVA5Y2k0bTBhNmc?oc=5",
+            "published": "2026-10-26T20:45:21.000Z",
+            "snippet": "“이번주도 반등 없으면 큰일”…삼전닉스 주주환원·빅테크 실적·美금리 나온다 매일경제 마켓"
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "美 중간선거 민주당 양원 장악 가능성 63%…코스피 향방은",
+          "summary": "미국 중간선거에서 민주당이 상·하원을 모두 장악할 가능성이 63%로 거론되면서 정책 변화가 국내 증시에 미칠 영향에 관심이 커지고 있습니다. 정치 지형 변화는 관세·산업정책 기대에 변수가 될 수 있습니다.",
+          "why": "미국 의회 구도가 바뀌면 국내 2차전지·자동차 등 미국 정책 수혜 업종의 정책 불확실성이 커질 수 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "美 중간선거 민주당 양원 장악 가능성 63%…코스피 향방은 - 쿠키뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KY3VUV0d3Q2tESFZQOVRVeEU4YlBZd3RqMy1Pdi1Vclp1THNUWWNKNC1yeDFaUTlUaENmaFo5RHlLSHBGQmN4T0VUNGdlX0hrU0FJZWtTOFA2ZXJpOVAzVTU1dw?oc=5",
+            "published": "2026-10-26T19:04:00.000Z",
+            "snippet": "美 중간선거 민주당 양원 장악 가능성 63%…코스피 향방은 쿠키뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "앤트로픽 IPO에 美반도체주 일제히 상승…엔비디아 2.39%↑",
+          "summary": "앤트로픽의 상장 추진이 AI 인프라 투자 지속에 대한 기대를 키우면서 엔비디아가 2.39% 오르는 등 미국 반도체주가 일제히 상승했습니다. 인텔·ARM 등도 강세를 보였습니다.",
+          "why": "AI 가속기 수요 기대는 HBM을 공급하는 SK하이닉스·삼성전자와 관련 장비·소재주 심리에 긍정적입니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "앤트로픽 IPO에 美반도체주 일제 상승…엔비디아 2.39%↑ - 헤럴드경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hOFR1V1FmT2s5OUhNd0wtRUtRbUVZMUJaalFEV0ZOdlp6NWkteDZUY3pBdDBtQlpPYTV3WXFxUjFYZ3EwRGg2dG4zMGhFQm5UWE1rNm5B?oc=5",
+            "published": "2026-10-26T21:37:55.000Z",
+            "snippet": "앤트로픽 IPO에 美반도체주 일제 상승…엔비디아 2.39%↑ 헤럴드경제"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "테슬라, 스페이스X 합병 기대에 바클레이즈 투자의견 상향…주가 급등",
+          "summary": "바클레이즈가 스페이스X와의 합병 가능성을 근거로 테슬라의 투자의견을 올렸고, 주가는 5% 넘게 급등했습니다. 테슬라는 이날 시장 상승을 이끈 종목 중 하나였습니다.",
+          "why": "테슬라 강세는 LG에너지솔루션 등 국내 2차전지 공급망과 자율주행·전장 관련주 투자심리에 우호적일 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Tesla Gets Barclays Upgrade on Hopes of a SpaceX Merger. The Stock Is Surging - Investopedia",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeVhHakxHRFNMVm1tbG1wa3c5azZwNjJSNHhsbG1qOVhhRWJuLWV6UzB3eXYxLXN5cXRWZmp3QUFpUzZKX09XVnZncEh4LThxQkdmdjZVanN4LUZOTS1NTERaTTBFUmhodXU4UkxqWGxKemd6b0MzOVNJemhQVmlLcU9YbzNOdm9LampXX19iWXI0SFhvbzVMN3B4ZFZrc3UzZ0R3djRNZ3dnb1pTVU8tMlJsSjZ0Ml9vY25uNUR3YVUtRGNFdmEzWk9GS2pRZU00UG1mMWVNSXMxQQ?oc=5",
+            "published": "2026-10-26T20:37:34.000Z",
+            "snippet": "Tesla Gets Barclays Upgrade on Hopes of a SpaceX Merger. The Stock Is Surging Investopedia"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "엔비디아·AMD·브로드컴, 메타의 350억 달러 규모 주식 발행에 참여 가능성",
+          "summary": "메타가 350억 달러 규모의 주식 발행을 추진하는 가운데, 엔비디아·AMD·브로드컴이 이 물량 일부를 인수할 수 있다는 보도가 나왔습니다. 빅테크와 반도체 기업 사이의 AI 투자 연대가 더 깊어지는 흐름입니다.",
+          "why": "빅테크의 대규모 AI 투자 자금 조달은 HBM·서버용 메모리 수요 기대를 높여 국내 메모리 업체에 긍정적인 요인입니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDYyd2VndnhVdFI0ckxsUnVKbVRRaGxOMEoxOUpZTFcxeWJIdW5MbzlIWElaUW05RDdfNlM1b01jM3lFTkNCN184YzZwaU9PMWxOOVBKZkNrY2tGZldMc3U3THdNU0FST1ZKcmgtTF95ZlIwV3ZiYlBaVU12RXNoUjdIcVNBRGdnMldGUXllTXRxazY2SWNfZjZ0cks5T3p4LWppMUZqb1E3MWdpdThjVEU1OGNKdng4SUZHQndKalFVOTA?oc=5",
+            "published": "2026-10-26T20:38:00.000Z",
+            "snippet": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering MarketWatch"
+          }
+        }
+      ]
+    },
+    {
+      "name": "오늘의 일정·이벤트",
+      "items": [
+        {
+          "index": 14,
+          "title_ko": "SK하이닉스, 내일 3분기 실적 발표…주주환원 카드 나오나",
+          "summary": "SK하이닉스가 내일(28일) 3분기 실적을 발표합니다. 역대급 실적이 예상되는 가운데 최대 60조 원 규모로 거론되는 주주환원 정책이 나올지가 관심사입니다.",
+          "why": "실적과 주주환원 규모에 따라 SK하이닉스와 반도체 업종 전반의 수급이 크게 바뀔 수 있어 오늘은 경계 속 관망세가 나타날 수 있습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "SK하이닉스 내일 3분기 실적공개…주주환원 카드 나오나 - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JU2N0aVJNSmhTaDZiZlhWRGVid0hJODFhaUQwa3JEWDQ2V3FlLXZwU1VISUIyc2w0cU80WjJRM0FUNl9GWHFDMmM0b2MxaktOR2c?oc=5",
+            "published": "2026-10-26T21:01:00.000Z",
+            "snippet": "SK하이닉스 내일 3분기 실적공개…주주환원 카드 나오나 매일경제 마켓"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "다우 선물: 테슬라 주도로 시장 상승…아마존·알파벳·마이크로소프트 실적 대기",
+          "summary": "테슬라가 시장 상승을 이끈 가운데, 이번 주 아마존·알파벳·마이크로소프트 등 빅테크 실적 발표가 이어집니다. 이들의 AI 설비투자(capex) 계획이 핵심 관전 포인트입니다.",
+          "why": "빅테크의 AI 설비투자 가이던스는 삼성전자·SK하이닉스 등 국내 메모리·서버 공급망의 실적 기대를 좌우할 변수입니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYmluRnNVZjR4UlRKZ0gtbEh3NTc3Y1I1TVkxT2ZxUjBYX2ZiMThxbXhRVjFOWGt2VWdwZGw0YzFKM2VCU1BJS2NxMk1Ca0VscldVVDhIVHp6d2hiX29rdnRkUkVfSzFHd0JYTTFKbWItSzVfNHZBRjZubnFXeVFnU3ozWFJXUlZzUFpaOGk1MGJXMm4zNnI1N2xOQ21tbWx1YlNVQmxKazZNNEJSbDJ0b1JoSVFzVTZiWWZsb19SQy1lZEk5M3pNajZDM2VwSnlpOHVuTi1QTC04ZVk?oc=5",
+            "published": "2026-10-26T21:04:19.000Z",
+            "snippet": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck Investor's Business Daily"
+          }
+        }
+      ]
+    }
+  ]
+}
