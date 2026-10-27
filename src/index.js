@@ -4,6 +4,7 @@ import { existsSync, writeFileSync, appendFileSync, readFileSync } from "node:fs
 import path from "node:path";
 import { collect } from "./collect.js";
 import { addCompanyInfo } from "./jobs.js";
+import { loadHistory, addToHistory, attachHistory, saveHistory } from "./job-history.js";
 import { summarize } from "./summarize.js";
 import { renderHtml, sendMail } from "./mail.js";
 import { ROOT, DEFAULT_AGENT, loadAgent, agentPaths } from "./agents.js";
@@ -69,6 +70,14 @@ async function main() {
     log(`company info: ${ci.found} / ${ci.total} companies`);
     for (const e of ci.errors) log("company info error:", e);
   }
+  // jobHistory: 채용공고 이력(logs/<agent>/job-history.json)에 이번 공고를 더하고, 회사별 최근 1년 공고 횟수를 카드에 붙인다
+  const historyFile = path.join(LOG_DIR, "job-history.json");
+  let jobHistory = null;
+  if (agent.jobHistory && !COLLECT_ONLY) {
+    jobHistory = addToHistory(loadHistory(historyFile), articles);
+    attachHistory(articles, jobHistory, AGENT_ID);
+    log(`job history: ${jobHistory.length} postings, ${articles.filter((a) => a.jobHistory?.count > 1).length} cards with repeat company`);
+  }
   writeFileSync(path.join(OUT_DIR, `${base}-articles.json`), JSON.stringify(articles, null, 2));
   saveRun({ fetched: totalFetched, selected: articles.length, usedHours, feedErrors: errors });
   if (COLLECT_ONLY) return {};
@@ -123,6 +132,7 @@ async function main() {
   if (DRY) { log("dry-run: mail not sent"); return {}; }
   const id = await sendMail({ subject: `${agent.subjectPrefix} ${dateLabel}`, html, fromName: agent.fromName, to: mailTo });
   log("mail sent:", id, "->", mailTo);
+  if (jobHistory) saveHistory(historyFile, jobHistory);
   if (seenLinks) {
     const now = new Date().toISOString(), cutoff = Date.now() - 60 * 86400 * 1000;
     for (const a of articles) seenLinks[a.link] ||= now;

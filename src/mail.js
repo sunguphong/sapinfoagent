@@ -27,6 +27,12 @@ function companyLine(ci) {
   return `<div style="font-size:12.5px;line-height:1.9;margin-top:10px;padding:8px 12px;background:${C.goldSoft};border:1px solid ${C.goldLine};border-radius:8px">${cell("사원수", ci.employees)}${cell("매출액", ci.revenue)}${cell("영업이익", ci.operatingProfit)}${ci.url ? `<a href="${esc(ci.url)}" style="color:${C.goldDeep};text-decoration:none;white-space:nowrap">${esc(ci.title || "")} 기업정보 →</a>` : ""}</div>`;
 }
 
+// 채용공고 카드의 "최근 1년 공고 N회" 줄 (article.jobHistory 가 있을 때만). 숫자를 누르면 GitHub Pages 의 공고 이력 팝업이 열린다.
+function historyLine(h) {
+  if (!h) return "";
+  return `<div style="font-size:12.5px;margin-top:6px;color:${C.text3}">이 회사 최근 1년 공고 <a href="${esc(h.url)}" style="color:${C.goldDeep};font-weight:700;text-decoration:underline">${h.count}회</a></div>`;
+}
+
 export function renderHtml(digest, { dateLabel, articleCount, errors = [], articles = [], title = "데일리 브리핑", note = "", stats = null, accentCategories = [] }) {
   const selected = (digest.categories || []).reduce((n, c) => n + c.items.length, 0);
   const fmtDate = (d) => d ? new Date(d).toLocaleString("ko-KR", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false }) : "";
@@ -54,7 +60,7 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
           <span style="display:inline-block;background:${T.soft};color:${T.deep};border:1px solid ${T.softLine};border-radius:999px;padding:1px 9px;font-weight:600">${esc(it.article.source)}</span>
           <span style="margin-left:6px">${esc(fmtDate(it.article.published))}</span><br>
           <span>원제: ${esc(it.article.title)}</span></div>
-        <div style="font-size:14px;line-height:1.7;color:${C.text}">${esc(it.summary)}</div>${companyLine(it.article.companyInfo)}
+        <div style="font-size:14px;line-height:1.7;color:${C.text}">${esc(it.summary)}</div>${companyLine(it.article.companyInfo)}${historyLine(it.article.jobHistory)}
         <div style="font-size:13px;line-height:1.6;color:${T.deep};margin-top:8px;padding-left:12px;border-left:2px solid ${T.accent}">${esc(it.why)}</div>
         <div style="font-size:12.5px;margin-top:10px"><a href="${esc(it.article.link)}" style="color:${T.deep};font-weight:600;text-decoration:none">원문 보기 →</a></div>
       </div>`).join("")}`;

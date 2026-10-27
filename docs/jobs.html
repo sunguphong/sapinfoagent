@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>채용공고 이력</title>
+  <meta name="description" content="SAP MM 구인정보 메일의 회사별 최근 1년 채용공고 이력" />
+  <style>
+    :root {
+      --bg: #eef1f5; --panel: #fff; --text: #1c2530; --muted: #6b7684; --line: #e2e7ee;
+      --brand: #0a6ed1; --brand-2: #e3eefc; --side: #0f2740; --shade: rgba(15, 23, 32, .55);
+      font-family: "Malgun Gothic", "Apple SD Gothic Neo", "Segoe UI", system-ui, sans-serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #0f1720; --panel: #172230; --text: #e6edf5; --muted: #93a3b5; --line: #263446; --brand: #4a9be8; --brand-2: #1b3552; --shade: rgba(0, 0, 0, .65); }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); line-height: 1.6; }
+    .hero { background: var(--side); color: #fff; padding: 36px 16px 32px; text-align: center; }
+    .hero h1 { margin: 0 0 4px; font-size: 24px; }
+    .hero p { margin: 0; color: #b8c8da; font-size: 14px; }
+    main { max-width: 760px; margin: -18px auto 48px; padding: 0 16px; }
+    .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px; box-shadow: 0 2px 8px rgba(0,0,0,.05); }
+    input[type=search] { width: 100%; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--text); font-size: 15px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 12px; font-size: 14px; }
+    th, td { text-align: left; padding: 9px 6px; border-bottom: 1px solid var(--line); }
+    th { color: var(--muted); font-weight: 600; font-size: 13px; }
+    td.num { text-align: right; white-space: nowrap; }
+    button.count { border: 0; background: var(--brand-2); color: var(--brand); font-weight: 700; border-radius: 999px; padding: 2px 12px; cursor: pointer; font-size: 14px; }
+    .muted { color: var(--muted); font-size: 13px; }
+    .modal { position: fixed; inset: 0; background: var(--shade); display: none; align-items: center; justify-content: center; padding: 16px; }
+    .modal.open { display: flex; }
+    .dialog { background: var(--panel); color: var(--text); border-radius: 12px; width: 100%; max-width: 620px; max-height: 85vh; overflow: auto; padding: 20px 22px; }
+    .dialog h2 { margin: 0 0 2px; font-size: 18px; }
+    .dialog .close { float: right; border: 0; background: none; color: var(--muted); font-size: 22px; cursor: pointer; line-height: 1; }
+    .post { padding: 12px 0; border-bottom: 1px solid var(--line); }
+    .post:last-child { border-bottom: 0; }
+    .post .t { font-weight: 600; }
+    .post a { color: var(--brand); text-decoration: none; margin-right: 10px; font-size: 13px; }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>💼 채용공고 이력</h1>
+    <p>회사별 최근 1년 SAP MM 채용공고 (2026-10-12부터 수집)</p>
+  </div>
+  <main>
+    <div class="card">
+      <input type="search" id="q" placeholder="회사 이름 검색" aria-label="회사 이름 검색" />
+      <p class="muted" id="status">불러오는 중…</p>
+      <table>
+        <thead><tr><th>회사</th><th>최근 공고</th><th class="num">공고 횟수</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="m-title">
+    <div class="dialog">
+      <button class="close" id="m-close" aria-label="닫기">×</button>
+      <h2 id="m-title"></h2>
+      <p class="muted" id="m-sub"></p>
+      <div id="m-list"></div>
+    </div>
+  </div>
+
+  <script>
+    // 데이터: ci-state 브랜치의 logs/<agent>/job-history.json (GitHub Actions 가 매일 갱신)
+    // 집계 규칙은 src/job-history.js postingsByCompany 와 같다: 최근 1년, 같은 회사·제목은 30일 안이면 한 번으로 센다.
+    const params = new URLSearchParams(location.search);
+    const agent = (params.get("agent") || "sapmm-jobs").replace(/[^a-z0-9-]/g, "");
+    const DATA = `https://raw.githubusercontent.com/sunguphong/sapinfoagent/ci-state/logs/${agent}/job-history.json`;
+    const DAY = 86400e3;
+    const normCo = (s = "") => s.replace(/\(주\)|㈜|주\)|\(유\)|주식회사|유한회사/g, "").replace(/[^a-z0-9가-힣]/gi, "").toLowerCase();
+    const normTitle = (s = "") => s.replace(/\[[^\]]*\]|\([^)]*\)/g, "").replace(/[^a-z0-9가-힣]/gi, "").toLowerCase();
+    const esc = (s = "") => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+    const fmt = (d) => new Date(d).toLocaleDateString("ko-KR", { year: "numeric", month: "numeric", day: "numeric" });
+
+    function group(history) {
+      const from = Date.now() - 365 * DAY, map = new Map();
+      for (const h of history) {
+        const t = new Date(h.seenAt).getTime();
+        if (t < from) continue;
+        const key = normCo(h.company);
+        if (!key) continue;
+        const g = map.get(key) || { name: h.company, posts: [] };
+        const nt = normTitle(h.title);
+        const same = g.posts.find((p) => p.nt === nt && t - new Date(p.lastAt).getTime() < 30 * DAY);
+        if (same) { same.lastAt = h.seenAt; if (!same.links.some((l) => l.link === h.link)) same.links.push(h); }
+        else g.posts.push({ nt, title: h.title, seenAt: h.seenAt, lastAt: h.seenAt, links: [h] });
+        map.set(key, g);
+      }
+      return map;
+    }
+
+    let groups = new Map();
+    const modal = document.getElementById("modal");
+    function openCompany(key) {
+      const g = groups.get(key);
+      document.getElementById("m-title").textContent = g ? g.name : params.get("company");
+      document.getElementById("m-sub").textContent = g ? `최근 1년 공고 ${g.posts.length}회` : "최근 1년 안에 수집된 공고가 없습니다.";
+      document.getElementById("m-list").innerHTML = g ? g.posts.slice().reverse().map((p) => `
+        <div class="post">
+          <div class="t">${esc(p.title)}</div>
+          <div class="muted">${fmt(p.seenAt)}${p.lastAt !== p.seenAt ? ` ~ ${fmt(p.lastAt)}` : ""} 수집</div>
+          <div>${p.links.map((l) => `<a href="${esc(l.link)}" target="_blank" rel="noopener">${esc(l.source)} →</a>`).join("")}</div>
+        </div>`).join("") : "";
+      modal.classList.add("open");
+    }
+    const closeModal = () => modal.classList.remove("open");
+    document.getElementById("m-close").onclick = closeModal;
+    modal.onclick = (e) => { if (e.target === modal) closeModal(); };
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
+    function render() {
+      const q = normCo(document.getElementById("q").value);
+      const list = [...groups.entries()].filter(([k]) => !q || k.includes(q))
+        .sort((a, b) => b[1].posts.length - a[1].posts.length || b[1].posts.at(-1).lastAt.localeCompare(a[1].posts.at(-1).lastAt));
+      document.getElementById("rows").innerHTML = list.map(([k, g]) => `
+        <tr><td>${esc(g.name)}</td><td class="muted">${fmt(g.posts.at(-1).lastAt)}</td>
+        <td class="num"><button class="count" data-k="${esc(k)}">${g.posts.length}회</button></td></tr>`).join("");
+      document.querySelectorAll("button.count").forEach((b) => b.onclick = () => openCompany(b.dataset.k));
+    }
+    document.getElementById("q").oninput = render;
+
+    fetch(DATA, { cache: "no-store" }).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }).then((history) => {
+      groups = group(history);
+      document.getElementById("status").textContent = `회사 ${groups.size}곳 · 공고 ${history.length}건 수집됨`;
+      render();
+      if (params.get("company")) openCompany(normCo(params.get("company")));
+    }).catch((e) => { document.getElementById("status").textContent = `이력을 불러오지 못했습니다 (${e.message})`; });
+  </script>
+</body>
+</html>

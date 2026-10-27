@@ -208,7 +208,7 @@ export async function fetchJobs(feed) {
 // 못 찾거나 공개되지 않은 값은 비워 둔다 (작은 회사는 영업이익이 없는 경우가 많다).
 // 주의: 잡코리아는 요청을 동시에 여러 개 보내면 다른 회사 페이지(제목과 본문이 섞인 페이지까지)를 돌려준다 (2026-10-12 확인).
 // 그래서 한 번에 하나씩 조회하고, 페이지 제목의 회사명이 찾던 회사와 같은지 확인한다.
-const normCo = (s = "") => s.replace(/\(주\)|㈜|주\)|\(유\)|주식회사|유한회사/g, "").replace(/[^a-z0-9가-힣]/gi, "").toLowerCase();
+export const normCo = (s = "") => s.replace(/\(주\)|㈜|주\)|\(유\)|주식회사|유한회사/g, "").replace(/[^a-z0-9가-힣]/gi, "").toLowerCase();
 
 // "Hyundai Autoever (현대오토에버)" 처럼 괄호 안에 한글명이 있으면 그것도 후보로 쓴다
 const nameCands = (name) => [...new Set([name, pick(name, /\(([^)]*[가-힣][^)]*)\)/), name.replace(/\([^)]*\)/g, "")].map((s) => s.trim()).filter(Boolean))];

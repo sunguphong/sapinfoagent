@@ -12,6 +12,7 @@
   "maxArticles": 60,
   "trackSeen": true,
   "companyInfo": true,
+  "jobHistory": true,
   "accentCategories": [
     "동국"
   ],
