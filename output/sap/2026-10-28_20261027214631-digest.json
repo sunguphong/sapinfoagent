@@ -1,0 +1,233 @@
+{
+  "overview": "SAP가 베를린에서 열린 연례 개발자 행사 SAP TechEd 2026에서 개발자용 AI 포트폴리오 확장을 발표하며 '자율형 엔터프라이즈(Autonomous Enterprise)' 실현을 전면에 내세웠습니다. Joule 대규모 업데이트, 에이전트·도구·모델·API를 통합 관리하는 SAP Enterprise AI Gateway, 에이전트 장기 기억을 위한 SAP Agent Memory Service 정식 출시 등 에이전트형 AI 인프라 관련 발표가 이어졌습니다. 국제우주정거장(ISS)에 배포한 테이블형 AI 모델과 피지컬 AI, 시계열 파운데이션 모델 SAP-RPT-TS 등 SAP 자체 AI 모델 발표도 눈에 띕니다. 이 밖에 SAP HANA Cloud 스케일아웃·관리 에이전트 공개, Infosys의 Syngenta 글로벌 S/4HANA 전환 완료 소식이 있었습니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 27,
+          "title_ko": "SAP, AI 개발자가 의도를 자율 실행으로 옮길 수 있도록 지원 강화",
+          "summary": "SAP는 연례 컨퍼런스 SAP TechEd에서 개발자 포트폴리오를 넓히는 AI 혁신을 잇달아 발표했습니다. SAP News Center의 혁신 뉴스 가이드는 이번 발표를 개발자가 엔터프라이즈 AI를 구축·연결·거버넌스하여 의도에서 신뢰할 수 있는 실행까지 이어가도록 돕는 '자율형 엔터프라이즈' 실현으로 정리했습니다.",
+          "why": "TechEd 2026 발표의 큰 방향을 담고 있어 향후 BTP·AI 개발 로드맵과 고객 제안 방향을 잡는 기준점이 됩니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution",
+            "link": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
+            "published": "2026-10-27T08:02:00.000Z",
+            "snippet": "BERLIN — SAP SE (NYSE: SAP) today announced a series of AI innovations at its annual SAP TechEd conference that expands its portfolio for developers."
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "SAP Joule 대규모 업데이트, 복잡한 프로세스를 처리하는 에이전트 지원",
+          "summary": "Techzine은 이번 Joule 업데이트를 에이전트가 복잡한 비즈니스 프로세스를 다룰 수 있도록 준비시키는 대규모 업데이트로 평가했습니다. Diginomica는 Bosch가 개선된 Joule Work를 먼저 써 본 경험을 소개했고, OpenTools는 Joule 관련 도구가 단계적으로 도입된다고 보도했습니다.",
+          "why": "Joule 에이전트가 단순 질의응답을 넘어 프로세스 실행 영역으로 확장되고 있어 도입 범위와 적용 시나리오를 다시 검토할 필요가 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Major SAP Joule update prepares agents for complex processes - Techzine Global",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZmZFBhRWFhUGxPTWlEWkdjcTgxU2xzMUxDNW5nc2dEZ2NWeHh4VDEwZy1OQjlyV25acE1IWTFxRE1kOVFhVmZDWEVjeWt1d2xkR0trZUFlNWxFbjlheWxHb3lSaU9tcTcxWUxvaU1zSVR4QXRLVWdIMlNCUkl3bjlHSXhadnlwUXFPaERXdmZGeHE3Njk3Sl9CYWJOS2pvS3Q0UlZlUTBrMFRUcGVCYg?oc=5",
+            "published": "2026-10-27T08:00:00.000Z",
+            "snippet": "Major SAP Joule update prepares agents for complex processes Techzine Global"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "SAP Enterprise AI Gateway 공개: 에이전트·도구·모델·API 전반의 통제와 가시성 확보",
+          "summary": "SAP Enterprise AI Gateway는 SAP의 통합 기반을 확장해 이기종 AI 생태계 간 에이전트·도구·모델·API 연결을 안전하게 관리하고, 개방성과 대규모 운영 안정성을 함께 확보하도록 돕는 솔루션입니다. OpenTools는 Enterprise AI Gateway가 2027년에 계획되어 있다고 보도했습니다.",
+          "why": "여러 AI 에이전트와 외부 모델을 SAP 환경에 연결할 때 필요한 보안·거버넌스 아키텍처를 설계하는 데 핵심 구성요소가 될 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Introducing SAP Enterprise AI Gateway: Control and Visibility Across Agents, Tools, Models, and APIs",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-sap-enterprise-ai-gateway-control-and-visibility-across-agents/ba-p/14510567",
+            "published": "2026-10-27T09:30:00.000Z",
+            "snippet": "As enterprises embrace agentic AI, interactions across agents, tools, models, and APIs introduce new challenges for connectivity, control, and visibility. Discover how SAP Enterprise AI Gateway extends SAP's integration foundation to help organizations connect securely across heterogeneous AI ecosystems, maintain openness safely, and operate reliably at scale."
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "AI 에이전트에 장기 기억을 부여하는 SAP Agent Memory Service 정식 출시",
+          "summary": "지금까지 대부분의 AI 에이전트는 세션이 끝나면 사용자의 선호, 이전 결정, 진행한 작업을 기억하지 못했습니다. SAP Agent Memory Service가 정식 출시(GA)되면서 에이전트가 세션을 넘어 맥락을 유지할 수 있게 되었습니다.",
+          "why": "청구 분쟁 처리처럼 여러 번에 걸쳐 진행되는 업무에서 에이전트의 연속성과 사용자 경험을 크게 개선할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Give Your AI Agents Long-Term Memory: SAP Agent Memory Service Is Now Generally Available",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/give-your-ai-agents-long-term-memory-sap-agent-memory-service-is-now/ba-p/14510374",
+            "published": "2026-10-27T09:53:01.000Z",
+            "snippet": "Every agent session starts from scratch. That has been the reality for most AI agents today. Ask an agent to help you resolve a billing dispute, and it might ask you the same clarifying questions it asked last week, with no recollection of your preferences, your previous decisions, or the work you've already done together. This is not a limitation of the LLM, it is a fundamental gap in how agents "
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "궤도에서 기업으로: SAP와 HPE가 여는 테이블형 AI의 새 영역",
+          "summary": "SAP는 TechEd 2026에서 HPE와 함께 테이블형 AI 모델을 국제우주정거장(ISS)에 배포한 엣지 AI 사례를 공개했습니다. 언론은 SAP-RPT-2.0 출시와 함께 테이블형 AI가 예측을 넘어 비즈니스 의사결정까지 수행하도록 발전하고 있다고 보도했습니다.",
+          "why": "ERP의 정형 데이터에 특화된 SAP 자체 AI 모델의 발전 방향을 보여 주어 예측·의사결정 자동화 활용 가능성을 판단하는 데 참고가 됩니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE",
+            "link": "https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/",
+            "published": "2026-10-27T08:00:00.000Z",
+            "snippet": "Tabular AI on SAP works at the edge of possibility."
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "SAP, 피지컬 AI 공개로 자율형 엔터프라이즈를 현실 세계로 확장",
+          "summary": "SAP는 AI가 인사이트 제공에서 실행 단계로 넘어간 데 이어, 피지컬 AI를 통해 물리적 현실 세계까지 영역을 넓힌다고 발표했습니다. 자율형 엔터프라이즈 비전을 현장 운영으로 확장하려는 시도입니다.",
+          "why": "제조·물류·설비 등 현장 운영과 SAP 프로세스를 연결하는 프로젝트에서 새로운 AI 적용 영역이 될 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
+            "link": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
+            "published": "2026-10-27T07:59:00.000Z",
+            "snippet": "AI has gone from insight to action. With physical AI, it comes into the physical world."
+          }
+        },
+        {
+          "index": 22,
+          "title_ko": "SAP-RPT-TS: SAP의 새로운 시계열 파운데이션 모델",
+          "summary": "SAP-RPT-TS는 별도 학습 없이도 정확한 확률적 예측을 바로 제공하는 SAP의 새로운 시계열 파운데이션 모델입니다. 블로그에서는 SAP HANA Cloud와 SAP AI Core에서 이 모델을 사용하는 방법을 소개합니다.",
+          "why": "수요·재고·매출 예측을 위해 별도 모델을 학습시키지 않고도 SAP 데이터 기반 예측을 빠르게 구현할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP‑RPT‑TS: SAP's new Time Series Foundation Model",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-rpt-ts-sap-s-new-time-series-foundation-model/ba-p/14507166",
+            "published": "2026-10-27T09:10:51.000Z",
+            "snippet": "SAP-RPT-TS is SAP's new time-series foundation model: accurate, probabilistic forecasts out of the box, no training required. Here's how to use it from HANA Cloud and AI Core."
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "SAP Automation Pilot 2026년 3분기 신기능",
+          "summary": "SAP Automation Pilot이 2026년 3분기에 15개 신기능을 내놓았습니다. AI 에이전트용 네이티브 인증, 실행 간에 공유되는 영구 키-값 저장소, 60개 이상의 신규 기본 제공 명령이 포함되어 외부 시스템 연결부터 자동화 상태 유지까지 폭넓게 개선되었습니다.",
+          "why": "BTP에서 운영 자동화를 수행하는 실무자라면 AI 에이전트 연동과 상태 저장 기능으로 자동화 시나리오를 크게 넓힐 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "What's New in SAP Automation Pilot – Q3 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/what-s-new-in-sap-automation-pilot-q3-2026/ba-p/14509848",
+            "published": "2026-10-27T12:05:22.000Z",
+            "snippet": "SAP Automation Pilot ships 15 new features in Q3 2026 – including native AI-agent authentication, a persistent key-value storage shared across executions, and over 60 new provided commands.If you're running automations on SAP Business Technology Platform (BTP), your toolkit just got a serious upgrade. This quarter touches everything from how you connect to external systems, to how automations pers"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "SAP TechEd 2026에서 공개된 SAP HANA Cloud의 다음 행보",
+          "summary": "SAP HANA Cloud는 엔터프라이즈 데이터를 비즈니스 AI의 연료로 삼아, 기억하는 에이전트, 온디맨드 예측, 안정적인 확장, 비즈니스 이벤트에 대한 실시간 대응을 지원하는 방향으로 진화하고 있습니다. TechEd 2026에서 발표된 관련 혁신을 정리한 글입니다.",
+          "why": "HANA Cloud가 AI 에이전트의 데이터·메모리 기반으로 자리 잡고 있어 BTP 기반 AI 아키텍처 설계에 직접 영향을 줍니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "What’s Next with SAP HANA Cloud – SAP TechEd 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/what-s-next-with-sap-hana-cloud-sap-teched-2026/ba-p/14509146",
+            "published": "2026-10-27T10:03:54.000Z",
+            "snippet": "Discover how SAP HANA Cloud is turning enterprise data into the fuel for business AI, powering agents that remember, forecasting on demand, scaling with confidence, and responding to business events in real time. Explore the SAP TechEd 2026 innovations designed to help you move faster, operate smarter, and build what’s next!"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "SAP HANA Cloud 스케일아웃: 단일 노드 한계를 넘는 인메모리 용량 확장",
+          "summary": "SAP HANA Cloud에 계획된 스케일아웃 기능은 인메모리 용량을 여러 노드로 확장하면서도 단일 HANA 인스턴스와 같은 단순성, 연결성, 애플리케이션 경험을 유지하도록 설계되었습니다.",
+          "why": "대용량 데이터를 다루는 고객의 HANA Cloud 사이징과 마이그레이션 계획에 중요한 선택지가 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP HANA Cloud Scale-Out: Expanding In-Memory Capacity Beyond Single-Node Limits",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-hana-cloud-scale-out-expanding-in-memory-capacity-beyond-single-node/ba-p/14509218",
+            "published": "2026-10-27T09:54:37.000Z",
+            "snippet": "What happens when your data outgrows a single node? Discover how planned SAP HANA Cloud scale-out expands in-memory capacity across multiple nodes, while preserving the simplicity, connectivity, and application experience of a single SAP HANA instance."
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "SAP HANA Cloud 관리 에이전트 미리보기",
+          "summary": "SAP HANA Cloud Administration Agent는 인스턴스 운영자의 모니터링, 문제 해결, 성능 분석, 데이터베이스·SQL 최적화, 라이프사이클 관리, HANA Cloud 마이그레이션 작업을 돕도록 설계된 AI 에이전트입니다. 현재는 프리뷰 형태로 소개되었습니다.",
+          "why": "Basis·DBA 업무에 AI 에이전트가 도입되어 운영 효율과 장애 대응 방식이 달라질 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "A Sneak Peek into the SAP HANA Cloud Administration Agent",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/a-sneak-peek-into-the-sap-hana-cloud-administration-agent/ba-p/14509559",
+            "published": "2026-10-27T09:53:56.000Z",
+            "snippet": "A preview of the SAP HANA Cloud Administration Agent, designed to assist instance operators in performing management tasks, such as monitoring, troubleshooting, performance analysis, database and SQL optimization, lifecycle management, and migrating to SAP HANA Cloud."
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "한층 매끄러워진 UI5 TypeScript 개발",
+          "summary": "ui5-tooling-transpile 3.14.0부터 프로젝트 구조에서 UI5 네임스페이스를 자동으로 인식하므로, TypeScript 컨트롤러·컨트롤·컴포넌트에 @namespace JSDoc 주석을 달 필요가 없어졌습니다. 앱, 라이브러리, 미들웨어 시나리오 모두에 적용됩니다.",
+          "why": "Fiori/UI5 개발자는 TypeScript 프로젝트의 보일러플레이트를 줄이고 유지보수를 단순화할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "UI5 TypeScript development just got smoother",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/ui5-typescript-development-just-got-smoother/ba-p/14511542",
+            "published": "2026-10-27T10:03:22.000Z",
+            "snippet": "ui5-tooling-transpile 3.14.0 auto-detects your UI5 namespace from the project structure, so you no longer need @namespace JSDoc annotations in your TypeScript controllers, controls, and components. Works for apps, libraries, and middleware scenarios."
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "새 패턴: 마이그레이션 도구로 콘텐츠 기반 라우팅 동기 시나리오를 SAP Integration Suite로 이전",
+          "summary": "SAP Integration Suite 마이그레이션 도구에 콘텐츠 기반 라우팅(Content-Based Routing) 동기 시나리오를 이전하는 새 패턴이 추가되었다는 내용의 블로그입니다.",
+          "why": "SAP PI/PO에서 Integration Suite로 전환 중인 프로젝트에서 수작업 재구현 부담을 줄일 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "New Pattern: Migrating Content-Based Routing Synchronous Scenarios to SAP IS using Migration Tool",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/new-pattern-migrating-content-based-routing-synchronous-scenarios-to-sap-is/ba-p/14511742",
+            "published": "2026-10-27T13:33:35.000Z",
+            "snippet": "&nbsp; &nbsp;"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "Infosys, Syngenta 작물보호 사업의 글로벌 SAP S/4HANA 전환 완료",
+          "summary": "Infosys가 Syngenta 작물보호 사업 부문의 글로벌 SAP S/4HANA 전환을 성공적으로 완료했다고 발표했습니다. 관련 보도에 따르면 이제 단일 시스템이 1만 명 이상의 Syngenta 임직원을 지원합니다.",
+          "why": "대형 글로벌 제조·화학 기업의 단일 인스턴스 S/4HANA 전환 사례로, 유사 프로젝트 제안과 범위 설정에 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Infosys Successfully Delivers Syngenta's Global SAP S/4HANA Transformation for Crop Protection Business - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYmZoX1lUYlN6cXdYZFZtaDhxLUlPZWNoNTRNTVRON2RwN3lER3pmaEs3aVpUbkd3NWhtX05qMFM0QnBJTnJlVTN6NHA5bEpZR3otMFJJVnp3NHNOWnY1SHBoY0F0aEtHeE5YTjlVb3NYd0ZadmR3LWs5MFQ5R3czb2lya2NxOHNrU2Etd094YjdSVDRHU2w5WGN4T0lUZTd3RFVkTUZzQXB1anhFbWlkNUpPUUF6TWxxdzlJMDBHTlE5OHJVdE5rSXZ4WC1Qdjh5WEY2d1NBc1M2c0dBTDA4MHVMMy1KUWItWUhJU1JR?oc=5",
+            "published": "2026-10-27T12:28:00.000Z",
+            "snippet": "Infosys Successfully Delivers Syngenta's Global SAP S/4HANA Transformation for Crop Protection Business PR Newswire"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "Joule Work Desktop을 활용한 온디맨드 리포팅: SAP Integration Suite로 커스텀 MCP 서버 구축",
+          "summary": "SAP Analytics Cloud의 Joule Agent는 2026년 말까지 순차 출시될 예정입니다. 출시를 기다리지 않고 지금 AI 기반 분석을 시도하려는 고객을 위해, Joule Work Desktop에서 SAP Business Data Cloud와 SAP Datasphere에 접근하는 커스텀 MCP 서버를 SAP Integration Suite로 구축하는 방법을 소개합니다(일본어 블로그).",
+          "why": "정식 기능 출시 전에 Joule 기반 데이터 분석·리포팅을 PoC로 구현할 수 있는 실무 아키텍처를 제시합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Joule Work Desktop を利用したオンデマンドレポーティング：SAP Integration SuiteによるカスタムMCPサーバーの構築",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/joule-work-desktop-%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E3%82%AA%E3%83%B3%E3%83%87%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-sap-integration/ba-p/14510672",
+            "published": "2026-10-27T07:49:13.000Z",
+            "snippet": "近年、生成AIを活用したデータ分析・レポーティングへの関心が急速に高まっています。SAPにおけるAIを使ったデータ分析・レポーティングのアプローチとして、主に2つの方向性が考えられます。SAP Analytics Cloud の Joule Agent によるレポート作成・分析 ※2026年末にかけて順次リリース予定Joule Work を利用したオンデマンドレポーティングSAP Analytics Cloud の Joule Agent のリリースを待たずに今すぐAIを活用したデータ分析を試したいお客様は、Joule Work Desktop からSAP Business Data Cloud（BDC）/ SAP Datasphere にアクセスすることで、オンデマンドレポーティングを実現できます。※Joule から SAP Business Data Cloud のデータプロダクトを直"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "자산회계: SAP ERP 퍼블릭 클라우드에서 건설중인자산(AuC) 이관하기",
+          "summary": "AuC의 이전 연도 누적 취득가액은 트랜잭션 유형 900(Takeover open items APC (AuC))으로, 당해 연도 금액은 트랜잭션 유형 100으로 이관하며 템플릿 작성 방법을 함께 설명합니다. 이력 참조 데이터는 이관할 수 없고, 연말 기준 이관 시에는 다음 회계연도 첫날이 자산 기산일로 사용된다는 점도 안내합니다(중국어 블로그).",
+          "why": "S/4HANA Cloud Public Edition 데이터 이관 시 AuC 잔액 처리 방식과 기산일 규칙을 정확히 이해하는 데 바로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "资产会计- 传输在建资产AuC- SAP ERP 公有云",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/%E8%B5%84%E4%BA%A7%E4%BC%9A%E8%AE%A1-%E4%BC%A0%E8%BE%93%E5%9C%A8%E5%BB%BA%E8%B5%84%E4%BA%A7auc-sap-erp-%E5%85%AC%E6%9C%89%E4%BA%91/ba-p/14511456",
+            "published": "2026-10-27T08:12:54.000Z",
+            "snippet": "如果当前AuC在建资产需要上传之前年份的累计资产价值，那么行项目必须与上一年度购置的特殊交易类型一起传输（900 - 接管未清项 APC (AuC)。 您可以参考以下方式填写 模板： 如果当前AuC需要上传当前年份的资产价值 ,你可以使用交易代码 100 来进行过账，您可以参考以下方式填写模板:如果当前在建资产(AuC)需要上传前年度的累计资产价值和当年度资产价值，您可以通过以下特殊交易类型进行转移：交易类型 900 - Takeover open items APC (AuC)和交易类型 100请参考以下方式填写模板：无法传输这些交易的历史参考数据。相反，系统使用以下数据：对于会计年度末的传输（例如 31.12.YYYY-1），系统始终使用历史数据传输年度（例如 01.01.YYYY）之后的当前会计年度的第一天作为资产起息日。对于本年度的历史数据传输（例如，28.01.YYYY），系统始"
+          }
+        }
+      ]
+    }
+  ]
+}
