@@ -121,7 +121,7 @@ jobs:
           a=${{ matrix.agent }}
           mkdir -p /tmp/state /tmp/out
           [ "${{ job.status }}" = success ] && date +%F > /tmp/state/last-sent.txt
-          for f in seen.json runs.json; do [ -f logs/$a/$f ] && cp logs/$a/$f /tmp/state/; done
+          for f in seen.json runs.json job-history.json; do [ -f logs/$a/$f ] && cp logs/$a/$f /tmp/state/; done
           cp output/$a/*.html output/$a/*-digest.json /tmp/out/ 2>/dev/null || true
           ls /tmp/state/* >/dev/null 2>&1 || exit 0
           git config user.name "github-actions[bot]"
