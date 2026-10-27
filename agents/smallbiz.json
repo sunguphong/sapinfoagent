@@ -7,7 +7,7 @@
   "subjectPrefix": "[소상공인 지원]",
   "mailTitle": "🏪 소상공인 지원 브리핑 — 정책자금·지원사업·우리 동네 소식",
   "fromName": "소상공인 Info Agent",
-  "mailTo": "upsan77@gmail.com",
+  "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
   "lookbackHours": 24,
   "maxArticles": 60,
   "feeds": [
