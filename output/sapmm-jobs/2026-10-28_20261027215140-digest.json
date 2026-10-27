@@ -1,0 +1,200 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 공고는 ㈜제이투이의 'SAP MM 모듈 운영(SM)' 1건입니다. 서울 중구 동대문역사문화공원역 인근 근무이며 경력 6년 이상을 요구합니다. 그 밖의 신규 공고(헌터스그룹·지에스아이티엠)는 모두 순수 ABAP 개발 포지션이라 제외했고, S/4HANA 전환이나 신규 구축 공고는 확인되지 않아 운영(SM) 중심 흐름이 이어지고 있습니다. 기존 공고 가운데 지에스비아이(MM·ABAP 운영, 프리랜서)와 석세스코리아컨설팅(FI·CO·SD·PP·MM 통합 운영)은 10/30(금)에 마감되니 지원 여부를 서둘러 정해야 합니다. 동국 계열에서는 동국제강이 하나은행·하나카드와 손잡고 스틸샵 구매기업에 공급망 금융을 지원하기로 했고, 지역별 전기요금제 도입과 동국홀딩스 승계비용 이슈도 새로 보도됐습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "㈜제이투이가 동대문역사문화공원역 인근(서울 중구) 사이트에서 SAP MM 모듈 운영(SM) 인력을 모집합니다. 경력 6년 이상이 필요하고 즉시 지원할 수 있습니다. 공고에 고용형태와 마감일은 나와 있지 않습니다.",
+          "why": "MM 단일 모듈 운영 포지션으로 경력 6년 이상, 서울 중구 근무 조건입니다. 사원 120명 규모의 SI 업체이고 마감일이 없으니 일찍 지원하는 편이 유리합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50247384",
+            "published": "2026-10-27T01:42:23.813Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "지에스비아이 · SAP 운영(ABAP·MM)",
+          "summary": "지에스비아이 주식회사가 동대문 소재 대기업 사이트에서 SAP 운영(ABAP·MM) 인력을 모집합니다. 근무지는 서울 중구이고 경력 6~10년, 초대졸 이상, 프리랜서 조건이며 마감은 10/30(금)입니다.",
+          "why": "프리랜서 계약으로 MM과 ABAP를 함께 다룰 수 있는 6~10년차를 찾으며, 마감이 이틀 남았습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[동대문/대기업] SAP 운영, ABAP MM",
+            "company": "지에스비아이 주식회사",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55389903",
+            "published": "2026-10-26T00:00:00.000Z",
+            "snippet": "회사: 지에스비아이 주식회사 / 조건: 서울 중구 경력 6~10년 초대졸↑ 프리랜서 / 마감: ~ 10/30(금) / 분야: SAP , 소프트웨어개발",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A7%80%EC%97%90%EC%8A%A4%EB%B9%84%EC%95%84%EC%9D%B4%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영(FI·CO·SD·PP·MM) 담당자",
+          "summary": "석세스코리아컨설팅이 FI·CO·SD·PP·MM을 아우르는 SAP SM 모듈 운영 담당자를 찾고 있습니다. 근무지는 서울 마포구이고 경력 5년 이상, 대졸 이상, 정규직 조건이며 마감은 10/30(금)입니다.",
+          "why": "MM이 포함된 통합 모듈 운영 정규직이며 경력 5년 이상을 요구하고, 마감이 이틀 남았습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55383805",
+            "published": "2026-10-24T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: ~ 10/30(금) / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "로이컨설팅 · 글로벌 컨설팅펌 SAP 모듈 컨설턴트(전 모듈)",
+          "summary": "로이컨설팅(서치펌)이 SAP 분야 글로벌 컨설팅펌의 전 모듈 컨설턴트를 모집합니다. 근무지는 서울 강남구이고 경력 4년 이상, 대졸 이상, 정규직 조건이며 마감은 11/01(일)입니다.",
+          "why": "MM을 포함한 전 모듈 대상 정규직 컨설턴트 자리로 경력 4년 이상이면 지원할 수 있으며, 마감은 11/01입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[SAP분야 리딩 글로벌 컨설팅펌] SAP 모듈 컨설턴트 [전모듈]",
+            "company": "로이컨설팅(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55396673",
+            "published": "2026-10-26T00:00:00.000Z",
+            "snippet": "회사: 로이컨설팅(주) / 조건: 서울 강남구 경력4년↑ 대졸↑ 정규직 / 마감: ~ 11/01(일) / 분야: SAP , 서치펌",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%A1%9C%EC%9D%B4%EC%BB%A8%EC%84%A4%ED%8C%85(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "한국네트웍스 · SAP SD 또는 MM 모듈 운영 경력직",
+          "summary": "한국앤컴퍼니그룹 계열사인 ㈜한국네트웍스가 SAP SD 또는 MM 모듈 운영 경력직을 채용합니다. 근무지는 경기 성남시이고 경력 7년 이상이 필요하며 홈페이지를 통해 지원합니다.",
+          "why": "그룹 계열 IT 서비스사의 MM 운영 포지션으로 경력 7년 이상이 필요하며, 공고에 마감일은 나와 있지 않습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[한국앤컴퍼니그룹] 한국네트웍스 경력 채용(SAP시스템 SD or MM모듈 운영)",
+            "company": "㈜한국네트웍스",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50241886",
+            "published": "2026-10-26T06:08:35.680Z",
+            "jkCompanyNo": "275025",
+            "snippet": "회사: ㈜한국네트웍스 / 경기 성남시 / 솔루션·SI·CRM·ERP, 소프트웨어개발자 / 홈페이지 지원 / 경력7년↑ / 회사정보: 사원수 192명 / 매출액 525억 8천만원 (2025년) / 영업이익 10억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜한국네트웍스",
+              "employees": "192명",
+              "revenue": "525억 8천만원 (2025년)",
+              "operatingProfit": "10억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/275025"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%ED%95%9C%EA%B5%AD%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "모베이스시스템 · SAP PP·MM 모듈 컨설팅 및 ABAP",
+          "summary": "㈜모베이스시스템이 SAP PP·MM 모듈 컨설팅과 ABAP을 함께 맡을 인력을 모집합니다. 근무지는 경기 수원시이고 경력 3년 이상이며 즉시 지원할 수 있습니다.",
+          "why": "경력 3년 이상으로 진입 문턱이 낮은 PP·MM 컨설팅 포지션입니다. 다만 사원 12명의 소규모 회사이니 근무 조건을 미리 확인해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "모베이스시스템 SAP(PP,MM) 모듈컨설팅/ ABAP",
+            "company": "㈜모베이스시스템",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50229001",
+            "published": "2026-10-23T04:15:01.707Z",
+            "jkCompanyNo": "47241197",
+            "snippet": "회사: ㈜모베이스시스템 / 경기 수원시 / 솔루션·SI·CRM·ERP, IT컨설팅 / 즉시 지원 / 경력3년↑ / 회사정보: 사원수 12명 / 매출액 - / 영업이익 -",
+            "companyInfo": {
+              "title": "㈜모베이스시스템",
+              "employees": "12명",
+              "revenue": "-",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/47241197"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EB%AA%A8%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%8B%9C%EC%8A%A4%ED%85%9C"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 42,
+          "title_ko": "[동국제강] 하나은행·하나카드와 손잡고 스틸샵 구매기업에 공급망 금융 지원",
+          "summary": "동국제강이 하나은행·하나카드와 협력해 철강재 온라인 판매 플랫폼 '스틸샵'에서 철강재 구매와 대출·결제를 한 번에 처리할 수 있는 공급망 금융을 구축합니다. 스틸샵에서 철강재를 사는 중소기업의 자금 부담을 덜어주는 것이 목적입니다.",
+          "why": "동국제강이 철강 유통의 디지털화와 구매·결제 프로세스 혁신을 계속 추진하고 있음을 보여주는 사례로, 구매·자재 관련 시스템 고도화 수요로 이어질 수 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 스틸샵서 철강 구매·대출 한번에…하나은행·하나카드와 맞손 - 헤럴드경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sX2ZzS0E0N3UyZ01JaFNjbHF5cEEzWEYxNWJJdFRMenRKWjM1R0JxUGlqdWpHd3Y3NF9lZGl6UC1nUjN3TTZRMEx6VVVWVnl6SEwwd0lR?oc=5",
+            "published": "2026-10-22T00:49:41.000Z",
+            "snippet": "동국제강, 스틸샵서 철강 구매·대출 한번에…하나은행·하나카드와 맞손 헤럴드경제",
+            "isNew": true
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "[동국제강] 철강 '빅3', 산업용 지역 전기요금제 도입에 희비 엇갈려",
+          "summary": "산업용 전기요금을 지역별로 달리 매기는 제도가 가시화되면서 국내 철강 빅3의 유불리가 엇갈리고 있습니다. 자가발전 비중과 사업장 위치에 따라 각 사가 받는 혜택이 달라질 것으로 보입니다.",
+          "why": "전기로 비중이 높은 동국제강에게 전력 비용은 수익성을 좌우하는 핵심 변수여서 앞으로 원가 동향을 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "철강 ‘빅3’ 산업용 지역 전기요금제 혜택 ‘희비’ - 경북도민일보",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VWmtMZzVURWxtcmstMGl0V2psY3RNVlZrRVpvUWJpWjhQbVNibGxyVXJXSkd5ZUs4aUg0SjBJaDRUb3JmN2NQWEEzNGVXZ0lfS25STkVUaTF0ZjYzYllSall6OHJqeWxVMkE?oc=5",
+            "published": "2026-10-22T01:59:00.000Z",
+            "snippet": "철강 ‘빅3’ 산업용 지역 전기요금제 혜택 ‘희비’ 경북도민일보",
+            "isNew": true
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "[동국홀딩스] 저평가 주가에도 승계비용 상승 가능성",
+          "summary": "한화와 동국홀딩스는 주가가 낮게 평가돼 있지만 기업가치 제고 정책이 추진되면 지주사 가치가 오르면서 오너 일가의 승계비용이 커질 수 있다는 분석입니다.",
+          "why": "동국제강그룹이 저PBR 개선에 나선 것이 지배구조와 승계 문제와 맞물려 있어, 그룹 전략의 방향을 판단하는 참고 자료가 됩니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[IB토마토](저평가와 승계 셈법)②한화·동국홀딩스, '싼 주가'에도 승계비용 뛰나 - 뉴스토마토",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RbUZIRVJ5QXk4NGprMDJTSXZVdGdKd3ZMa1AzdlZIVFBDMU5HOEJFLXlQTy1fZHFQYzRJT09lbTlYWnVCLWhZeFRLMXgycHhKREt2dlRVUHhmNjgzNGdRSA?oc=5",
+            "published": "2026-10-22T07:32:00.000Z",
+            "snippet": "[IB토마토](저평가와 승계 셈법)②한화·동국홀딩스, '싼 주가'에도 승계비용 뛰나 뉴스토마토",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
