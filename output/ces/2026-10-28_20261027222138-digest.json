@@ -1,0 +1,54 @@
+{
+  "overview": "CES 2027 개막을 약 10주 앞둔 사전 준비 시점으로, 참가 기업들의 사전 공개와 국내 기업의 전시 준비 소식이 이어지고 있습니다. 오늘 가장 많이 보도된 소식은 이재용 삼성전자 회장이 취임 4주년 당일 기념식 대신 로봇 전담 조직을 찾아 휴머노이드 개발을 점검한 일입니다. 업계는 삼성이 CES 2027에서 로봇 신기술을 공개할지 주목하고 있습니다. 지난 CES 2026에서 공개된 보스턴다이내믹스 Atlas는 현대모비스를 중심으로 국내 공급망이 꾸려지며 양산 단계로 나아가고 있습니다. 해외에서는 무안경 3D 디스플레이 기술을 CES 2027에서 선보이겠다는 사전 발표가 나왔습니다.",
+  "categories": [
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "'취임 4주년' 이재용, 삼성전자 로봇 사업 점검…CES 2027 준비 상황 확인",
+          "summary": "이재용 삼성전자 회장이 취임 4주년인 10월 27일 기념식 대신 출범 3개월 된 로봇 전담 조직 'RX(로봇 경험) 사업추진실'을 방문했습니다. 이 자리에서 휴머노이드 개발 현황을 점검하고 시연을 참관했습니다. 삼성은 사람처럼 열 손가락을 갖춘 로봇 손 기술도 개발하는 것으로 알려졌으며, 업계는 CES 2027에서 삼성의 로봇 신기술이 공개될지 주목하고 있습니다.",
+          "why": "총수가 직접 로봇 사업을 챙기면서 CES 2027에서 삼성의 휴머노이드·피지컬 AI 전략이 핵심 관전 포인트로 떠올랐습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "‘취임 4주년’ 이재용, 삼성전자 로봇 사업 점검…CES 2027 준비 상황 확인 - 인더스트리뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YMFY0eENwajNyTElvZTZITHdzcHNibHlGeldxX3pmcU11Smt5U1J6WHZZRjhZQktMa0V0U3ZfQ3lfcU9ZN196Qmc1V3VyNnRZbHFwcHlTMnNjamJjZEUxeHA5RUlDX3ZQTF93UjhJOS1KUQ?oc=5",
+            "published": "2026-10-27T09:01:09.000Z",
+            "snippet": "‘취임 4주년’ 이재용, 삼성전자 로봇 사업 점검…CES 2027 준비 상황 확인 인더스트리뉴스"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "보스턴다이내믹스 Atlas 공급망, 현대모비스 주도로 전면 국산화…1만 대 수주 가시권",
+          "summary": "지난 CES 2026에서 현대차그룹이 선보인 보스턴다이내믹스의 휴머노이드 로봇 Atlas의 부품 공급망이 현대모비스를 중심으로 모두 한국 기업으로 꾸려지고 있습니다. 1만 대 규모의 주문도 가시권에 들어온 것으로 전해졌습니다.",
+          "why": "CES에서 공개된 휴머노이드가 실제 양산 단계로 넘어가면서 국내 로봇 부품 생태계에 대규모 수요가 생길 수 있습니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10,000-unit order in sight - KED Global",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iN05zVWw5NkZFNVkwbWpfNTNweWZudDIxdDhoeVo3T190WFphckF1ODBnQTU4SndjQzFYdkNFTGF6d2NjeHdwRzMtLW0yWFlOdURUdmU0YzM3TUJtaHkzN1NuMnV5MTVmQmNF?oc=5",
+            "published": "2026-10-27T19:23:54.000Z",
+            "snippet": "Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10,000-unit order in sight KED Global"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신제품·기술 트렌드",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "\"CES 2027에서 2D 시대는 끝난다\"…Visual Semiconductor·INCERGO, 무안경 3D 'GF3D' 6개 제품군 공개 예고",
+          "summary": "Visual Semiconductor와 INCERGO가 안경 없이 몰입형 3D 영상을 볼 수 있는 'GF3D' 기술을 CES 2027에서 공개한다고 밝혔습니다. 이 기술은 6개 제품군에 걸쳐 적용될 예정입니다.",
+          "why": "무안경 3D가 CES 2027의 디스플레이 화두로 떠오를 수 있어, 국내 디스플레이·TV 업계가 기술 경쟁 동향을 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "The 2D Era Ends at CES 2027 - Visual Semiconductor and INCERGO Unveil GF3D™ Immersive Glasses-Free 3D Across Six Product Categories - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmhLQWtYbmFpN1ZwRkFKdDhMcE1rSXQ4dDlKa1pkTDVyUTRjRVNabXdSTWdFMnlCSGRrdlhKaDg1RU9ZcU80MGtWVmlxNmE5WExEV0FSdFZyQkVjYWx1SWRRaE1KS3lhSjl4dnh5Q19VTkJPR3dNY3NIMlNpUFJjY2tlMjVUdlBp?oc=5",
+            "published": "2026-10-27T19:46:00.000Z",
+            "snippet": "The 2D Era Ends at CES 2027 - Visual Semiconductor and INCERGO Unveil GF3D™ Immersive Glasses-Free 3D Across Six Product Categories Yahoo Finance"
+          }
+        }
+      ]
+    }
+  ]
+}
