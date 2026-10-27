@@ -44,5 +44,32 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-10-26T21:52:10.210Z",
     "finishedAt": "2026-10-26T21:52:10.210Z"
+  },
+  {
+    "id": "20261027215146",
+    "agent": "smallbiz",
+    "startedAt": "2026-10-27T21:51:46.572Z",
+    "date": "2026-10-28",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261027215146.log",
+    "base": "2026-10-28_20261027215146",
+    "fetched": 295,
+    "selected": 60,
+    "usedHours": 24,
+    "feedErrors": [
+      "경기도청 분야별 소식 (공식): fetch failed",
+      "경기도청 고시·공고 (공식): fetch failed",
+      "경기도청 경기도는 오늘 (공식): fetch failed",
+      "중소벤처기업부 사업공고 (공식): Request timed out after 20000ms",
+      "중소벤처기업부 보도자료 (공식): Request timed out after 20000ms"
+    ],
+    "picked": 7,
+    "html": "2026-10-28_20261027215146.html",
+    "mailId": "<a4981f34-f25c-a53e-a2fb-f6f4498b387f@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-10-27T21:52:36.327Z",
+    "finishedAt": "2026-10-27T21:52:36.327Z"
   }
 ]

@@ -1,0 +1,12 @@
+2026-10-27T21:51:46.829Z run 20261027215146 start (agent=smallbiz "소상공인 지원 브리핑", source=github, mode=send)
+2026-10-27T21:51:46.830Z collecting from 14 feeds...
+2026-10-27T21:52:06.853Z fetched 295, selected 60 (last 24h), feed errors: 5
+2026-10-27T21:52:06.853Z feed error: 경기도청 분야별 소식 (공식): fetch failed
+2026-10-27T21:52:06.853Z feed error: 경기도청 고시·공고 (공식): fetch failed
+2026-10-27T21:52:06.853Z feed error: 경기도청 경기도는 오늘 (공식): fetch failed
+2026-10-27T21:52:06.853Z feed error: 중소벤처기업부 사업공고 (공식): Request timed out after 20000ms
+2026-10-27T21:52:06.853Z feed error: 중소벤처기업부 보도자료 (공식): Request timed out after 20000ms
+2026-10-27T21:52:06.854Z summarizing with claude (opus)...
+2026-10-27T21:52:35.030Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/smallbiz/2026-10-28_20261027215146.html
+2026-10-27T21:52:36.327Z mail sent: <a4981f34-f25c-a53e-a2fb-f6f4498b387f@gmail.com> -> upsan77@gmail.com,zheng0107@daum.net
+2026-10-27T21:52:36.327Z done
