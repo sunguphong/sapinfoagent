@@ -1,0 +1,225 @@
+{
+  "overview": "SAP TechEd 2026에서 SAP는 'Autonomous Enterprise(자율 기업)' 구현을 위한 AI 도구와 SAP Business AI Platform을 전면에 내세웠습니다. ABAP 개발용 에이전틱 AI, Joule 어시스턴트, SAP HANA Cloud 관리 에이전트, 2027년 출시 예정인 Enterprise AI Gateway 등 개발·데이터·운영 전반에 걸친 AI 에이전트 확장이 핵심입니다. 이와 함께 클라우드 ERP 전환용 마이그레이션·현대화 어시스턴트, NTT와의 소버린 클라우드 협력, Intel과의 Physical AI 시연도 공개됐습니다. 국내에서는 AWS가 Kiro 기반 SAP 코드 현대화 샘플 에이전트를 발표해 작업량을 최대 87% 줄일 수 있다고 밝히며 관심을 모았습니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 4,
+          "title_ko": "SAP TechEd 2026: SAP, 개발자에게 \"자율 기업을 직접 구축할 수 있다\"고 강조",
+          "summary": "SAP는 TechEd 2026에서 포괄적인 AI 도구와 SAP Business AI Platform을 바탕으로 개발자·고객·파트너가 'Autonomous Enterprise'를 구축할 수 있다고 발표했습니다. 이번 행사의 메시지는 AI 에이전트를 중심으로 한 개발 환경 전반의 확장입니다.",
+          "why": "SAP의 중장기 개발·플랫폼 전략이 에이전트 중심으로 재편되고 있음을 보여 주는 기준 발표입니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”",
+            "link": "https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/",
+            "published": "2026-10-28T16:30:00.000Z",
+            "snippet": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers, and partners can build the Autonomous Enterprise."
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "ABAP 개발을 위한 에이전틱 AI: SAP TechEd 2026 신규 발표 정리",
+          "summary": "SAP는 TechEd 2025와 Sapphire 2026에서 시작한 흐름을 이어 ABAP 개발을 에이전틱 AI 시대로 한 단계 더 끌어올리는 혁신을 발표했습니다. 지능형 자동화, 생산성 향상, 더 스마트한 엔터프라이즈 솔루션 구축을 지원하는 것이 공통 방향입니다.",
+          "why": "ABAP 개발자와 기술 컨설턴트의 개발 방식과 생산성에 직접 영향을 주는 변화입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Agentic AI for ABAP Development: What's New at SAP TechEd 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/agentic-ai-for-abap-development-what-s-new-at-sap-teched-2026/ba-p/14512694",
+            "published": "2026-10-28T21:43:26.000Z",
+            "snippet": "At SAP TechEd 2026, we are announcing innovations that take ABAP development further into the era of Agentic AI, building on everything we started at SAP TechEd 2025 and SAP Sapphire 2026. All these announcements point in the same direction: helping developers unlock intelligent automation, boost productivity, and build smarter enterprise solutions, regardless of where they are in their SAP journe"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "SAP Joule 어시스턴트 '플러그 앤 플레이' 출시",
+          "summary": "Joule Studio에서 Joule 어시스턴트를 바로 활용할 수 있는 방법과 접근 권한 프로비저닝 절차를 안내하는 글입니다. 단, Joule Studio는 현재 Early Adopter Care(EAC) 프로그램에 등록된 고객만 사용할 수 있으며, 등록은 SAP 담당 AE·CSP·CSM을 통해 해야 합니다.",
+          "why": "Joule 기반 에이전트를 도입하려는 고객이라면 EAC 등록 조건과 사용 절차를 미리 확인해야 합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Joule Assistants Plug & Play: Available Today",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-joule-assistants-plug-amp-play-available-today/ba-p/14511969",
+            "published": "2026-10-28T10:51:35.000Z",
+            "snippet": "Disclaimer: Joule Studio is currently only available for eligible customers enrolled within a corresponding Early Adopter Care (EAC) program. Kindly contact your SAP Account Executive, CSP or CSM for enrolling to EAC.Access Provisioning GuidelinesTo provision your access, please follow the Get Started with Joule Studio link.Once there, navigate to the Project Board and complete the required activi"
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "SAP, Joule 도구 단계적 출시… Enterprise AI Gateway는 2027년 예정",
+          "summary": "SAP가 Joule 관련 도구를 단계적으로 출시하고 있으며, Enterprise AI Gateway는 2027년에 선보일 계획이라고 보도됐습니다.",
+          "why": "AI 도입 로드맵과 아키텍처 계획을 세울 때 기능별 출시 시점을 반영해야 합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 - OpenTools",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmFvSnlfU3F1NUMyb0VwYkx3QmM3R2ttZ05BdWpwWUdiNjg3Y2JSUXRzSTBFTk9qYmZIaENoWHBPQ3FNSnlOMXhDbm1KNHliSjZrTC1tWjlNMFo1QlJTRFFSY3Z5TlFPWU15emMzbHZQSFdJVHVVVzlYaEx4OXZuVElqb2diNUZraU1uU20zVEZVdEU?oc=5",
+            "published": "2026-10-27T17:20:41.000Z",
+            "snippet": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 OpenTools"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "SAP HANA Cloud 관리 에이전트 미리보기",
+          "summary": "SAP HANA Cloud Administration Agent는 인스턴스 운영자의 관리 업무를 돕도록 설계된 AI 에이전트입니다. 모니터링, 트러블슈팅, 성능 분석, DB·SQL 최적화, 라이프사이클 관리, SAP HANA Cloud로의 마이그레이션을 지원합니다.",
+          "why": "Basis·DB 운영 담당자의 반복적인 관리·튜닝 업무를 크게 줄일 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "A Sneak Peek into the SAP HANA Cloud Administration Agent",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/a-sneak-peek-into-the-sap-hana-cloud-administration-agent/ba-p/14509559",
+            "published": "2026-10-28T17:07:44.000Z",
+            "snippet": "A preview of the SAP HANA Cloud Administration Agent, designed to assist instance operators in performing management tasks, such as monitoring, troubleshooting, performance analysis, database and SQL optimization, lifecycle management, and migrating to SAP HANA Cloud."
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "Agentic AI Foundation에 참여한 SAP: 표준화된 AI 규칙 만들기",
+          "summary": "SAP는 2025년 12월 Agentic AI Foundation(AAIF)이 출범한 지 며칠 만에 골드 멤버로 합류했습니다. 복잡하고 규제가 많은 엔터프라이즈 환경에서 에이전트 시스템이 제대로 작동하려면 표준이 필요하다며, 표준화 작업에 참여하는 이유를 설명했습니다.",
+          "why": "SAP 에이전트와 타사 에이전트 간 상호운용성이 어떤 방향으로 갈지 가늠할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP at the Agentic AI Foundation: Shaping the Rules of Standardized AI",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-at-the-agentic-ai-foundation-shaping-the-rules-of-standardized-ai/ba-p/14512407",
+            "published": "2026-10-28T14:40:22.000Z",
+            "snippet": "The standards we help define today will determine whether tomorrow's agentic systems actually work in complex, regulated enterprise environments. SAP joined the Agentic AI Foundation (AAIF) just days after its launch in December 2025 as a gold member. In this blog post, I talk about our motivation to engage with community built around agentic standardization through the Agentic AI Foundation and s"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 9,
+          "title_ko": "SAP, 클라우드 ERP 전환을 위한 마이그레이션·현대화 어시스턴트 제공",
+          "summary": "SAP가 고객의 클라우드 ERP 전환을 지원하는 마이그레이션 및 현대화 어시스턴트를 선보였습니다. 이를 통해 전환 작업 단순화, 프로젝트 실행 가속, 의사결정 개선, 준비도 향상을 기대할 수 있다고 밝혔습니다.",
+          "why": "S/4HANA 전환 프로젝트의 방법론과 일정 산정에 직접 영향을 줄 수 있는 도구입니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations",
+            "link": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
+            "published": "2026-10-28T11:00:00.000Z",
+            "snippet": "Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness."
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "SAP Integration Suite, advanced event mesh를 활용한 이벤트 기반 통합",
+          "summary": "SAP Integration Suite, advanced event mesh의 핵심 기능을 소개하고 대안 솔루션과 비교한 글입니다. 전체 통합 아키텍처에서 이 제품이 차지하는 위치와 에이전틱 AI 측면에서의 의미도 다룹니다.",
+          "why": "이벤트 기반 통합 아키텍처를 설계하는 통합 컨설턴트에게 제품 선정 근거를 제공합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Event-driven integration with SAP Integration Suite, advanced event mesh",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/event-driven-integration-with-sap-integration-suite-advanced-event-mesh/ba-p/14512558",
+            "published": "2026-10-28T16:11:18.000Z",
+            "snippet": "If you are evaluating event-driven integration, whether that includes SAP business applications or not, then SAP Integration Suite, advanced event mesh deserves serious consideration. This article discusses the key capabilities and how SAP Integration Suite, advanced event mesh compares to some alternatives, how it fits into a broader integration architecture, as well as its significance for Agent"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "2026년 3분기 SAP BAIP 보안 및 ID·접근 관리(IAM) 릴리스 하이라이트",
+          "summary": "SAP BAIP 보안 및 Identity & Access Management 영역의 신규 기능과 개선 사항을 분기별로 정리한 글입니다.",
+          "why": "보안·권한 담당자가 최신 IAM 기능 변화를 빠르게 파악하는 데 유용합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Q3 2026: Quarterly Release Highlights for SAP BAIP Security and Identity & Access Management",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/q3-2026-quarterly-release-highlights-for-sap-baip-security-and-identity-amp/ba-p/14512470",
+            "published": "2026-10-28T15:00:02.000Z",
+            "snippet": "Security is constantly evolving—and so are the ways we protect our SAP landscapes. What’s new in SAP BAIP Security and Identity & Access Management? From new capabilities to valuable enhancements, here’s your quarterly roundup of the latest updates you won’t want to miss."
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 21,
+          "title_ko": "SAP와 NTT, 신뢰할 수 있는 소버린 클라우드와 SAP Business AI 제공에 협력",
+          "summary": "SAP와 NTT가 규제 산업을 위해 안전하고 회복력 있는 소버린(주권) 디지털 전환을 추진하기로 협력했습니다. 신뢰할 수 있는 소버린 클라우드와 SAP Business AI 역량을 함께 제공하는 것이 목표입니다.",
+          "why": "공공·금융 등 데이터 주권 요건이 엄격한 고객에게 SAP 클라우드를 제안할 때 참고할 수 있는 사례입니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities",
+            "link": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
+            "published": "2026-10-28T08:00:00.000Z",
+            "snippet": "TOKYO — The companies share the ambition to advance secure, resilient and sovereign digital transformation for regulated industries."
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "SAP TechEd: Intel과 손잡고 Physical AI 영역으로 진출하는 SAP",
+          "summary": "SAP가 Intel과 함께 Physical AI 분야로 영역을 넓히고 있다는 분석 기사입니다. 관련 보도에 따르면 Intel은 중국에서 열린 시연에서 SAP와 개방형 로보틱스 아키텍처를 시험했으며, 로봇 등 현장 자동화를 ERP와 연결하는 방향이 주목받고 있습니다.",
+          "why": "제조·물류 고객의 현장 자동화와 ERP 연계 시나리오가 확대될 가능성을 보여 줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP TechEd - how SAP is pushing into the emerging realm of physical AI with Intel - diginomica",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTh0b0ZBaEQxWEtjNU5DcUMwdTI1WExZVzBFUWdLdkhyUHotaXRnNV9LQms0Y1hTMmtJMTdkemxVQkVnYk1hZm9SVlFiWWx3YkVnMmJzSV9VRFlCTlhmd1dwMVEzOUhDS1FiZ3FYQjVBQjd0RUlPQUFra1JySUx0LWhDYU1FelNURnc?oc=5",
+            "published": "2026-10-28T09:05:01.000Z",
+            "snippet": "SAP TechEd - how SAP is pushing into the emerging realm of physical AI with Intel diginomica"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 15,
+          "title_ko": "SAP, 업무 실행하는 AI 에이전트로 승부…개발·데이터·관리 도구 확장",
+          "summary": "지디넷코리아는 SAP가 TechEd 2026에서 실제 업무를 실행하는 AI 에이전트를 앞세워 개발·데이터·관리 도구를 확장했다고 보도했습니다.",
+          "why": "국내 고객사도 이번 TechEd 발표 내용을 주목하고 있어 관련 문의에 대비해야 합니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "SAP, 업무 실행하는 AI 에이전트로 승부…개발·데이터·관리 도구 확장 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZYVJPXy1zU1RmWE1jTENQZGxtMTJLTzBDbnhKZzFmQkdYZW1RNHJfTUdZd2M3aTdreFppaWV4WGcwNzJLWHR0SUJyZ2Ntc2lTZzBZMGp3?oc=5",
+            "published": "2026-10-28T09:09:51.000Z",
+            "snippet": "SAP, 업무 실행하는 AI 에이전트로 승부…개발·데이터·관리 도구 확장 지디넷코리아"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "AWS, AI로 SAP 코드 전환 자동화…작업량 최대 87% 절감",
+          "summary": "AWS가 Kiro 기반 SAP 현대화 샘플 에이전트를 공개했습니다. 이 에이전트는 SAP 코드 분석·변환·테스트와 인터페이스 전환을 자동화하며, AWS는 현대화 공수를 최대 87%까지 줄일 수 있다고 밝혔습니다. 여러 국내 매체가 이 소식을 함께 보도했습니다.",
+          "why": "S/4HANA 전환 시 커스텀 코드 정비 방식과 공수 산정에 새로운 선택지가 생겼습니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "AWS, AI로 SAP 코드 전환 자동화…작업량 최대 87% 절감 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZWczOTQ3VkJTSmJFaE1HMFZWdDkxVkE4VGFlMWpnTnZIVXk1WFFHT3hMQUhDU2g4X1kxMjVEODV4dExBRlFKcWVzR3Bneno2T2ZYLUd3?oc=5",
+            "published": "2026-10-28T08:38:37.000Z",
+            "snippet": "AWS, AI로 SAP 코드 전환 자동화…작업량 최대 87% 절감 지디넷코리아"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "SAP Business Network에서 생성되어 S/4HANA Public Cloud에 멈춰 있는 서비스 입력 시트 삭제 방법",
+          "summary": "공급업체가 SAP Business Network에서 만든 서비스 입력 시트(SES)가 S/4HANA에 넘어온 뒤 삭제가 안 되고 PO 수량이 묶이는 문제를 다룹니다. Business Network에는 취소 버튼이 없고 S/4HANA에서도 수동 삭제가 막히는 원인을 설명하고, 두 가지 해결 방법을 제시합니다.",
+          "why": "MM/조달 운영에서 자주 마주치는 장애를 바로 해결할 수 있는 실전 팁입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "How to Delete a Stuck Service Entry Sheet in SAP S/4HANA Public Cloud When Originated from SAP BN",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-delete-a-stuck-service-entry-sheet-in-sap-s-4hana-public-cloud-when/ba-p/14512495",
+            "published": "2026-10-28T15:42:04.000Z",
+            "snippet": "Your supplier created a Service Entry Sheet in SAP Business Network. It landed in S/4HANA. Now nobody can delete it— the PO quantity is blocked, there is no cancel button in Business Network, and S/4HANA refuses to let you remove it manually. This blog explains why it happens and gives you two ways to fix it."
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "두 통화 간 감가상각 결과 차이 원인 – SAP S/4HANA Cloud Public Edition",
+          "summary": "감가상각을 실행한 뒤 회사코드 통화와 그룹(글로벌) 통화를 비교하면 고객이 정의한 환율이 적용되지 않은 것처럼 보입니다. 이는 감가상각 실행 시점에 통화를 환산하지 않고, 자산 취득 전기 시점의 전기 조건으로 환산이 이루어지기 때문이라고 설명합니다.",
+          "why": "FI-AA 컨설턴트가 고객의 통화 차이 문의에 정확히 답할 수 있는 근거가 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "The depreciation results differ between the two currencies - SAP S/4HANA Cloud Public Edition",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/the-depreciation-results-differ-between-the-two-currencies-sap-s-4hana/ba-p/14512190",
+            "published": "2026-10-28T08:01:40.000Z",
+            "snippet": "After running depreciation, upon comparing the Company Code currency and Global Currency, the exchange rate did not use the one defined by the customer.The depreciation run does NOT translate the posting amounts for the individual currencies. In fact the currency translation takes place for the asset acquisition posting with the given posting parameters (posting date, etc.).For example, an asset h"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Agentic AI for ABAP Development: What's New at SAP TechEd 2026",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/agentic-ai-for-abap-development-what-s-new-at-sap-teched-2026/ba-p/14512694",
+    "published": "2026-10-28T21:43:26.000Z",
+    "snippet": "At SAP TechEd 2026, we are announcing innovations that take ABAP development further into the era of Agentic AI, building on everything we started at SAP TechEd 2025 and SAP Sapphire 2026. All these announcements point in the same direction: helping developers unlock intelligent automation, boost productivity, and build smarter enterprise solutions, regardless of where they are in their SAP journe"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "What’s New in AI, Joule, and the Autonomous Enterprise | SAP TechEd in 2026 - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXhvR25DVEwyRGJIZTBLMjFRUEtSLXdHSG9LZTR0dXZocGN5dkw0Y2VZOHZybkxHSXJWekNLTklVdEQ1U0twNkNLYUphUWpHTFpETUxIRFhINmxSTnVFbl93ZndaWTdwWlZZZDJJU282NHBHOGdiZl9uRXl0dXNOamVLZDM2OVJWSWVxbnNMSWlsb2NBNzd0TXdXcEZlTWc?oc=5",
+    "published": "2026-10-28T19:29:40.000Z",
+    "snippet": "What’s New in AI, Joule, and the Autonomous Enterprise | SAP TechEd in 2026 SAP News Center"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "How Will SAP’s Physical AI Link Automation and ERP? - Manufacturing Digital",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlZOTGJjdDVFaG43RzdScEVyTDBKZFBRWTUtTkpEV3FDQlpXQl9KN2pxQnVyRjQxY09iM0hiaW9RNEFndG9QRllIU3Z2RWJCZDlvRjNMMzFIZGQzUWhTMHE1OWpmaHRMeWl0cHRsQ3htUDBhQ2RlUktuUDQ5MHFySjJXZDdYb21SeWhsY3EzOU8?oc=5",
+    "published": "2026-10-28T18:29:49.000Z",
+    "snippet": "How Will SAP’s Physical AI Link Automation and ERP? Manufacturing Digital"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "A Sneak Peek into the SAP HANA Cloud Administration Agent",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/a-sneak-peek-into-the-sap-hana-cloud-administration-agent/ba-p/14509559",
+    "published": "2026-10-28T17:07:44.000Z",
+    "snippet": "A preview of the SAP HANA Cloud Administration Agent, designed to assist instance operators in performing management tasks, such as monitoring, troubleshooting, performance analysis, database and SQL optimization, lifecycle management, and migrating to SAP HANA Cloud."
+  },
+  {
+    "source": "SAP News Center",
+    "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”",
+    "link": "https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/",
+    "published": "2026-10-28T16:30:00.000Z",
+    "snippet": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers, and partners can build the Autonomous Enterprise."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Event-driven integration with SAP Integration Suite, advanced event mesh",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/event-driven-integration-with-sap-integration-suite-advanced-event-mesh/ba-p/14512558",
+    "published": "2026-10-28T16:11:18.000Z",
+    "snippet": "If you are evaluating event-driven integration, whether that includes SAP business applications or not, then SAP Integration Suite, advanced event mesh deserves serious consideration. This article discusses the key capabilities and how SAP Integration Suite, advanced event mesh compares to some alternatives, how it fits into a broader integration architecture, as well as its significance for Agent"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "How to Delete a Stuck Service Entry Sheet in SAP S/4HANA Public Cloud When Originated from SAP BN",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-delete-a-stuck-service-entry-sheet-in-sap-s-4hana-public-cloud-when/ba-p/14512495",
+    "published": "2026-10-28T15:42:04.000Z",
+    "snippet": "Your supplier created a Service Entry Sheet in SAP Business Network. It landed in S/4HANA. Now nobody can delete it— the PO quantity is blocked, there is no cancel button in Business Network, and S/4HANA refuses to let you remove it manually. This blog explains why it happens and gives you two ways to fix it."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Q3 2026: Quarterly Release Highlights for SAP BAIP Security and Identity & Access Management",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/q3-2026-quarterly-release-highlights-for-sap-baip-security-and-identity-amp/ba-p/14512470",
+    "published": "2026-10-28T15:00:02.000Z",
+    "snippet": "Security is constantly evolving—and so are the ways we protect our SAP landscapes. What’s new in SAP BAIP Security and Identity & Access Management? From new capabilities to valuable enhancements, here’s your quarterly roundup of the latest updates you won’t want to miss."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "SAP at the Agentic AI Foundation: Shaping the Rules of Standardized AI",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-at-the-agentic-ai-foundation-shaping-the-rules-of-standardized-ai/ba-p/14512407",
+    "published": "2026-10-28T14:40:22.000Z",
+    "snippet": "The standards we help define today will determine whether tomorrow's agentic systems actually work in complex, regulated enterprise environments. SAP joined the Agentic AI Foundation (AAIF) just days after its launch in December 2025 as a gold member. In this blog post, I talk about our motivation to engage with community built around agentic standardization through the Agentic AI Foundation and s"
+  },
+  {
+    "source": "SAP News Center",
+    "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations",
+    "link": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
+    "published": "2026-10-28T11:00:00.000Z",
+    "snippet": "Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "SAP Joule Assistants Plug & Play: Available Today",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-joule-assistants-plug-amp-play-available-today/ba-p/14511969",
+    "published": "2026-10-28T10:51:35.000Z",
+    "snippet": "Disclaimer: Joule Studio is currently only available for eligible customers enrolled within a corresponding Early Adopter Care (EAC) program. Kindly contact your SAP Account Executive, CSP or CSM for enrolling to EAC.Access Provisioning GuidelinesTo provision your access, please follow the Get Started with Joule Studio link.Once there, navigate to the Project Board and complete the required activi"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Bets on 'AI That Executes' with Full-Scale Expansion of Agent Development and Control Platform - BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13SzJldFhjODl5WU1tWUZGeUZwNmk5ckNqVnk3bENWeGJJZldGbmdvZHRSTTdBRUh2Y2FKSENycHZZZXdFUEJlUHZ1eG51TlV4WVVhNTV0WHlVaEZtMHVqdGg4X0ZhWXQyWUlMRHFnbTdFV2VDdUE?oc=5",
+    "published": "2026-10-28T10:30:36.000Z",
+    "snippet": "SAP Bets on 'AI That Executes' with Full-Scale Expansion of Agent Development and Control Platform BigGo Finance"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "From Potential to Realized Value: Tracking Business Outcomes with Process Transformation Manager",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-potential-to-realized-value-tracking-business-outcomes-with-process/ba-p/14512257",
+    "published": "2026-10-28T09:48:06.000Z",
+    "snippet": "Recognizing the opportunities for transformation and estimating the business benefits they bring along is only a starting point.As soon as the transformation initiative moves on to implementation, a more crucial question arises – what percentage of our expectations has been fulfilled?For example, if the transformation project brings a promise of €500,000 in yearly savings, the next step should be "
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "Intel trials open robotics architecture with SAP in Chinese demo - SDxCentral",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1NqVmJrbVoxeDZtUUlCcEpWaHBDa3FPUm5wUjlHbEtSekljUkNVM3N3ZEhySjVTZzI0bXZOTWl2aGVXcXp2UTVqa2l2Y3hIY3M1UDJ0aVMwQldOQmNXU1NIN21xVTFnZXBhRkJOa3JYQ3A1Z19uQXhPR1dlTWtoSVc4SjB6MHJsVmdJdV82UHctc09GanQ0dWxnMkU4QQ?oc=5",
+    "published": "2026-10-28T09:42:22.000Z",
+    "snippet": "Intel trials open robotics architecture with SAP in Chinese demo SDxCentral"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "AI-Assisted Role Wizard: Let your work speak for itself",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/ai-assisted-role-wizard-let-your-work-speak-for-itself/ba-p/14511806",
+    "published": "2026-10-28T09:27:41.000Z",
+    "snippet": "Since introducing the Role-based Process Overview capability, people across organizations have been able to immediately see which processes are relevant to their work. Now, we're taking it one step further because finding the right role shouldn't require knowing your dictionary inside and out. We're excited to announce an AI-driven enhancement to the Role-based Process Overview capability: an acce"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "SAP, 업무 실행하는 AI 에이전트로 승부…개발·데이터·관리 도구 확장 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZYVJPXy1zU1RmWE1jTENQZGxtMTJLTzBDbnhKZzFmQkdYZW1RNHJfTUdZd2M3aTdreFppaWV4WGcwNzJLWHR0SUJyZ2Ntc2lTZzBZMGp3?oc=5",
+    "published": "2026-10-28T09:09:51.000Z",
+    "snippet": "SAP, 업무 실행하는 AI 에이전트로 승부…개발·데이터·관리 도구 확장 지디넷코리아"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP TechEd - how SAP is pushing into the emerging realm of physical AI with Intel - diginomica",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTh0b0ZBaEQxWEtjNU5DcUMwdTI1WExZVzBFUWdLdkhyUHotaXRnNV9LQms0Y1hTMmtJMTdkemxVQkVnYk1hZm9SVlFiWWx3YkVnMmJzSV9VRFlCTlhmd1dwMVEzOUhDS1FiZ3FYQjVBQjd0RUlPQUFra1JySUx0LWhDYU1FelNURnc?oc=5",
+    "published": "2026-10-28T09:05:01.000Z",
+    "snippet": "SAP TechEd - how SAP is pushing into the emerging realm of physical AI with Intel diginomica"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "AWS, 키로 기반 AI 에이전트 공개...인터페이스·코드 변환 자동화 - 더에이아이",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43WG9mbjBuT0JBbG9vUnhWNERJVGtodWZPSFBsZUtyTzNUaDNHTFFEenNhU2RTVjRkMUxTX2ZQN0lTWjNQeFZpcVo4N3RreXY4VXRyQm9fbnJQTjVKWXR0eUpLNDRPRUhKbkE0?oc=5",
+    "published": "2026-10-28T08:53:00.000Z",
+    "snippet": "AWS, 키로 기반 AI 에이전트 공개...인터페이스·코드 변환 자동화 더에이아이"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "AWS, AI로 SAP 코드 전환 자동화…작업량 최대 87% 절감 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZWczOTQ3VkJTSmJFaE1HMFZWdDkxVkE4VGFlMWpnTnZIVXk1WFFHT3hMQUhDU2g4X1kxMjVEODV4dExBRlFKcWVzR3Bneno2T2ZYLUd3?oc=5",
+    "published": "2026-10-28T08:38:37.000Z",
+    "snippet": "AWS, AI로 SAP 코드 전환 자동화…작업량 최대 87% 절감 지디넷코리아"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "BTPEA Is Now Available in China: Bringing Consumption-Based Flexibility to SAP BAIP Customers",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/btpea-is-now-available-in-china-bringing-consumption-based-flexibility-to/ba-p/14511437",
+    "published": "2026-10-28T08:09:28.000Z",
+    "snippet": "SAP BTP Enterprise Agreement (BTPEA) was officially released in China on May 21, 2026 (SKU 8016044), bringing a consumption-based commercial model to SAP BAIP customers in the China market.Why Is BTPEA in China an Important Milestone?The launch of BTPEA in China marks an important step in expanding the commercial options available to SAP BAIP customers, creating opportunities to onboard more servi"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "The depreciation results differ between the two currencies - SAP S/4HANA Cloud Public Edition",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/the-depreciation-results-differ-between-the-two-currencies-sap-s-4hana/ba-p/14512190",
+    "published": "2026-10-28T08:01:40.000Z",
+    "snippet": "After running depreciation, upon comparing the Company Code currency and Global Currency, the exchange rate did not use the one defined by the customer.The depreciation run does NOT translate the posting amounts for the individual currencies. In fact the currency translation takes place for the asset acquisition posting with the given posting parameters (posting date, etc.).For example, an asset h"
+  },
+  {
+    "source": "SAP News Center",
+    "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities",
+    "link": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
+    "published": "2026-10-28T08:00:00.000Z",
+    "snippet": "TOKYO — The companies share the ambition to advance secure, resilient and sovereign digital transformation for regulated industries."
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "AWS, 키로 기반 SAP 현대화 샘플 에이전트 배포 - IT비즈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XMkpTWTdvNVkzcmQ5d2RDNV9ocnIzSUJiaFhpYkpmeWxxZ1loMHJHclktSHNDWExQdzFNZkhPMm8zZGI1cC1HMWlDY1A2RGZFdTU4N1BZQmZhUFU5TUlyOV9TSXpfeVg5M0JUYQ?oc=5",
+    "published": "2026-10-28T07:16:00.000Z",
+    "snippet": "AWS, 키로 기반 SAP 현대화 샘플 에이전트 배포 IT비즈뉴스"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "How to modify the Legacy Data Transfer date - SAP S/4HANA Cloud Public Edition",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-modify-the-legacy-data-transfer-date-sap-s-4hana-cloud-public/ba-p/14512153",
+    "published": "2026-10-28T07:00:35.000Z",
+    "snippet": "How to modify the Legacy Data Transfer date in the Make Company Code Settings app- SAP S/4HANA Cloud Public Edition"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "[더테크 픽] 수천 줄 SAP 코드, AI가 한 번에 바꾼다…AWS, 현대화 공수 87% 절감 - 더테크",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54X3ZPV19fbjF1UGpBU1N5WVJkSDV3SGt2WXFtOHpXdFRBOVZTakNidG9XbDU5RVkxWU5tc24tMUxKc0lUXzZBLVBKTDRLeGRxM3J6bDI3dzBybENOcURhU01wNA?oc=5",
+    "published": "2026-10-28T06:22:21.000Z",
+    "snippet": "[더테크 픽] 수천 줄 SAP 코드, AI가 한 번에 바꾼다…AWS, 현대화 공수 87% 절감 더테크"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Identity Propagation from Joule to SAP SuccessFactors",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/identity-propagation-from-joule-to-sap-successfactors/ba-p/14511457",
+    "published": "2026-10-28T05:41:56.000Z",
+    "snippet": "Learn how user identity propagation from Joule to SAP SuccessFactors ensures that sensitive custom MDF objects—such as Contract Renewal data—are securely accessed based on existing SuccessFactors user roles."
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP's AI Roadmap Wins Applause, but the Invoice Is Still Being Written - ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORUhKWnZXUUlmRmFqNEhfcmpNWG1GWjU2U0tCN08wV3ZZQ0VuNHB6ZC1oa1ZfZ0daM3IwbGdHMmpDNWZVOTJSRnI1Qjl5ZEx3U1NPa3g0UXFhRFl3eDduVnEyWTNiclE5dl8xbkRLRThrWTdIMC1iY3B1Nld2ZnRya1F1RWMxNnZOS2c4TUhRNmxxRi1lSTRTaVNYU044bjlhRnY5VTlsQktfS0xXSlNVWkMyVklUY3RmTVY3ZUM4a3FYVXF2Qm5nNkcySkhuVTBHRWpzNHYxZnY?oc=5",
+    "published": "2026-10-28T05:40:36.000Z",
+    "snippet": "SAP's AI Roadmap Wins Applause, but the Invoice Is Still Being Written ad-hoc-news.de"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "AWS, ‘키로’ 기반 SAP 현대화 에이전트 공개 - 데이터넷",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81LU9RQUl2TTBFXzRXTWZFQTE1UHpUeWo1Rk41T2M2N0VzS2ZWcmNJWmUtZzlCdWxycVBVRS1aaU9kZWFleEpUTXZOdDQzS1c0SE41R2I4TVpLY0tVYUs1MThXc0VXcEdlbE1MNQ?oc=5",
+    "published": "2026-10-28T05:34:21.000Z",
+    "snippet": "AWS, ‘키로’ 기반 SAP 현대화 에이전트 공개 데이터넷"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "AWS, SAP 코드 분석·변환·테스트 자동화하는 ‘키로’ 샘플 에이전트 발표 - CNET Korea",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zUEk1V2RlNWM3SV9vcTlkckRxMnJDV253UVlhUHZhczdJVXpsNkI0OVRveThzYlU5NVozUUtqUnBSRDI4eS1JSWRkUzVQM3I5c1N3WWY2RQ?oc=5",
+    "published": "2026-10-28T05:28:00.000Z",
+    "snippet": "AWS, SAP 코드 분석·변환·테스트 자동화하는 ‘키로’ 샘플 에이전트 발표 CNET Korea"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "AWS, '키로' 기반 SAP 현대화 샘플 에이전트 공개...“공수 최대 87% 절감” - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01V3J4d01UbG8zVnIxdU1saVNMaHR4TXJ5QllYUkNOV3BNVkxYNjBQNHd5RnFia1VNR0hMb3hkZl9LVUJaa2ozdE4xNEZJQQ?oc=5",
+    "published": "2026-10-28T04:15:04.000Z",
+    "snippet": "AWS, '키로' 기반 SAP 현대화 샘플 에이전트 공개...“공수 최대 87% 절감” 전자신문"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "AWS, ‘키로’ 기반 SAP 현대화 샘플 에이전트 공개 - 아이티데일리",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tQjNCa0xCalhTNDNKSWNHOHE3S25yaGp1R01zLXV3TGs3c0hId29KT1E2S2RESXUwNkNqY1VTeTZ2WmdlcnRCYkJ0Uk1pM1JNUXp6Q2Qta1p3MHJGWUJqTTFPY1hfTEVn?oc=5",
+    "published": "2026-10-28T02:28:57.000Z",
+    "snippet": "AWS, ‘키로’ 기반 SAP 현대화 샘플 에이전트 공개 아이티데일리"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 - OpenTools",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmFvSnlfU3F1NUMyb0VwYkx3QmM3R2ttZ05BdWpwWUdiNjg3Y2JSUXRzSTBFTk9qYmZIaENoWHBPQ3FNSnlOMXhDbm1KNHliSjZrTC1tWjlNMFo1QlJTRFFSY3Z5TlFPWU15emMzbHZQSFdJVHVVVzlYaEx4OXZuVElqb2diNUZraU1uU20zVEZVdEU?oc=5",
+    "published": "2026-10-27T17:20:41.000Z",
+    "snippet": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 OpenTools"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "TechEd 2026: SAP fronts tabular data model in space as it bids to make autonomous enterprise real - Computer Weekly",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEZXejdyZGhiOGZfTXZNNWtqdkl5OXVjYjJoR3duWS1zT3VwZm9yNnlicjh0MVJRc1RRMlRISGFjRDdZcXljQXJPZ2UzYXY4WkF3SGk1N1lPeVoyYV9TaVZORF9HYjNZMkFWbkxzazM3ZFJ2S2JpaFhJbVFvaGV5R0o4N3ZNdnFldkFuTVo2dXl4cU5mZkI2MmI0ZHJKVEpkSmxUN25xb0tZR01oa3pmWkJYZkZvNk5tU3IxcG9UbU1wQV9XTFRxd2VTLXZfY0VSVmIxYURMZklGUQ?oc=5",
+    "published": "2026-10-27T16:12:24.000Z",
+    "snippet": "TechEd 2026: SAP fronts tabular data model in space as it bids to make autonomous enterprise real Computer Weekly"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP TechEd - how Bosch's early exposure to an enhanced Joule Work is stacking up - diginomica",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2ZDZTNtc0N0aXpsLWxwaGcyT2l6LVFYSWFXdHotTXNiY3RSTkctTklWN3NQTHNRZmJEb05FdWZwUTYwRUhXZUpDNGtra2drd2xwOFRrWTdyeXFzNzE0RFZuRUFfOV85YkJPd1N4YzhHX3VOZ09DMUZrR0FYUmcxVUNEMVF5ek5OYml3OENCUFlBZw?oc=5",
+    "published": "2026-10-27T13:57:06.000Z",
+    "snippet": "SAP TechEd - how Bosch's early exposure to an enhanced Joule Work is stacking up diginomica"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Semos Cloud recognized as a winner of the partner agent race to SAP TechEd 2026 with AI innovation for people and culture - PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeFJmUzQyWnBxVnJqSEpzUkpNVnFEdXFkUkIzdld1akJLN0pKOTdpMHlCTUl2M21aRzJsSEpCTC1Ob3JhUUVqMUpqSnVzMWN5U2U1WGI0cThPcWM2MWM4UTVscTRlN1pHNnJUeU0yWVJXV1daVVI5NnpJMXF5LUNNYXEtaGUxVzd2RnNhaWhERW9VeHdXVzJpMTlEX0t5T3Y3ZmM5QkdKcDduWG1xcGo3eFBvenF5Z2Rra0FFOW9CdkczWXlUbzhaVW1fMVB0V2VIODdhSy1yNE10TkZpbHBaTFg4UTJtT1ZKZHBuSFhEVTNnZmtrYzNrSUthM1pPMjM4MGN0dlhibVQ?oc=5",
+    "published": "2026-10-27T10:00:00.000Z",
+    "snippet": "Semos Cloud recognized as a winner of the partner agent race to SAP TechEd 2026 with AI innovation for people and culture PR Newswire"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "국제 컨퍼런스 \"새로운 맥락에서의 최고 감사 기관: 비전, 제도 및 혁신\"이 곧 개최될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEFYVWFDQVd2bWk3R1JFdVJ3RzdDNVNPaWhnX0Q1bW9rQUtIbjdLdXN3RnFlXzdDWEJNRkhiQzU1UXVtbkN4anNzN0xIcjRlY1RJRkpCOTdUR3JpOEtGV0Z5YThCa2U3M3o1NDZNXzFYbFdZU0JhQzVwUF9fZXAzTmNnWjlCSFZadWxVaGdZaEp2MVlUZVVVQjFpV2RobmxReHA5SDNvdnBocDBDLXItTThBbHVkeXJ6aHhqNEJDUXNiZw?oc=5",
+    "published": "2026-10-26T07:54:48.000Z",
+    "snippet": "국제 컨퍼런스 \"새로운 맥락에서의 최고 감사 기관: 비전, 제도 및 혁신\"이 곧 개최될 예정입니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "최고 감사에 관한 국제 회의가 곧 개최될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHQtdHE3QklfUjlSVzZYZFNhMTdJc2JMWDVvZ0d6QTk0NDgwRzRhMnlLTmFnMHFCZUNETlNzQjFSYW52TWVwczY5UE0wWThEWjNoTFltSDdhbDhTRFkydVdSbDI4MGprUzE1WG02YWMxVTViLTIzRmZVQkpSR0VWeA?oc=5",
+    "published": "2026-10-26T04:42:31.000Z",
+    "snippet": "최고 감사에 관한 국제 회의가 곧 개최될 예정입니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "학술대회: 새로운 시대 안장성 사회발전의 혁신, 기구 재편 및 관리 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0o5Tjk3MUFPY1NHR0U5NHdpbXlRSmxEeTk3elVyMFZUNncwVW1aaDcxWmRUWUdmVmZlc0lGUnh6a0dILU9UTTZWMS1ZSFdpbW4wdlk0MksySDluOTlXREZsdU8yaHNkUVZQLUlsTU5UOTdSbGhmWDdmUWZJYVJTc2tqWHRob2R5OG9ISVRpRjc3SW84QzctSlpISFJUN0kwaENNanJsX1hCNlZRNG5IU1N2SG5DYmRlRTVDaGRVN3MwOVBTWnk1bGZJMWwtLWZtbzNKVU9GeWM?oc=5",
+    "published": "2026-10-23T07:00:00.000Z",
+    "snippet": "학술대회: 새로운 시대 안장성 사회발전의 혁신, 기구 재편 및 관리 Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "스타에셋파트너스, '스타라이즈 2026' 11월 24일 개최 - 벤처타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZaFZQd2FQTVZfZjdlNXFwa1FIXzR6cFpBMXlyU0VUQ0JUQzE2UlRrOUlScldQZUx6bXhpbVRiY0pYVm9EYjB3cThuZVVzOWhMLUM5UWlPN0ZyYUU1SW9GVG5vUEs0dw?oc=5",
+    "published": "2026-10-23T00:00:00.000Z",
+    "snippet": "스타에셋파트너스, '스타라이즈 2026' 11월 24일 개최 벤처타임즈"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "신규 자동차 브랜드 iCAUR가 베트남에 진출합니다. 이 중국 자동차 브랜드는 무엇을 선보일까요? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJRSFlZWUVGR05tU3puQkdubHBfR0pYbXd2OVhFXzhuak01T0NSOE5xOG1lSllVQ3RnWWMtY0lBb2N1R2dGZEhPY2U2N2RrTnMwRFE4ZFl6Njhvand6Q3BrZ1dPTE9aSkVsUG1TU2Z2NE9kRGdJc3VPMDRSWFpQY0dmZmhzOE1nVU91Rjdyd2JxOTE2TVE?oc=5",
+    "published": "2026-10-22T10:23:26.000Z",
+    "snippet": "신규 자동차 브랜드 iCAUR가 베트남에 진출합니다. 이 중국 자동차 브랜드는 무엇을 선보일까요? Vietnam.vn"
+  }
+]
