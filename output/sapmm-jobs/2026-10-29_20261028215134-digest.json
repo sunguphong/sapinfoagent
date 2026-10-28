@@ -1,0 +1,214 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 공고는 LTM의 SAP MM·PP 포지션 1건뿐이며, 서울 근무라는 것 외에 경력·고용형태·마감일은 공고에 나와 있지 않습니다. 이미 소개한 공고 중에서는 동대문 대기업 SAP 운영(ABAP MM, 프리랜서)과 석세스코리아컨설팅의 FI·CO·SD·PP·MM 통합 운영 공고가 곧 마감됩니다. 한국네트웍스(한국앤컴퍼니그룹) SD/MM 운영과 제이투이 MM 운영도 계속 모집 중입니다. 전반적으로 경력 5~7년 이상을 요구하는 운영(SM) 공고가 주를 이루고, 구축이나 S/4HANA 전환을 명시한 신규 공고는 없습니다. 동국 계열사 소식으로는 동국제강이 철근 판매가를 동결하면서 가격정책 변화를 예고했고, 무역위원회는 중국산 아연도금냉연에 반덤핑관세 최종판정을 내렸습니다.",
+  "categories": [
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "LTM · SAP MM·PP 컨설턴트",
+          "summary": "LTM이 LinkedIn에 올린 SAP MM·PP 모듈 공고입니다. 근무지는 서울입니다. 경력 요건, 고용형태, 마감일은 공고 요약에 나와 있지 않습니다.",
+          "why": "MM과 PP를 함께 다루는 서울 근무 포지션이므로, 지원 전에 LinkedIn 원문에서 경력 요건과 고용형태를 확인해야 합니다.",
+          "article": {
+            "source": "LinkedIn",
+            "title": "SAP（MM,PP)",
+            "company": "LTM",
+            "link": "https://kr.linkedin.com/jobs/view/sap%EF%BC%88mm-pp-at-ltm-4483862404",
+            "published": "2026-10-28T00:00:00.000Z",
+            "snippet": "회사: LTM / 지역: 서울, 대한민국",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=LTM"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "지에스비아이 · [동대문/대기업] SAP 운영(ABAP MM)",
+          "summary": "동대문 인근 대기업의 SAP 운영 업무로, MM 관련 ABAP 개발을 포함합니다. 서울 중구 근무, 경력 6~10년, 초대졸 이상, 프리랜서 계약이며 공고상 '내일마감'으로 표시되어 있습니다.",
+          "why": "프리랜서 계약에 경력 6~10년 이상을 요구하고 마감이 임박했으므로 빨리 판단해야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[동대문/대기업] SAP 운영, ABAP MM",
+            "company": "지에스비아이 주식회사",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55389903",
+            "published": "2026-10-26T00:00:00.000Z",
+            "snippet": "회사: 지에스비아이 주식회사 / 조건: 서울 중구 경력 6~10년 초대졸↑ 프리랜서 / 마감: 내일마감 / 분야: SAP , 소프트웨어개발",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A7%80%EC%97%90%EC%8A%A4%EB%B9%84%EC%95%84%EC%9D%B4%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영(FI·CO·SD·PP·MM) 담당자",
+          "summary": "FI·CO·SD·PP·MM 모듈을 함께 운영하는 SAP SM 담당자를 뽑는 공고입니다. 서울 마포구 근무, 경력 5년 이상, 대졸 이상, 정규직이며 공고상 '내일마감'으로 표시되어 있습니다.",
+          "why": "정규직이고 경력 5년 이상이면 지원할 수 있지만 마감이 임박했습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55383805",
+            "published": "2026-10-24T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: 내일마감 / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "한국네트웍스 · SAP SD 또는 MM 모듈 운영 경력직",
+          "summary": "한국앤컴퍼니그룹 계열 IT 서비스사인 한국네트웍스의 SAP SD 또는 MM 모듈 운영 경력 채용입니다. 경기 성남시 근무, 경력 7년 이상이며 회사 홈페이지에서 지원합니다. 마감일은 표기되어 있지 않습니다.",
+          "why": "그룹사 IT 계열사의 운영 포지션으로 경력 7년 이상이 필요하며, 홈페이지에서 지원합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[한국앤컴퍼니그룹] 한국네트웍스 경력 채용(SAP시스템 SD or MM모듈 운영)",
+            "company": "㈜한국네트웍스",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50241886",
+            "published": "2026-10-26T06:08:35.680Z",
+            "jkCompanyNo": "275025",
+            "snippet": "회사: ㈜한국네트웍스 / 경기 성남시 / 솔루션·SI·CRM·ERP, 소프트웨어개발자 / 홈페이지 지원 / 경력7년↑ / 회사정보: 사원수 192명 / 매출액 525억 8천만원 (2025년) / 영업이익 10억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜한국네트웍스",
+              "employees": "192명",
+              "revenue": "525억 8천만원 (2025년)",
+              "operatingProfit": "10억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/275025"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%ED%95%9C%EA%B5%AD%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "제이투이 · [SAP SM 동대문역사문화공원역] SAP MM 모듈 운영",
+          "summary": "동대문역사문화공원역 인근 현장의 SAP MM 모듈 운영(SM) 공고입니다. 서울 중구 근무, 경력 6년 이상이며 즉시 지원할 수 있습니다. 마감일은 표기되어 있지 않습니다.",
+          "why": "MM 단일 모듈 운영 포지션으로 경력 6년 이상이 필요하고 바로 지원할 수 있습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50247384",
+            "published": "2026-10-27T01:42:23.813Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "모베이스시스템 · SAP PP·MM 모듈 컨설팅/ABAP",
+          "summary": "SAP PP·MM 모듈 컨설팅과 ABAP 업무를 함께 맡는 공고입니다. 경기 수원시 근무, 경력 3년 이상이며 즉시 지원할 수 있습니다. 마감일은 표기되어 있지 않습니다.",
+          "why": "경력 3년 이상으로 진입 문턱이 낮지만, 사원 12명 규모의 소형 업체라는 점을 고려해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "모베이스시스템 SAP(PP,MM) 모듈컨설팅/ ABAP",
+            "company": "㈜모베이스시스템",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50229001",
+            "published": "2026-10-23T04:15:01.707Z",
+            "jkCompanyNo": "47241197",
+            "snippet": "회사: ㈜모베이스시스템 / 경기 수원시 / 솔루션·SI·CRM·ERP, IT컨설팅 / 즉시 지원 / 경력3년↑ / 회사정보: 사원수 12명 / 매출액 - / 영업이익 -",
+            "companyInfo": {
+              "title": "㈜모베이스시스템",
+              "employees": "12명",
+              "revenue": "-",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/47241197"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EB%AA%A8%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%8B%9C%EC%8A%A4%ED%85%9C"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 22,
+          "title_ko": "[동국제강] 철근 판매가 동결…가격정책 변화 예고",
+          "summary": "동국제강이 철근 판매가를 그대로 유지하기로 했습니다. 이와 함께 앞으로 가격정책을 바꾸겠다고 예고했습니다.",
+          "why": "건설경기 부진 속에서 주력 제품인 철근의 가격 전략을 조정하려는 신호로 볼 수 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 철근 판매價 유지...가격정책 변화 예고 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBicDJ3dXZRU0NfN2ZVOFlWczU5b2hBcURoRGxRaHZUUkZTa09EOWJuc2Zha2dQeG9UVlo0WnlIemo5LW4tc1pjaGZKZWd2YWRCbWgzUE1IZ0tJbkhkUTNGdEoxZGREX2xKOUZSaDlpbkvSAXRBVV95cUxOa1FPU1ZyWVVXZnFVYXk0MHRhTC1ZaTJYTktBUXBEbDg1QmlHWVJXaTd3NmVmbWpJMFRpTU56UmxPcURHZmk3VVFvNjZJSmlKRERyM3RtRjRiLVQ5aXpoNjRYaDI3ajNzU3Z6VUIzaE9rUjN1SQ?oc=5",
+            "published": "2026-10-23T05:52:12.000Z",
+            "snippet": "동국제강, 철근 판매價 유지...가격정책 변화 예고 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "[동국씨엠] 무역위, 中 아연도금냉연에 최대 33.67% 반덤핑관세 최종판정",
+          "summary": "무역위원회가 중국산 아연도금냉연강판에 최대 33.67%의 반덤핑관세를 부과하는 최종판정을 내렸습니다. 무계목강관에 대한 덤핑 조사도 새로 시작했습니다.",
+          "why": "도금·컬러강판이 주력인 동국씨엠에는 중국산 저가 수입 압력이 줄어드는 우호적 조치입니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "무역위, 中 아연도금냉연 AD 최종판정…최대 33.67%·무계목강관 덤핑조사 개시 - 페로타임즈",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51bTJJQktRMEJLUmdlOGRDNmpuX0VIWEU4aFJtXzNncFFvNHZ5LXMtNmhWWXk2azlNVV9CRW1jMEFpQlhuZ3g5dVRUVWd2R3BQUDFmOXAtdzg4Yjg1b3pQS3VnZ0NHQXVyek5jMQ?oc=5",
+            "published": "2026-10-25T08:49:00.000Z",
+            "snippet": "무역위, 中 아연도금냉연 AD 최종판정…최대 33.67%·무계목강관 덤핑조사 개시 페로타임즈",
+            "isNew": true
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "[동국씨엠] 中 '초저가 공세'에 관세 철퇴에도 철강주가 지지부진한 이유",
+          "summary": "중국산 저가 철강재에 관세 조치가 이어지고 있지만 철강주 주가는 좀처럼 오르지 못하고 있다는 분석 기사입니다.",
+          "why": "통상 방어 조치만으로는 업황 회복을 기대하기 어렵다는 시장의 시각을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "\"'초저가 공세' 中 관세 철퇴에도\"…철강주 지지부진 이유는 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcGtaNDNmY0tsM2RSenBYNEl4NTZxN1JUakwyWEhLMU1CejJxY2tVa2lOU1p3RktQbnF6dEtuaU9FZFR2Y3hpY1pHZWVWby0xSjF0Zm9HZTBKQQ?oc=5",
+            "published": "2026-10-27T21:30:13.000Z",
+            "snippet": "\"'초저가 공세' 中 관세 철퇴에도\"…철강주 지지부진 이유는 한국경제",
+            "isNew": true
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "[동국씨엠] 철강·제지 14곳 PBR 0.21배…개선 목표마저 업종 평균 못 미쳐",
+          "summary": "철강·제지 업종 상장사 14곳의 주가순자산비율(PBR)이 0.21배 수준에 머물러 있다는 저PBR 분석 기사입니다. 이들 기업이 제시한 개선 목표조차 업종 평균에 못 미친다고 지적했습니다.",
+          "why": "최근 동국 계열 3사가 공시한 저PBR 개선안에 대해 시장의 평가가 아직 냉정하다는 점을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "철강·제지 14곳 PBR 0.21배…목표마저 업종 평균에 못 미쳐[최태현의 저PBR해부] - 에너지경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yOG1Od2pIejJMTncxc3FPMHluVklXSmYzbWpzbHk4LXROSW1Ra1R1ZFZuLWFUU3hFX2hfaGNSTFRYMWlOTjdVaWRYeG9BTXBSZ0RZQ1JrRm0xZDdxWllWaEtB?oc=5",
+            "published": "2026-10-28T06:57:04.000Z",
+            "snippet": "철강·제지 14곳 PBR 0.21배…목표마저 업종 평균에 못 미쳐[최태현의 저PBR해부] 에너지경제신문",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
