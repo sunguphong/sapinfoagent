@@ -1,0 +1,98 @@
+{
+  "overview": "CES 2027 개막 D-69로, 60주년을 맞는 이번 행사의 참가 등록 규모와 사전 행사 일정이 구체화되고 있습니다. 현재 3,022개 기업이 참가 등록을 마쳤고, 한국 기업은 442곳으로 국가별 3위입니다. 국내에서는 이재용 삼성전자 회장이 취임 4주년 첫 행보로 로봇 조직을 찾아 CES 2027 준비 상황을 점검했고, 삼성이 CES에서 로봇을 공개할 것으로 알려지며 휴머노이드·피지컬 AI가 핵심 관전 포인트로 떠올랐습니다. 해외에서는 무안경 3D 디스플레이, AI 기반 3D 교육 플랫폼 등 사전 공개 제품 발표가 이어지고 있으며, CES 언베일드 행사가 밀라노에 이어 홍콩으로 확대되는 등 글로벌 사전 행사도 활발합니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "CES 60주년 D-70…3,022곳 참가 등록, 한국 442곳으로 3위",
+          "summary": "10월 28일 기준 개막을 70일 앞둔 CES 2027에 3,022개 기업이 참가 등록을 마쳤습니다. 한국 기업은 442곳으로 국가별 참가 규모 3위를 기록했습니다. 내년 행사는 CES 60주년을 맞는 해입니다.",
+          "why": "한국이 여전히 CES 최상위권 참가국이라는 점에서, 국내 기업과 스타트업이 글로벌 시장에 기술을 알리는 핵심 무대로 CES를 활용하고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES 60주년 D-70…3022곳 등록·한국 442곳 3위 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92Z08tblJLWXFRZVZjZmlJbGRRU1lsekU2OWctUDJlc2hLbGx5V0xRMHQtdEI1VGFtYVROUWhoNVJURkxHY0pLZExwQ3hQbGkxUWVXR0JMdllUQk1p?oc=5",
+            "published": "2026-10-28T05:32:00.000Z",
+            "snippet": "CES 60주년 D-70…3022곳 등록·한국 442곳 3위 뉴스핌"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "CES 아시아 언베일드, CES 2027 맞아 홍콩으로 확대",
+          "summary": "CES 본행사에 앞서 주요 신제품과 기술을 미리 소개하는 사전 행사인 'CES 언베일드'가 CES 2027을 앞두고 아시아 무대를 홍콩으로 넓힙니다. 아시아 지역 기업과 미디어를 대상으로 한 사전 홍보 창구가 늘어나는 셈입니다.",
+          "why": "아시아권 사전 행사가 늘어나면서 국내 기업도 라스베이거스 본행사 전에 제품을 알리고 해외 미디어와 접점을 넓힐 기회가 생깁니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "CES Asia Unveiled Expands to Hong Kong for CES 2027 - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2ZUFudDFVSldUSk1rSFNvZjBpMHRxXzRlMFlsd0NLcURHXzd4a3hVcW9tMkw3ZXdiNVU5cDFjU1JIMEpGeW1PTGQ3UU9oNUtsV19iN3d0cFVuampNYU5BX01KamVfSXpQZUJ3MGZ2ci1LN0thTDVOU2t6SQ?oc=5",
+            "published": "2026-10-28T00:00:00.000Z",
+            "snippet": "CES Asia Unveiled Expands to Hong Kong for CES 2027 digitimes"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "CES 언베일드 밀라노 2026: 소비자 기술 트렌드 인사이트",
+          "summary": "CES 주최 측이 이탈리아 밀라노에서 'CES 언베일드' 사전 행사를 열고 소비자 기술 트렌드를 공유했습니다. 유럽 스타트업과 기업들이 CES 2027 참가를 앞두고 기술을 미리 선보이는 자리였습니다.",
+          "why": "유럽 시장에서 주목받는 소비자 기술 흐름을 미리 확인할 수 있어, 유럽 진출을 노리는 국내 기업이 참고할 만한 자료입니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "CES Unveiled Milan 2026: Insights on trends in consumer technology - Startups Magazine",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmxXVVgxUy1OeEhFT1ROY0xYZG1IX1NGdEFvMnV2elJKUmJfZy1pTFlvLThSd0FxRGg4Vm41RXh2MWV4Sl93STlWYlF0NTVOYnRldDVUOUpUaWI0WFl0bllldnBSaDhRYmtLNm02UU9reHA1SXRtUWdKWHJrOXRacTdiMnpvVmtXZFpxd1BsQnBiMDNoWFMtdy1Vckg?oc=5",
+            "published": "2026-10-28T08:00:35.000Z",
+            "snippet": "CES Unveiled Milan 2026: Insights on trends in consumer technology Startups Magazine"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 5,
+          "title_ko": "삼성전자, CES 2027서 '로봇' 공개…이재용 회장 우면동서 시연 참관",
+          "summary": "이재용 회장이 취임 4주년인 10월 27일 기념식 대신 서울 우면동 R&D센터의 RX(로봇 경험) 사업추진실을 찾아 휴머노이드 로봇의 '손' 기술 시연을 참관하고 CES 2027 준비 상황을 점검했습니다. 신설된 지 약 3개월 된 이 조직은 삼성의 피지컬 AI·로봇 사업화를 이끌고 있으며, 삼성전자는 내년 CES에서 로봇을 공개할 예정입니다.",
+          "why": "반도체 중심이던 삼성이 로봇을 차세대 성장동력으로 공식화하는 신호로, CES 2027에서 국내 휴머노이드 로봇 경쟁이 본격화될 전망입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성전자, 내년 CES서 '로봇' 공개한다…이재용 우면동서 시연 참관 - 뉴스웍스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DMXBsSHZvd1FwVnBWdkZ2ajlYLTZQcHZWRFFvRU1vamlMaWFveC1xcXQ4SW1DYV81LTU5Q1BXSkUtdjdDUjNZNHdoSWRIZUZXMWtGTzc0OTRzY0toQjF6QW1MM05WRG1pSm4xRFdXZ0JtV3PSAXNBVV95cUxPQzFwbEh2b3dRcFZwVnZGdmo5WC02UHB2VkRRb0VNb2ppTGlhb3gtcXF0OEltQ2FfNS01OUNQV0pFLXY3Q1IzWTR3aElkSGVGVzFrRk83NDk0c2NLaEIxekFtTDNOVkRtaUpuMURXV2dCbVdz?oc=5",
+            "published": "2026-10-28T08:57:07.000Z",
+            "snippet": "삼성전자, 내년 CES서 '로봇' 공개한다…이재용 우면동서 시연 참관 뉴스웍스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신제품·기술 트렌드",
+      "items": [
+        {
+          "index": 32,
+          "title_ko": "\"CES 2027에서 2D 시대 끝난다\"…비주얼 세미컨덕터·인세르고, 6개 제품군 무안경 3D 'GF3D' 공개",
+          "summary": "비주얼 세미컨덕터(VSI)와 인세르고(INCERGO)가 CES 2027에서 안경 없이 입체 영상을 볼 수 있는 몰입형 무안경 3D 기술 'GF3D'를 공개합니다. 이 기술은 6개 제품군에 걸쳐 적용될 예정입니다.",
+          "why": "무안경 3D가 여러 기기로 확산되면 디스플레이·패널 업계에 새 수요가 생길 수 있어, 국내 디스플레이 기업도 관련 동향을 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "The 2D Era Ends at CES 2027 - Visual Semiconductor and INCERGO Unveil GF3D™ Immersive Glasses-Free 3D Across Six Product Categories - The Joplin Globe",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb1BkRFJldEVNNVVhcUJjd3lfU19abWlXN1o4Uks5cE81SHRkV29qdlBuTTQyb0NGNjhqRXV4eXBKWGtvQy1fTjVqeWkwZXFiaFBGcFhhX0ZaRXdZbUdxZHRaR3ZwTmNuWUZnREkwSVFfLUx1ZDlqTFlCQUVVT3c2ZEpTVUZUOF96LXk4c3pubUY3MkMwMVRBejRTMW95YmE0cmJsVXkxZ1p4SU5oSnJlU0RmbnVJMUhmVVRYb1BQX05HNnFPeTNCZFEtSGpQSFhtY0xQSk5zdUZicW8yeHV0RU9SWVhNYm9zMVd1UmM0Z2h4ZFpjSHpGVTNpX21sclBBRU8zdTBtRUI?oc=5",
+            "published": "2026-10-27T19:46:23.000Z",
+            "snippet": "The 2D Era Ends at CES 2027 - Visual Semiconductor and INCERGO Unveil GF3D™ Immersive Glasses-Free 3D Across Six Product Categories The Joplin Globe"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "앰보우 에듀케이션, AI 기반 'HybriU' 플랫폼 CES서 선보인다…3D 교실 체험 가능",
+          "summary": "앰보우 에듀케이션(Ambow Education)이 AI 기반 하이브리드 교육 플랫폼 'HybriU'를 내년 1월 CES에서 선보입니다. 관련 보도에 따르면 관람객은 실제로 작동하는 3D 교실에 들어가 체험해 볼 수 있습니다.",
+          "why": "AI와 몰입형 기술을 결합한 에듀테크가 CES 주요 분야로 자리 잡고 있어, 국내 에듀테크 기업에도 참고 사례가 됩니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Ambow Education to showcase AI-driven HybriU pl... - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkpLVy0yYTA0VXJZdjhWVFFHaUxiNjVwOWRvblBtZjdFVEpielpTeDV3b3JvYkpOSGxyV3Rud3drRzBMenFmR0J2cTBQNFU0Yk8wdGZsUTlGWEZKakp6Q2c4V3drbndhU0I1bmI4bTFhME5DWnVmVm1RQmZPTW9HZjFMZC02OWRRQUlicVNjMkhTbk1FMnh3TWR4SHZQV1Uz?oc=5",
+            "published": "2026-10-28T11:14:30.000Z",
+            "snippet": "Ambow Education to showcase AI-driven HybriU pl... Pluang"
+          }
+        }
+      ]
+    }
+  ]
+}
