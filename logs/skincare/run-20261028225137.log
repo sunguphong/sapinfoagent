@@ -1,0 +1,8 @@
+2026-10-28T22:51:38.000Z run 20261028225137 start (agent=skincare "피부미용 트렌드 브리핑", source=github, mode=send)
+2026-10-28T22:51:38.001Z collecting from 5 feeds...
+2026-10-28T22:51:38.612Z fetched 319, selected 40 (last 24h), feed errors: 0
+2026-10-28T22:51:38.612Z summarizing with claude (opus)...
+2026-10-28T22:52:21.333Z 동탄2신도시 통계: 미입력
+2026-10-28T22:52:21.337Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/skincare/2026-10-29_20261028225137.html
+2026-10-28T22:52:22.573Z mail sent: <0ce02d77-150b-e25c-5a43-21d0d1196880@gmail.com> -> zheng0107@daum.net
+2026-10-28T22:52:22.573Z done
