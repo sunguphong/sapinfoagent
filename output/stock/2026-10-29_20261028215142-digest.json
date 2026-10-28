@@ -1,0 +1,207 @@
+{
+  "overview": "■ 전날 미국 증시\n미 연준이 기준금리를 동결한 가운데 뉴욕증시는 다우지수 0.19%, 나스닥 0.27% 오르는 등 3대 지수가 모두 소폭 상승 마감했고, S&P500은 3거래일 연속 올랐습니다. 워시 연준 의장의 인플레이션 낙관론과 AI 훈풍이 지수를 받쳤지만, 대형 기술주 약세로 상승 폭은 제한됐습니다. 반도체가 장을 주도해 SK하이닉스 ADR이 13% 급등했고 마이크론 6%, AMD 3.24%, 오라클 11%가 올랐습니다. 반면 엔비디아는 구글 TPU와의 경쟁, 부채 리스크 우려로 밀렸고 애플도 약세였습니다. 국채시장은 금리 급등 속에 크게 출렁였고, 국제유가는 배럴당 115달러를 넘어섰습니다. 워시 의장이 12월 금리 인상 여부에 확답하지 않은 점이 핵심 변수로 남았습니다.\n\n■ 오늘 국내 증시 전망\n코스피는 상승 우세가 예상되지만, 오름폭은 제한적일 가능성이 있습니다. 전날 코스피는 6.63% 급등한 6,012선에 마감해 10거래일 만에 6,000선을 되찾았습니다. 밤사이 SK하이닉스 ADR(+13%)과 마이크론(+6%) 등 미국 반도체주가 강세를 보여 삼성전자·SK하이닉스 중심의 반도체 업종에는 우호적인 흐름이 이어질 수 있습니다. 다만 이틀 연속 급등한 데 따른 차익실현 매물이 나올 수 있고, 외국인이 고점 이후 반도체를 73조원어치 순매도하고 금융주를 사들인 흐름이 이어질지 확인이 필요합니다. 야간선물 수치는 기사로 확인되지 않아 개장 전 점검이 필요합니다. 유가 115달러 돌파와 미 국채금리 급등은 원·달러 환율 상승 압력과 인플레이션 우려로 이어질 수 있어, 항공·화학 등 유가 민감 업종과 코스닥 성장주에는 부담 요인입니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "[뉴욕마감] 연준 금리 동결에 나스닥 0.3%↑·사흘째 상승…SK하이닉스 ADR 13% 급등",
+          "summary": "연준의 기준금리 동결 속에 뉴욕증시 3대 지수가 모두 소폭 상승 마감했습니다. 다우지수는 0.19%, 나스닥은 0.27% 올랐고 S&P500은 3거래일 연속 상승했습니다. 반도체주 강세 속에 SK하이닉스 ADR이 13% 급등했고 오라클도 11% 올랐습니다.",
+          "why": "SK하이닉스 ADR이 급등해 오늘 국내 반도체 대형주의 투자심리에 긍정적인 신호로 작용할 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[뉴욕마감]연준 금리 동결에 나스닥 0.3%↑·사흘째 상승…SK하닉 ADR 13% 급등 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90YlJuSU5fLXlCZmNzUHluTlFNbllYNFFub2FSbGlqQ3VPZWxGbGlicXVmbU1FYXAtRkZOeXh5dk96Y2dmRWE4bERuVUdtWHJNaTlzVjRSZ0l2MDNhQnlOWnRyMVp2ajA?oc=5",
+            "published": "2026-10-28T20:40:13.000Z",
+            "snippet": "[뉴욕마감]연준 금리 동결에 나스닥 0.3%↑·사흘째 상승…SK하닉 ADR 13% 급등 뉴스1"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "나스닥 강보합… 대형 기술주 약세에 상승폭 제한",
+          "summary": "나스닥은 반도체 강세에도 엔비디아·애플 등 대형 기술주가 약세를 보여 강보합에 그쳤습니다. 업종별 차별화가 뚜렷한 장세였습니다.",
+          "why": "메모리 반도체는 강하고 빅테크는 약한 차별화 장세가 국내에서도 업종별 온도차로 나타날 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "나스닥 강보합… 대형 기술주 약세에 상승폭 제한 - IT조선",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RT2dWZmJPUXFHcmJQSGhGS2tNOHktelFjaWdUZDY2bnhKeHYzeFY5ZHh6elR2cmg3ZXVIcWotZ0FXMGxaaTcyWXhBVTRLaUdyeVRWNHJoWmtoQkRPd3dpUFhzQlNwQnV2S0laTkVuSjLSAXRBVV95cUxPS1dnckRtY3dXZ1BGYVpJdTQ3RHlKU1AyTHR6OHg1TEd6c2xmSXl4QzMtaVo2by1EQUtxRFhuM0dQZkpTUHlZTEt3VUI3VUJ5TWN5dWlzQnJTWHdTYTVmV1lNUzQwekw2bzltMGlaaG43Z1dNMw?oc=5",
+            "published": "2026-10-28T21:21:09.000Z",
+            "snippet": "나스닥 강보합… 대형 기술주 약세에 상승폭 제한 IT조선"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 9,
+          "title_ko": "[뉴욕증시] 워시의 인플레이션 낙관론…상승 마감",
+          "summary": "워시 연준 의장이 금리 동결 뒤 인플레이션에 대해 비교적 낙관적인 시각을 내놓으면서 증시가 상승으로 마감했습니다. 다만 인플레이션이 악화하는 가운데 동결을 결정했다는 비판적 평가도 함께 나왔습니다.",
+          "why": "연준의 긴축 우려가 일단 완화되면서 국내 증시의 위험자산 선호 심리를 지지할 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[뉴욕증시] 워시의 인플레 낙관론…상승 마감 - KB Think",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RX2U4MS00cGIxSEc4alVJVk4xeUNTX3IxdGVVRHlYUVE4NVFLYU1PT2pEbDJmRHVESzZGTHc3a25oQ0gtUmJTSG1hdDllZ1cxN1hsQ3FtcExWODFicWV2Mjg2VkFGSk1KTDVoSDRsQ3U1UQ?oc=5",
+            "published": "2026-10-28T20:59:01.000Z",
+            "snippet": "[뉴욕증시] 워시의 인플레 낙관론…상승 마감 KB Think"
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "워시 의장, 12월 금리 인상 확답 피해…채권시장은 긴축 흐름",
+          "summary": "워시 의장은 12월 금리 인상 여부에 대해 확답하지 않았습니다. 채권시장에서는 금리가 오르며 금융 여건이 빡빡해지고 있습니다. 앞서 워시 의장은 '느슨한 인플레이션 목표는 없다'며 물가 대응 의지도 분명히 했습니다.",
+          "why": "12월 금리 인상 가능성이 남아 있어 국내 성장주와 코스닥 고밸류 종목에는 잠재적인 변동성 요인입니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Warsh Won't Commit to December Hike as Bond Market Tightens - CoreWeave (NASDAQ:CRWV) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZm5TdGFxb3lmb1JWeHBjcGsyY1V6U1VuMWRJOGVkVkowWlVnc0w5TS16YWljV3Y5blZsRUFKSkRDN1VCZzFEN2xzWXpoV04zZFdJSm5mcFhxWW8wRFhXd0ZqSElIc2s1b1U2SHhjbm15YlhwUDBPc0daUDU2X0dzV0w1Vi1ORnU5Qnp4N1NkOHUtUTJwakZUZ1k3VEdWd2F5SC1UNGhiQ2pXREh5UDNBNkNqaDJycFE1TGRXYXN6UlNkZGR0SkE?oc=5",
+            "published": "2026-10-28T19:49:29.000Z",
+            "snippet": "Warsh Won't Commit to December Hike as Bond Market Tightens - CoreWeave (NASDAQ:CRWV) Benzinga"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "채권시장은 요동쳤지만 증시는 안정…연준 '금리 인상 없다'",
+          "summary": "연준이 금리를 올리지 않겠다고 밝힌 뒤 미 국채시장은 크게 출렁였지만 주식시장은 비교적 안정적인 흐름을 유지했습니다. 국채금리 급등 속에서 이뤄진 동결 결정이라는 점이 주목받았습니다.",
+          "why": "미 국채금리가 오르면 달러 강세와 원·달러 환율 상승 압력으로 이어져 외국인 수급에 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "The bond market swings, but stocks remain steady after the Fed says it won't raise interest rates - Los Angeles Times",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMS15TGh0RC00ZWcyMUhwdTJVVU5DcFNyWTlzcXpkVEhiWXJaT2Qwc2VXVERFM29kcGJtallidHBJU2ZYSnd1cVg2aUkxbk5WYkhpYlFhR2hnU2hBb2RmV2tUTFNjM09Hd1BhRmRWbkwtamNDMmgtRldTRnVzNVNfNl9XeDVJLXFrbjEwclVHNUp5V3dhb2x2RzdnaFFRdnJMSHhTczhfa2FyU1VIWHNTQUlGZElsYXA1X2NFY1drNmhWcDEtUFFoWVJYeVhpSlRyakdF?oc=5",
+            "published": "2026-10-28T20:25:00.000Z",
+            "snippet": "The bond market swings, but stocks remain steady after the Fed says it won't raise interest rates Los Angeles Times"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "연준 금리 동결, 국제유가 115달러 돌파 (WSJ 10월 28일 마감 시황)",
+          "summary": "연준이 금리를 동결한 같은 날 국제유가는 배럴당 115달러를 넘어섰습니다. 고유가가 인플레이션 압력을 키울 수 있다는 우려가 커지고 있습니다.",
+          "why": "유가 급등은 항공·화학 등 원가 부담이 큰 업종에 부정적이고, 정유 업종에는 상대적으로 우호적일 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Fed Leaves Rates Unchanged, Oil Tops $115 | Markets P.M. for Oct. 28 - WSJ",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEUwR3Zoa21heXNLWTVvVFdwTDU5ZENUT3U4cTRPcmlIemE3ejZ1UkZTNVN3T25naFBKUzRxcUlQeXhNcGhTRlFGRVhhbVMxS3h0bmpSZlZOWUFCNjdPTjFCT2lWSDhISzVlazJvWU1iVUZJUjFfel84THBHNXA3NldB?oc=5",
+            "published": "2026-10-28T20:24:00.000Z",
+            "snippet": "Fed Leaves Rates Unchanged, Oil Tops $115 | Markets P.M. for Oct. 28 WSJ"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 증시 전망",
+      "items": [
+        {
+          "index": 47,
+          "title_ko": "코스피, 6.63% 급등해 6,012선 마감…10거래일 만에 6,000선 회복",
+          "summary": "코스피는 전날 6.63% 급등한 6,012선에 마감해 10거래일 만에 6,000선을 되찾았습니다. 이틀 연속 급등을 반도체주가 이끌었습니다. 밤사이 미국 반도체 강세가 이어져 오늘은 상승 우세가 예상되지만, 단기 급등에 따른 차익실현으로 오름폭은 제한될 가능성이 있습니다.",
+          "why": "6,000선 안착 여부가 오늘 지수의 핵심 관전 포인트이며, 반도체 대형주의 흐름이 방향을 좌우할 전망입니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "코스피, 6.63% 급등해 6012선 마감…10거래일 만에 6000선 회복 - 인더스트리뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2QXFsWFNvOXg3aURqaElDT1NGcmYxcXUwZm8tUEl4NGJtWEFqTU1PT291eHJfYndxRnNxOVUyalBBNHg5MFZmbFBhYVdBaTVsZ1FMMU01MHIxeURFcDlTdnNJckgtMHB6LTlqV1QxS0xZQQ?oc=5",
+            "published": "2026-10-28T08:57:01.000Z",
+            "snippet": "코스피, 6.63% 급등해 6012선 마감…10거래일 만에 6000선 회복 인더스트리뉴스"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "고점 이후 반도체 73조원 판 외국인…금융주는 매수",
+          "summary": "외국인은 코스피 고점 이후 반도체주를 약 73조원어치 순매도한 반면 금융주는 사들였습니다. 반도체 비중을 줄이고 업종을 옮기는 흐름이 이어졌습니다.",
+          "why": "SK하이닉스 ADR 급등을 계기로 외국인이 반도체를 다시 사들일지가 오늘 수급의 핵심 변수입니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "고점 이후 반도체 73조 판 외국인…금융주는 매수 [널뛰는 증시 손익계산서③] - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwZjdzaWRvNTk3NElPRTBqcUJRekl6ZWhWS1U4OGxzcW1UOTFuQ2RKY0FIdXdIc0NiWEZscGJwS2toRFY0a1ZnR01icjBaTUFWZkNoUQ?oc=5",
+            "published": "2026-10-28T21:00:00.000Z",
+            "snippet": "고점 이후 반도체 73조 판 외국인…금융주는 매수 [널뛰는 증시 손익계산서③] 이투데이"
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "6,000선 되찾은 코스피…내년 증시는 '이익 지속성'이 관건",
+          "summary": "코스피가 6,000선을 회복했지만 내년 증시의 방향은 기업 이익이 계속 늘어날 수 있는지에 달려 있다는 분석이 나왔습니다. 반도체 실적 개선이 이어지는지가 핵심으로 꼽혔습니다.",
+          "why": "반도체 이익 전망이 지수를 떠받치는 구조여서 메모리 업황 지표에 시장이 민감하게 반응할 가능성이 높습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "6000선 되찾은 코스피···내년 증시 '이익 지속성'이 관건 - 현대경제신문",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uWUtPSUhuVF9BaVRyYnJpa0hYTU1ZOWRVZkF2WEhjX1Awc25BWkVibUNSVmdGbjZTdXQ1VEh1WkpucGxqZGxaZGlWandUay1UNTZBWVpVY0ljWjBTUUtxeUE0QUQzcGs0RERj0gFrQVVfeXFMTW5ZS09JSG5UX0FpVHJicmlrSFhNTVk5ZFVmQXZYSGNfUDBzbkFaRWJtQ1JWZ0ZuNlN1dDVUSHVaSm5wbGpkbFpkaVZqd1RrLVQ1NkFZWlVjSWNaMFNRS3F5QTRBRDNwazRERGM?oc=5",
+            "published": "2026-10-28T09:52:31.000Z",
+            "snippet": "6000선 되찾은 코스피···내년 증시 '이익 지속성'이 관건 현대경제신문"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "5,000에서 1만까지…내년 코스피 전망, 증권사별 '천차만별'",
+          "summary": "증권사들의 내년 코스피 전망치가 5,000에서 10,000까지 크게 엇갈리고 있습니다. 반도체 업황과 매크로 환경에 대한 시각차가 반영된 결과입니다.",
+          "why": "전망치 편차가 큰 만큼 지수 변동성이 커질 수 있어 업종별 대응이 중요해 보입니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "5000에서 1만까지…내년 코스피 전망, 증권사별 '천차만별' - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zOXRkTDliS3BZS1cxOHR6RVRsVFZUY3BDY1NaUW9YVnY2UzdpX0dlRFF1YzVkS0V4Yjg3aUxUdVZOWWFZOFBUTmI5clo3SzNqRFpMREpMWlMwTDRHUURv?oc=5",
+            "published": "2026-10-28T21:00:00.000Z",
+            "snippet": "5000에서 1만까지…내년 코스피 전망, 증권사별 '천차만별' 뉴스1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "美 반도체주 일제히 상승…SK하이닉스 ADR 13% 급등·마이크론 6%↑",
+          "summary": "미국 반도체주가 일제히 올랐습니다. SK하이닉스 ADR이 13%, 마이크론이 6%, AMD가 3.24% 상승했습니다. SK하이닉스가 AI 메모리 공급 부족을 시사한 것이 마이크론 강세로 이어졌다는 분석입니다.",
+          "why": "AI 메모리 수요 기대가 커지면서 SK하이닉스·삼성전자와 국내 반도체 장비·소재주에 긍정적으로 작용할 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "美 반도체주 일제히 상승…SK하닉 ADR 13% 급등·마이크론 6%↑ - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbk9iNFpGclozWXRVdVpIR0dodkZ2eEZQSTlxYUhkY2hJdlNtVzYtMG9CUmt3MUtyeVduX1U4N2tldzhXV0VjaDZTSnpVeVF1YUZnMzd3UjVXWGJ2SVRCMG9vRk5mZkk?oc=5",
+            "published": "2026-10-28T20:53:03.000Z",
+            "snippet": "美 반도체주 일제히 상승…SK하닉 ADR 13% 급등·마이크론 6%↑ 뉴스1"
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "SK하이닉스, 3년치 물량 사실상 완판…주주환원까지 겹호재에 주가 급등",
+          "summary": "SK하이닉스는 향후 3년치 물량이 사실상 모두 팔렸다고 밝혔고, 자사주 1,492만주 취득 등 주주환원 확대 계획도 내놨습니다. UBS는 주주환원 확대가 주가 상승의 촉매가 될 것으로 평가했습니다.",
+          "why": "수요 가시성과 주주환원 확대가 겹쳐 SK하이닉스와 국내 HBM 공급망 종목의 투자심리를 지지할 수 있습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "SK하이닉스, 3년 물량 사실상 완판… 주주환원 겹호재에 주가도 날았다 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qcEZaLThSZGNIb2xEV1RuVkhCUmRiYnJYX3FSOE41c0l0YVIwVWxQdFdoNFRSVkZxOTNiYjctTHZEY0Q2SF9sVUo5d0M4cklnSnEwV1l5WHNfeTJ4cG9oLUZJelpoZWFWQ25WV9IBckFVX3lxTE5fV2tGamdQUGpicndrWEZ0VlIwLWtRaUtrTHIzZzlTOWowR3dtU19CRVNJMWwwWnNzV1dROXlkd2hFemFDdWxoQXJoTTJTQi05OTVlTjV3T2k2U2JBQV9XOG8yZ29iZl9qTGpnTHZTNDd3Zw?oc=5",
+            "published": "2026-10-28T19:09:00.000Z",
+            "snippet": "SK하이닉스, 3년 물량 사실상 완판… 주주환원 겹호재에 주가도 날았다 - 머니투데이 머니투데이"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "엔비디아 주가 하락…구글 TPU 경쟁·부채 리스크가 성장 전망에 부담",
+          "summary": "엔비디아는 구글 TPU의 경쟁 위협과 부채 관련 리스크가 부각되면서 하락했습니다. 반도체 업종 안에서도 GPU와 메모리의 흐름이 엇갈렸습니다.",
+          "why": "엔비디아의 약세는 HBM 공급사인 SK하이닉스·삼성전자에 단기 변동성 요인이 될 수 있지만, 메모리 강세로 영향은 제한적일 가능성이 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "NVDA Stock Retreats as Google TPUs and Nvidia Debt Risk Challenge Growth Outlook - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcC1RdjllODd2MXhTcXBCU3NMOWxhYVBGekpqZEE2cWJyTkpjOEZGQXRBei1jb3JhX1VpSlppUkpUV21xR2hQOVVSN1ZrSjVZMGN6YnhVUDlKU3hocHIxQ2RFdnk2bFIwQmdLbDZiN2VVRmlZTFBoQzRqZHY4VDBZY3hGRmpCaUw3UG5ySG84MXZJZTFJMlBGbkVvUThuREVGZFFVY2NYU0ZLSmlzMW1jQnc0MU96QWpUVzhoUnBoSUU?oc=5",
+            "published": "2026-10-28T21:16:25.000Z",
+            "snippet": "NVDA Stock Retreats as Google TPUs and Nvidia Debt Risk Challenge Growth Outlook FXLeaders"
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "애플 주가 약세…M6 맥, 11월 6일 출시 예정",
+          "summary": "애플 주가는 실적 발표를 앞두고 약세를 보였습니다. 신형 M6 맥은 11월 6일 출시될 예정이며, 터치스크린 맥 개발자 영상도 공개됐습니다.",
+          "why": "애플 신제품 일정과 실적 결과는 LG이노텍 등 국내 애플 공급망 종목의 주가 흐름에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Apple Stocks Move Lower With M6 Macs Set for November 6 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObEFyemFQUVkzOXpqV25oZ044bm41RjhpVEh2d1lSbXNFSlpHdkxhTTJlVnY4clZIYTVMUmEycTcyVE5PMUtETDJpYWxnWU1vUGpPZ0hLV3FicW1vWGxZU1EzU2ItZWZmemdwV2dSTi11YkhDTWlBZ3FyVlFxVlFhelVhandQX1dsUnlJeWZEMkRPRnhGcmdrOGV0VTVtS1lfbUR5VGFZSk56TVpHaGZLR3FEZ0JHdw?oc=5",
+            "published": "2026-10-28T18:52:08.000Z",
+            "snippet": "Apple Stocks Move Lower With M6 Macs Set for November 6 TradingView"
+          }
+        }
+      ]
+    }
+  ]
+}
