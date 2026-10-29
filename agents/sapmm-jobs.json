@@ -1,7 +1,7 @@
 {
   "name": "SAP MM 구인정보",
   "order": 5,
-  "description": "사람인·잡코리아·원티드·LinkedIn의 SAP MM(구매·자재관리) 채용공고 + 회사 사원수·매출액·영업이익 (신규 공고 우선) + 동국제강·동국씨엠·동국시스템즈 소식",
+  "description": "사람인·잡코리아·원티드·LinkedIn·리멤버의 SAP MM(구매·자재관리) 채용공고 + 회사 사원수·매출액·영업이익 (신규 공고 우선) + 동국제강·동국씨엠·동국시스템즈 소식",
   "schedule": "07:00",
   "task": "SAP Info Agent - SAP MM Jobs",
   "subjectPrefix": "[SAP MM 구인]",
@@ -9,7 +9,7 @@
   "fromName": "SAP MM Jobs Agent",
   "mailTo": "upsan77@gmail.com",
   "lookbackHours": 336,
-  "maxArticles": 60,
+  "maxArticles": 120,
   "trackSeen": true,
   "companyInfo": true,
   "jobHistory": true,
@@ -32,14 +32,20 @@
     {
       "name": "원티드",
       "type": "wanted",
-      "query": "SAP MM",
+      "query": "SAP",
       "filter": "SAP"
     },
     {
       "name": "LinkedIn",
       "type": "linkedin",
-      "query": "SAP MM",
+      "query": "SAP",
       "location": "South Korea",
+      "filter": "SAP"
+    },
+    {
+      "name": "리멤버",
+      "type": "remember",
+      "query": "SAP MM",
       "filter": "SAP"
     },
     {

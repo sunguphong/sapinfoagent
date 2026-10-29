@@ -1,6 +1,6 @@
 // 채용 사이트 검색 결과 수집. 채용공고는 RSS 가 없어서 검색 결과 페이지(또는 공개 JSON)를 직접 읽는다.
 // agents/<id>.json 의 feed 에 type 을 주면 collect.js 가 여기로 보낸다:
-//   { "name": "사람인", "type": "saramin", "query": "SAP MM" }   type: saramin | jobkorea | wanted | linkedin
+//   { "name": "사람인", "type": "saramin", "query": "SAP MM" }   type: saramin | jobkorea | wanted | linkedin | remember
 //   채용공고는 아니지만 같은 방식으로 읽는 행사 목록도 있다: type: onoffmix (온오프믹스 세미나·컨퍼런스 검색, SAP 브리핑 에이전트)
 // 반환 형식은 RSS 기사와 같다 (source, title, link, published, snippet) + company. 등록일이 없는 사이트(원티드)는
 // published 를 수집 시각으로 두므로, 새 공고인지는 index.js 의 seen 기록(trackSeen)으로 가린다.
@@ -77,11 +77,17 @@ async function jobkorea(q) {
   }).filter((a) => a.title && a.link);
 }
 
-// 원티드: 공개 검색 API(JSON). 등록일이 없다.
-async function wanted(q) {
-  const d = await get(`https://www.wanted.co.kr/api/chaos/search/v1/position?query=${enc(q)}&limit=30&offset=0`, { json: true });
+// 원티드: 공개 검색 API(JSON). 등록일이 없다. 한 번에 30건까지만 주므로 feed.pages(기본 4) 쪽까지 넘겨 읽는다.
+// 검색어가 길면(예: "SAP MM") 관련 없는 공고가 섞여 SAP 공고가 오히려 적게 나오니, 원티드는 "SAP" 으로 찾고 filter 로 거른다.
+async function wanted(q, feed = {}) {
   const emp = { regular: "정규직", contract: "계약직", intern: "인턴", freelancer: "프리랜서" };
-  return (d.data || []).map((p) => ({
+  const out = [];
+  for (let page = 0; page < (feed.pages || 4); page++) {
+    const d = await get(`https://www.wanted.co.kr/api/chaos/search/v1/position?query=${enc(q)}&limit=30&offset=${page * 30}`, { json: true });
+    out.push(...(d.data || []));
+    if (!d.links?.next) break;
+  }
+  return out.map((p) => ({
     title: p.position,
     company: p.company?.name || "",
     link: `https://www.wanted.co.kr/wd/${p.id}`,
@@ -95,20 +101,58 @@ async function wanted(q) {
 }
 
 // LinkedIn: 비로그인 공개 검색(guest API). 최근 7일, 최신순. location 은 feed.location (기본 South Korea).
+// 한 번에 10건씩 주므로 feed.pages(기본 6) 쪽까지 넘겨 읽는다. 연달아 부르면 막힐 수 있어 사이에 잠깐 쉰다.
 async function linkedin(q, feed) {
   const loc = feed.location || "South Korea";
-  const html = await get(`https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${enc(q)}&location=${enc(loc)}&f_TPR=r604800&sortBy=DD`);
-  return html.split("<li>").slice(1).map((b) => {
-    const company = text(pick(b, /<h4 class="base-search-card__subtitle">([\s\S]*?)<\/h4>/));
-    const date = pick(b, /datetime="([\d-]+)"/);
+  const out = [];
+  for (let page = 0; page < (feed.pages || 6); page++) {
+    if (page) await new Promise((r) => setTimeout(r, 800));
+    const html = await get(`https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${enc(q)}&location=${enc(loc)}&f_TPR=r604800&sortBy=DD&start=${page * 10}`);
+    const cards = html.split("<li>").slice(1);
+    if (!cards.length) break;
+    out.push(...cards.map((b) => {
+      const company = text(pick(b, /<h4 class="base-search-card__subtitle">([\s\S]*?)<\/h4>/));
+      const date = pick(b, /datetime="([\d-]+)"/);
+      return {
+        title: text(pick(b, /<h3 class="base-search-card__title">([\s\S]*?)<\/h3>/)),
+        company,
+        link: decode(pick(b, /href="(https:\/\/[a-z]+\.linkedin\.com\/jobs\/view\/[^"?]+)/)),
+        published: date ? new Date(`${date}T09:00:00+09:00`).toISOString() : null,
+        snippet: `회사: ${company} / 지역: ${text(pick(b, /<span class="job-search-card__location">([\s\S]*?)<\/span>/))}`,
+      };
+    }));
+  }
+  const seen = new Set();
+  return out.filter((a) => a.title && a.link && !seen.has(a.link) && seen.add(a.link));
+}
+
+// 리멤버 커리어: 웹이 쓰는 공개 검색 API(JSON, 로그인 불필요). 시작일(starts_at) 최신순, 30건씩 feed.pages(기본 3) 쪽까지.
+async function remember(q, feed = {}) {
+  const out = [];
+  for (let page = 1; page <= (feed.pages || 3); page++) {
+    const r = await fetch("https://career-api.rememberapp.co.kr/job_postings/search", {
+      method: "POST",
+      headers: { "User-Agent": UA, "Content-Type": "application/json", Origin: "https://career.rememberapp.co.kr" },
+      body: JSON.stringify({ search: { keywords: [q] }, sort: "starts_at_desc", page, per: 30 }),
+      signal: AbortSignal.timeout(20000),
+    });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const d = await r.json();
+    out.push(...(d.data || []));
+    if (page >= (d.meta?.total_pages || 0)) break;
+  }
+  return out.map((p) => {
+    const company = p.organization?.name || "";
+    const exp = p.min_experience != null ? `경력: ${p.min_experience}~${p.max_experience ?? ""}년` : "";
+    const addr = (p.addresses || []).map((a) => [a.address_level1, a.address_level2].filter(Boolean).join(" ")).join(", ");
     return {
-      title: text(pick(b, /<h3 class="base-search-card__title">([\s\S]*?)<\/h3>/)),
+      title: p.title,
       company,
-      link: decode(pick(b, /href="(https:\/\/[a-z]+\.linkedin\.com\/jobs\/view\/[^"?]+)/)),
-      published: date ? new Date(`${date}T09:00:00+09:00`).toISOString() : null,
-      snippet: `회사: ${company} / 지역: ${text(pick(b, /<span class="job-search-card__location">([\s\S]*?)<\/span>/))}`,
+      link: `https://career.rememberapp.co.kr/job/posting/${p.id}`,
+      published: p.starts_at ? new Date(p.starts_at).toISOString() : new Date().toISOString(),
+      snippet: [`회사: ${company}`, exp, addr && `지역: ${addr}`, p.ends_at ? `마감: ${p.ends_at.slice(0, 10)}` : "상시", (p.job_description || "").replace(/\s+/g, " ").slice(0, 200)].filter(Boolean).join(" / "),
     };
-  }).filter((a) => a.title && a.link);
+  });
 }
 
 // 온오프믹스: 행사(세미나·컨퍼런스·웨비나) 검색 결과. 등록일이 없어 published 는 수집 시각으로 두고,
@@ -189,7 +233,7 @@ async function gmr(q) {
   }).filter((a) => a.title && a.published);
 }
 
-const SCRAPERS = { saramin, jobkorea, wanted, linkedin, onoffmix, hscity, ggboard, gmr };
+const SCRAPERS = { saramin, jobkorea, wanted, linkedin, remember, onoffmix, hscity, ggboard, gmr };
 
 export function isJobFeed(feed) {
   return !!SCRAPERS[feed.type];
