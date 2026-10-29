@@ -1,0 +1,300 @@
+{
+  "overview": "한국부동산원 10월 4주 조사에서 전국 아파트값은 0.07% 올랐지만, 서울은 상승폭이 2주 연속 줄었고 강남3구는 낙폭이 커졌습니다. 서울 아파트 매매 거래는 42% 급감했고 월세 비중은 69%로 역대 최고를 기록했으며, 매매-전세 가격차도 9억원을 넘어 임대차 시장의 월세화가 빨라지고 있습니다. 정부는 경기 그린벨트를 풀어 7만6700가구를 공급하기로 했지만 서울은 한 곳도 포함되지 않았고, 9월 전국 주택 인허가·착공이 40%대 감소해 공급 공백 우려가 커졌습니다. 동탄에서는 KB부동산 조사 기준 아파트값이 1% 가까이 올랐고, '아크메르 동탄'이 높은 분양가에도 1순위 최고 16.88대 1의 경쟁률을 기록했습니다.",
+  "categories": [
+    {
+      "name": "정책·규제",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "경기 그린벨트 풀어 7만6700가구 공급…서울은 '0'",
+          "summary": "정부가 경기도 내 개발제한구역(그린벨트)을 해제해 주택 7만6700가구를 공급하는 계획을 내놨습니다. 공급 대상지는 모두 경기 지역이고 서울은 한 곳도 포함되지 않았습니다. 구체적인 사업 일정과 입주 시기는 보도에서 확인되지 않았습니다.",
+          "why": "서울 수요를 흡수할 신규 공급지가 경기권에 몰리면서, 수도권 외곽 실수요자의 청약 기회와 서울 집값 안정 효과를 함께 따져볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "경기 그린벨트 풀어 7만6700채 공급… 서울은 ‘0’ - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QamNycE53dXB5cVAtYWZlV2NpNU1qVWdLRTNpTWRzbE55TzAxUnFqX3BpNHZfZVZMUktDcEswWHBxNGJMZkNaUW5yaWZnTHliZkxsYXJiTFNlQzJIbGMwQUNDalNPUdIBZkFVX3lxTE1QamNycE53dXB5cVAtYWZlV2NpNU1qVWdLRTNpTWRzbE55TzAxUnFqX3BpNHZfZVZMUktDcEswWHBxNGJMZkNaUW5yaWZnTHliZkxsYXJiTFNlQzJIbGMwQUNDalNPUQ?oc=5",
+            "published": "2026-10-29T19:30:00.000Z",
+            "snippet": "경기 그린벨트 풀어 7만6700채 공급… 서울은 ‘0’ 동아일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 21,
+          "title_ko": "한국부동산원 10월 4주 전국 아파트값 0.07%↑…수도권·서울 동반 상승",
+          "summary": "한국부동산원 주간 조사에서 10월 넷째 주 전국 아파트값이 0.07% 올랐습니다. 수도권과 서울도 함께 상승세를 이어갔습니다.",
+          "why": "전국 시세 흐름을 보여주는 기준 지표여서 매수 시점을 판단하는 기초 자료가 됩니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "한국부동산원, 10월 4주 전국 아파트값 0.07%↑…수도권·서울 동반 상승 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40TGM4NFZSZW1tUmRGdjZHTl9QRl9nNE12Zm42RE5MY1k5aXRNb2lXYmhBVHBnSl9OZ2EzM2VsWXUzYjkxenlUbTFYYjRjd25DQmd2dGhpUktaUEFxcS1PN3l1djF2em1PQUtzZG13?oc=5",
+            "published": "2026-10-29T12:25:45.000Z",
+            "snippet": "한국부동산원, 10월 4주 전국 아파트값 0.07%↑…수도권·서울 동반 상승 국제뉴스"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "서울 아파트값 상승세 2주째 둔화…강남3구 하락폭 확대",
+          "summary": "서울 아파트값 상승폭이 2주 연속 줄었습니다. 강남·서초·송파 등 강남3구는 하락폭이 더 커졌습니다.",
+          "why": "서울 상승 동력이 약해지고 고가 지역부터 조정이 시작되는 신호일 수 있어 추격 매수에 신중해야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트값 상승세 2주째 둔화…강남3구 하락폭 확대 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yRkNwRW9jcVNKTENfUXdLUllRR2hCNzZTdU44X0I0SERQQ3djYzdReEg1b3pYV3dJYzhrVXp3el9sQjFKdVJ0cWZnR2dheWd6OUtBTWRvUjd0eGd5R2dFZEwwOHhVdG8?oc=5",
+            "published": "2026-10-29T11:18:00.000Z",
+            "snippet": "서울 아파트값 상승세 2주째 둔화…강남3구 하락폭 확대 연합뉴스TV"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파…수요 이동 가속",
+          "summary": "강남권 집값이 주춤하는 동안 강북 아파트 평균 가격이 12억원을 넘었습니다. 상대적으로 가격이 낮은 지역으로 매수 수요가 옮겨가는 흐름이 뚜렷해지고 있습니다.",
+          "why": "서울 내 '갈아타기'와 키 맞추기 흐름을 보여줘, 강북권 실수요자의 진입 부담이 커지고 있음을 뜻합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속 - 워크투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNmhqb3dGb2RPZ2ZCbUlUSkFqVW1qWERjcXE0emo2S194aUFvcmxhcXo4cmdhbU8tWmNLbnFLTUM3YjhlVk85QmpncGthTHAzQ3FJYzVMVVBvVk5WUjV4d0xZSmRlSDMwS3QyVA?oc=5",
+            "published": "2026-10-29T11:09:41.000Z",
+            "snippet": "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속 워크투데이"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "서울 아파트 매매 42% 급감…월세 비중 69% 역대 최고",
+          "summary": "서울 아파트 매매 거래량이 42% 줄었습니다. 임대차 거래에서 월세 비중은 69%로 역대 최고치를 찍었습니다.",
+          "why": "거래 절벽과 월세화가 겹치며 무주택자의 주거비 부담이 커지고 있다는 뜻입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트 매매 42% 뚝…월세 비중 69% 역대 최고 - 노컷뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12VmVJc1M4SGlXaVc4SXUtZkhhUmQ2N2xkOGd4MWIxaUlmZXdPeXFmSEVTVmFic0hwalJIUUZETzdlOXQ5VkE3RXFzZzZZaFZXRWc?oc=5",
+            "published": "2026-10-29T21:00:00.000Z",
+            "snippet": "서울 아파트 매매 42% 뚝…월세 비중 69% 역대 최고 노컷뉴스"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "서울 아파트 매매-전세 가격차 9억원 넘어",
+          "summary": "서울 아파트의 평균 매매가와 전세가 차이가 9억원을 넘어섰습니다. 전세를 끼고 집을 사는 갭투자의 진입 장벽이 그만큼 높아졌습니다.",
+          "why": "전세에서 매매로 갈아타려는 실수요자에게 필요한 자기자금이 크게 늘었다는 의미입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트 매매-전세 가격차 9억원 넘었다 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xT1ExbVhWOVloUlM5emxVMVdGbXlZNWwtS3Vjd3hzN2MzOS15Y2pOWXJkOWtCa1I3bnB1SVgxQVRHWjZDTUhsS1JjeEpRRFhlRm5BNA?oc=5",
+            "published": "2026-10-29T21:00:00.000Z",
+            "snippet": "서울 아파트 매매-전세 가격차 9억원 넘었다 이투데이"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "전세 밀어냈더니 집을 샀다…'생존 매수'의 역설",
+          "summary": "전세 매물이 줄고 월세 전환이 빨라지자, 세입자들이 주거 안정을 위해 어쩔 수 없이 매수에 나서는 '생존 매수' 현상을 분석한 칼럼입니다. 전세 축소가 오히려 매매 수요를 자극하는 역설을 짚었습니다.",
+          "why": "전세 시장 위축이 매매가에 미치는 영향을 이해하는 데 도움이 되어 내 집 마련 시점을 판단하는 참고가 됩니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "전세 밀어냈더니 집을 샀다…'생존 매수'의 역설 [심형석의 부동산 정석] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQMXVBYk1LQVpDYmIxNXFiZmRpMlJqSXA5Nk84QWhiSk1TVHVydmxYY2t6eFpzRU9PQXJFV2tsZkZUMEdPVE83NlEyZkpoSHdJYlZNQnVSZEFSUQ?oc=5",
+            "published": "2026-10-29T21:30:01.000Z",
+            "snippet": "전세 밀어냈더니 집을 샀다…'생존 매수'의 역설 [심형석의 부동산 정석] 한국경제"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "\"아파트값 붕괴의 징후…'한국판 잃어버린 30년' 올 수도\"",
+          "summary": "국내 아파트 시장이 일본식 장기 침체에 빠질 수 있다는 전문가 경고가 나왔습니다. 거래 위축과 공급 감소 등을 붕괴 징후로 꼽았습니다.",
+          "why": "장기 하락 가능성을 다룬 비관론으로, 무리한 레버리지 투자의 위험을 점검하는 데 참고할 만합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"아파트값 붕괴의 징후…'한국판 잃어버린 30년' 올수도\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTVpCVGM5TVhpdnY5a1lUOEg5Qk9BV1NMX1VtcVpEazFfTUgzWDV2dmFDdnNtT213WUgtTUx0dU5hd1EydkRDZlJVZXNELWRhWkRfOXVVUmpIMDdyVW1WMtIBeEFVX3lxTE5LUFVLVkVtMlU4ZEhIZ2tteFhiR2UzMGZ4WWx1UUxRc0UtbTNVaUMwWWVhYXoxQUNvcjVvbFA2eF9kOENNUF81STJUbUtUUXlTS0NMV2hfUUpiVnFwUVpPd1JNZmR6SVZTR2ZxbnJ4Z2lCZVEtVmZoYQ?oc=5",
+            "published": "2026-10-29T18:00:00.000Z",
+            "snippet": "\"아파트값 붕괴의 징후…'한국판 잃어버린 30년' 올수도\" 뉴시스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "임대차·공급",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "지방 비아파트 임대차 거래 8건 중 7건이 월세",
+          "summary": "지방의 빌라·다세대 등 비아파트 임대차 거래에서 8건 중 7건이 월세로 나타났습니다. 전세사기 여파 등으로 비아파트 전세 기피가 이어지고 있습니다.",
+          "why": "지방 비아파트 세입자의 주거비 부담이 커지고, 임대 투자 수익 구조도 바뀌고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "지방 비아파트 임대차거래 8건중 7건이 월세 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iNmhtZHNIY3hnV0tjMlZ2bE1CSm0teU8yaFRxVWYwNHdoWVBKbEtFWFBXRldDMlNYR3hXVVRJRG8tZ3pjdWRZc2VVRWIyODdUUnVZNkxuaEJBNXEzbzQ1ag?oc=5",
+            "published": "2026-10-29T21:00:00.000Z",
+            "snippet": "지방 비아파트 임대차거래 8건중 7건이 월세 아시아경제"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "9월 전국 주택 인허가·착공 40%대 감소…서울 아파트 분양 14가구 그쳐",
+          "summary": "9월 전국 주택 인허가와 착공 실적이 각각 40%대 감소했습니다. 서울 아파트 분양은 14가구에 그쳐 사실상 공급이 멈췄습니다.",
+          "why": "향후 2~3년 뒤 입주 물량 부족으로 이어져 집값과 전셋값을 끌어올릴 수 있는 선행 지표입니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "9월 전국 주택 인허가·착공 40%대 감소… 서울 아파트 분양 14가구 그쳐 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYWRLSkstOWtVLWZsSkJNVnp5bXJVejNlcVFiMGVfQllieFVtY2VxWDQ1RlNydi1QRjJlOThPeXEtOTJ0dWdxLWY3WlZPYmlrVTVRUUs0UDBQX20xYm5FQldLM2p5RGRNTkpqSmtjSHRKYUtEQzh6a3lTSUtnVEdGS0Q3UlBMMFZmY3RvbU9kQ3l5SWY3aHNQRNIBrAFBVV95cUxQTDMxNDBTUzlXUTh5MG9SV25pZ2ZQY3owRWJfSUNFWjVpNTctcTNwcU9nb0dMNXlaNTBKMHF1ZkNUZUlrdzB1bEhjWVZzYVphVDlPc0FnMXU3X094UlkzNjZZNGVqeVFPZ3dLRkxGWlZzZ2dodUxsQkh4NzlRTEV5NWFhcTQwYUxKMnVGTVJTY2RPdTNFbGMwb21KbWx3bjhfNC12SG1ON1pkSnIy?oc=5",
+            "published": "2026-10-29T21:00:00.000Z",
+            "snippet": "9월 전국 주택 인허가·착공 40%대 감소… 서울 아파트 분양 14가구 그쳐 Chosunbiz"
+          }
+        }
+      ]
+    },
+    {
+      "name": "금융·대출",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "모건스탠리 \"연준 최종금리 4.25~4.5%…12월 인상 유력\"",
+          "summary": "모건스탠리가 미국 연준의 최종 기준금리를 4.25~4.5%로 전망하며 12월 금리 인상 가능성이 높다고 밝혔습니다.",
+          "why": "미국 금리 인상은 국내 시장금리와 주택담보대출 금리에 상승 압력이 될 수 있어 대출 계획에 영향을 줍니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "모건스탠리 \"연준 최종금리 4.25~4.5%…12월 인상 유력\" - 한스경제",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rMGUzRFNJZ0ZDUXRIMVQ2VGVOYWRfOWlsZEc3TlFla3didUh5TUNoU2t3RE1WeHFmRWhsa2xTeHJfd1Z3cURvSzVsNjVYRWxFTVRjbllGZkNHZFcxdFhxVUZaaktidjVJVWJV?oc=5",
+            "published": "2026-10-29T13:07:51.000Z",
+            "snippet": "모건스탠리 \"연준 최종금리 4.25~4.5%…12월 인상 유력\" 한스경제"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "미분양 아파트를 전세로…부산 첫 'CR리츠' 등장",
+          "summary": "미분양 아파트를 사들여 전세로 공급하는 기업구조조정리츠(CR리츠)가 부산에서 처음 나왔습니다. 지방 미분양 해소와 임대 공급 확대를 노린 방식입니다.",
+          "why": "지방 미분양 물량이 전세 매물로 풀리면 해당 지역 세입자의 선택지가 넓어질 수 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "미분양 아파트를 전세로...부산 첫 'CR리츠' 등장 - 부산경남대표방송 KNN 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80c0dyRUlLVXZnVy12WGU3eGdVUEhuU3hXNjZ0LU4zbGZ2a2JjczUtMnZhT25pc0hVa01Td3Bia3JjSVNYRXR6M25MOHZQeGxtMTF6eg?oc=5",
+            "published": "2026-10-29T12:40:00.000Z",
+            "snippet": "미분양 아파트를 전세로...부산 첫 'CR리츠' 등장 부산경남대표방송 KNN 뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "지역 동향",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "제주 부동산 침체 장기화…아파트 매매·전세 동반 하락, 서귀포 낙폭 확대",
+          "summary": "제주 아파트 매매가와 전셋값이 함께 떨어지며 침체가 길어지고 있습니다. 특히 서귀포의 하락폭이 커졌습니다.",
+          "why": "지방 시장의 양극화를 보여주는 사례로, 지방 투자 시 지역별 수급을 꼼꼼히 따져야 함을 시사합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "제주 부동산시장 침체 장기화…아파트 매매·전세 동반 하락, 서귀포 낙폭 확대 - 제주뉴스",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55OExzMHVVX19ILWpyRy1FZEJxd1M5aXRnTVVLQm8xMUJfWjh1SERyVDY5STFSY2haSU5QSGh1TFpBbTBORHJwWUdmMUpGMUMteVlETFRNSUh0N2xUNXVEN1V5WlhQenMxX2s00gFuQVVfeXFMTWF5SS1STThrWW5lMGs4TXJjb1VmRWZMeThLeHZSQXhlQ1RESThNSHhlQUo2RUZyLXVzejExZHJCQ0o2el9LUkdmZ2oxLTl1b1NhNGlTN3R1NGpIejNBNjUwTGpwYUVCSDFDV3NmS2c?oc=5",
+            "published": "2026-10-29T14:06:45.000Z",
+            "snippet": "제주 부동산시장 침체 장기화…아파트 매매·전세 동반 하락, 서귀포 낙폭 확대 제주뉴스"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "울산 오피스 공실률 전국 평균의 2배…집합상가 21.5% '빈 점포'",
+          "summary": "울산의 오피스 공실률이 전국 평균의 두 배 수준으로 나타났습니다. 집합상가도 21.5%가 비어 있습니다.",
+          "why": "지방 상업용 부동산의 수익성 악화를 보여줘, 상가 투자에 신중해야 함을 알려줍니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "울산 오피스 공실률 전국 2배…집합상가 21.5% ‘빈 점포’ - 울산매일 - 울산최초, 최고의 조간신문",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UcDZLTF9nNGlIVjZSSlIzXzZhWXBvMFNKNzgyTmhka1F4M09ZR0ZrVUJBckdvRmtBdEZtOUxhRkdVUW9KcHAzQ2puWDVYVWxDUExqSmdfYi1Sc2l0WjhFQ09Ed2tTQXdMTU1fSEpn0gFuQVVfeXFMTlRwNktMX2c0aUhWNlJKUjNfNmFZcG8wU0o3ODJOaGRrUXgzT1lHRmtVQkFyR29Ga0F0Rm05TGFGR1VRb0pwcDNDam5YNVhVbENQTGpKZ19iLVJzaXRaOEVDT0R3a1NBd0xNTV9ISmc?oc=5",
+            "published": "2026-10-29T10:38:08.000Z",
+            "snippet": "울산 오피스 공실률 전국 2배…집합상가 21.5% ‘빈 점포’ 울산매일 - 울산최초, 최고의 조간신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "KB부동산 \"서울에선 강남구만 아파트값 조정…동탄은 1% 가까이 올라\"",
+          "summary": "KB부동산 조사에서 서울 자치구 가운데 강남구만 아파트값이 조정을 받은 반면, 동탄은 1% 가까이 올랐습니다. 경기 남부 핵심 지역으로 수요가 이어지는 모습입니다.",
+          "why": "동탄 집값 상승세가 뚜렷해 실거주 매수 시점과 가격 부담을 함께 점검할 필요가 있습니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "KB부동산 \"서울 내 강남구만 아파트값 조정…동탄 1% 가까이 올라\" - KB Think",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYdWJmOEJwWE5vWnU3a3ZFZEdKYlVEX0ZoTk16WnJ3WHFYRHM5RUtwMEdZRFgzN2U4Sk9qV25tU1FlLXBNOFk0T0pMdWJrZ19BQUY1d3dDVzZ4Unc3NTg1Z3JoWVg5X0pwMFA0cWtLQjVoZw?oc=5",
+            "published": "2026-10-29T06:24:24.000Z",
+            "snippet": "KB부동산 \"서울 내 강남구만 아파트값 조정…동탄 1% 가까이 올라\" KB Think"
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "포스코이앤씨 시공 '아크메르 동탄', 1순위 청약 최고 16.88대 1",
+          "summary": "포스코이앤씨가 시공한 '아크메르 동탄'이 1순위 청약에서 최고 16.88대 1의 경쟁률을 기록했습니다. 분양가가 높다는 평가에도 비교적 선방한 결과입니다.",
+          "why": "높은 분양가에도 수요가 몰려 동탄 신규 분양에 대한 실수요 열기를 확인할 수 있는 지표입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "포스코이앤씨 시공 '아크메르 동탄', 1순위 청약 최고 16.88대 1 - 데일리한국",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84dWdOeFl3LW1LR2U0NHVOaDItMlBmNE5GYks5a0tIelA1TmlYcDdudmoxd2ZUS0Y2X1I4ZEtQcUJMZldjYzVzNkFoQ3cxOXRRUEQ3d09sZWxiYTYyeWNsQUJkYjFmOUZGQ21HRWQ4Z9IBc0FVX3lxTFBMclZnNnNfLVBNd1ZHRkkzX2VQQUYyUXByemk3SkJFSjl6MURzYVExTnZ3Q0p6TkhZam9BN3d5dm0wZmJWb05sWHhnU0VSWGFMcE5lSTFBYzdLNDdzblJVdGtMSkhfcGotUHA5eTRNVWN2dWs?oc=5",
+            "published": "2026-10-29T00:45:20.000Z",
+            "snippet": "포스코이앤씨 시공 '아크메르 동탄', 1순위 청약 최고 16.88대 1 데일리한국"
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "화성시 동탄 지역 행복주택 총 8개 단지 정리",
+          "summary": "동탄 지역에 있는 행복주택 8개 단지의 정보를 모아 정리한 자료입니다.",
+          "why": "청년·신혼부부 등 공공임대로 동탄 거주를 고려하는 사람에게 유용한 정보입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "화성시 동탄지역 행복주택 (총 8개 단지) - 홈두부",
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBlOWVIWWpiaGRRSnZlajNKRDA3WVZieUUtYmswUmRPWVNtMzJ6S0FTQVlVd0JrbC12VkJmM2VVRjQ?oc=5",
+            "published": "2026-10-29T01:13:53.000Z",
+            "snippet": "화성시 동탄지역 행복주택 (총 8개 단지) 홈두부"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "이준석 의원실, 동탄4·6·7·8·9동 주민 1004명 대상 예산 우선순위 조사",
+          "summary": "이준석 의원실이 동탄4·6·7·8·9동 주민 1004명을 대상으로 지역 예산의 우선순위를 묻는 조사를 진행했습니다. 조사 결과는 지역 현안 예산 확보 방향에 반영될 것으로 보입니다.",
+          "why": "교통·생활 인프라 등 동탄 주민이 원하는 사업의 예산 반영 가능성을 가늠해 볼 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "이준석 의원실, 동탄4·6·7·8·9동 주민 1,004명 대상 예산 우선순위 조사 - 화성신문",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5sVF8zRzlDV1NmTnVxREdicFJtR1NxOXlfZnQ3TS1MWC1JSFVBVGJLd3pqRU1sMnF4Q01UdHljak5ZWjQ?oc=5",
+            "published": "2026-10-29T08:21:00.000Z",
+            "snippet": "이준석 의원실, 동탄4·6·7·8·9동 주민 1,004명 대상 예산 우선순위 조사 화성신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "GTX-C '은마 피하기' 불똥…대치우성·쌍용 주민들 \"공사 중지 가처분 검토\"",
+          "summary": "GTX-C 노선이 은마아파트 지하를 피해 가도록 조정되자, 새로 영향권에 든 대치우성·쌍용아파트 주민들이 반발하며 공사 중지 가처분 신청을 검토하고 있습니다.",
+          "why": "노선 갈등이 법적 분쟁으로 번지면 GTX-C 개통이 지연될 수 있어 동탄 등 수혜 지역 주민에게 중요한 변수입니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "GTX-C ‘은마 피하기’ 불똥…대치우성·쌍용 주민들 “공사 중지 가처분 검토” - 더퍼블릭",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UVGlCQVl5enhxczNZeXBreWlFX2NJNkxCcmUxNW5uanJTdDJHSTJubjd5SExRRGVweWZOTUJvMGtrcjhYRmhmcHBGTVJfVkdJLVljOVFGbmR4QU1sRDFiZVlkMk03YkE5WFMtNTV0d9IBb0FVX3lxTE5UVGlCQVl5enhxczNZeXBreWlFX2NJNkxCcmUxNW5uanJTdDJHSTJubjd5SExRRGVweWZOTUJvMGtrcjhYRmhmcHBGTVJfVkdJLVljOVFGbmR4QU1sRDFiZVlkMk03YkE5WFMtNTV0dw?oc=5",
+            "published": "2026-10-29T05:59:26.000Z",
+            "snippet": "GTX-C ‘은마 피하기’ 불똥…대치우성·쌍용 주민들 “공사 중지 가처분 검토” 더퍼블릭"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "안산시, 경기도의원 정책간담회 개최…안산선 지하화·GTX-C 등 논의",
+          "summary": "안산시가 경기도의회 의원들과 정책간담회를 열어 GTX-C 노선 연장과 안산선 지하화 등 지역 숙원사업 해결을 위한 협력을 논의했습니다.",
+          "why": "GTX-C 노선 연장 논의가 이어지고 있어 경기 서남부의 교통 개선 기대와 향후 집값 흐름에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "안산시, 경기도의원 정책간담회 개최…안산선 지하화·GTX-C 등 - 경인미래신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsTThjZnRQUjdWM19VQlk0U0JPbER3LU5NZG1yYWRTRTd1X3RQczhzTGxjbFJpM1BOSEhVTzZvVWM1eUo0N3dTd1c0cU01ak1KNzU1RE5yOUtRNHVLZW5ya1hB?oc=5",
+            "published": "2026-10-29T04:33:40.000Z",
+            "snippet": "안산시, 경기도의원 정책간담회 개최…안산선 지하화·GTX-C 등 경인미래신문"
+          }
+        }
+      ]
+    }
+  ]
+}
