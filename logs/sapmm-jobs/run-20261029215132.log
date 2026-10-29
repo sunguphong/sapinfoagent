@@ -1,0 +1,40 @@
+2026-10-29T21:51:32.694Z run 20261029215132 start (agent=sapmm-jobs "SAP MM 구인정보", source=github, mode=send)
+2026-10-29T21:51:32.695Z collecting from 8 feeds...
+2026-10-29T21:51:43.202Z fetched 147, selected 92 (last 336h), feed errors: 2
+2026-10-29T21:51:43.203Z feed error: 잡코리아: fetch failed
+2026-10-29T21:51:43.203Z feed error: 원티드: HTTP 403
+2026-10-29T21:56:37.033Z company info: 0 / 28 companies
+2026-10-29T21:56:37.033Z company info error: (주)아데코코리아: fetch failed
+2026-10-29T21:56:37.033Z company info error: 파워에이치알: fetch failed
+2026-10-29T21:56:37.033Z company info error: LTM: fetch failed
+2026-10-29T21:56:37.034Z company info error: 제이엠씨컨설팅 주식회사: fetch failed
+2026-10-29T21:56:37.034Z company info error: 헌터스그룹(주): fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)프로써치코리아: fetch failed
+2026-10-29T21:56:37.034Z company info error: 로이컨설팅(주): fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)핀커스코리아: fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)하이브: fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)한국네트웍스: fetch failed
+2026-10-29T21:56:37.034Z company info error: LS ITC(주): fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)보령: fetch failed
+2026-10-29T21:56:37.034Z company info error: CJ OliveNetworks: fetch failed
+2026-10-29T21:56:37.034Z company info error: 주) 석세스코리아컨설팅: fetch failed
+2026-10-29T21:56:37.034Z company info error: IBM: fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)에이스파트너스서치펌: fetch failed
+2026-10-29T21:56:37.034Z company info error: 한화시스템(주)_ICT : fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)비즈테크아이: fetch failed
+2026-10-29T21:56:37.034Z company info error: ㈜지에스아이티엠: fetch failed
+2026-10-29T21:56:37.034Z company info error: HR Tube: fetch failed
+2026-10-29T21:56:37.034Z company info error: ㈜락앤락: fetch failed
+2026-10-29T21:56:37.034Z company info error: 동화기업(주): fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)대원씨앤씨: fetch failed
+2026-10-29T21:56:37.034Z company info error: 에이치알포유(주): fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)제이투이: fetch failed
+2026-10-29T21:56:37.034Z company info error: (주)디케이테크인: fetch failed
+2026-10-29T21:56:37.034Z company info error: 롯데이노베이트(주): fetch failed
+2026-10-29T21:56:37.034Z company info error: 커리어셀파: fetch failed
+2026-10-29T21:56:37.037Z job history: 138 postings, 20 cards with repeat company
+2026-10-29T21:56:37.038Z new: 58 / 92
+2026-10-29T21:56:37.038Z summarizing with claude (opus)...
+2026-10-29T21:57:35.657Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sapmm-jobs/2026-10-30_20261029215132.html
+2026-10-29T21:57:37.167Z mail sent: <17418bae-a6c1-b9b2-01aa-d934080e9534@gmail.com> -> upsan77@gmail.com
+2026-10-29T21:57:37.170Z done

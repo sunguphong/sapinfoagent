@@ -1,0 +1,280 @@
+{
+  "overview": "오늘 새로 확인된 SAP MM 관련 공고는 4건입니다. 주요 SI 대기업의 FI·CO·SD·MM 구축 컨설턴트(9~16년)와 프로써치코리아가 대행하는 글로벌 컨설팅펌 SAP 전 모듈 컨설턴트 2건 등 구축·컨설팅 포지션이 중심이고, 운영(SM)은 한국네트웍스의 한국앤컴퍼니 그룹사 SD 또는 MM 운영 1건입니다. 요구 경력은 3~16년으로 폭이 넓지만 대부분 5년 이상 중·고급 인력을 찾습니다. 그 밖의 신규 공고는 SD·CO·FI·CX·BRIM·BW 등 MM 외 모듈이 대부분이어서 MM 전문 인력 수요는 기존 공고(락앤락 S/4HANA MM/SRM, 제이투이 MM 운영 등)가 이어받는 모습입니다. 동국 계열사에서는 인터지스가 14년 만의 신조선 'DK INOX'호를 진수했고, 동국제강은 철근 가격을 82만 원으로 조정하고 2027년까지 자사주 전량 소각을 추진합니다. 동국씨엠은 미국 도금강판 관세 70%대 위협에 법적 대응을 검토하고 있습니다.",
+  "categories": [
+    {
+      "name": "구축·컨설팅 프로젝트",
+      "items": [
+        {
+          "index": 26,
+          "title_ko": "주요 SI 대기업(파워에이치알) · SAP 모듈 구축 컨설턴트(FI·CO·SD·MM)",
+          "summary": "헤드헌팅사 파워에이치알이 주요 SI 대기업의 SAP FI·CO·SD·MM 모듈 구축 컨설턴트를 찾는 공고입니다. 근무지는 서울 강서구, 경력 9~16년, 대졸 이상, 정규직이며 마감은 11월 13일(금)입니다.",
+          "why": "MM이 포함된 대기업 SI 구축 정규직 포지션이며, 경력 9~16년의 시니어급을 요구하고 마감은 11/13입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[주요SI대기업] SAP 모듈 구축 컨설턴트(FI, CO, SD, MM)",
+            "company": "파워에이치알",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55425695",
+            "published": "2026-10-29T00:00:00.000Z",
+            "snippet": "회사: 파워에이치알 / 조건: 서울 강서구 경력 9~16년 대졸↑ 정규직 / 마감: ~ 11/13(금) / 분야: ABAP , SAP , IT컨설팅 , PM(프로젝트매니저) , IT컨설팅 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%ED%8C%8C%EC%9B%8C%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%8C"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 68,
+          "title_ko": "세계적 글로벌 컨설팅펌(프로써치코리아) · PI 및 SAP ERP 컨설턴트",
+          "summary": "프로써치코리아가 대행하는 글로벌 컨설팅펌의 SAP 전 모듈 컨설턴트 공고입니다. 업무는 SAP ERP 기반 프로세스 혁신(PI) 컨설팅과 SAP ERP 구축 컨설팅입니다. 근무지는 서울 용산구, 경력 5~12년, 마감은 2026-10-30입니다.",
+          "why": "마감이 오늘(10/30)이라 즉시 지원해야 하며, MM을 포함한 전 모듈 대상이고 경력 5~12년을 요구합니다(고용형태는 공고에 없음).",
+          "article": {
+            "source": "리멤버",
+            "title": "[세계적 글로벌 컨설팅펌] PI 및 SAP ERP 컨설턴트(5년이상)",
+            "company": "(주)프로써치코리아",
+            "link": "https://career.rememberapp.co.kr/job/posting/275025",
+            "published": "2026-10-23T03:30:00.000Z",
+            "snippet": "회사: (주)프로써치코리아 / 경력: 5~12년 / 지역: 서울특별시 용산구 / 마감: 2026-10-30 / [모집 분야] - SAP 전 모듈 [담당업무] - SAP ERP 기반 프로세스 혁신(PI) 컨설팅 - SAP ERP 구축 컨설팅",
+            "jobHistory": {
+              "count": 3,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%84%EB%A1%9C%EC%8D%A8%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "세계적 회계·경영컨설팅 법인(프로써치코리아) · SAP ERP 컨설턴트",
+          "summary": "프로써치코리아가 대행하는 회계·경영컨설팅 법인의 SAP ERP 전 모듈 컨설턴트 공고입니다. 업무는 ERP 기반 프로세스 혁신 컨설팅과 ERP 구축 컨설팅입니다. 근무지는 서울 용산구, 경력 3~10년(제목은 5년 이상), 마감은 2026-10-31입니다.",
+          "why": "마감이 내일(10/31)로 임박했고, MM을 포함한 전 모듈 대상의 구축 컨설팅 포지션입니다(고용형태는 공고에 없음).",
+          "article": {
+            "source": "리멤버",
+            "title": "[세계적 회계·경영컨설팅] 컨설팅 SAP ERP 컨설턴트 (5년이상)",
+            "company": "(주)프로써치코리아",
+            "link": "https://career.rememberapp.co.kr/job/posting/252151",
+            "published": "2026-10-26T03:30:00.000Z",
+            "snippet": "회사: (주)프로써치코리아 / 경력: 3~10년 / 지역: 서울특별시 용산구 / 마감: 2026-10-31 / [모집 분야] - SAP ERP 전 모듈 [담당업무] - ERP 기반 프로세스 혁신 컨설팅 - ERP 구축 컨설팅",
+            "jobHistory": {
+              "count": 3,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%84%EB%A1%9C%EC%8D%A8%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 53,
+          "title_ko": "한국네트웍스 · 그룹사 SAP 시스템 운영(SD 또는 MM 모듈)",
+          "summary": "한국앤컴퍼니 그룹사의 SAP 시스템 운영·유지보수(SD 또는 MM 모듈)와 그룹사 SAP 구축 프로젝트 수행을 맡을 인력을 뽑습니다. 근무지는 경기 성남시 분당구, 경력 7~15년이며 상시 채용입니다.",
+          "why": "그룹사 인하우스 운영에 구축 프로젝트 경험까지 쌓을 수 있는 포지션으로, 경력 7~15년을 요구하며 상시 모집입니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "그룹사 SAP 시스템 운영(SD 또는 MM 모듈)",
+            "company": "(주)한국네트웍스",
+            "link": "https://career.rememberapp.co.kr/job/posting/349966",
+            "published": "2026-10-25T15:00:00.000Z",
+            "snippet": "회사: (주)한국네트웍스 / 경력: 7~15년 / 지역: 경기도 성남시 분당구 / 상시 / • 그룹사(한국앤컴퍼니) SAP 시스템 운영 및 유지보수 (SD 또는 MM모듈) • 그룹사(한국앤컴퍼니) SAP 시스템 구축 프로젝트 수행",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%95%9C%EA%B5%AD%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 62,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영 담당자(FI·CO·SD·PP·MM)",
+          "summary": "FI·CO·SD·PP·MM 모듈 SAP SM 운영 담당자 공고입니다. 근무지는 서울 마포구, 경력 5년 이상, 대졸 이상, 정규직입니다.",
+          "why": "사이트 표기상 오늘 마감이라 지원하려면 즉시 해야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55383805",
+            "published": "2026-10-24T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: 오늘마감 / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "SAP 분야 글로벌 컨설팅펌(로이컨설팅) · SAP 모듈 컨설턴트(전 모듈)",
+          "summary": "서치펌 로이컨설팅이 대행하는 SAP 분야 글로벌 컨설팅펌의 전 모듈 컨설턴트 공고입니다. 근무지는 서울 강남구, 경력 4년 이상, 대졸 이상, 정규직이며 마감은 11월 1일(일)입니다.",
+          "why": "MM을 포함한 전 모듈 대상 정규직 컨설턴트 포지션으로, 마감(11/01)이 이틀 남았습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[SAP분야 리딩 글로벌 컨설팅펌] SAP 모듈 컨설턴트 [전모듈]",
+            "company": "로이컨설팅(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55396673",
+            "published": "2026-10-26T00:00:00.000Z",
+            "snippet": "회사: 로이컨설팅(주) / 조건: 서울 강남구 경력4년↑ 대졸↑ 정규직 / 마감: ~ 11/01(일) / 분야: SAP , 서치펌",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%A1%9C%EC%9D%B4%EC%BB%A8%EC%84%A4%ED%8C%85(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 83,
+          "title_ko": "락앤락 · SAP S/4HANA ERP 운영 담당자(MM/SRM)",
+          "summary": "락앤락이 S/4HANA 환경의 MM/SRM 모듈 ERP 운영 담당자를 직접 채용합니다. 근무지는 서울 중구, 경력 1년 이상, 대졸 이상, 정규직이며 마감은 11월 3일(화)입니다.",
+          "why": "MM 전담 S/4HANA 인하우스 정규직으로 경력 요건(1년 이상)이 낮고, 마감은 11/03입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[락앤락] SAP S/4HANA ERP운영 담당자 - MM/SRM 채용",
+            "company": "㈜락앤락",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55343221",
+            "published": "2026-10-20T00:00:00.000Z",
+            "snippet": "회사: ㈜락앤락 / 조건: 서울 중구 경력1년↑ 대졸↑ 정규직 / 마감: ~ 11/03(화) / 분야: SAP , S/W , 솔루션 , ERP , 인프라 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EB%9D%BD%EC%95%A4%EB%9D%BD"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 87,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "동대문역사문화공원역 인근 프로젝트의 SAP MM 모듈 SM 운영 인력을 찾는 공고입니다. 근무지는 서울 중구, 경력 6년 이상, 초대졸 이상, 프리랜서이며 마감은 11월 19일(목)입니다.",
+          "why": "MM 단독 운영 프리랜서 포지션으로, 경력 6년 이상을 요구하고 마감은 11/19입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM 모듈 운영 (2)",
+            "company": "(주)제이투이",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55337105",
+            "published": "2026-10-20T00:00:00.000Z",
+            "snippet": "회사: (주)제이투이 / 조건: 서울 중구 경력6년↑ 초대졸↑ 프리랜서 / 마감: ~ 11/19(목) / 분야: SAP , 웹개발 , SI·시스템통합",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 85,
+          "title_ko": "대원씨앤씨 · 반도체사 ERP 시스템 운영(SAP FI/CO/MM/PP/PO-ABAP)",
+          "summary": "분당 소재 반도체 회사의 SAP FI·CO·MM·PP 및 PO-ABAP ERP 시스템 운영 인력 공고입니다. 근무지는 경기 성남시 분당구, 경력 5~20년, 학력 무관, 계약직·프리랜서이며 마감은 11월 19일(목)입니다.",
+          "why": "반도체 업종 MM 운영 경험을 쌓을 수 있는 계약직·프리랜서 포지션이며, 마감은 11/19입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[분당] 반도체사 ERP 시스템 운영 (SAP FI/CO/MM/PP/PO-ABAP)",
+            "company": "(주)대원씨앤씨",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55338117",
+            "published": "2026-10-20T00:00:00.000Z",
+            "snippet": "회사: (주)대원씨앤씨 / 조건: 경기 성남시 분당구 경력 5~20년 학력무관 계약직·프리랜서 / 마감: ~ 11/19(목) / 분야: ABAP , SAP , ERP , SI·시스템통합 , ERP 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EB%8C%80%EC%9B%90%EC%94%A8%EC%95%A4%EC%94%A8"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "[동국제강그룹] 인터지스, 14년 만의 신조선 'DK INOX'호 진수…선대 8척 체제로",
+          "summary": "동국제강그룹 물류 계열사 인터지스가 4,600톤급 소형 벌크선 'DK INOX(디케이 이녹스)'호를 진수했습니다. 14년 만의 신조선 확보로 선대가 8척으로 늘었고, 연간 운송량은 340만 톤 규모입니다. 회사는 2030년까지 소형 벌크선 3척을 추가 확보해 아시아 근해 운송을 확대할 계획입니다.",
+          "why": "그룹이 철강 원료·제품 물류의 내재화와 해운사업 확장에 투자하고 있음을 보여 줍니다. 다만 추가 3척은 아직 검토 단계라는 지적도 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강그룹, 14년 만에 새 배 띄웠다…해운사업 확장 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDZGVyd19mSVNaYmZMeXM2Skc2RHJDV3lvOVNlSGZzQTJYVVVIdUVGck9JMXlJWWlPWFhSWWx2ZGRzSzFYQjI4SExmRmY1ckRYalltN01kQ1VvdVZQd3BQa2F3RV9qaDFmTHNleTA1WlNkRjlm0gF0QVVfeXFMUENkZXJ3X2ZJU1piZkx5czZKRzZEckNXeW85U2VIZnNBMlhVVUh1RUZyT0kxeUlZaU9YWFJZbHZkZHNLMVhCMjhITGZGZjVyRFhqWW03TWRDVW91VlB3cFBrYXdFX2poMWZMc2V5MDVaU2RGOWY?oc=5",
+            "published": "2026-10-29T01:09:09.000Z",
+            "snippet": "동국제강그룹, 14년 만에 새 배 띄웠다…해운사업 확장 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "[동국제강] 철근 가격 82만 원으로 조정…SD400 출하 제한 지속",
+          "summary": "동국제강이 철근 판매가격을 톤당 82만 원으로 조정했습니다. SD400 규격 제품의 출하 제한은 계속 유지합니다.",
+          "why": "건설 수요 부진 속에서 가격과 출하 물량을 함께 관리하며 수익성을 방어하려는 움직임입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 철근價 82만 원으로 조정...SD400 출하 제한 지속 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zVGpQZW03SWtnUXI2c2dIV3ZZbk9WWDI0YVZtZHI3SGlYMVVwUXBwTUV4V19raDU4M3QxS1UzdjVRNmdlckRRWHNYamFIS2pOVnNoZkZINUVrdFdRcXozUFI0Z1RXcW8tTkhPRkRXWmFyV3FX0gF0QVVfeXFMTzNUalBlbTdJa2dRcjZzZ0hXdlluT1ZYMjRhVm1kcjdIaVgxVXBRcHBNRXhXX2toNTgzdDFLVTN2NVE2Z2VyRFFYc1hqYUhLak5Wc2hmRkg1RWt0V1FxejNQUjRnVFdxby1OSE9GRFdaYXJXcVc?oc=5",
+            "published": "2026-10-29T20:01:19.000Z",
+            "snippet": "동국제강, 철근價 82만 원으로 조정...SD400 출하 제한 지속 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 60,
+          "title_ko": "[동국제강] 2027년 안에 자사주 전량 소각 추진",
+          "summary": "동국제강이 보유 자사주를 2027년 안에 전량 소각하겠다는 계획을 밝혔습니다.",
+          "why": "저PBR 해소를 위한 기업가치 제고(밸류업) 정책의 일환으로 주주환원을 강화한다는 신호입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 2027년 안에 자사주 전량 소각 추진 - 비건뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fTFVCRHQ4Y3RVYVJZUDNQQi1sQkZSZC1tb09hVHdKUEFGVWdmN2YzbExCZWIzRTB3Y09kcnJDVVZ5WUJDRFA2ZzBOT3lodURVMngxTVFJa2psa1ZxTnhWUUlmZ1hsdw?oc=5",
+            "published": "2026-10-24T23:43:57.000Z",
+            "snippet": "동국제강, 2027년 안에 자사주 전량 소각 추진 비건뉴스",
+            "isNew": true
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "[동국씨엠] 美 도금강판 관세 70%대 위협…KG스틸과 법적 대응 저울질",
+          "summary": "미국의 도금강판 관세가 70%대까지 오를 수 있다는 우려가 나왔습니다. 동국씨엠과 KG스틸은 법적 대응을 검토하고 있습니다.",
+          "why": "동국씨엠의 대미 도금·컬러강판 수출에 직접적인 리스크가 될 수 있는 사안입니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "[단독] 美 도금강판 관세 70%대 위협…동국씨엠·KG스틸, 법적 대응 저울질 - 철강금속신문",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43aC0tU2dfc3pQUUdKUWN6aHktTXlYV1JGQTVkbmVnblVXUXdWU2ZzSmlKdXA2XzlDQTc1aDNybnJFQmlzY0J1cklqVE1sZzhxaS1sVmE3RTZvano4UnRTQU1iTjd3cGkxLUE?oc=5",
+            "published": "2026-10-29T20:00:00.000Z",
+            "snippet": "[단독] 美 도금강판 관세 70%대 위협…동국씨엠·KG스틸, 법적 대응 저울질 철강금속신문",
+            "isNew": true
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "[동국제강그룹] '메탈 트렌드' 행사 열어 컬러강판의 미래 제시",
+          "summary": "중앙일보 [The Company] 기획 기사로, '메탈 트렌드' 행사를 열어 컬러강판의 미래 방향을 제시한 내용을 다뤘습니다.",
+          "why": "그룹 냉연·컬러강판 사업(동국씨엠)의 고부가 제품 마케팅 강화 흐름을 보여 줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[The Company] 메탈 트렌드 개최해 컬러강판 미래 제시 - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PYUZmYkpPeEk3Tm9VU3pJSHFrM3FNTENVRGtkMnhhNklRZEs0dWJhSThfd3Vzd0FRd1pLSHZEYUpSS05DdHI0MGpaX3ZHNGY2MlhwVlpR?oc=5",
+            "published": "2026-10-29T20:33:00.000Z",
+            "snippet": "[The Company] 메탈 트렌드 개최해 컬러강판 미래 제시 중앙일보",
+            "isNew": true
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "[업황] 냉연·도금 시장, 거래는 썰렁하지만 가격은 보합",
+          "summary": "10월 넷째 주 냉연·도금강판 시장은 거래가 부진했지만 가격은 버티며 보합세를 유지했습니다.",
+          "why": "동국씨엠의 주력 제품 시장이 수요 부진 속에서 가격을 방어하는 국면임을 보여 줍니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "[10-4 냉연/도금] 장사는 썰렁, 가격은 꼿꼿…냉연 시장 보합 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WRmppY2NUbTNnU3lMYktkUHlhTUFESmhNeUpROTM4b1QtWmpaOHFpUjFqM0x2djlON2tqbVF4MFNGakN3Tk1vOHBoNGVDNTY3dHdlTUhxRmtNdG5mYW91bFFiODI4clZPbmd1cGF5MVjSAXRBVV95cUxQdGJmM3hfcGgxc3laVjgzZXhaSkJHMTJuM2Q5SmNiTDRPZER0N1pNZ3JnSF9FWkdsZ3ZvTi1MZ29ab25LTE44MzBSTEFCRXlfb2hsSzAzYTFXTkg0RkFINDBWYk9vNllFOHlaa0N1M0ZIaDd2Zw?oc=5",
+            "published": "2026-10-29T20:00:00.000Z",
+            "snippet": "[10-4 냉연/도금] 장사는 썰렁, 가격은 꼿꼿…냉연 시장 보합 스틸데일리",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
