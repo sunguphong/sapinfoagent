@@ -1,0 +1,251 @@
+{
+  "overview": "SAP TechEd 2026을 계기로 SAP는 Joule Studio, Business AI Platform, 데이터 패브릭 등 에이전틱 AI 관련 발표를 쏟아냈으며, 개발자가 '자율 기업(Autonomous Enterprise)'을 직접 구축할 수 있다는 메시지를 내세웠습니다. 클라우드 ERP 전환을 돕는 마이그레이션·현대화 AI 어시스턴트 4종과 인텔과의 피지컬 AI 협력도 주목받았습니다. 시장에서는 Workday, Oracle·NetSuite, Sage 등 경쟁사도 AI 중심 전략을 강화하고 있고, 리미니 스트리트의 3분기 실적 발표 등 제3자 유지보수 시장 동향도 이어졌습니다. 커뮤니티에서는 ABAP AI SDK와 S/4HANA 온프레미스 기반 AI 에이전트 구현 사례가 활발히 공유되고 있습니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "SAP TechEd 2026: SAP, 개발자에게 \"자율 기업은 여러분이 만들 수 있다\"",
+          "summary": "SAP가 TechEd 2026에서 개발자를 겨냥해 자율 기업 구축을 핵심 메시지로 제시했습니다. AI, Joule, 자율 기업 관련 신규 기능이 함께 소개되었습니다.",
+          "why": "SAP의 향후 개발·확장 전략 방향이 AI 에이전트 중심으로 재편되고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise” - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGw0RjRCN25yalBFd25JalNyYTl2WXlNVmpYNG9Wb011VVJzZExOdzVkdmJabmVSc0dZMTVyVU15eUx5V0daaV9uRk5rRldKTlJvd2lfaE9ENlJVQnkxTkd5anpnUlhSSGxra2tkcGpzVlVBeUdWOVhURFU3b3dHRVU0ZkNOWmNkTldMd3Fod2U?oc=5",
+            "published": "2026-10-28T16:34:36.000Z",
+            "snippet": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise” SAP News Center"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "Joule Studio로 신뢰할 수 있는 맞춤형 에이전틱 솔루션 구축",
+          "summary": "SAP 최고제품책임자(CPO)가 TechEd 2026에서 Joule Studio로 구축할 수 있는 에이전틱 솔루션을 소개했습니다. 관련 보도에서는 테이블형 AI를 활용해 엔터프라이즈 에이전트 구축 시간을 최대 80%까지 단축할 수 있다고 전했습니다.",
+          "why": "현업 요구에 맞춘 커스텀 에이전트를 SAP 표준 도구로 개발하는 방안을 검토할 근거가 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Joule Studio empowers teams to build trusted, custom agentic solutions",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/joule-studio-empowers-teams-to-build-trusted-custom-agentic-solutions/ba-p/14493943",
+            "published": "2026-10-30T08:54:25.000Z",
+            "snippet": "This week at SAP TechEd 2026, we put Joule Studio in the spotlight to show exactly what kind of agentic solutions you can build. As Chief Product Officer, I’m excited to share more about how Joule Studio changes what’s possible for every team in your organization."
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "SAP, 에이전틱 AI 확산 위해 Business AI Platform과 Joule 강화",
+          "summary": "SAP가 에이전틱 AI 도입을 촉진하기 위해 Business AI Platform과 Joule의 기능을 확대했습니다. 에이전트 개발과 통제 플랫폼을 전면 확대하며 '실행하는 AI'에 무게를 싣는 전략입니다.",
+          "why": "AI 에이전트의 개발·운영·거버넌스를 SAP 플랫폼 안에서 처리하는 구조로 바뀌고 있어 아키텍처 설계에 영향을 줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption - ITWeb",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHozZW14aEdrZzJKalM1Vl9Ra0ZJeXJZYWFZb2x4bjhCLU9TVkRwQ2duTUE5VXdNTlFMRUZUa2diczB0SG95RWgwV1QtQlBURXlCWDdtZUNuZXNaZHVHMjA0RVE1QUFBWWliUElOTEJkWkh1LVQtMW4xUEFrOFVZSTBsLU1jaHBJMUpUcUVLeW5yN2NXYjZvMWlRUEpxNVFSc0c2R2NzcHdnZ2xQNDdTajBkUk5zb2NVZkRxS1Bn?oc=5",
+            "published": "2026-10-30T10:43:07.000Z",
+            "snippet": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption ITWeb"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "SAP, Joule 도구 단계적 도입… Enterprise AI Gateway는 2027년 예정",
+          "summary": "SAP가 Joule 관련 도구를 단계적으로 출시하며, Enterprise AI Gateway는 2027년에 선보일 계획이라고 밝혔습니다.",
+          "why": "고객사 AI 도입 로드맵과 일정 수립 시 기능별 출시 시점을 함께 고려해야 합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 - OpenTools",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmFvSnlfU3F1NUMyb0VwYkx3QmM3R2ttZ05BdWpwWUdiNjg3Y2JSUXRzSTBFTk9qYmZIaENoWHBPQ3FNSnlOMXhDbm1KNHliSjZrTC1tWjlNMFo1QlJTRFFSY3Z5TlFPWU15emMzbHZQSFdJVHVVVzlYaEx4OXZuVElqb2diNUZraU1uU20zVEZVdEU?oc=5",
+            "published": "2026-10-27T17:20:41.000Z",
+            "snippet": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 OpenTools"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "SAP, TechEd에서 AI 거버넌스 선도 방안 제시",
+          "summary": "SAP가 TechEd에서 AI를 통제하고 관리하면서도 혁신을 이어갈 수 있는 거버넌스 솔루션을 소개했습니다.",
+          "why": "AI 에이전트 확산에 따라 권한·감사·통제 설계가 프로젝트의 필수 요소가 되고 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP Shows How to Lead with AI Governance at SAP TechEd",
+            "link": "https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/",
+            "published": "2026-10-30T11:00:00.000Z",
+            "snippet": "SAP provides the solutions necessary to govern, control, and innovate now and into the future."
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "SAP, 엔터프라이즈 AI 에이전트를 위한 데이터 패브릭·마스터 데이터 도구 확대",
+          "summary": "SAP가 AI 에이전트 활용을 뒷받침하기 위해 데이터 패브릭과 마스터 데이터 관리 도구를 확장했습니다. TechEd에서는 SAP Business Data Cloud(BDC)의 레이크하우스 및 데이터 패브릭 신기능도 함께 소개되었습니다.",
+          "why": "AI 에이전트의 품질은 데이터 품질에 달려 있어 BDC와 마스터 데이터 전략의 중요성이 커지고 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Expands Data Fabric and Master Data Tools for Enterprise AI Agents - CDO Magazine",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGMzVDRNLWhrc2ZzVG50WGk1RGJuVUNTN1dhUy1yUHFPVWlyZlZ2bk11dDJlaFNPbENmQnpRYXpZRXZMLWFjcFlCOVl5Zkd0U25FSVhjQW1lV25VSjJwblNtelM3ZVlNMldvUHNjXzdnMHZQdkxfRmpKbDZZc2V6ZWpYS0pFNGdJYXp3dnFfZ0JrUUl1czhZZHlIczNhN0QtV1YyTlJqdw?oc=5",
+            "published": "2026-10-30T18:31:00.000Z",
+            "snippet": "SAP Expands Data Fabric and Master Data Tools for Enterprise AI Agents CDO Magazine"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 9,
+          "title_ko": "SAP, 클라우드 ERP 전환에 AI 어시스턴트 4종 투입",
+          "summary": "SAP가 고객의 클라우드 ERP 전환을 지원하기 위해 마이그레이션 및 현대화용 AI 어시스턴트 4종을 선보였습니다. 기존 시스템의 전환 작업을 AI로 지원하는 것이 목적입니다.",
+          "why": "S/4HANA Cloud 전환 프로젝트의 기간·비용 산정 방식과 작업 방법론에 직접적인 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "SAP, 클라우드 ERP 전환에 AI 어시스턴트 4종 투입 - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVHVwaHZzZG9RTmZIM0E4NWFtZ3Q2M1BNTFBRQ0JuekJlbVhGX1ptSVlERFFjeGtidjZVaEJMQ1cxb2tXZFZFNzVRaWl3TTBvdXpkMmNvcmxxZ0lCazhfb3gwUGhKUlJkMFZfOFFXaWVoZzhmc09JSDFqRm9HR0E3MmNhdzNRS3k4U2RMejdLRnBOWVdXdVB2S3VPRTNLTURpSTBTSjdxaFg3ZWZNelVVX0YyTXA2S2NhVkNRQi0zZ0V5QVZiY2JwdndtY1ZkcUIwenlMQl83ZzRKR0lzZ1NuYjBCQnZFazFwLWlmMUZaWGJQcjcyTy1uSE1Ga2l6bVBLRTNUNnlBcmFvVHhzWXQzX2VqMHdaQQ?oc=5",
+            "published": "2026-10-30T13:01:04.000Z",
+            "snippet": "SAP, 클라우드 ERP 전환에 AI 어시스턴트 4종 투입 SAP News Center"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "인텔-SAP, 피지컬 AI로 기업 시스템과 로봇 연결 협력",
+          "summary": "인텔과 SAP가 피지컬 AI를 통해 기업 시스템과 로봇을 연결하는 협력을 발표했습니다. TechEd에서는 창고 내 자재 운반을 자동화하는 기술을 시연했습니다.",
+          "why": "EWM 등 물류·제조 영역에서 ERP와 로봇 자동화를 연계하는 새로운 프로젝트 기회가 생길 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Intel, SAP Partner to Connect Enterprise Systems With Robots Through Physical AI - THE ELEC, Korea Electronics Industry Media",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMGczdGVURkRZN2txUUFrMFVna0NwLUFBT1FQek40TFlNSzRPOHFZNF9mU0xoZDRlbmdPUDJodkh3WmN6Wms1SERZXzQwNTF6Wi1DMWZuaWN5RmpJb0NUUW9tUFhnSVk?oc=5",
+            "published": "2026-10-30T04:23:57.000Z",
+            "snippet": "Intel, SAP Partner to Connect Enterprise Systems With Robots Through Physical AI THE ELEC, Korea Electronics Industry Media"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "Elavon, SAP 비즈니스 애플리케이션에 결제 기능 내장",
+          "summary": "결제 서비스 기업 Elavon이 SAP 비즈니스 애플리케이션에 결제 기능을 직접 내장할 계획이라고 발표했습니다.",
+          "why": "FI·SD 영역에서 결제 연동을 별도 개발 없이 구현할 수 있는 선택지가 늘어납니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Elavon to embed payments into SAP business applications - The Paypers",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY05VU3NheHY0eDlaUnhjMm5QUXRIOFZXc0RkWWtrbWZRXzladW9qRkJCYVdGSkJnY1ZrTE5EbWNZVDhFVzRKZHU3b2xkX3hIMFlnZXNKSmthS0J6dUdtY1F3bllzMkN5b2VzbUJXLUhIbFVuWWtGZkF0UG5KdGtwYXZ1Rnd0V2x5c2VKTWhFWkJfYnB5MVB0MUxCQnIyRFBB?oc=5",
+            "published": "2026-10-30T11:29:57.000Z",
+            "snippet": "Elavon to embed payments into SAP business applications The Paypers"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "SAP 고객을 위한 아마존 공급망 역량 확대: Multi-Channel Fulfillment Accelerator",
+          "summary": "AWS가 SAP 고객이 아마존의 멀티채널 풀필먼트 역량을 활용할 수 있도록 지원하는 가속기를 소개했습니다.",
+          "why": "SAP와 아마존 물류를 연계하려는 유통·제조 고객사의 통합 구현 부담을 줄여줄 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Expanding Amazon’s Supply Chain Capabilities for SAP Customers: Multi-Channel Fulfillment Accelerator - Amazon Web Services (AWS)",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbkplZjhZSVU0YUxYVEo3b1M1MVE5YmhieVJabEFsZW5sUk9zVHkwa2VGblp6MjNKMDhGQ1FXaXR6T2hNdndCWG4zS1JEb0x3UUtNM01qVUZKcEVEd2V4ZG1obHE2ZzgySlJFNTk0bHBJQTJxdXNBQkN1U0tvbXB4ZUJ2THBNRGhRc25IX1RmdnhHZ3pHNGI4alB0WDhfQmJFY1pvTDNnclQzYVROWVhzQy0xTGZVUnZKTHhfUk9Ca3dETTFYNUlzbExsTjdmVVhxRzRhNzFB?oc=5",
+            "published": "2026-10-29T22:55:32.000Z",
+            "snippet": "Expanding Amazon’s Supply Chain Capabilities for SAP Customers: Multi-Channel Fulfillment Accelerator Amazon Web Services (AWS)"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "리미니 스트리트, 2026 회계연도 3분기 실적 발표",
+          "summary": "SAP·오라클 제3자 유지보수 기업 리미니 스트리트가 2026 회계연도 3분기 재무 및 운영 실적을 발표하고 실적 컨퍼런스콜을 진행했습니다.",
+          "why": "ECC 유지보수 종료를 앞둔 고객사의 대안 선택지인 제3자 유지보수 시장의 흐름을 가늠할 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Rimini Street (RMNI) Q3 2026 Earnings Call Transcript - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1Y1RzV4R3Z2RE5nXzVDazZVSnd2MVQweFRsQWdDYWpGZnZDYlR0SDJLUDhpS0lHQkRka3NfeEJYOEIwSUhGMy1vY0d4eVJmQkFVS2xrZDB6cnJSSjlhOUMwTEZsWFVZQ003UVlVT1RITGxPOU9yWngwYVo2OWVMTlZIOEtHb2Y1Y0xwM1NBOWNZTnctb3dvQWFqTEQ1MUFPQTJaS3dNbTJMTDE3MlRWQ0wwQ0lSUldMWkVlT3lnOVhlTFFYUWNpbGhR?oc=5",
+            "published": "2026-10-30T14:01:16.000Z",
+            "snippet": "Rimini Street (RMNI) Q3 2026 Earnings Call Transcript The Globe and Mail"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "Workday, AI 에이전트를 위해 데이터 클라우드 재구축",
+          "summary": "Workday가 AI 에이전트 활용을 위해 자사 데이터 클라우드를 새롭게 재구축했습니다.",
+          "why": "SuccessFactors와 경쟁하는 HCM 시장에서도 AI 에이전트 중심 경쟁이 본격화되고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Workday Rebuilds Data Cloud for AI Agents - ERP Today",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kd0FfTmRyQ0l5WTJRSm1QdDU1NUdqMzROa0VpMW1aVWlpUUd5anA4bkx3amY1aWJianRtNF9BeU94YzJCSDJZaHhJWEVzemx5WmNodGZydHJRZ1dRampCUlBleEZYa29xZU9XQg?oc=5",
+            "published": "2026-10-30T21:13:40.000Z",
+            "snippet": "Workday Rebuilds Data Cloud for AI Agents ERP Today"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "[인터뷰] \"AI로 ERP 만들어도 대체 어려워\"…SAP, 50년 노하우 자신감",
+          "summary": "SAP는 지디넷코리아 인터뷰에서 AI로 ERP를 직접 개발하더라도 SAP를 대체하기는 어렵다고 밝혔습니다. 50년간 축적한 업무 프로세스 노하우를 경쟁력으로 내세웠습니다.",
+          "why": "AI 기반 자체 개발 논의가 나올 때 고객사와 대화하는 데 참고할 만한 SAP의 공식 입장입니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "[인터뷰] \"AI로 ERP 만들어도 대체 어려워\"…SAP, 50년 노하우 자신감 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tOFZpTmhvM1JvTmdyUk1sbXlneEk0dXBYZkJfSjluZ0hYQVNwazVvVk95WHpfdkJxRlVkdWp6c29oOG9CYnZ0WXhBZ29iU2Nsa05sNFZn?oc=5",
+            "published": "2026-10-29T23:25:43.000Z",
+            "snippet": "[인터뷰] \"AI로 ERP 만들어도 대체 어려워\"…SAP, 50년 노하우 자신감 지디넷코리아"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "ABAP AI 에이전트 구축: 설정 질문에서 실시간 SAP 근거 확보까지",
+          "summary": "ABAP AI SDK로 외부 언어 모델을 ABAP 에이전트 하네스에 연결해, 자연어 질문에 대해 실제 S/4HANA 온프레미스 시스템의 설정을 도구로 조회하고 답하는 방식을 소개합니다. 실행 통제가 왜 중요한지도 함께 다룹니다.",
+          "why": "온프레미스 S/4HANA 고객도 AI 에이전트를 도입할 수 있는 실질적인 구현 방법을 보여줍니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Building an ABAP AI Agent: From a Configuration Question to Live SAP Evidence",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/building-an-abap-ai-agent-from-a-configuration-question-to-live-sap/ba-p/14512882",
+            "published": "2026-10-30T09:05:23.000Z",
+            "snippet": "What if you could ask your S/4HANA on-premise system about its configuration in natural language? This post explores how the ABAP AI SDK connects an external language model to an ABAP agent harness that investigates the live system through tools and uses their results to guide its next step. Discover how this approach brings older S/4HANA systems into the AI era and why execution controls matter."
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "S/4HANA의 에이전트 메모리: Open Knowledge Format을 Z 테이블에 저장하는 이유",
+          "summary": "AI 에이전트가 관리하는 Open Knowledge Format(OKF) 지식을 S/4HANA 온프레미스의 Z 테이블에 저장하는 방안을 다룹니다. 기존 SAP 플랫폼의 영속성, 권한, 트랜잭션 기능을 그대로 활용하는 설계를 소개합니다.",
+          "why": "기존 ABAP 자산과 권한 체계를 활용해 AI 에이전트 지식 저장소를 구축하는 아이디어를 얻을 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Agent Memory in S/4HANA: Why We Store Open Knowledge Format in Z Tables",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/agent-memory-in-s-4hana-why-we-store-open-knowledge-format-in-z-tables/ba-p/14513461",
+            "published": "2026-10-30T09:15:39.000Z",
+            "snippet": "A brand-new format like Open Knowledge Format (OKF) seemingly cannot be used with an old S/4HANA on-premise system. Markdown knowledge, AI agents, and Z tables look like technologies from different eras. But the familiar SAP platform already offers the persistence, authorizations, and transactions that agent-maintained knowledge needs. This deep dive shows how bundles, concepts, tags, and relation"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "Claude Code를 활용한 SAP BTP 기반 AI 애플리케이션 구축 및 배포",
+          "summary": "Claude Code로 SAP BTP 위에 AI 애플리케이션을 구축하고 배포하는 과정을 소개합니다. AI Core, Cloud Foundry, MCP 서버, Joule, Destination 연동 등을 다룹니다.",
+          "why": "AI 코딩 도구로 BTP 확장 개발의 생산성을 높이려는 개발자에게 실무 참고가 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Building and Deploying AI-Powered Applications on SAP BTP Using Claude Code",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/building-and-deploying-ai-powered-applications-on-sap-btp-using-claude-code/ba-p/14514077",
+            "published": "2026-10-30T18:21:06.000Z",
+            "snippet": "Author: Prabhat Mishra | SAP BTP DeveloperTags: SAP BTP, AI Core, Claude Code, Cloud Foundry, MCP Server, Joule, Destinations"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "SAP Cloud ALM for Operations의 AI 기반 이상 탐지",
+          "summary": "SAP Cloud ALM for Operations에서 AI로 이상 징후를 탐지하는 기능을 소개합니다. 같은 시기에 모니터링 대시보드 활용법도 함께 공유되었습니다.",
+          "why": "Solution Manager에서 Cloud ALM으로 옮겨 가는 운영 조직이 AI 기반 모니터링을 활용하는 데 도움이 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Anomaly Detection with AI in SAP Cloud ALM for Operations",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/anomaly-detection-with-ai-in-sap-cloud-alm-for-operations/ba-p/14513436",
+            "published": "2026-10-30T02:06:35.000Z",
+            "snippet": "Anomaly Detection with AI in SAP Cloud ALM for Operations"
+          }
+        }
+      ]
+    }
+  ]
+}
