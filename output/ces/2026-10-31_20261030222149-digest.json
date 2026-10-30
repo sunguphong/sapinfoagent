@@ -1,0 +1,80 @@
+{
+  "overview": "CES 2027 개막(내년 1월 초, 라스베이거스)을 약 두 달 앞두고 참가 기업 구성과 전시 계획이 윤곽을 드러내고 있습니다. 가장 눈에 띄는 소식은 일본 소니·파나소닉의 CES 철수 보도로, 프리미엄 시장까지 넘보는 중국 가전 업체의 존재감이 더 커지는 흐름입니다. 국내에서는 CES 스타트업관(유레카파크)에서 한국이 미국과 함께 참가 기업 126곳으로 공동 1위를 기록하며 여전히 최대 참가국 중 하나로 꼽혔습니다. 해외에서는 레노버가 CES 2027 기간 'Tech World' 행사를 열고 하이브리드 AI 전략을 내세우겠다고 예고했고, 방글라데시는 16개 혁신 기술의 CES 2027 선정을 알렸습니다.",
+  "categories": [
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "日 소니·파나소닉 CES 철수… 프리미엄까지 넘보는 中 가전",
+          "summary": "일본 전자업계를 대표하는 소니와 파나소닉이 CES에서 철수한다는 보도가 나왔습니다. 그 사이 중국 가전 업체들은 중저가를 넘어 프리미엄 시장까지 넘보며 CES 무대에서 영향력을 키우고 있습니다.",
+          "why": "CES 전시장에서 삼성·LG가 중국 업체와 정면으로 맞붙는 구도가 굳어지면서, 국내 기업의 프리미엄 차별화 전략이 더 중요해졌습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "日 소니·파나소닉 CES 철수… 프리미엄까지 넘보는 中 가전 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRk5XUURQelFXMHpZTS1sWDE1djdJQnB0cGxTZHBBMVdzMC1JejBlYldzT21NYzJNd0JxdWYwZjZoZkFpQ2RYRFFWRTdscUhEYWRQQklwbGlLejBja1VlaWhPVGlkQnhBRl9ibFdLQlkwMGpUZ3FUVlY1akRIV2xmYzI5ZTZvQQ?oc=5",
+            "published": "2026-10-30T18:00:00.000Z",
+            "snippet": "日 소니·파나소닉 CES 철수… 프리미엄까지 넘보는 中 가전 조선일보"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "레노버, 'Tech World @ CES 2027' 개최 발표… 하이브리드 AI의 다음 시대 제시",
+          "summary": "레노버가 CES 2027 기간에 자체 행사 'Tech World'를 연다고 발표했습니다. 행사의 주제는 기기와 클라우드를 아우르는 '하이브리드 AI'의 다음 단계입니다.",
+          "why": "AI PC와 온디바이스 AI 경쟁이 CES 2027의 핵심 화두로 이어질 것임을 보여 주며, 국내 PC·부품 업계도 이 방향을 주시할 필요가 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Lenovo Announced Tech World @ CES 2027: Defining the Next Era of Hybrid AI - ACCESS Newswire",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU0ZUcEZfWW1mTzZqRE1fbkxGOXYxUEZWcUdXcThWWV9fQ09OT1FXQzBEVFFGR2dTLXQzT0NVNjRvUTMxd0tOMHV5bFRkX3NrQS11eVdmUjQzSzJfOURlWUk4ZjFsYjdReWNZdENmM0FrbkhYcnI2QldGRm1xZW9YQmRWaXZVTk80MkJhcEgxQWtrWFpTZ2Zzb2M5WDBJWHAzYk9OYUJURlFPQWR3dVVlU0VCODZIS19TMXJNdHRaV0ZrbmVSOWQ1UUxWYmpwUGxQUExiUVdJN2JsUWFEdzBJUndnVzQ?oc=5",
+            "published": "2026-10-30T15:55:00.000Z",
+            "snippet": "Lenovo Announced Tech World @ CES 2027: Defining the Next Era of Hybrid AI ACCESS Newswire"
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "41Caijing, CES 2027에서 47개 브랜드와 미디어 180곳 연결 추진",
+          "summary": "중국 매체 41Caijing이 CES 2027 현장에서 47개 브랜드 관계자와 180개 매체·편집자를 연결하는 미디어 행사를 마련한다고 밝혔습니다. 중국 브랜드들의 해외 홍보 수요를 겨냥한 행사로 보입니다.",
+          "why": "중국 기업들이 CES를 글로벌 인지도 확대 창구로 적극 활용하고 있어, 국내 기업이 현장에서 받는 홍보 경쟁 압박도 커질 것으로 예상됩니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "41Caijing to Connect 47 Brand Representatives with 180 Media Outlets and Editors at CES 2027 - markets.businessinsider.com",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUjFHdWVpcVR4djBmaWhHdWh5ak1UR2FobzZXbldFbVhiLUI0VUkxMGp6eTlPRkdhdkZSM1E4V09pNmpjNlF4NzFrODVlUjJIMW92MVRiMVpsa0N2V0E3NDRmV3BtZFlxS2RvV0pWTVZBUDFiOXB5WTdPYmVkbnlDTWdKam9Ja09BaVRlNnJ2U2MyU2tyMVVTVzBJcG9YOWJiYXNvZjUyV1JUQUk4RXRYSjhQS2hwMVZNeFhUOVVuTUt3QnhWX0FYMmhSemFfM2VDVU95aGxqWnNickkzWjgxOUIycUR5UQ?oc=5",
+            "published": "2026-10-29T13:59:38.000Z",
+            "snippet": "41Caijing to Connect 47 Brand Representatives with 180 Media Outlets and Editors at CES 2027 markets.businessinsider.com"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 25,
+          "title_ko": "CES 스타트업관, 한국·미국 126곳으로 '공동 1위'… 참가 등록 진행 중",
+          "summary": "CES 2027 스타트업 전시관(유레카파크)의 현재 등록 현황에서 한국과 미국이 각각 126곳으로 공동 1위를 기록했습니다. 참가 등록은 아직 진행 중이어서 최종 규모는 달라질 수 있습니다.",
+          "why": "한국 스타트업이 CES를 해외 진출과 투자 유치의 핵심 무대로 삼는 흐름이 이어지고 있어, 현장에서 국내 기업 간 차별화 경쟁도 치열해질 전망입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES 스타트업관, 한국·미국 126곳 '공동 1위'…등록 진행 중 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Nb3FZUUVPbXNMT2FxUWJSZkZhdXBVRGZlUEc0Q21pNkMxN1JzMC15WTJpU09RcVpwQ0k4M2pnVDBiMFZpVjBOTzNZdzZ3LTlMejk1VThrZjhDTFpH?oc=5",
+            "published": "2026-10-30T02:12:11.000Z",
+            "snippet": "CES 스타트업관, 한국·미국 126곳 '공동 1위'…등록 진행 중 뉴스핌"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "방글라데시 혁신 기술 16건, CES 2027 참가 선정",
+          "summary": "방글라데시의 혁신 기술 16건이 CES 2027 참가 대상으로 선정됐다고 현지 언론이 보도했습니다. 남아시아 신흥국들도 CES를 기술 스타트업 소개 창구로 활용하는 사례가 늘고 있습니다.",
+          "why": "CES 스타트업 전시에 참가하는 국가가 다양해지면서, 한국 스타트업은 '참가' 자체보다 기술 완성도와 사업성으로 주목받아야 하는 환경이 되고 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "16 Bangladeshi innovations selected for CES 2027 - New Age BD",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmFvRkc3cVN3Ml9kQW9ZSHg0a2JJTmdqeG16aXp0NzVfX2R5YlEtWHZ0bVR1NTY1bGkwVDI5RDdwcmdIb0JOVEdFQlo0MnhZdldMMjNFZHBKcWc5aldpdHE1UGFrektSQ18tTlBEVFR1Y3VtTzF6d3RHSXFKZ1NJM3VRdWtITkdzMktMOTlNTE10M004OWlfRFhQZnZSYzNhaVhQR2dWcG4?oc=5",
+            "published": "2026-10-30T16:37:31.000Z",
+            "snippet": "16 Bangladeshi innovations selected for CES 2027 New Age BD"
+          }
+        }
+      ]
+    }
+  ]
+}
