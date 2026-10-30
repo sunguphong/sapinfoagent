@@ -1,0 +1,212 @@
+{
+  "overview": "10월 말 기온이 떨어지고 공기가 건조해지면서 아토피피부염과 가려움 관리가 오늘 기사의 중심 주제입니다. 습진 인식의 달을 마무리하는 전문가 정리와 리놀레산과 가려움의 관계를 다룬 연구 소식이 나왔고, 간접흡연이 영유아 아토피를 악화시킬 수 있다는 국내 보도도 있었습니다. 성분 쪽에서는 식물 유래 PDRN과 더마 스킨케어의 대중화가 눈에 띕니다. 영국에서 수은·납이 검출된 위조 화장품이 압수되었으므로 정품 구매 경로를 확인하는 것이 좋겠습니다.",
+  "categories": [
+    {
+      "name": "계절 피부 관리 (건조·아토피)",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "2026 습진 인식의 달: 핵심 정리",
+          "summary": "더마톨로지 타임스가 '습진 인식의 달'을 마무리하며 습진(아토피피부염)에 관한 주요 내용을 정리했습니다. 기사 제목 기준으로는 최신 치료 동향과 관리 원칙을 요약한 전문가 정리 기사입니다.",
+          "why": "찬바람이 불기 시작하는 지금은 습진이 악화되기 쉬우므로 보습과 자극 최소화 습관을 점검하기 좋은 시기입니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Eczema Awareness Month 2026: Key Takeaways - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWxKUUIySkh4cWNLYWVtbW9iQWRzY3UwbEFRQTVxLU1RN05mdncxRHVkRFF6LWZidHlmZGlxbDNUZklfdDM4Y21XbjE1c1E1Y1k1cDhPX01DUHJuNEd0cGhZREtneUZWbE85NVA4SHFYQ3hKMkYtQ0MyUFJTQnZSOEQ2eVV0QQ?oc=5",
+            "published": "2026-10-30T21:01:19.000Z",
+            "snippet": "Eczema Awareness Month 2026: Key Takeaways Dermatology Times"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "리놀레산과 가려움, 어떤 관계가 있을까?",
+          "summary": "피부 장벽 지질의 구성 요소인 필수지방산 리놀레산과 가려움증의 연관성을 다룬 피부과 전문지 기사입니다. 장벽 지질 균형이 가려움에 어떤 영향을 주는지 과학적 관점에서 살펴봅니다.",
+          "why": "건조한 계절에 가려움이 잦다면 세라마이드·지방산 등 장벽 지질을 보충하는 보습제를 고려해 볼 수 있습니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Linoleic Acid and Itch: What’s the Connection? - The Dermatology Digest",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMdldVa1M3cTJMTmZVQ3FCTkZiUFVzUnJ4ZWNVSVV1a2RXMEZLVDhFVUJDdzNSWTRDWWJ3UjJnY3hjcjVHcmpKZzZaZGdQaU43SlhXdk9JRWlUMkZHbUpyVFc3QkFybXotZFdSSy1PZDEtZnVrMTdDYmZn?oc=5",
+            "published": "2026-10-30T15:49:02.000Z",
+            "snippet": "Linoleic Acid and Itch: What’s the Connection? The Dermatology Digest"
+          }
+        },
+        {
+          "index": 38,
+          "title_ko": "간접흡연, 영유아 아토피피부염 중증도 높일 가능성",
+          "summary": "간접흡연 노출이 영유아 아토피피부염을 더 심하게 만들 수 있다는 연구 결과가 보도되었습니다. 생활 환경 요인이 아이 피부 질환의 경과에 영향을 줄 수 있음을 보여줍니다.",
+          "why": "아이 피부가 예민하다면 보습과 함께 실내 흡연 노출 같은 환경 요인도 관리해야 합니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "간접흡연, 영유아 아토피피부염 중증도 높일 가능성 - 메디컬투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lcU1qZC00ZVY0YnVYTzAtNEQ1TEczSDBsVl9WUTJvRm9jMElHV2pxRUFNSzlaN19EbGszeTdGZXBLTVdFbWdBSW1OSXZKN0t0bjdwR3I1UTVVQWs5RUs1Y3ZtWjZ3QVFoQlc4SA?oc=5",
+            "published": "2026-10-30T07:45:36.000Z",
+            "snippet": "간접흡연, 영유아 아토피피부염 중증도 높일 가능성 메디컬투데이"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "칠곡군, 손인형극으로 배우는 아토피피부염 예방·관리",
+          "summary": "경북 칠곡군이 아이들이 쉽게 이해하도록 손인형극으로 아토피피부염 예방과 관리법을 교육했습니다. 생활 습관 중심의 피부 관리를 어릴 때부터 익히도록 돕는 지역 보건 프로그램입니다.",
+          "why": "아이에게 보습과 손씻기 습관을 놀이처럼 알려주는 방식은 가정에서도 응용할 수 있습니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "칠곡군, 손인형극으로 배우는 아토피피부염 예방 관리:시대일보 - 시대일보",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uVlZoLXdMOHVReHo5el9VOVpzMWVsdzhMak1wdUZQOG50cU1KYmR6TWFISmtILXg1Y0luUmh6SWpPcWE3ZFlHNzlVOUdERHFtSFIxdmNOTFV4TVJUc3pMbDk3THcyUW_SAWdBVV95cUxPblZWaC13TDh1UXh6OXpfVTlaczFlbHc4TGpNcHVGUDhudHFNSmJkek1hSEprSC14NWNJblJoeklqT3FhN2RZRzc5VTlHRERxbUhSMXZjTkxVeE1SVHN6TGw5N0x3MlFv?oc=5",
+            "published": "2026-10-30T13:24:10.000Z",
+            "snippet": "칠곡군, 손인형극으로 배우는 아토피피부염 예방 관리:시대일보 시대일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "경기 지역 소식",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "\"엄마와 아기의 피부를 지켜요\" 경기도, 임산부 아토피피부염 특강 개최",
+          "summary": "경기도가 임산부를 대상으로 아토피피부염 예방과 관리를 다루는 특강을 열었습니다. 임신 중 피부 변화와 출산 후 아기 피부 관리까지 함께 안내하는 도 차원의 교육입니다.",
+          "why": "동탄을 포함한 경기도 거주 임산부 고객이라면 도에서 운영하는 무료 피부 건강 교육을 활용해 볼 만합니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "˝엄마와 아기의 피부를 지켜요˝ 경기도, 임산부 아토피피부염 특강 개최 - 경기연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LaE5EMkFoNzZfQWE1bGZ0aFFkTEFYZEk5ZF9kOE02X21PU3hzR3ZmSGFTc0lfUThJdVRBNmtTUE4wN3FVUTBuS2hpYUlYSW1JVmlCSWdLLXVEX1F2eG5pdG82MjUtWGfSAWdBVV95cUxNS2hORDJBaDc2X0FhNWxmdGhRZExBWGRJOWRfZDhNNl9tT1N4c0d2ZkhhU3NJX1E4SXVUQTZrU1BOMDdxVVEwbktoaWFJWEltSVZpQklnSy11RF9RdnhuaXRvNjI1LVhn?oc=5",
+            "published": "2026-10-30T07:25:18.000Z",
+            "snippet": "˝엄마와 아기의 피부를 지켜요˝ 경기도, 임산부 아토피피부염 특강 개최 경기연합뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "스킨케어 성분·제품",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "윤리적 뷰티 트렌드 확산… 식물 유래 PDRN이 피부 관리 대안으로 부상",
+          "summary": "연어 등 동물에서 추출하던 PDRN을 식물에서 얻으려는 움직임이 윤리적 뷰티 흐름과 맞물려 주목받고 있습니다. 피부 재생 성분으로 알려진 PDRN의 원료가 다양해지는 추세입니다.",
+          "why": "식물 유래 PDRN은 아직 근거가 쌓이는 중이므로, 효능은 제품별 임상 자료와 전문가 상담으로 확인하는 것이 좋습니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "윤리적 아름다움의 트렌드가 증가하고 식물 기반 PDRN이 피부 관리의 대안이되고 있습니다. - VOI.ID",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBFejJYMkJQbFZ2RG1HZGhmUXY3QTlyZnhuRFRNNEZKTjBsb2NfaHU0dV9VLUVLOWpwcC1yYVJnenU2UdIBQkFVX3lxTFBFejJYMkJQbFZ2RG1HZGhmUXY3QTlyZnhuRFRNNEZKTjBsb2NfaHU0dV9VLUVLOWpwcC1yYVJnenU2UQ?oc=5",
+            "published": "2026-10-30T09:12:00.000Z",
+            "snippet": "윤리적 아름다움의 트렌드가 증가하고 식물 기반 PDRN이 피부 관리의 대안이되고 있습니다. VOI.ID"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "원바이오젠, 이마트 노브랜드 전용 '더마 스킨케어 6종' 출시",
+          "summary": "원바이오젠이 이마트 자체 브랜드 노브랜드 전용 더마 스킨케어 6종을 내놓았습니다. 피부 장벽·진정 중심의 더마 화장품이 대형마트 PB 제품으로까지 확대되고 있습니다.",
+          "why": "합리적인 가격의 더마 제품이 늘고 있지만, 성분표를 확인해 내 피부 고민에 맞는지 따져보는 것이 중요합니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "원바이오젠, 이마트 PB 노브랜드 전용 '더마 스킨케어 6종' 출시 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10UHp0dGF0aDZ0T0swdUxqVnpHTlJYRmg2emgxRDhZMzRnVV9sUWR5SkZGcWZhcmsyWkxKMEF6eG45em03VXJ5VGFNLVpXVVFpdXRiYm8wci04WmlXTGFsMTlDTjhHQ0ozY0E1X9IBckFVX3lxTE1Wai16cUZvcTJ6bkV5U01VVzZ2LTJxZm00Q3RXVndrLVlqTTNHOTRDWVpoYTF6UGJkRlFJa0NaNWlGc1B0U3F4YmdsWGxUZEZRdU45Rm9ZcVR6bFV4ejdkMEJmakNPc0JadmRhQlRlcmxhZw?oc=5",
+            "published": "2026-10-30T08:31:47.000Z",
+            "snippet": "원바이오젠, 이마트 PB 노브랜드 전용 '더마 스킨케어 6종' 출시 - 머니투데이 머니투데이"
+          }
+        }
+      ]
+    },
+    {
+      "name": "전문가 팁·치료 동향",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "FAQ: 레미브루티닙(Rhapsido), 만성 유도성 두드러기 최초의 FDA 승인 치료제로",
+          "summary": "경구 BTK 억제제 레미브루티닙(Rhapsido)이 만성 유도성 두드러기 치료제로는 처음으로 미국 FDA 승인을 받았습니다. 더마톨로지 타임스가 주요 질문과 답변 형식으로 의미를 정리했습니다.",
+          "why": "추위나 마찰 등으로 두드러기가 반복된다면 새로운 치료 선택지에 대해 피부과 전문의와 상담해 볼 수 있습니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "FAQ: Remibrutinib (Rhapsido) Becomes First FDA-Approved Treatment for a Chronic Inducible Urticaria - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMWVPQ2dVRENQWm9vMHdxdXFHQ2czUXVZVVhSYzZWQ0VoOGQxYVhvX0NLalV0UnZqTFZGcWdBdXVFalh2Y1BJSEs4OGRGc2Fjc3l5R3U1NDV2T2xUN0RYV2FEVThKNVljZmtseTdYV3M5WXozeElkVFowbU9ENzFFcG1vVU9UbGI5RTZSS3B5aUFiQTVDTVVmRnBZdXVHQ3QxM01vdFhkdUpZYk1DOUI0dGRURGZxNS16SVlKanBXNXpmVWdmbHlwSlRCOEk?oc=5",
+            "published": "2026-10-30T18:35:35.000Z",
+            "snippet": "FAQ: Remibrutinib (Rhapsido) Becomes First FDA-Approved Treatment for a Chronic Inducible Urticaria Dermatology Times"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "피부과 기초: 아토피피부염에서 JAK 억제제 안전성 다시 보기",
+          "summary": "아토피피부염 치료에 쓰이는 JAK 억제제의 안전성 평가를 전문가 관점에서 다시 짚어보는 기사입니다. 효과와 위험을 환자별로 균형 있게 판단해야 한다는 맥락입니다.",
+          "why": "중증 아토피 치료제는 반드시 전문의와 장단점을 충분히 상의한 뒤 선택해야 합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "ABCs in Dermatology: Rethinking JAK Inhibitor Safety in Atopic Dermatitis - HCPLive",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGxwSEl2SnFMYzZPcF82cVZpQi1GOHh2Q045eDVEanFTSXNTcXBnQ0k0bEpKQ0ZvVGpDVzFqS05mOXh5eE1WdDRCSVkzbGlDeG1BTzdRTWxDWjVMelNSeG9yWlZEczBkMzlYLTV1T21qMDlxZG96bE05OVB6OTB0VTRkRUtIMFZDUDV0R2xXUFpJTWF0ZXQ4VnhDd1piNFpJV09F?oc=5",
+            "published": "2026-10-30T11:08:41.000Z",
+            "snippet": "ABCs in Dermatology: Rethinking JAK Inhibitor Safety in Atopic Dermatitis HCPLive"
+          }
+        }
+      ]
+    },
+    {
+      "name": "뷰티 뉴스",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "영국 전역에서 압수된 위조 화장품서 수은·납·메탄올 검출",
+          "summary": "영국에서 압수된 위조 화장품에서 수은, 납, 메탄올 같은 유해 물질이 검출되었습니다. 다른 매체들도 니코틴 검출을 함께 보도하며 저가 위조품의 위험을 경고했습니다.",
+          "why": "지나치게 싼 해외 직구나 출처가 불분명한 화장품은 피부 손상 위험이 있으니 정식 유통 경로를 이용하세요.",
+          "article": {
+            "source": "Google News EN (Beauty Trends)",
+            "title": "Mercury, lead and methanol found in counterfeit beauty products seized across UK - The Guardian",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3diQ2tDWVdSMjJ5MDlkc1Y2YVZObGdqUGhpX0Y3c19CbGdZUlI5bThGbGU1WWFPQUVCbkJQdEtUTHc3UzdsU0wwc3NXaS0tbUthWTFKczVxenFWU0ZYU2pVXzNEejZJWmh3ZzBVUjU2VnM5V0dNbDY0TG9TalA4Nm85aC0wMkgybnh0YUw0Tk5YRnZKY1NmYXVOQ1hzZGR2aVE1SVVGN293aWs?oc=5",
+            "published": "2026-10-30T13:05:00.000Z",
+            "snippet": "Mercury, lead and methanol found in counterfeit beauty products seized across UK The Guardian"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "\"바꾸고 싶지 않아요\": 흉터와 얼굴 특징을 지우는 AI 뷰티 트렌드에 대한 반발",
+          "summary": "흉터나 얼굴의 고유한 특징을 AI로 지워 보정하는 트렌드가 당사자들에게 불쾌감을 준다는 비판을 받고 있습니다. 획일적인 미의 기준에 대한 문제 제기가 이어지고 있습니다.",
+          "why": "피부 관리는 '완벽한 피부'보다 건강하고 편안한 피부를 목표로 할 때 오래 지속할 수 있습니다.",
+          "article": {
+            "source": "Google News EN (Beauty Trends)",
+            "title": "'I Don't Want It Changed': The 'Super Offensive' AI Beauty Trend Erasing People's Scars and Facial Differences - Fashion Times UK",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemNmZ1E0SnlQOVlyc3pja3JmaVZaMHlxeU1keGZpa2VoMV8xQWItNGlSaEZqWDBjWTJWSm1rSXY4dE41VGtEcGxpdUphSkprN0d4VFNEZzVZWjBPMnFoVUdCNkVmOUI5ZGVBb05QU1RBcnRBV2dHZElMeV9KbGxRbFZJOFR6NmxDdWZhWmtsUzI?oc=5",
+            "published": "2026-10-30T09:24:14.000Z",
+            "snippet": "'I Don't Want It Changed': The 'Super Offensive' AI Beauty Trend Erasing People's Scars and Facial Differences Fashion Times UK"
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "고급 호텔에 피부과 클리닉 입점… 외국인 환자 유치 경쟁",
+          "summary": "서울의 고급 호텔들이 피부과 클리닉을 들이며 해외 VVIP 환자 유치에 나섰습니다. K-뷰티와 피부 시술 관광 수요가 커지면서 숙박과 시술을 결합한 형태가 늘고 있습니다.",
+          "why": "피부 시술 시장이 고급화·다양화되는 만큼 시술 선택 시 의료진 자격과 사후 관리 체계를 확인하는 것이 중요합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Luxury Hotels Open Dermatology Clinics to Court Foreign Patients - Seoul Economic Daily",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNU0zZS1jWGs2Q05wY19xcVdTNlBTV25ZMzJuT1FMX3dLM1VVZ0VQOU1VUU9jQkVpOUFXQkMyeHNUNEl3ZFc3aGY0Z3UtYTlVT0ZqRlNDSS02QTdpS0NZQ0RiT2M5c282eDFwdF9aUzRNQU9JYUdmbXV6cWpfS0dZUkFhSWpBdXc5amwxeEUxeXZ1LTJzRVZndmt4NGRpUQ?oc=5",
+            "published": "2026-10-30T08:49:41.000Z",
+            "snippet": "Luxury Hotels Open Dermatology Clinics to Court Foreign Patients Seoul Economic Daily"
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "무신사, 홍대 이어 성수에 400평 뷰티 매장… 700개 브랜드 집결",
+          "summary": "무신사가 홍대에 이어 성수동에 약 400평 규모의 뷰티 매장을 열고 700여 개 브랜드를 한곳에 모았습니다. 오프라인에서 직접 체험하고 고르는 뷰티 소비 흐름이 강해지고 있습니다.",
+          "why": "새 제품은 매장에서 테스트해 보고 피부 반응을 확인한 뒤 구매하는 것이 트러블을 줄이는 방법입니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "무신사, 홍대 이어 성수에 400평 뷰티 매장…700개 브랜드 집결 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUFpsUXNyQ1Z6Nk5UUVBvU1E0d2NiVUR5MEFJR3Z2Y2pjT1JKb3JQWVQ4VUdxeS01TmhIbzNGOTNZM2xtcW9TZWxUc0ZXZTZ5TnBLWWZLUFjSAVhBVV95cUxPMlBabFFzckNWejZOVFFQb1NRNHdjYlVEeTBBSUd2dmNqY09SSm9yUFlUOFVHcXktNU5oSG8zRjkzWTNsbXFvU2VsVHNGV2U2eU5wS1lmS1BY?oc=5",
+            "published": "2026-10-30T08:35:18.000Z",
+            "snippet": "무신사, 홍대 이어 성수에 400평 뷰티 매장…700개 브랜드 집결 아주경제"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "더 부드러운 캣아이, '고스트 윙' 메이크업 트렌드 확산",
+          "summary": "선명한 아이라인 대신 은은하게 번지듯 표현하는 '고스트 윙' 캣아이가 새로운 메이크업 트렌드로 떠올랐습니다. 자연스럽고 부드러운 눈매 연출이 핵심입니다.",
+          "why": "눈가는 피부가 얇고 예민하므로 진한 메이크업 후에는 저자극 클렌저로 꼼꼼히 지우는 것이 좋습니다.",
+          "article": {
+            "source": "Google News EN (Beauty Trends)",
+            "title": "The ‘Ghost Wing’ Is the Softer Cat-Eye Trend That’s Taking Over - ELLE",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmE3ckpaekEzNWlkNW41WTZnRTNVR1Zjbkd5ZS1tY1pRZnRnODc0elVFZmplWFZjd3FmZUZOYmNZQVdyY3RWMFB5NVJnN3VHTDdXQzh0VXVTY2lsaTgtYThHbEtkSVNOR1UtaUhKVlk0c3o1ZmJhTE1qWDVEZUxqNktleUpOMU1aNnEwRC16c281a0Z0ckVLTHFiNlR0QQ?oc=5",
+            "published": "2026-10-30T15:06:17.000Z",
+            "snippet": "The ‘Ghost Wing’ Is the Softer Cat-Eye Trend That’s Taking Over ELLE"
+          }
+        }
+      ]
+    }
+  ]
+}
