@@ -1,0 +1,166 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 공고는 2건입니다. 하나는 제이투이의 SAP MM 모듈 운영(SM, 경력 6년 이상), 다른 하나는 볼보그룹코리아의 MM/WM/EWM 영역 시니어 ABAP 개발자(경력 12년 이상)입니다. 신규 공고는 운영(SM)과 개발 위주이고, 구축 프로젝트나 S/4HANA 전환을 내건 신규 MM 공고는 없었습니다. 요구 경력은 6~12년 이상의 중·고경력대에 몰려 있습니다. 동국 계열사에서는 3분기 실적이 나왔는데, 동국제강은 봉형강 판매 확대로 영업이익이 22% 늘었고 동국씨엠은 환율·원재료비 부담으로 60억원 영업손실을 냈습니다. 미국의 도금강판 고율 관세 위협도 새 변수로 떠올랐습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 82,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "SAP SM 운영 조직에서 MM 모듈 운영 인력을 뽑습니다. 근무지는 서울 중구(동대문역사문화공원역 인근)이고 경력 6년 이상이며, 즉시 지원 공고로 마감일은 따로 적혀 있지 않습니다.",
+          "why": "MM 단독 운영 포지션이라 직무가 정확히 맞고 경력 6년 이상이면 지원할 수 있습니다. 다만 사원 120명 규모의 SI·ERP 전문업체라 실제 고객사와 투입 형태를 미리 확인하는 것이 좋습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263307",
+            "published": "2026-10-29T01:40:56.570Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 67,
+          "title_ko": "볼보그룹코리아 · 시니어 SAP ABAP 개발자(MM/WM/EWM)",
+          "summary": "MM·WM·EWM 영역을 맡는 시니어 SAP ABAP 개발자를 채용합니다. 근무지는 경남 창원시, 경력 12년 이상이며 즉시 지원 공고로 마감일은 적혀 있지 않습니다.",
+          "why": "MM·물류(WM/EWM) 도메인을 아는 ABAP 고경력자(12년 이상)에게 맞는 자리로, 매출 1조원대 글로벌 제조사의 창원 근무라는 점을 함께 고려해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "Senior SAP ABAP Developer (MM / WM / EWM) 채용",
+            "company": "볼보그룹코리아",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50271804",
+            "published": "2026-10-30T02:41:49.757Z",
+            "jkCompanyNo": "1416713",
+            "snippet": "회사: 볼보그룹코리아 / 경남 창원시 / 기계·기계설비, IT컨설팅, 데이터분석가, AI서비스개발자 / 즉시 지원 / 경력12년↑ / 회사정보: 사원수 1,484명 / 매출액 1조 7,676억원 (2025년) / 영업이익 891억 5백만원 (2025년)",
+            "companyInfo": {
+              "title": "볼보그룹코리아",
+              "employees": "1,484명",
+              "revenue": "1조 7,676억원 (2025년)",
+              "operatingProfit": "891억 5백만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/1416713"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%B3%BC%EB%B3%B4%EA%B7%B8%EB%A3%B9%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 110,
+          "title_ko": "한국네트웍스 · 그룹사 SAP 시스템 운영(SD 또는 MM 모듈)",
+          "summary": "한국앤컴퍼니그룹 계열사의 SAP 시스템 운영·유지보수(SD 또는 MM 모듈)와 그룹사 SAP 구축 프로젝트 수행을 맡습니다. 근무지는 경기도 성남시 분당구, 경력 7~15년이며 상시 채용입니다(잡코리아에도 경력 7년 이상, 홈페이지 지원 조건으로 같은 공고가 올라와 있음).",
+          "why": "운영과 구축 프로젝트를 함께 경험할 수 있는 그룹사 IT 자회사 포지션으로, 경력 7~15년 MM 컨설턴트라면 상시 지원할 수 있습니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "그룹사 SAP 시스템 운영(SD 또는 MM 모듈)",
+            "company": "(주)한국네트웍스",
+            "link": "https://career.rememberapp.co.kr/job/posting/349966",
+            "published": "2026-10-25T15:00:00.000Z",
+            "snippet": "회사: (주)한국네트웍스 / 경력: 7~15년 / 지역: 경기도 성남시 분당구 / 상시 / • 그룹사(한국앤컴퍼니) SAP 시스템 운영 및 유지보수 (SD 또는 MM모듈) • 그룹사(한국앤컴퍼니) SAP 시스템 구축 프로젝트 수행 / 회사정보: 사원수 192명 / 매출액 525억 8천만원 (2025년) / 영업이익 10억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜한국네트웍스",
+              "employees": "192명",
+              "revenue": "525억 8천만원 (2025년)",
+              "operatingProfit": "10억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/275025"
+            },
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%95%9C%EA%B5%AD%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 99,
+          "title_ko": "LTM · SAP MM·PP 담당",
+          "summary": "LTM이 SAP MM·PP 모듈 인력을 모집합니다. 근무지는 서울이며 경력·고용형태·마감일은 공고에 나와 있지 않습니다.",
+          "why": "MM과 PP를 함께 다루는 서울 근무 포지션이므로, 생산 연계 경험이 있다면 상세 조건을 확인해 볼 만합니다.",
+          "article": {
+            "source": "LinkedIn",
+            "title": "SAP（MM,PP)",
+            "company": "LTM",
+            "link": "https://kr.linkedin.com/jobs/view/sap%EF%BC%88mm-pp-at-ltm-4483862404",
+            "published": "2026-10-28T00:00:00.000Z",
+            "snippet": "회사: LTM / 지역: 서울, 대한민국",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=LTM"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 52,
+          "title_ko": "[동국제강] 3분기 영업이익 299억원, 전년 대비 22% 증가…반도체·AI 수혜",
+          "summary": "동국제강의 3분기 별도 기준 매출은 9,323억원으로 전년보다 21.2%, 영업이익은 299억원으로 22.0% 늘어 시장 전망치를 웃돌았습니다. 반도체 공장과 AI 데이터센터 투자 확대로 봉형강 판매가 늘어난 덕분입니다. 다만 당기순이익은 62억원으로 38% 줄었습니다.",
+          "why": "건설 경기 부진 속에서도 데이터센터·반도체 수요로 봉형강 사업이 실적을 방어하고 있어, 그룹 주력 계열사의 수익 기반이 유지되고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 3Q 영업익·매출액 모두 20%대 성장…반도체·AI 수혜(종합) - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sU3BxVVNOXzhGS2NCdS1sVW9aQW9DMU5WOWlKNmkwaGRHRmh6WW1JdnM5ZHA3NkRlSF9zWWZvQU9nZUdUNmVDN1ZJeXFld1BUeWlLUnQ0LWp3VEtrd3p6dEw5Vnpoa0Zhc3ViT3pITlg?oc=5",
+            "published": "2026-10-30T04:48:06.000Z",
+            "snippet": "동국제강, 3Q 영업익·매출액 모두 20%대 성장…반도체·AI 수혜(종합) 연합인포맥스",
+            "isNew": true
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "[동국씨엠] 3분기 영업손실 60억원…환율·원재료비 상승에 적자 지속",
+          "summary": "동국씨엠의 3분기 매출은 5,799억원으로 전년보다 19.5% 늘었지만 영업손실 60억원으로 적자가 이어졌고 적자 폭도 커졌습니다. 회사는 환율 변동과 원재료비 상승을 원인으로 들었고, 앞으로 고부가 제품 판매 비중을 늘리겠다고 밝혔습니다.",
+          "why": "컬러강판 등 냉연 사업의 수익성이 악화되면서 원가 절감과 구매·원자재 관리 효율화 요구가 커질 수 있는 상황입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국씨엠, 3Q 영업손실 60억…\"환율 변동·원재료비 상승 등 영향\" - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9keGIwNGhBbFBZR3hHd0RDOWdYUUZFREUweXNKa3QycFlQNUNmX1JQYXIxTU83ay1PUVVwa0FnWGVsTlRzeEYtLS00UkJna29iaENRaElXUndNWU1ZVVBjbzNLbXA?oc=5",
+            "published": "2026-10-30T05:18:35.000Z",
+            "snippet": "동국씨엠, 3Q 영업손실 60억…\"환율 변동·원재료비 상승 등 영향\" 뉴스1",
+            "isNew": true
+          }
+        },
+        {
+          "index": 71,
+          "title_ko": "[동국씨엠] 미국 도금강판 관세 70%대 위협…법적 대응 검토",
+          "summary": "미국에서 도금강판에 70%대 고율 관세가 부과될 가능성이 제기되면서 동국씨엠과 KG스틸이 법적 대응을 저울질하고 있다는 단독 보도입니다.",
+          "why": "적자가 이어지는 가운데 대미 수출 부담까지 커질 수 있어, 동국씨엠의 해외 판매 전략과 수익성에 추가 리스크가 될 수 있습니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "[단독] 美 도금강판 관세 70%대 위협…동국씨엠·KG스틸, 법적 대응 저울질 - 철강금속신문",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6WkNPY01NdGxaOVNIQ25GNkMzcWxpWkJOaTM0Mk8xTEZMR1l6NlFxVUxqUks2aktUVWswSjV2c0JnaEF4emg1eTlzMk14TkF1UGdBOGtDYXJmd0ZUaFY1Vl9EcFE?oc=5",
+            "published": "2026-10-29T20:00:00.000Z",
+            "snippet": "[단독] 美 도금강판 관세 70%대 위협…동국씨엠·KG스틸, 법적 대응 저울질 철강금속신문",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
