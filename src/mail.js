@@ -117,7 +117,18 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
   </div></body></html>`;
 }
 
+// 메일 본문의 일반 텍스트판. HTML 만 있는 메일은 다음(daum) 등 일부 메일 서비스가 스팸으로 보기 쉬워 함께 보낸다.
+function htmlToText(html) {
+  return html.replace(/<(style|script)[\s\S]*?<\/\1>/gi, "")
+    .replace(/<a [^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi, "$2 ($1)")
+    .replace(/<br\s*\/?>|<\/(p|div|h\d|li|tr)>/gi, "\n").replace(/<[^>]+>/g, "")
+    .replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#0?39;/g, "'")
+    .replace(/[ \t]+/g, " ").replace(/\n\s*\n\s*/g, "\n\n").trim();
+}
+
 // 발신자 표시 이름과 수신자는 에이전트별로 바꿀 수 있다. to 가 비어 있으면 .env 의 MAIL_TO 를 쓴다.
+// 수신자마다 따로 보낸다: 한 통에 여러 주소를 넣으면 받는 쪽(다음 등)이 대량 발송으로 보고 거르기 쉽고,
+// Gmail 이 한 주소만 거절해도 알아차리기 어렵다.
 export async function sendMail({ subject, html, fromName = "SAP Info Agent", to = "" }) {
   const { SMTP_USER, SMTP_PASS } = process.env;
   const toList = String(to || process.env.MAIL_TO || "").split(",").map((s) => s.trim()).filter(Boolean);
@@ -126,10 +137,22 @@ export async function sendMail({ subject, html, fromName = "SAP Info Agent", to 
     host: "smtp.gmail.com", port: 465, secure: true,
     auth: { user: SMTP_USER, pass: SMTP_PASS.replace(/\s+/g, "") },
   });
-  const info = await transporter.sendMail({
-    from: `"${fromName.replace(/"/g, "'")}" <${SMTP_USER}>`,
-    to: toList,
-    subject, html,
-  });
-  return info.messageId;
+  const text = htmlToText(html), ids = [], failed = [];
+  for (const addr of toList) {
+    try {
+      const info = await transporter.sendMail({
+        from: `"${fromName.replace(/"/g, "'")}" <${SMTP_USER}>`,
+        to: addr,
+        subject, html, text,
+      });
+      if (info.rejected?.length) failed.push(`${addr}: 거절됨 ${info.response || ""}`);
+      else ids.push(info.messageId);
+    } catch (e) {
+      failed.push(`${addr}: ${e.message}`);
+    }
+  }
+  // 모두 실패하면 오류(실패 알림 메일), 일부만 실패하면 이미 받은 사람에게 다시 보내지 않도록 기록만 남긴다
+  if (failed.length && !ids.length) throw new Error(`메일 발송 실패 - ${failed.join(" / ")}`);
+  if (failed.length) console.error(`일부 수신자 발송 실패: ${failed.join(" / ")}`);
+  return ids.join(", ");
 }
