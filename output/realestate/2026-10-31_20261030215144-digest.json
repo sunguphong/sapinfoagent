@@ -1,0 +1,264 @@
+{
+  "overview": "서울 아파트값은 오름폭이 2주 연속 줄어든 가운데 강남3구는 하락세가 이어졌습니다. 반면 전세가격은 강세를 보이며 매매와 전세가 엇갈리는 모습입니다. 올해 아파트 수요가 서울에서 경기로 옮겨 가고 있다는 분석이 나왔고, 부천·용인 등 수도권 외곽에서는 상승세와 경매 열기가 이어지고 있습니다. 지방 시장 침체를 이유로 스트레스 DSR 3단계 시행이 또 미뤄질 수 있다는 전망도 나왔습니다. 동탄은 한 주 새 아파트값이 0.98% 올라 주간 상승률 최상위권에 들었습니다.",
+  "categories": [
+    {
+      "name": "금융·대출",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "침체 빠진 지방 부동산… '스트레스 DSR 3단계' 시행 또 유예되나",
+          "summary": "지방 부동산 침체가 길어지면서 스트레스 DSR 3단계 시행을 다시 미룰 수 있다는 관측이 나왔습니다. 스트레스 DSR은 대출 한도를 계산할 때 미래 금리 상승분을 가산금리로 더해 한도를 줄이는 제도입니다. 3단계가 시행되면 대출 한도가 더 줄어듭니다. 구체적인 유예 기간과 적용 대상(지방 한정 여부 등)은 정부 발표를 확인해야 합니다.",
+          "why": "유예 여부에 따라 주택담보대출 한도가 달라지므로 대출을 끼고 집을 사려는 사람은 매수 시점을 정할 때 꼭 확인해야 합니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "침체 빠진 지방 부동산… ‘스트레스 DSR 3단계’ 시행 또 유예되나 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUFLS1RzZGU3WGwtcGpoLTU1NmlNXzUzVXVtdVpfSXpERjlEQWJiOGtwb2dFdkdFS2JaVG1faDcwQlJnN3Y3UWs2TWNXTmlwbzIwRjhNeXYwRnFtdTFTRkpaaWF3VVJxV1BNaF9rVDdrUkZjWVphSUN4VlFodHZjbtIBlAFBVV95cUxONnplSkhXX1dLS3VPWWVmWk5hYzdXdDlFNzNodGVmY19mbl9RdFh0ZFVBSHJaRTVRVTQ3UERKeVZ4TmJRNUtVelhHNTVKNVFDLWhhV3NwaksxOHZXWWxfZlFwT1VtYW5GM25WZ0ZmaldvbmtzX0tDYXhtNlFLV3NqZ24tQWM5cnNqTDNXZnZlclJWam9K?oc=5",
+            "published": "2026-10-30T21:02:40.000Z",
+            "snippet": "침체 빠진 지방 부동산… ‘스트레스 DSR 3단계’ 시행 또 유예되나 Chosunbiz"
+          }
+        }
+      ]
+    },
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 3,
+          "title_ko": "서울 아파트값 2주 연속 상승폭 둔화…강남3구 하락세 지속",
+          "summary": "서울 아파트값 상승폭이 2주 연속 줄어들었습니다. 강남·서초·송파 등 강남3구는 하락세를 이어갔습니다. 서울 핵심지부터 숨 고르기에 들어간 것으로 보입니다.",
+          "why": "서울 상급지의 가격 조정은 수도권 전체 시세 흐름을 가늠하는 선행 지표가 될 수 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트값 2주 연속 둔화…강남3구 하락세 이어져 - 더구루",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NdWgwTWVkc25GUFA5eWNSTkRLN3BIdkxvTDBzaG9Eb2wwZVdRRjl0MUI3UTVtR0poei1LWC1PSEc0bmNWbFREVm02SXJDYlE2TlBabHEwdVltbTlwMFE?oc=5",
+            "published": "2026-10-30T19:53:21.000Z",
+            "snippet": "서울 아파트값 2주 연속 둔화…강남3구 하락세 이어져 더구루"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "서울 아파트 매매값은 하락, 전세는 고공행진…오피스텔은 면적별 거래 양극화",
+          "summary": "서울 아파트 매매가격은 약세인 반면 전세가격은 높은 오름세를 이어가고 있습니다. 오피스텔 시장에서는 면적에 따라 거래가 몰리는 곳과 그렇지 않은 곳이 뚜렷하게 갈리고 있습니다.",
+          "why": "전세가 강세가 이어지면 세입자의 부담이 커지고, 매매 전환이나 오피스텔 같은 대체 주거 수요가 늘어날 수 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트 매매값 하락, 전세는 고공행진⋯오피스텔 면적별 거래 양극화 '뚜렷' - 뉴스N연합",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NR01aMnIwVjluZjNnbGtpbkFvci1NOWRTV2NfbHNBbWZaZmJYUDlBTUxZRktkbEpObXVwb2N4NUhfRVJyaDBnUlRMVzBoUms?oc=5",
+            "published": "2026-10-30T10:57:28.000Z",
+            "snippet": "서울 아파트 매매값 하락, 전세는 고공행진⋯오피스텔 면적별 거래 양극화 '뚜렷' 뉴스N연합"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "올해 아파트 수요 이동 '서울은 식고 경기는 달아올라'",
+          "summary": "함영진 부동산 전문가는 올해 아파트 수요가 서울에서 경기도로 옮겨 가는 흐름이 뚜렷하다고 분석했습니다. 서울 진입 부담과 규제 영향으로 경기권 매수세가 상대적으로 강해졌다는 진단입니다.",
+          "why": "수도권 외곽에서 내 집 마련을 검토하는 사람에게 지역별 수요가 어디로 움직이는지는 매수 시기와 지역을 고르는 핵심 참고 자료입니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "[함영진의 부동산화수분] 올해 아파트 수요 이동 ‘서울 식고 경기 달아올라’ - 한국아이닷컴",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rVVExc3pmTVViRlc4OEpiSHk4V0JpbUFEak53dXBKMGgyZHIxNWliV2wzeWxtampqR3V4bzlVeU0xY0ppc3VWN3ZjSGVCbXM4QmpCVXpFSktWaXNuT1d0TkFWWUlDNFBRSjhv0gFvQVVfeXFMTVBCN1dWNnRGTUNJbkpvMFlMYkZGeTJ4cXF2cnpNajRQU291al80X2oxeERKMGhGeThfTmtSYUlHcmdFSWpBSzZCTG1NaUE4T01XcTEySlJuT2hzNXJXdXlMeXhZVm92X2x2YmNOa0FF?oc=5",
+            "published": "2026-10-30T09:00:00.000Z",
+            "snippet": "[함영진의 부동산화수분] 올해 아파트 수요 이동 ‘서울 식고 경기 달아올라’ 한국아이닷컴"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "부천 아파트값 0.21% 상승…원미구 0.34%로 상승세 주도",
+          "summary": "부천 아파트값이 주간 0.21% 올랐습니다. 이 가운데 원미구가 0.34% 오르며 상승세를 이끌었습니다.",
+          "why": "서울과 맞닿은 경기 서부권에서도 오름세가 확산되고 있다는 신호입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "부천 아파트값 0.21% 상승 … 원미구 0.34%로 상승세 주도 - 부천포커스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02UlJ5dS05LW11X0tPM19VdGlRSVlBQjhfeEhyWWd5OWVIY1kxdHI5RjFnTE8ycVZlYUJYMzRfMG9PUGtOVHNVQnBTaUFEdEVINk1nWHM2bno5eC0wYlVwdTJLcU1fZEpEQVE?oc=5",
+            "published": "2026-10-30T21:32:58.000Z",
+            "snippet": "부천 아파트값 0.21% 상승 … 원미구 0.34%로 상승세 주도 부천포커스"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "반도체 호황에 용인 아파트 경매 '열풍'",
+          "summary": "반도체 산업 호황의 영향으로 용인 지역 아파트 경매에 응찰자가 몰리고 있습니다. 반도체 클러스터 등 개발 기대감이 경매 시장까지 번진 모습입니다.",
+          "why": "경매 열기는 해당 지역의 매수 심리가 강하다는 뜻이며, 인근 경기 남부 시세에도 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "반도체 호황… 용인 아파트 경매 ‘열풍’ - 용인신문",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWODM0aGw1QjVZaEMxRm5JZTVXS1pxQTFsOTZEM2ZKdEhzQkkwZ3dTWF8yVnJQbXhJRmlSRndRQ1N5c25rNWNPRUFOMWxPRWoyS2JZWHhsb050TVdlNUYzUGFyWDM?oc=5",
+            "published": "2026-10-30T09:49:44.000Z",
+            "snippet": "반도체 호황… 용인 아파트 경매 ‘열풍’ 용인신문"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "[부동산 패트롤] 인천 서해·검단·부평, 같은 도시 안 서로 다른 부동산 시장",
+          "summary": "같은 인천 안에서도 서해권, 검단, 부평의 시장 흐름이 서로 다르게 나타나고 있다는 분석입니다. 공급량, 교통망, 입지 여건에 따라 권역별로 온도 차가 커지고 있습니다.",
+          "why": "같은 도시 안에서도 권역에 따라 시세 흐름이 다르므로 지역을 세분화해 판단해야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "[부동산 패트롤] 인천 서해·검단·부평, 같은 도시 안의 서로 다른 부동산 시장 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUTJ0WDIycmpUdllEb2k4WUJTVkxnWWM0dE9hYkFOQ0pOYXJyR1pfTjZzUXI4YXJCNnoyTGxwLUVOSFc3Q25PNW43SzN0ZmtJYjM5LTRuMzhiTE1iV2RNYWpWOUI1UVE5QjBjY0Nn?oc=5",
+            "published": "2026-10-30T11:02:26.000Z",
+            "snippet": "[부동산 패트롤] 인천 서해·검단·부평, 같은 도시 안의 서로 다른 부동산 시장 국제뉴스"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "쿠시먼앤드웨이크필드 \"3분기 서울 상업용 부동산 거래 5.3조원, 선별적 회복\"",
+          "summary": "글로벌 부동산 서비스 기업 쿠시먼앤드웨이크필드는 3분기 서울 상업용 부동산 거래 규모가 5.3조원이라고 집계했습니다. 우량 자산 위주로 거래가 선별적으로 회복되고 있다는 평가입니다.",
+          "why": "상업용 부동산의 자금 흐름은 금리와 투자 심리를 보여 주는 지표여서 전체 부동산 경기를 판단하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "쿠시먼앤드웨이크필드, 3분기 서울 상업용 부동산 거래 5.3조원 선별 회복 - https://www.koreasprint.com/",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHcHdhX3ZoWVR2WGJQZ09BLUNOUW50ZE16dTV3el9hZVQycWFPck9oNkZhQjl4akx4dUtfMFY0cFFiSVBxWm82N2RJeVM0cTNGcndpWjgxd2JlOFlTNHMwZFRiRG15WjdfWEZIWl93?oc=5",
+            "published": "2026-10-30T17:26:00.000Z",
+            "snippet": "쿠시먼앤드웨이크필드, 3분기 서울 상업용 부동산 거래 5.3조원 선별 회복 https://www.koreasprint.com/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "분양·청약",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "[11월 첫째 주 분양동향] 전국 4,928가구 분양…서울 '반값 아파트' 고덕강일3단지 청약",
+          "summary": "11월 첫째 주 전국에서 4,928가구가 분양에 나섭니다. 서울에서는 시세보다 크게 낮은 가격에 공급되는 이른바 '반값 아파트' 고덕강일3단지의 청약이 진행됩니다.",
+          "why": "서울에서 저렴하게 내 집을 마련할 기회여서 무주택 실수요자라면 청약 일정과 자격을 확인해 볼 만합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "[11월 첫째주 분양동향] 전국 4,928가구 분양…서울 ‘반값 아파트’ 고덕강일3단지 청약 - SR타임스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wTWRGR2Z3U21ZR2QtLVFQcDU0WHRoZ0ZjcDIxWFZnRXNuSmMyOGpnaTJha2RPRTZaUXVnU29WZEpxYkFFRlhOM0d1a0NsOV92dEp6aEJxZklFaXVLLXI1UlljOHFwbTIx?oc=5",
+            "published": "2026-10-30T15:05:00.000Z",
+            "snippet": "[11월 첫째주 분양동향] 전국 4,928가구 분양…서울 ‘반값 아파트’ 고덕강일3단지 청약 SR타임스"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "'6.8억 집, 1.7억에 입주'…지분적립형 아파트 첫 분양",
+          "summary": "처음에 집값의 일부만 내고 입주한 뒤 남은 지분을 나눠 사들이는 지분적립형 분양주택이 처음으로 공급됩니다. 6억8천만원짜리 주택에 약 1억7천만원으로 입주할 수 있는 구조로 알려졌습니다.",
+          "why": "목돈이 부족한 무주택자에게 새로운 내 집 마련 방식이 생긴 것이어서 조건과 장단점을 살펴볼 만합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "‘6.8억 집, 1.7억에 입주;…지분적립형 아파트 최초 분양 - 네이트뷰",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qWjl6TDMwY3NtenpvejQzNjBBV1MyYXZpUTZRYjllYnZwMnA3X241MnB1ekFTeUpNbERGWkpHOHFSUnhlR0pqc3ctMEpfYnNH0gFWQVVfeXFMTzFyNGp3NWpybGxTbTNpN3I1SkJhV0V1MFRPWVdhN1Nfa0lDSURIOEI3NEkteHY1ZHFPS2xXdDVQTDhkYXZxTzQ1dlpLVE52SlV1UllvUnc?oc=5",
+            "published": "2026-10-30T09:24:00.000Z",
+            "snippet": "‘6.8억 집, 1.7억에 입주;…지분적립형 아파트 최초 분양 네이트뷰"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "하이엔드 아파트 청약 경쟁률, 일반 단지의 3.8배…상품성이 흥행 갈랐다",
+          "summary": "고급 브랜드를 내세운 하이엔드 아파트의 청약 경쟁률이 일반 단지보다 약 3.8배 높았습니다. 입지만큼이나 설계, 커뮤니티 시설 등 상품성이 청약 흥행을 가르는 요인이 되고 있습니다.",
+          "why": "청약 수요가 상품성이 좋은 단지로 쏠리고 있어 당첨 가능성과 향후 시세 차이를 함께 따져봐야 합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "하이엔드 아파트 청약 경쟁률 일반 단지의 3.8배…상품성이 흥행 갈랐다 - 아시아타임즈",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nOFZOWmRtbWVsTHdpNS1KX25zRGFuYXRQenpPc2dFOXRGeWZQNWlCeHd4WGVUY2pNcmNDMUt5elE2VGJaNTBYYWJtZ0xIakFPV2U1TkdRVkRETGd1c0E?oc=5",
+            "published": "2026-10-30T15:00:48.000Z",
+            "snippet": "하이엔드 아파트 청약 경쟁률 일반 단지의 3.8배…상품성이 흥행 갈랐다 아시아타임즈"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "청주 아파트 청약 극명한 희비…호황 속 불경기 계속",
+          "summary": "청주 지역 아파트 청약 결과가 단지별로 크게 엇갈렸습니다. 일부 단지에는 수요가 몰렸지만 미달 단지도 나오는 등 양극화가 이어지고 있습니다.",
+          "why": "지방 청약은 단지별 차이가 커서 지역 평균보다 입지와 분양가를 개별적으로 따져봐야 합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "청주 아파트 청약 극명한 희비…호황 속 불경기 계속 - 노컷뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pY2RBNVNidUl6MzJmemNiOHIxQnVBcXg0X2Zrc3FBNDRkYnF4YXpxbkJXY3loQ01OVy1Hdl9HOTlLaVdwWVdCN1ByeFFjSWRHQlE?oc=5",
+            "published": "2026-10-30T09:49:38.000Z",
+            "snippet": "청주 아파트 청약 극명한 희비…호황 속 불경기 계속 노컷뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 32,
+          "title_ko": "서울 아파트값 90주 연속 상승…동탄 0.98%·병점 0.92% 급등",
+          "summary": "주간 아파트값 통계에서 서울은 90주 연속 올랐습니다. 화성시 동탄은 0.98%, 병점은 0.92% 오르며 두드러진 급등세를 보였습니다.",
+          "why": "동탄의 주간 상승률이 1%에 가까워 매수 대기자는 가격 부담이 커지고 있으며, 추격 매수에 주의가 필요한 시점입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "[속보]서울 아파트값 90주 연속 올랐다…동탄 0.98%·병점 0.92% 급등 - 네이트",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDT0szNzh4UTNXdjhyc1ZrWDYtQ3EtWnRwd3ozdzQzVmFwRjF2Z2dxcFE2Ykx4M2s1R0dVN0E4NlpzaDdlak11X3pTTEg?oc=5",
+            "published": "2026-10-30T02:42:18.000Z",
+            "snippet": "[속보]서울 아파트값 90주 연속 올랐다…동탄 0.98%·병점 0.92% 급등 네이트"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "아크메르동탄, 고분양가 우려 넘어서",
+          "summary": "동탄에서 분양한 '아크메르동탄'이 높은 분양가에 대한 우려에도 수요를 확보한 것으로 전해졌습니다. 최근 동탄 시세 상승세가 분양 성과에도 영향을 준 것으로 보입니다.",
+          "why": "높은 분양가에도 분양이 잘 됐다는 것은 동탄 신규 분양가 수준이 오르고 있다는 의미여서 향후 청약 전략에 참고가 됩니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "아크메르동탄 고분양가 허들 넘어서 - CWN",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4eUNvWlVpSE5QQll2RFJPWjhFREhOR2EzQXNNejR5UzJNOG1zUDBCQmxMWEVyMlN4SVduVHljdkxzNDBMNGowWlV1bXU1emVTRFRkRUVERmEyZHdfX1ZsVVhn?oc=5",
+            "published": "2026-10-30T02:36:01.000Z",
+            "snippet": "아크메르동탄 고분양가 허들 넘어서 CWN"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "아파트 전세난에 실거주형 오피스텔 거래 증가…'동탄역 헤리움 센트럴' 잔여 세대 공급",
+          "summary": "아파트 전세난으로 실거주용 오피스텔 수요가 늘어나고 있습니다. 동탄역 인근 오피스텔 '동탄역 헤리움 센트럴'이 잔여 세대를 공급합니다.",
+          "why": "동탄 아파트 전세가 부담스러운 사람에게 동탄역 인근 오피스텔은 대체 주거 선택지가 될 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "아파트 전세난에 실거주형 오피스텔 거래 증가…‘동탄역 헤리움 센트럴’ 잔여 세대 공급 - 서울신문",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IWFFwVFo4UVR6NU1nMkdXa1BWdXJ1UnByaVN6VHBIcWR4cnZnaVFudlJOdFNPSnNuZ1JjZzd4ZDEyMmw4YV84ODk5bEtoUVcxVWE3QlVObw?oc=5",
+            "published": "2026-10-30T00:57:18.000Z",
+            "snippet": "아파트 전세난에 실거주형 오피스텔 거래 증가…‘동탄역 헤리움 센트럴’ 잔여 세대 공급 서울신문"
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "이준석 의원실, 동탄4·6·7·8·9동 주민 1,004명 대상 예산 우선순위 조사",
+          "summary": "이준석 의원실이 동탄4·6·7·8·9동 주민 1,004명을 대상으로 지역 예산의 우선순위를 묻는 조사를 진행했습니다. 교통, 생활 인프라 등 주민들이 원하는 사업이 무엇인지 파악하려는 목적입니다.",
+          "why": "조사 결과에 따라 동탄 지역 인프라 예산 배정 방향이 정해질 수 있어 거주 여건 변화를 가늠하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "이준석 의원실, 동탄4·6·7·8·9동 주민 1,004명 대상 예산 우선순위 조사 - 화성신문",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yWl9TZzRkby1BUUpUTUlVMF9YUE9KNkoyTEVyOEd6U0pxWUpsQlM5aVoySWtLUU9OaUNKWm5ESHRRZw?oc=5",
+            "published": "2026-10-29T08:21:00.000Z",
+            "snippet": "이준석 의원실, 동탄4·6·7·8·9동 주민 1,004명 대상 예산 우선순위 조사 화성신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 36,
+          "title_ko": "GTX-C, 은마아파트 관통 구간 축소…대치우성·쌍용 주민 반발하며 공사 중지 가처분 검토",
+          "summary": "GTX-C 노선이 은마아파트 지하를 지나는 구간을 줄이는 쪽으로 조정되면서 노선이 인근 대치우성, 쌍용아파트 쪽으로 옮겨 갔습니다. 해당 단지 주민들은 강하게 반발하며 공사 중지 가처분 신청을 검토하고 있습니다.",
+          "why": "법적 분쟁으로 번지면 GTX-C 공사 일정이 늦어질 수 있어, 동탄 등 노선 수혜 지역 주민도 진행 상황을 지켜봐야 합니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "GTX-C 은마 관통 축소…우성·쌍용 주민 반발 : 부동산 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KZEJocEV0N2xxSVdtWU11cnRYNklmRnZXSGs5ZGJaTWRIclVnQTZXUzdhUF9HcDc2ZFhSNTl0cmJsXzN5QU9hZGxaZw?oc=5",
+            "published": "2026-10-30T01:04:00.000Z",
+            "snippet": "GTX-C 은마 관통 축소…우성·쌍용 주민 반발 : 부동산 재경일보"
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "GTX-C 개발 호재 품은 군포 금정역세권1구역 재개발, 아이파크 아파트 들어선다",
+          "summary": "GTX-C 정차역이 들어설 군포 금정역 일대의 금정역세권1구역 재개발 사업에 아이파크 브랜드 아파트가 들어섭니다. GTX-C 개통 기대감이 역세권 정비사업으로 이어지고 있습니다.",
+          "why": "GTX-C 정차역 주변 개발이 본격화되면서 노선을 따라 주변 시세와 주거 환경이 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "GTX C노선 개발호재 품은 군포 금정역세권1구역 재개발, 아이파크 아파트 들어선다 - 뉴스N연합",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DVWpTSHNjbHN2WkpMU1I1eUVPcldzOHJRb005OWFLRENzclU4dmpyVUF5cV9YeWJPMEx1UEV6aXQxa2xpU0R5QUd3?oc=5",
+            "published": "2026-10-29T23:55:36.000Z",
+            "snippet": "GTX C노선 개발호재 품은 군포 금정역세권1구역 재개발, 아이파크 아파트 들어선다 뉴스N연합"
+          }
+        }
+      ]
+    }
+  ]
+}
