@@ -1,0 +1,207 @@
+{
+  "overview": "지난주 열린 SAP TechEd 2026에서 SAP는 '자율 기업(Autonomous Enterprise)'을 핵심 메시지로 내세우며 Joule 에이전트, Business AI Platform, Business Data Cloud(BDC) 관련 발표를 쏟아냈습니다. 표 형식 데이터 특화 AI 모델 SAP-RPT-2.0과 국제우주정거장(ISS) 엣지 배포, 인텔과의 피지컬 AI 협력 등 AI 적용 범위를 물리 세계로 넓히는 발표도 눈에 띕니다. 클라우드 ERP 전환을 돕는 마이그레이션·모더나이제이션 어시스턴트와 2027년 예정인 Enterprise AI Gateway 등 실무와 직결되는 로드맵도 공개됐습니다. 비즈니스 측면에서는 NTT와의 소버린 클라우드 협력과 €24.1B 규모 클라우드 수주잔고의 연말 실적 전환 여부에 관심이 쏠리고 있습니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "SAP TechEd 2026: SAP, 개발자에게 \"자율 기업은 여러분이 만들 수 있다\"고 강조",
+          "summary": "SAP는 TechEd 2026에서 개발자가 AI 에이전트로 자율 기업을 구현할 수 있다는 메시지를 핵심 주제로 내세웠습니다. AI, Joule, 자율 기업 관련 신규 기능과 개발자용 도구 확장이 함께 소개됐습니다.",
+          "why": "올해 TechEd 발표 전반의 방향을 파악하는 출발점으로, 향후 제품 로드맵과 프로젝트 제안 방향을 잡는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise” - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGw0RjRCN25yalBFd25JalNyYTl2WXlNVmpYNG9Wb011VVJzZExOdzVkdmJabmVSc0dZMTVyVU15eUx5V0daaV9uRk5rRldKTlJvd2lfaE9ENlJVQnkxTkd5anpnUlhSSGxra2tkcGpzVlVBeUdWOVhURFU3b3dHRVU0ZkNOWmNkTldMd3Fod2U?oc=5",
+            "published": "2026-10-28T16:34:36.000Z",
+            "snippet": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise” SAP News Center"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "SAP, 에이전틱 AI 확산 위해 Business AI Platform과 Joule 강화",
+          "summary": "SAP가 에이전틱 AI 도입을 가속하기 위해 Business AI Platform과 Joule의 기능을 확대했습니다. 복잡한 업무 프로세스를 처리할 수 있도록 Joule 에이전트가 대폭 업데이트됐다는 평가도 함께 나왔습니다.",
+          "why": "Joule 에이전트가 단순 질의응답을 넘어 프로세스 실행 영역으로 확장되면서 업무 설계와 권한·통제 설계 방식에 변화가 예상됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption - ITWeb",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHozZW14aEdrZzJKalM1Vl9Ra0ZJeXJZYWFZb2x4bjhCLU9TVkRwQ2duTUE5VXdNTlFMRUZUa2diczB0SG95RWgwV1QtQlBURXlCWDdtZUNuZXNaZHVHMjA0RVE1QUFBWWliUElOTEJkWkh1LVQtMW4xUEFrOFVZSTBsLU1jaHBJMUpUcUVLeW5yN2NXYjZvMWlRUEpxNVFSc0c2R2NzcHdnZ2xQNDdTajBkUk5zb2NVZkRxS1Bn?oc=5",
+            "published": "2026-10-30T10:43:07.000Z",
+            "snippet": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption ITWeb"
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "SAP, TechEd 2026에서 SAP-RPT-2.0 출시 및 국제우주정거장(ISS) 엣지 AI 배포 발표",
+          "summary": "SAP가 표 형식(tabular) 비즈니스 데이터에 특화된 AI 모델 SAP-RPT-2.0을 공개하고, HPE와 함께 국제우주정거장에서 엣지 AI로 구동하는 사례를 선보였습니다. Joule Studio에서 이 표 형식 AI를 활용하면 엔터프라이즈 에이전트 개발 시간을 최대 80% 줄일 수 있다는 보도도 나왔습니다.",
+          "why": "ERP 데이터 대부분이 표 형식이라는 점에서 예측·분류 시나리오에 별도 ML 모델 구축 없이 적용할 수 있는 가능성을 검토해 볼 만합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Launches SAP-RPT-2.0 and Edge AI Deployment on ISS at TechEd 2026 - Kalkine Media",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXJFeE1JWVlPTU1CQVVWdWZmZ1NmWU9GMUFXcWlBR0tOd2lOeGJRNkVjQjU0YTFvQW9mQzl4VUVRTE1lcVhiSVNoWTBSSk1ZeThVdVMtSE1QSFBHd0tEVjFpMkd5MGJPUV9lR1BoMnBORVRjRUM5TGh0U2FEYkpmNmVJdUlINjVkQjNJQklCT1lzZ0dKdjBDUFkwZW9JdHd5a0NBT2RrenE5VmVwYlNMczlKTEcyUQ?oc=5",
+            "published": "2026-10-27T08:01:26.000Z",
+            "snippet": "SAP Launches SAP-RPT-2.0 and Edge AI Deployment on ISS at TechEd 2026 Kalkine Media"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "SAP, 피지컬 AI 공개하며 자율 기업을 현실 세계로 확장",
+          "summary": "SAP가 인텔과 협력해 ERP 등 기업 시스템을 로봇과 연결하는 피지컬 AI를 발표했습니다. TechEd에서는 창고 내 자재 운반을 자동화하는 데모가 시연됐습니다.",
+          "why": "EWM·생산 물류 영역에서 SAP 데이터가 로봇 작업 지시로 직접 이어지는 구조가 현실화될 경우 물류·제조 프로젝트 범위가 넓어질 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemo3UUJuUUgtWFFzSGFTVVVBb2xNVHdfclhtRjVpV0RmWjMtNjI0ZFZJalpIemRKczFEa2ZsR3BBMjJFVHlPSTVBd0JFRW5vVE42MW5qbEdzUWNXcUJBYlJJdWxyUG9Jd2NLTHlVWEFBaFdGRmo5S1o4YW1iRF9LWTN4X2RFcjl3aWtfa0JLVGJZRFJlVS1oN1BGQ2hMMTMxbHVzMTNrcHU?oc=5",
+            "published": "2026-10-27T08:06:33.000Z",
+            "snippet": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World SAP News Center"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "SAP BDC의 레이크하우스 및 데이터 패브릭 혁신 | SAP TechEd",
+          "summary": "SAP Business Data Cloud(BDC)의 레이크하우스와 데이터 패브릭 관련 신규 기능이 TechEd에서 소개됐습니다. 엔터프라이즈 AI 에이전트를 뒷받침하기 위해 데이터 패브릭과 마스터 데이터 관리 도구도 확장됐습니다.",
+          "why": "AI 에이전트 성과가 데이터 품질과 마스터 데이터 정합성에 달려 있는 만큼 BDC·MDG 아키텍처 설계의 중요성이 더 커집니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXk5bjRZUXhRN05JMGw0Mnd3MU15TDhCVkdXNlhsQXJYMF95NmtnTVBZQW9GTVVwS3hsLUJPSlpXMVJCOWhlYlJBNjRTTHJVdTZIQjlWdnZLLVlCd284MkVwTEd2VjJSOTlOd1NjSW1ZRmRjM2h5Y01fbjNDNGRhejkzZDlXZGZMaDluc1NoODlYdzBiNUROd3ZLczBISzFFTDNF?oc=5",
+            "published": "2026-10-29T11:04:36.000Z",
+            "snippet": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd SAP News Center"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "SAP, Joule 도구 단계적 도입… Enterprise AI Gateway는 2027년 예정",
+          "summary": "SAP가 Joule 관련 도구를 단계적으로 출시하며, 기업용 AI 접근을 통합 관리할 Enterprise AI Gateway는 2027년에 내놓을 계획입니다.",
+          "why": "기능별 출시 시점이 다르므로 고객 AI 도입 로드맵을 세울 때 일정 차이를 감안해야 합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 - OpenTools",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmFvSnlfU3F1NUMyb0VwYkx3QmM3R2ttZ05BdWpwWUdiNjg3Y2JSUXRzSTBFTk9qYmZIaENoWHBPQ3FNSnlOMXhDbm1KNHliSjZrTC1tWjlNMFo1QlJTRFFSY3Z5TlFPWU15emMzbHZQSFdJVHVVVzlYaEx4OXZuVElqb2diNUZraU1uU20zVEZVdEU?oc=5",
+            "published": "2026-10-27T17:20:41.000Z",
+            "snippet": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 OpenTools"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "SAP, TechEd에서 AI 거버넌스 선도 방안 제시",
+          "summary": "SAP가 TechEd에서 기업이 AI를 안전하게 운영하기 위한 거버넌스 접근법을 소개했습니다. 에이전트 확산에 맞춰 통제와 관리 체계를 함께 갖춰야 한다는 점을 강조했습니다.",
+          "why": "에이전트 도입 시 고객사의 감사·내부통제 요구에 대응할 거버넌스 설계 논리로 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Shows How to Lead with AI Governance at SAP TechEd - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0FISWFZVWlBb0lEYVJSQWo2U21McF9vOWhzQjlsTlJEbXhoeHM3eEYyQTR0S2xDMGJBZFJYUUZwaFBhUDJEU2tGR0p5MEpiSVdTV3JCOFpMVHFDenowWU5YS0pIb0lkclpmQW5yaHF6ckJRU2o0MnRMRnlZQWFqSmVadw?oc=5",
+            "published": "2026-10-30T11:04:38.000Z",
+            "snippet": "SAP Shows How to Lead with AI Governance at SAP TechEd SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "SAP, 클라우드 ERP 전환을 위한 마이그레이션·모더나이제이션 어시스턴트 출시",
+          "summary": "SAP가 고객의 클라우드 ERP 전환을 지원하는 AI 기반 마이그레이션 및 모더나이제이션 어시스턴트를 선보였습니다. 기존 시스템 분석과 커스텀 코드 현대화 등 전환 작업의 부담을 줄이는 것이 목표입니다.",
+          "why": "ECC→S/4HANA 전환 프로젝트의 분석·코드 리메디에이션 공수 산정 방식에 직접 영향을 줄 수 있는 도구입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDNITDF0aTdNbEdIcS0tZ3NKbjBzMWtVbTQ5SkdBazExTUt6STFESHZIWmtzckY5Unp5clBJOTJpeGxlSldXTmJQdGY0bTM1cWdoY09mSDJCcnZpOHh5N0JQY0lnSFV2V3BxcklmSVhLZTdfelF0cG13N3dPYTVSRGZkbWR5MTVyd2xLWDdnZWlsQkJyV2Z2aDFXRDBYU20tUGVLcnBQUHkyS3M?oc=5",
+            "published": "2026-10-28T11:04:35.000Z",
+            "snippet": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations SAP News Center"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "Redwood Software 신규 제품, SAP 솔루션 확장(Solution Extension)으로 판매",
+          "summary": "Redwood Software가 개발한 새로운 제품이 SAP Solution Extension으로 지정되어 SAP를 통해 판매됩니다.",
+          "why": "SAP 환경의 작업 스케줄링·자동화 영역에서 SAP 공식 라인업으로 조달 가능한 선택지가 늘어난다는 의미가 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "New Offering Developed by Redwood Software to Be Sold as an SAP Solution Extension - Press Release Hub",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanoxNEN1OWZVLXdXa3BESmNMWkcxRkdJY3hLQjFGajA3dzhfeGlWZHMtN2hrUWw0cnRWc2dabUFVckpuLXpWeE5LcnBnN3NZQzlCVllncHFCN0Nta295eHBpVWQ1V2tNUmxYOTFXTlYtclBzNGFwVlJaX3dJbXQ4QjF3M1p3WkFDR3VMNGhaRk1ZMWcyY3pHVzdRWnJKV01UQk9nT05la3BmTGRMRnFORWhscmVpTHdVZGRoVUxGRlRPS21IS0JORTh3UENwNlk?oc=5",
+            "published": "2026-10-26T07:02:16.000Z",
+            "snippet": "New Offering Developed by Redwood Software to Be Sold as an SAP Solution Extension Press Release Hub"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 22,
+          "title_ko": "SAP와 NTT, 신뢰할 수 있는 소버린 클라우드와 SAP Business AI 제공 협력",
+          "summary": "SAP와 NTT가 소버린 클라우드와 SAP Business AI 역량을 공동 제공하기로 했습니다. 애널리스트들은 이와 함께 SAP의 클라우드 수주잔고에 긍정적인 평가를 내놓고 있습니다.",
+          "why": "데이터 주권 규제가 엄격한 공공·금융 고객에게 SAP 클라우드 도입 대안이 넓어지는 흐름입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFVtd2lhQ3RqUzhRazE5ZWhRVlVNVHhhLVJ2WW1lSUtGbVNERlVXSVFHWHhKLUpCZE8wZ2U3MzRydk5DODRXR3FXeG9lMDJfUjhXVWdRUFF0RkZRaDBybzBPMXVUbVhnaGI2VDJUZ3lieDNBT3BYVk16YnhleWwzOXo5M2MzdTUzOFdVNlotajFjeEFlOGJsT1ZVLWcydHJIZ3FaemFoUTFhMTlKS1RxMg?oc=5",
+            "published": "2026-10-28T08:09:36.000Z",
+            "snippet": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities SAP News Center"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "SAP의 €241억 클라우드 수주잔고, 연말 수주 실적과 AI 비용 문제라는 이중 시험대에",
+          "summary": "SAP의 €24.1B 규모 클라우드 수주잔고가 연말 신규 수주 실적과 AI 관련 비용 부담이라는 두 가지 과제에 직면했다는 분석입니다. AI 로드맵은 호평을 받고 있지만 수익화 방식은 아직 정해지지 않았다는 지적도 나옵니다.",
+          "why": "AI 기능의 과금 구조와 클라우드 계약 조건이 고객 협상과 라이선스 자문에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP's €24.1 Billion Cloud Backlog Faces a Double Reckoning: Year-End Bookings and the AI Cost Ques - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdjM3blhhamFlYVFuYU90U0VjMGF3UzloM29rY3Y0OUZXTVFOcGRpdjBRMmh4bGdkUFJoTlFlWGMtRXpOWmFSeDM0SlNzc3NJeEZBMFZtd1k1cUl5aUt3R3Y5MFluWmVKcC1xaEYyNVBwWWZRbnRvQkw3ZVZQd2hJN1NKNTZvNGlZQW9rWUZfbzRPa25YZjJoOVJSU1VMb0lGQ09kNHQ0TEZJUThSR0NDTW9uaEtobDg5TmltaEk5V3RFRGNvNF84dnJiZS1YQzhaejJKa0tMQ0RXT0h2bFJBQV9SVS1fdVEtaGZZQ0VZYlltZ1NPczk4Y3Y2WXRjWEZfUkE?oc=5",
+            "published": "2026-10-31T02:01:29.000Z",
+            "snippet": "SAP's €24.1 Billion Cloud Backlog Faces a Double Reckoning: Year-End Bookings and the AI Cost Ques ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "SAP TechEd - 보쉬, 강화된 Joule Work 조기 도입 성과는?",
+          "summary": "보쉬가 강화된 Joule Work를 조기 도입해 활용한 경험을 TechEd에서 공유했습니다. 대형 제조 기업의 실제 적용 사례로서 도입 효과와 과제가 소개됐습니다.",
+          "why": "고객에게 Joule 도입을 제안할 때 참고할 수 있는 대기업 레퍼런스 사례입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP TechEd - how Bosch's early exposure to an enhanced Joule Work is stacking up - Diginomica",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2ZDZTNtc0N0aXpsLWxwaGcyT2l6LVFYSWFXdHotTXNiY3RSTkctTklWN3NQTHNRZmJEb05FdWZwUTYwRUhXZUpDNGtra2drd2xwOFRrWTdyeXFzNzE0RFZuRUFfOV85YkJPd1N4YzhHX3VOZ09DMUZrR0FYUmcxVUNEMVF5ek5OYml3OENCUFlBZw?oc=5",
+            "published": "2026-10-27T13:57:06.000Z",
+            "snippet": "SAP TechEd - how Bosch's early exposure to an enhanced Joule Work is stacking up Diginomica"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "CDS에서 A2A까지: @cap-js/agents와 SAP AI Core로 프로덕션 CAP 에이전트 구축하기",
+          "summary": "SAP Community 기술 블로그에서 CAP의 CDS 모델을 기반으로 @cap-js/agents 패키지와 SAP AI Core를 활용해 운영 환경용 AI 에이전트를 만드는 과정을 소개했습니다. 에이전트 간 통신(A2A)까지 연결하는 구성을 다룹니다.",
+          "why": "BTP 개발자가 CAP 애플리케이션에 에이전트 기능을 붙이는 실전 구현 방법을 익힐 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "From CDS to A2A: Building a Production CAP Agent with @cap-js/agents and SAP AI Core",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-cds-to-a2a-building-a-production-cap-agent-with-cap-js-agents-and-sap/ba-p/14514274",
+            "published": "2026-10-31T15:29:08.000Z",
+            "snippet": "From CDS to A2A: Building a Production CAP Agent with @cap-js/agents and SAP AI Core"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "CAPM으로 SAP BTP 클라우드 네이티브 확장 설계하기: 클린 코어 아키텍처 패턴",
+          "summary": "SAP BTP에서 CAP 모델(CAPM)을 이용해 클라우드 네이티브 확장 기능을 설계하는 패턴을 정리한 글입니다. S/4HANA 코어를 수정하지 않는 클린 코어 원칙에 맞춘 아키텍처 방안을 다룹니다.",
+          "why": "클린 코어 기반 확장 설계를 표준화하려는 개발·아키텍트 실무자에게 참고 자료가 됩니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Designing Cloud-Native Extensions on SAP BTP with CAPM: Patterns for Clean-Core Architectures - HackerNoon",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemFEU3d5ZElGT1dIOEN5MVhpbE1pelZPbmY2Ty1DSFJCRk9lY2hYLTBJOURDeG8xcE9LNWdXYTUwallaTjlCaVE4Mk5mNUpnNnN0VEJQaE5ybmtnUmhYemMyakljZlhkdk1ZSXFSejk3NEM2MXFSUFFtcjBCUkJESHp2Q29JMGREX0ZrbExqRE16VkhiUHpaRlBKamxkeS1kdW9telBEWVlrbEl4Y29TMDRtVnlIZw?oc=5",
+            "published": "2026-10-31T06:19:32.000Z",
+            "snippet": "Designing Cloud-Native Extensions on SAP BTP with CAPM: Patterns for Clean-Core Architectures HackerNoon"
+          }
+        }
+      ]
+    }
+  ]
+}
