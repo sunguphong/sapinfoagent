@@ -1,0 +1,103 @@
+{
+  "overview": "CES 2027 개막(2027년 1월 초, 라스베이거스)을 약 두 달 앞둔 시점으로, 참가 기업 확정과 부대 행사 발표가 이어지고 있습니다. 가장 눈에 띄는 소식은 일본 소니·파나소닉의 CES 철수 보도로, 중국 가전 브랜드가 프리미엄 시장까지 넘보며 전시장의 세력 구도가 바뀌고 있다는 분석이 나왔습니다. 해외에서는 레노버가 CES 2027 기간에 하이브리드 AI를 주제로 'Tech World' 행사를 연다고 발표했습니다. 국내에서는 환경센서 기업 엔아이디에스가 참가를 확정했고, K-엔터테크 업계가 CES 2027 공동 참가 프로그램 참가사를 모집하는 등 스타트업 쪽 준비가 본격화되고 있습니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 14,
+          "title_ko": "日 소니·파나소닉 CES 철수… 프리미엄까지 넘보는 中 가전",
+          "summary": "일본 대표 가전기업인 소니와 파나소닉이 CES에서 철수한다는 소식입니다. 반면 중국 가전 브랜드는 프리미엄 시장까지 영역을 넓히고 있어, 세계 가전 시장의 주도권이 일본에서 중국으로 넘어가는 세대교체가 진행되고 있다는 분석이 나왔습니다.",
+          "why": "CES 전시장에서 중국 브랜드의 존재감이 커지면서 삼성·LG가 프리미엄 TV·가전 시장에서 중국과 정면으로 맞붙는 구도가 더 뚜렷해질 전망입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "日 소니·파나소닉 CES 철수… 프리미엄까지 넘보는 中 가전 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRk5XUURQelFXMHpZTS1sWDE1djdJQnB0cGxTZHBBMVdzMC1JejBlYldzT21NYzJNd0JxdWYwZjZoZkFpQ2RYRFFWRTdscUhEYWRQQklwbGlLejBja1VlaWhPVGlkQnhBRl9ibFdLQlkwMGpUZ3FUVlY1akRIV2xmYzI5ZTZvQQ?oc=5",
+            "published": "2026-10-30T18:00:00.000Z",
+            "snippet": "日 소니·파나소닉 CES 철수… 프리미엄까지 넘보는 中 가전 조선일보"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "유나이티드항공, CES 기간 라스베이거스 노선에 프리미엄 787 투입",
+          "summary": "유나이티드항공이 CES 2027이 열리는 1월에 자사 최고급 좌석을 갖춘 보잉 787 기종을 라스베이거스 노선에 한시적으로 투입합니다. CES 참관 수요를 겨냥한 특별 편성입니다.",
+          "why": "CES 출장을 준비하는 국내 기업 관계자에게는 미국 내 환승 항공편 선택지가 늘어난다는 의미입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "United schedules premium 787 flights for CES in Las Vegas - www.insideflyer.com",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0xHWkZzZ2Z4ZkcwRDUxMzRndm81dVh5dXRXaTJ2M2ZOaVZBLXVVQ2JZMVN3Q3FsVTNMcFl4N3VfOXVVZDhlWk1HWGx0Nk5fZzRESFVJWG1XX092TW8zc1lBZjN3VUZ5OXFUR19RRlA1Q0JOX0drNloxV1pfOXk5ZjJOSjlKVWpMczlhOFVMdHAtTjB1aFN3?oc=5",
+            "published": "2026-10-31T12:00:19.000Z",
+            "snippet": "United schedules premium 787 flights for CES in Las Vegas www.insideflyer.com"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "레노버, 'Tech World @ CES 2027' 개최 발표… 하이브리드 AI의 다음 시대 제시",
+          "summary": "레노버가 CES 2027 기간에 자체 행사 'Tech World @ CES 2027'을 연다고 발표했습니다. 행사 주제는 '하이브리드 AI의 다음 시대 정의'로, 기기 단과 클라우드를 아우르는 AI 전략이 소개될 것으로 보입니다.",
+          "why": "AI PC·온디바이스 AI 경쟁에서 삼성·LG 등 국내 기업과 부품 공급사가 참고할 글로벌 업계 방향을 미리 엿볼 수 있는 행사입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Lenovo Announced Tech World @ CES 2027: Defining the Next Era of Hybrid AI - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU8xQjItb3NTMTREaV8zZk9NM2JJYVRtMUNtY2dPYU53N2ZGR3VtR3EzZTM0UUNXYWgtNno4SHlEQ3Q4V0NrWUxxNnhXV2NBaGEyWlpKdU14ZzJsX3ZTWlNIZEJQandHbFNyLVVLWHVUNlpLSHJ3dFg4ZzlqTDhCZzJUX3lES3dodWJXd3JwNVdQM05SeWsyNGNnSQ?oc=5",
+            "published": "2026-10-30T15:55:00.000Z",
+            "snippet": "Lenovo Announced Tech World @ CES 2027: Defining the Next Era of Hybrid AI Yahoo Finance"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 3,
+          "title_ko": "엔아이디에스, CES 2027 참가 확정… 환경센서 글로벌 공급망 확대 추진",
+          "summary": "환경센서 전문 기업 엔아이디에스가 CES 2027 참가를 확정했습니다. CES를 계기로 환경센서 제품의 해외 고객사를 발굴하고 글로벌 공급망을 넓힐 계획입니다.",
+          "why": "국내 센서·부품 중소기업이 CES를 해외 판로 개척의 발판으로 활용하는 흐름을 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "엔아이디에스, CES 2027 참가 확정…환경센서 글로벌 공급망 확대 추진 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MWGdLQnY2RWFPaEtESkxUSV9wbVQtOC16dXB0eVZGbGdUazJManVpeExWUmw2T083SU5WdmV2bW9Odnk4TTdMT2FaZzMwUQ?oc=5",
+            "published": "2026-10-31T17:16:56.000Z",
+            "snippet": "엔아이디에스, CES 2027 참가 확정…환경센서 글로벌 공급망 확대 추진 전자신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "'글로벌 K-엔터테크 얼라이언스' 11월 4일 발표… CES 2027 프로그램 참가사 모집",
+          "summary": "K-엔터테크 허브가 11월 4일 '글로벌 K-엔터테크 얼라이언스'를 발표하고, CES 2027 공동 참가 프로그램에 함께할 기업을 모집합니다. 엔터테인먼트 기술 분야 국내 기업의 CES 진출을 지원하려는 취지입니다.",
+          "why": "콘텐츠·엔터테크 스타트업에는 단독 참가 부담을 덜고 CES 무대에 설 수 있는 기회가 될 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "‘글로벌 K-엔터테크 얼라이언스’ 11월 4일 발표… CES 2027 프로그램 참가 모집 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTUJaNkMtZkNyeVFOU3Vxb1hjVDhIZDFoNURVU1lpQ1dVUHpGblRaQm1EdUdCdlpHZUdqUmMydjJoYXpKckZvaURqcVl1NUVrQnV0QkU5ZVB6VjdNdVE?oc=5",
+            "published": "2026-10-31T22:20:17.000Z",
+            "snippet": "‘글로벌 K-엔터테크 얼라이언스’ 11월 4일 발표… CES 2027 프로그램 참가 모집 K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "방글라데시 혁신 기술 16건, CES 2027 참가 선정",
+          "summary": "방글라데시의 혁신 기술·제품 16건이 CES 2027에 참가하게 됐습니다. 신흥국들도 국가 단위로 CES를 기술 홍보 무대로 적극 활용하는 모습입니다.",
+          "why": "CES 유레카파크 등 스타트업 전시 공간에서 한국 스타트업이 맞닥뜨릴 국가 간 경쟁이 갈수록 치열해지고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "16 Bangladeshi innovations selected for CES 2027 - New Age BD",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmFvRkc3cVN3Ml9kQW9ZSHg0a2JJTmdqeG16aXp0NzVfX2R5YlEtWHZ0bVR1NTY1bGkwVDI5RDdwcmdIb0JOVEdFQlo0MnhZdldMMjNFZHBKcWc5aldpdHE1UGFrektSQ18tTlBEVFR1Y3VtTzF6d3RHSXFKZ1NJM3VRdWtITkdzMktMOTlNTE10M004OWlfRFhQZnZSYzNhaVhQR2dWcG4?oc=5",
+            "published": "2026-10-30T18:00:00.000Z",
+            "snippet": "16 Bangladeshi innovations selected for CES 2027 New Age BD"
+          }
+        }
+      ]
+    }
+  ]
+}
