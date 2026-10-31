@@ -1,0 +1,224 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 공고는 2건으로, 모두 서치펌·헤드헌팅사를 통한 정규직 경력 공고입니다. 석세스코리아컨설팅은 FI·CO·SD·PP·MM 통합 SM 운영 담당자(경력 5년 이상, 11/06 마감)를, 에이치알포유는 대기업 계열 SAP 플래티넘 파트너사의 각 모듈 운영·구축 인력(경력 2~20년, 11/29 마감)을 찾고 있습니다. 요구 경력은 5~7년 이상 중견급이 중심이고 운영(SM) 비중이 높습니다. 기존 공고 중에는 락앤락의 S/4HANA MM/SRM 운영 공고와 한국네트웍스(한국앤컴퍼니그룹)의 SD 또는 MM 운영·구축 공고가 계속 열려 있습니다. 동국 계열사 소식으로는 동국제강이 3분기 영업이익 299억원으로 선방한 반면 동국씨엠은 60억원 영업손실을 냈고, 계열 물류사 인터지스는 신규 벌크선 'DK INOX'호를 진수했습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영 담당자 (FI·CO·SD·PP·MM)",
+          "summary": "FI, CO, SD, PP, MM 모듈을 아우르는 SAP SM 운영 담당자 채용 공고입니다. 근무지는 서울 마포구, 조건은 경력 5년 이상·대졸 이상·정규직이며 마감은 11월 6일(금)입니다. 분야는 SAP, SI·시스템통합, ERP, CRM, SCM 등입니다.",
+          "why": "마감이 11/06(금)으로 일주일도 남지 않았으니, 경력 5년 이상이면서 MM을 포함한 복수 모듈 운영 경험이 있다면 서둘러 지원을 검토해야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55446794",
+            "published": "2026-10-31T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: ~ 11/06(금) / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 68,
+          "title_ko": "에이치알포유 · SAP 플래티넘 파트너사(대기업 계열) SAP 각 모듈 운영·구축",
+          "summary": "헤드헌팅사 에이치알포유가 대기업 계열 SAP 플래티넘 파트너사의 SAP 각 모듈 운영·구축 인력을 모집합니다. 근무지는 서울 금천구, 조건은 경력 2~20년·초대졸 이상·정규직이며 마감은 11월 29일(일)입니다. 분야는 ABAP, SAP, IT컨설팅, SE(시스템엔지니어)입니다.",
+          "why": "'각 모듈'을 뽑는 공고라 MM이 포함될 가능성이 높지만 모듈이 명시되지 않았으니 지원 전 MM 포지션 여부를 확인해야 하며, 경력 범위가 넓고 마감(11/29)까지 여유가 있습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[[SAP플래티넘 파트너사(대기업계열)]]SAP 각 모듈 운영 및 구축",
+            "company": "에이치알포유(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55434449",
+            "published": "2026-10-30T00:00:00.000Z",
+            "snippet": "회사: 에이치알포유(주) / 조건: 서울 금천구 경력 2~20년 초대졸↑ 정규직 / 마감: ~ 11/29(일) / 분야: ABAP , SAP , IT컨설팅 , SE(시스템엔지니어) , 헤드헌팅",
+            "jobHistory": {
+              "count": 3,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%8C%ED%8F%AC%EC%9C%A0(%EC%A3%BC)"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 78,
+          "title_ko": "제이투이 · SAP MM 모듈 운영 (SM, 동대문역사문화공원역)",
+          "summary": "동대문역사문화공원역 인근(서울 중구)에서 근무하는 SAP MM 모듈 운영(SM) 포지션입니다. 경력 6년 이상을 요구하며 즉시 지원할 수 있습니다.",
+          "why": "MM 단일 모듈 운영 공고로 직무 적합도가 가장 높지만, 사원 120명 규모의 소형 SI 업체라는 점을 감안해 판단해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50263307",
+            "published": "2026-10-29T01:40:56.570Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 104,
+          "title_ko": "한국네트웍스 · 그룹사 SAP 시스템 운영 (SD 또는 MM 모듈)",
+          "summary": "한국앤컴퍼니그룹 계열 한국네트웍스가 그룹사 SAP 시스템의 운영·유지보수와 구축 프로젝트를 맡을 SD 또는 MM 모듈 담당자를 뽑습니다. 근무지는 경기 성남시 분당구, 경력은 7~15년이며 상시 채용(홈페이지 지원)입니다.",
+          "why": "그룹 내부 IT 계열사라 운영과 구축 경험을 함께 쌓을 수 있으며, 경력 7년 이상·분당 근무 조건이 맞으면 상시 채용이므로 지원이 수월합니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "그룹사 SAP 시스템 운영(SD 또는 MM 모듈)",
+            "company": "(주)한국네트웍스",
+            "link": "https://career.rememberapp.co.kr/job/posting/349966",
+            "published": "2026-10-25T15:00:00.000Z",
+            "snippet": "회사: (주)한국네트웍스 / 경력: 7~15년 / 지역: 경기도 성남시 분당구 / 상시 / • 그룹사(한국앤컴퍼니) SAP 시스템 운영 및 유지보수 (SD 또는 MM모듈) • 그룹사(한국앤컴퍼니) SAP 시스템 구축 프로젝트 수행",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%95%9C%EA%B5%AD%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 114,
+          "title_ko": "락앤락 · SAP S/4HANA ERP 운영 담당자 (MM/SRM)",
+          "summary": "중견기업 락앤락이 S/4HANA 환경의 MM/SRM 모듈 ERP 운영 담당자를 모집합니다. 근무지는 서울 중구이며 경력직 대상, 홈페이지에서 지원합니다.",
+          "why": "사업회사 내부 S/4HANA MM/SRM 운영 포지션이라 S/4HANA 경험을 쌓기 좋으며, 요구 연차는 공고 원문에서 확인이 필요합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "SAP S/4HANA ERP운영 담당자 - MM/SRM 채용",
+            "company": "락앤락",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50216270",
+            "published": "2026-10-21T07:48:49.990Z",
+            "jkCompanyNo": "38208704",
+            "snippet": "회사: 락앤락 / 탄탄한 중견기업 / 서울 중구 / 생활용품·소비재·기타, 시스템엔지니어 / 홈페이지 지원 / 경력",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%9D%BD%EC%95%A4%EB%9D%BD"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 108,
+          "title_ko": "모베이스시스템 · SAP PP·MM 모듈 컨설팅 / ABAP",
+          "summary": "모베이스시스템이 SAP PP·MM 모듈 컨설턴트와 ABAP 인력을 모집합니다. 근무지는 경기 수원시, 경력 3년 이상이며 즉시 지원할 수 있습니다.",
+          "why": "경력 3년 이상으로 진입 장벽이 낮고 PP·MM을 함께 다루므로 제조 물류 경험자에게 맞으며, 근무지는 수원입니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "모베이스시스템 SAP(PP,MM) 모듈컨설팅/ ABAP",
+            "company": "㈜모베이스시스템",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50229001",
+            "published": "2026-10-23T04:15:01.707Z",
+            "jkCompanyNo": "47241197",
+            "snippet": "회사: ㈜모베이스시스템 / 경기 수원시 / 솔루션·SI·CRM·ERP, IT컨설팅 / 즉시 지원 / 경력3년↑",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EB%AA%A8%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%8B%9C%EC%8A%A4%ED%85%9C"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 92,
+          "title_ko": "LTM · SAP MM·PP",
+          "summary": "LTM이 링크드인에 올린 SAP MM·PP 모듈 공고이며 근무지는 서울입니다. 경력·고용형태·마감일 등 세부 조건은 공고에 나와 있지 않습니다.",
+          "why": "MM·PP 직무는 일치하지만 조건 정보가 없으므로 링크드인 공고 원문에서 경력 요건과 고용형태를 확인해야 합니다.",
+          "article": {
+            "source": "LinkedIn",
+            "title": "SAP（MM,PP)",
+            "company": "LTM",
+            "link": "https://kr.linkedin.com/jobs/view/sap%EF%BC%88mm-pp-at-ltm-4483862404",
+            "published": "2026-10-28T00:00:00.000Z",
+            "snippet": "회사: LTM / 지역: 서울, 대한민국",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=LTM"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "[동국제강] 3분기 영업이익 299억원, 전년 대비 22% 증가…AI 데이터센터 효과",
+          "summary": "동국제강의 3분기 매출은 9,323억원, 영업이익은 299억원으로 전년 동기 대비 약 22% 늘었습니다. 반도체·AI 데이터센터 투자 확대로 봉형강 판매가 늘어난 것이 실적을 받쳤고, 별도 기준 영업이익은 시장 전망치를 웃돌았습니다. 다만 일부 매체(서울경제TV)는 전년 대비 34% 감소로 보도해 비교 기준에 따라 수치 해석이 엇갈립니다.",
+          "why": "건설 경기 부진 속에서도 데이터센터·반도체 수요가 봉형강 사업을 지탱하고 있어 동국제강의 수익 기반이 비교적 안정적이라는 의미입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 3분기 영업익 22% 증가 'AI 데이터센터' 효과 - Daum",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTWnRfSG9YSWUtZEhBQkQ5dWVISWYyb3M2TEVKdFU0cHBMdVJ4dDVSWFdEQ1U2cWVuUnV2NnpjODcyOU5CaXc?oc=5",
+            "published": "2026-10-30T08:32:06.000Z",
+            "snippet": "동국제강, 3분기 영업익 22% 증가 'AI 데이터센터' 효과 Daum",
+            "isNew": true
+          }
+        },
+        {
+          "index": 49,
+          "title_ko": "[동국씨엠] 3분기 영업손실 60억원…\"고부가 제품 판매 비중 확대할 것\"",
+          "summary": "동국씨엠은 3분기 매출이 전년 대비 늘었지만 영업손실 60억원을 기록했습니다. 환율 변동과 원재료비 상승이 수익성을 끌어내렸고, 회사는 앞으로 고부가 제품의 판매 비중을 늘리겠다고 밝혔습니다.",
+          "why": "컬러강판·냉연 사업의 적자가 이어지고 있어, 고부가 제품 전환의 성과가 향후 실적 회복의 관건입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국씨엠, 3분기 영업손실 60억원…“고부가 제품 판매 비중 확대할 것” - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12QjVILWxsa3JxdFRHa0p5dm9lVmZRdlcxWVo1R2N5YXA2R1RCLWFkYW1VUzJYVzJVQUgyeURqSVdTaVNIM3QxVnBRZ0I1dw?oc=5",
+            "published": "2026-10-30T04:49:54.000Z",
+            "snippet": "동국씨엠, 3분기 영업손실 60억원…“고부가 제품 판매 비중 확대할 것” 전자신문",
+            "isNew": true
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "[동국제강그룹] 3분기 철강 계열사 실적 희비…건설용 철강 선방·컬러강판 적자",
+          "summary": "동국홀딩스 산하 철강 계열사인 동국제강과 동국씨엠의 3분기 실적이 엇갈렸습니다. 동국제강은 데이터센터용 건설 철강 수요로 선방했고, 동국씨엠은 환율 부담으로 컬러강판 부문이 적자를 냈습니다.",
+          "why": "그룹 안에서 열연·봉형강과 냉연·컬러강판의 업황 차이가 커지고 있어, 계열사별 투자와 IT 예산 운용에도 차이가 생길 수 있습니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "동국제강·동국씨엠, 3분기 실적 희비···건설용 철강 선방·컬러강판 적자 - 이뉴스투데이",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXb2tkVURoOHVxUFhOdmtHUjBRSVFGVWtNRE02cS1pcXVDQVF5UWV3MW5IYVN1clpSUnoxOHMzWlZPTkEyd0dkVGlqZHVUb2VXeDNIYV9qSlkwM2pVYkNBOTdrYmprMU5JV0RDWTdMUXPSAXRBVV95cUxOYmh4RlI0c3dYVmh0Y0NuZEhLaW8zR0l6RktaOFRQNHlNTXRJSG9WcjZ6c2ZkT1hQX2FKVDI0VmxFMkprTk1DTUgyVjA5bndORjVBWFVublJ6TTR4WVgzOExRWEVwUVFFTXkzblVtQ0s1V1JZaQ?oc=5",
+            "published": "2026-10-30T10:20:00.000Z",
+            "snippet": "동국제강·동국씨엠, 3분기 실적 희비···건설용 철강 선방·컬러강판 적자 이뉴스투데이",
+            "isNew": true
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "[인터지스] 4,600톤급 벌크선 'DK INOX'호 진수…선대 8척으로 확대",
+          "summary": "동국제강그룹의 물류 계열사 인터지스가 4,600톤급 소형 벌크선 'DK INOX'호를 진수해 보유 선대를 8척으로 늘렸습니다. 오랜만에 확보한 신조선으로, 아시아 소형 벌크 해운 시장 공략을 강화한다는 계획입니다.",
+          "why": "그룹 차원에서 철강 원료·제품의 해상 물류 역량을 직접 키우고 있다는 신호로, 그룹의 물류·구매 체계 변화와도 연결될 수 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "인터지스, 4600t급 벌크선 ‘DK INOX’호 진수…선대 8척으로 확대 - 나눔경제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JS3o5em9yd2lFQUUxZW1KX1NLcUtkU2I4RzVXNkxPSVVfaGFaSmJDY3RLVHpsSUlJbnZvaGhVRTJmSDlybk1YMF9uQkRjc2dRVHVxbzdqS2dRWS1BTWwtYTgtODJZY2ZGV0Y5dA?oc=5",
+            "published": "2026-10-30T22:32:26.000Z",
+            "snippet": "인터지스, 4600t급 벌크선 ‘DK INOX’호 진수…선대 8척으로 확대 나눔경제뉴스",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
