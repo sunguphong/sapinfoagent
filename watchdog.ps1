@@ -1,6 +1,6 @@
 ﻿# 관리 웹(5174) + ngrok 터널 감시. 작업 스케줄러가 5분마다 watchdog.vbs 로 창 없이 실행한다.
 #  - 웹 서버가 안 떠 있으면 node src\server.js 를 띄운다.
-#  - ngrok 터널이 없으면 ngrok 을 다시 띄우고, 그래도 안 뜨면 ngrok update 후 재시도한다.
+#  - ngrok 터널이 없으면 ngrok 을 다시 띄우고, 버전 거부로 안 뜨면 최신 버전을 재설치한 뒤 재시도한다.
 #  - 조치한 내용만 logs\watchdog.log 에 남긴다.
 $ErrorActionPreference = 'Continue'
 $Root    = $PSScriptRoot
@@ -12,6 +12,17 @@ $WdLog   = Join-Path $Root 'logs\watchdog.log'
 function Log($msg) {
   if ((Test-Path $WdLog) -and (Get-Item $WdLog).Length -gt 1MB) { Move-Item $WdLog "$WdLog.old" -Force }
   Add-Content -Path $WdLog -Value ("[{0}] {1}" -f (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'), $msg) -Encoding UTF8
+}
+
+# 한 번에 하나만 실행한다. 작업 스케줄러는 wscript 만 기다려서 이전 실행이 오래 걸리면 5분 뒤 다음 실행이 겹치고,
+# 겹친 실행들이 서로의 ngrok 을 끄고 다시 띄워 터널이 계속 끊겼다 (2026-11-01: 동시 4개 관측). 멈춘 실행은 15분 뒤 끝내 다음 주기에 복구한다.
+$Mutex = New-Object Threading.Mutex($false, 'Global\SapInfoAgentWatchdog')
+try { $owned = $Mutex.WaitOne(0) } catch { $owned = $true }   # 이전 실행이 잠금을 풀지 못하고 죽은 경우
+if (-not $owned) {
+  Get-CimInstance Win32_Process -Filter "Name='powershell.exe'" |
+    Where-Object { $_.CommandLine -like '*watchdog.ps1*' -and $_.ProcessId -ne $PID -and $_.CreationDate -lt (Get-Date).AddMinutes(-15) } |
+    ForEach-Object { Log "멈춘 watchdog 실행 종료 (PID $($_.ProcessId), 시작 $($_.CreationDate))"; Stop-Process -Id $_.ProcessId -Force }
+  exit 0
 }
 
 function Find-Exe($name, $candidates) {
@@ -36,11 +47,12 @@ function Test-Tunnel {
 }
 
 function Start-Ngrok($ng) {
-  Get-Process ngrok -ErrorAction SilentlyContinue | Stop-Process -Force
+  $running = Get-Process ngrok -ErrorAction SilentlyContinue
+  if ($running) { $running | Stop-Process -Force; Start-Sleep 5 }   # 바로 띄우면 서버에 이전 연결이 남아 ERR_NGROK_334 로 실패한다
   if (Test-Path $NgLog) { Clear-Content $NgLog -ErrorAction SilentlyContinue }
   Start-Process -WindowStyle Hidden -FilePath $ng -ArgumentList 'http', "--url=$NgUrl", "$Port", "--log=$NgLog"
-  Start-Sleep 10
-  return (Test-Tunnel)
+  for ($i = 0; $i -lt 6; $i++) { Start-Sleep 5; if (Test-Tunnel) { return $true } }
+  return $false
 }
 
 # 1) 웹 서버
@@ -161,11 +173,13 @@ if (-not (Test-Tunnel)) {
   $ng = $NgExe
   if (Start-Ngrok $ng) { Log "ngrok 터널 끊겨 있어 다시 띄움 ($ng)"; exit 0 }
 
-  # 버전 거부(ERR_NGROK_121) 등으로 실패하면 최신 버전으로 한 번 재설치 후 재시도한다.
+  # 버전 거부(ERR_NGROK_121)일 때만 최신 버전으로 재설치 후 재시도한다. 네트워크 오류 등은 재설치해도 소용없으니 다음 주기에 다시 띄운다.
   $tail = if (Test-Path $NgLog) { Get-Content $NgLog -Raw } else { '' }
-  Log 'ngrok 터널 기동 실패 - 최신 버전 재설치 후 재시도'
-  if ((Install-Ngrok) -and (Start-Ngrok $ng)) { Log 'ngrok 재설치 후 터널 복구'; exit 0 }
-  $tail = if (Test-Path $NgLog) { Get-Content $NgLog -Raw } else { $tail }
+  if ($tail -match 'ERR_NGROK_121') {
+    Log 'ngrok 버전 거부 - 최신 버전 재설치 후 재시도'
+    if ((Install-Ngrok) -and (Start-Ngrok $ng)) { Log 'ngrok 재설치 후 터널 복구'; exit 0 }
+    $tail = if (Test-Path $NgLog) { Get-Content $NgLog -Raw } else { $tail }
+  }
   $last = if ($tail) { ($tail -split "`n" | Where-Object { $_ -match 'lvl=(eror|crit)|ERR_' } | Select-Object -Last 2) -join ' / ' } else { '' }
   Log "ngrok 터널 재기동 실패 $last"
   exit 1
