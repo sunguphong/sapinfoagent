@@ -1,0 +1,268 @@
+[
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "CDS View Extensions in SAP S/4HANA Cloud Private Edition: Architecture, Tools, and What Matters",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/cds-view-extensions-in-sap-s-4hana-cloud-private-edition-architecture-tools/ba-p/14512011",
+    "published": "2026-11-01T21:55:02.000Z",
+    "snippet": "***Applies to: SAP S/4HANA Cloud Private Edition 2023 FPS01 and later. CDS extension mechanics apply from S/4HANA 1909 onwards; the Joule connectivity described here requires 2023 FPS01+***Part 1 of 2 | Series: Your SAP S/4HANA Data Model Is Your AI StrategyPicture this scenario. As part of an SAP S/4HANA Cloud Private Edition transformation project, your company has just enabled Joule on the SAP "
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "SAP BTP Job Scheduling Service — Introducing New Job Type: Destination Job",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-btp-job-scheduling-service-introducing-new-job-type-destination-job/ba-p/14514356",
+    "published": "2026-11-01T14:43:10.000Z",
+    "snippet": "IntroductionSAP Job Scheduling Service on SAP Business Technology Platform (SAP BTP) is the backbone of automated, time-driven workloads for cloud-native applications. Whether you need to trigger a nightly data sync, execute a recurring business process, or run a long-running background task — the service has you covered, across both the Cloud Foundry and Kyma runtimes, through a unified REST API "
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "'Marginal gains and reliability matter everywhere': How a key SAP upgrade is helping Mercedes soar to Formula 1 triumph in 2026 - TechRadar",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSUpYWE8yTGZlenltSGRjYnMtaGRNa01yNVdrZFJWWnYwU1ZBbVphYlF1bUlMZnF1cmdzZ2czY1p1dHpQZmQ0c2JJT1RPOWhzTFRyWjRQb2RuRkNMZk9XTVdUMVdrMlNqR1dKallNRGw3N3UyYkVJaHo3RHA0cFh2cTR4ZnhodGlzbC02dzlqdmNtUHYwV0hpV0JjdmpuOXI4SWpTR3JiY09sYmJISmpWaFFDZGVGcy1UekJHTFpOQ0VSMTZaeHFBc0ItQ29JVklaSFZYbmpxZ3I5aktkdnpZdVdqRTVPSmdMRVE?oc=5",
+    "published": "2026-11-01T13:00:00.000Z",
+    "snippet": "'Marginal gains and reliability matter everywhere': How a key SAP upgrade is helping Mercedes soar to Formula 1 triumph in 2026 TechRadar"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "인텔-SAP, 피지컬AI·자율 창고 실제 작동 모습 시연 - 로봇신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWRVBiNEt6MW13eVhrT3JBODM1ZlcySnVYSktmdUhyUDRmUWxsNjNBUG8wVkNzckZkTUQ1MEZDUjc4Q0ZBWDl6RGhuVzhMUHVzbDlPVk5tUnRuOHc4cmpncThIcnNDZHQ4d01RYQ?oc=5",
+    "published": "2026-11-01T12:02:00.000Z",
+    "snippet": "인텔-SAP, 피지컬AI·자율 창고 실제 작동 모습 시연 로봇신문"
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "AI 세무 플랫폼 출시로 인해 Vertex(VERX) 투자 타당성에 변화가 생길 수도 있다 - Simply Wall St",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOG1MTF9xOGpmeG91UHpnZnFSVDMxUzdJUmx4ZC1fZVdYM1h3VV9sYWM1SjMzTGZnd0wtN18weUtlS2dISTFqeXRkeVVVTWxfMy11WUR4dmxfTDl5OVJyYXNYWF9tb0paWnctekRUNU1EdEd5UVpOTldidlhyY2d0WnhfSF90bWh4eU9PTmZxaE4yZ9IBkgFBVV95cUxPOG1MTF9xOGpmeG91UHpnZnFSVDMxUzdJUmx4ZC1fZVdYM1h3VV9sYWM1SjMzTGZnd0wtN18weUtlS2dISTFqeXRkeVVVTWxfMy11WUR4dmxfTDl5OVJyYXNYWF9tb0paWnctekRUNU1EdEd5UVpOTldidlhyY2d0WnhfSF90bWh4eU9PTmZxaE4yZw?oc=5",
+    "published": "2026-11-01T11:03:40.000Z",
+    "snippet": "AI 세무 플랫폼 출시로 인해 Vertex(VERX) 투자 타당성에 변화가 생길 수도 있다 Simply Wall St"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "AI Tax Platform Launch Might Change The Case For Investing In Vertex (VERX) - Simply Wall St",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFlYbTdHNE00WWRSNFlxQkF0M1liMVl3VDlQOWUwbngwM3BZdU1EeFdPbkFMcFB6N2xXX2lWUEJWajhQRUhPNWtWODlNc3paU3Z3UEthT3AwNVVlWGxPeVE0OXpSX2tHQWw3cU5hSDRjS1NtMmxISUxjQU91cDB4MFA4ZjE3LVFVTDJBM210cWFaVGw5M0RvclZRTktKclNmX2NpaFgxSEFBNWdHcEpyRUpGU0VCemZ2SGZucWlWZzkwaHfSAcgBQVVfeXFMTVk0bTZKb185NlNEN3Z1ZDRXTU00QXRyeGJ5NDJzWGYzT04wSndLZENueGZDRVoxTU1rQ0hzQkFQendZRngyb0cwNFUtdXFtRW5tdWhQeVBXMzJxUzZ4SGd2R1RaVmoyM25RQWNmak54X3FMSUxyTmN3QXhrdmFDX29JaTNRR2lBOExWYVp2N2pLR0huTDZ1TFdLcTdlaHZaRXhfNU1aSGxzckUwa0x1QW9XanpHVTdtNjNUZTBlNlZES3Utd3EzYmI?oc=5",
+    "published": "2026-11-01T10:32:20.000Z",
+    "snippet": "AI Tax Platform Launch Might Change The Case For Investing In Vertex (VERX) Simply Wall St"
+  },
+  {
+    "source": "Google News (EN)",
+    "title": "SAP SE $SAP Stock Sold by Cidel Asset Management Inc. - MarketBeat",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2t4UWl0eWM0U3pvdDRCV2VHa1RVcnhGNkZYVUtLQmlac3ZFWHJBME9YOVRPZC12cHRsWHN2T053WmwtY05NcU9TR1hLcXJhd1Rlb0E4MGxtYVpUcktkQlNtM05uRHNoakp1U01iSTd2Vmh5NWZ5WklYZWhuSXMyS1BERk5TM3JrZzN2MVJCTWpvSjFCY3hCZXB5T3J2SjZpQTNIektRNXdqY05FbVhKRURn?oc=5",
+    "published": "2026-11-01T09:49:48.000Z",
+    "snippet": "SAP SE $SAP Stock Sold by Cidel Asset Management Inc. MarketBeat"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "SAP BTP Cockpit now introduces Scripting and Automation Preview panel",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-btp-cockpit-now-introduces-scripting-and-automation-preview-panel/ba-p/14514327",
+    "published": "2026-11-01T08:42:53.000Z",
+    "snippet": "Automate Everything: A Deep Dive into SAP BTP's Scripting & Automation PreviewIntroductionIf you have ever set up an SAP BTP subaccount manually — clicking through the cockpit, filling in forms, waiting for confirmations — you know how repetitive and error-prone that process can be, especially at scale. SAP BTP has quietly introduced a game-changing feature right inside the BTP Cockpit: Scripting "
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Set up LeanIX' custom discovery connector just by talking to it",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/set-up-leanix-custom-discovery-connector-just-by-talking-to-it/ba-p/14514295",
+    "published": "2026-11-01T03:14:02.000Z",
+    "snippet": "Use the SAP LeanIX MCP server to setup a custom-integration via custom discovery connector just by talking to your AI coding agent. In short: you bring the intent and the credentials; the agent handles the plumbing."
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "[템터뷰] 'AI로 ERP 직접 만들면 SAP는?'...AI 책임자에게 물었더니 - 테크M",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBVUI4b3p5Q3pIU1ktVzFVSUNGMXRHc2JnN1lKVzRGSTgtQ3FJb09sSTJlZS16X3BlTlBtc1E3Q2o0NVBYdkUwUXRPUFJaT21yZW9ERm1RWkRIbzZaWUJ3NF9yd1Vxd9IBakFVX3lxTE1RMkVMeDRRdGFxZWViSVRsTFg5UUVyaWF2SzNUTlI0ZnNvUUR4WWRuN0NodkhzM3RwT3hrUHNIZ0xDZGZYMmc2NHMtQjRpbGdiUENHbGhFbXNVcFZpR05JQ2ZNYkRfWVZMenc?oc=5",
+    "published": "2026-11-01T00:40:00.000Z",
+    "snippet": "[템터뷰] 'AI로 ERP 직접 만들면 SAP는?'...AI 책임자에게 물었더니 테크M"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP's €24.1 Billion Cloud Backlog Faces a Double Reckoning: Year-End Bookings and the AI Cost Ques - ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdjM3blhhamFlYVFuYU90U0VjMGF3UzloM29rY3Y0OUZXTVFOcGRpdjBRMmh4bGdkUFJoTlFlWGMtRXpOWmFSeDM0SlNzc3NJeEZBMFZtd1k1cUl5aUt3R3Y5MFluWmVKcC1xaEYyNVBwWWZRbnRvQkw3ZVZQd2hJN1NKNTZvNGlZQW9rWUZfbzRPa25YZjJoOVJSU1VMb0lGQ09kNHQ0TEZJUThSR0NDTW9uaEtobDg5TmltaEk5V3RFRGNvNF84dnJiZS1YQzhaejJKa0tMQ0RXT0h2bFJBQV9SVS1fdVEtaGZZQ0VZYlltZ1NPczk4Y3Y2WXRjWEZfUkE?oc=5",
+    "published": "2026-10-31T02:01:29.000Z",
+    "snippet": "SAP's €24.1 Billion Cloud Backlog Faces a Double Reckoning: Year-End Bookings and the AI Cost Ques ad-hoc-news.de"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Expands Data Fabric and Master Data Tools for Enterprise AI Agents - CDO Magazine",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGMzVDRNLWhrc2ZzVG50WGk1RGJuVUNTN1dhUy1yUHFPVWlyZlZ2bk11dDJlaFNPbENmQnpRYXpZRXZMLWFjcFlCOVl5Zkd0U25FSVhjQW1lV25VSjJwblNtelM3ZVlNMldvUHNjXzdnMHZQdkxfRmpKbDZZc2V6ZWpYS0pFNGdJYXp3dnFfZ0JrUUl1czhZZHlIczNhN0QtV1YyTlJqdw?oc=5",
+    "published": "2026-10-30T18:31:00.000Z",
+    "snippet": "SAP Expands Data Fabric and Master Data Tools for Enterprise AI Agents CDO Magazine"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "베트남 푸드엑스포 2026 박람회가 곧 개최됩니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWOVBpZnhGNDgwTmJwTzhMQUJBX0R0UlBfR3Bka3d2aXhtdzFqMnZTeEo1UlFhcUVuNV8wNnhaVW5sSXNSbEpmZnZibW5jMTRPdVZQLVVobnpmNHZFeGZnX0MyRHo3WmhHdVZURml4V1hmRUtMb1E?oc=5",
+    "published": "2026-10-30T13:45:14.000Z",
+    "snippet": "베트남 푸드엑스포 2026 박람회가 곧 개최됩니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Shows How to Lead with AI Governance at SAP TechEd - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0FISWFZVWlBb0lEYVJSQWo2U21McF9vOWhzQjlsTlJEbXhoeHM3eEYyQTR0S2xDMGJBZFJYUUZwaFBhUDJEU2tGR0p5MEpiSVdTV3JCOFpMVHFDenowWU5YS0pIb0lkclpmQW5yaHF6ckJRU2o0MnRMRnlZQWFqSmVadw?oc=5",
+    "published": "2026-10-30T11:04:38.000Z",
+    "snippet": "SAP Shows How to Lead with AI Governance at SAP TechEd SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption - ITWeb",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHozZW14aEdrZzJKalM1Vl9Ra0ZJeXJZYWFZb2x4bjhCLU9TVkRwQ2duTUE5VXdNTlFMRUZUa2diczB0SG95RWgwV1QtQlBURXlCWDdtZUNuZXNaZHVHMjA0RVE1QUFBWWliUElOTEJkWkh1LVQtMW4xUEFrOFVZSTBsLU1jaHBJMUpUcUVLeW5yN2NXYjZvMWlRUEpxNVFSc0c2R2NzcHdnZ2xQNDdTajBkUk5zb2NVZkRxS1Bn?oc=5",
+    "published": "2026-10-30T10:43:07.000Z",
+    "snippet": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption ITWeb"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Intel, SAP Partner to Connect Enterprise Systems With Robots Through Physical AI - THE ELEC, Korea Electronics Industry Media",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMGczdGVURkRZN2txUUFrMFVna0NwLUFBT1FQek40TFlNSzRPOHFZNF9mU0xoZDRlbmdPUDJodkh3WmN6Wms1SERZXzQwNTF6Wi1DMWZuaWN5RmpJb0NUUW9tUFhnSVk?oc=5",
+    "published": "2026-10-30T04:23:57.000Z",
+    "snippet": "Intel, SAP Partner to Connect Enterprise Systems With Robots Through Physical AI THE ELEC, Korea Electronics Industry Media"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "인텔-SAP, 피지컬 AI 활용해 창고 내 자재 운반 자동화 기술 시연 - 디지털경제뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51eXFiUDJZSE5WZVByUUVMNERnTlM3LWp2bi0yckdUTm5FZEhpcGRveXlVUXNPOXN6ckF3V2RZVU9hdnhQUVdqZTI5cUlvSGxCR0hPTTNET1RiOHNaQUJfRWJQdTA2Rl9GbGc?oc=5",
+    "published": "2026-10-29T13:06:02.000Z",
+    "snippet": "인텔-SAP, 피지컬 AI 활용해 창고 내 자재 운반 자동화 기술 시연 디지털경제뉴스"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXk5bjRZUXhRN05JMGw0Mnd3MU15TDhCVkdXNlhsQXJYMF95NmtnTVBZQW9GTVVwS3hsLUJPSlpXMVJCOWhlYlJBNjRTTHJVdTZIQjlWdnZLLVlCd284MkVwTEd2VjJSOTlOd1NjSW1ZRmRjM2h5Y01fbjNDNGRhejkzZDlXZGZMaDluc1NoODlYdzBiNUROd3ZLczBISzFFTDNF?oc=5",
+    "published": "2026-10-29T11:04:36.000Z",
+    "snippet": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise” - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGw0RjRCN25yalBFd25JalNyYTl2WXlNVmpYNG9Wb011VVJzZExOdzVkdmJabmVSc0dZMTVyVU15eUx5V0daaV9uRk5rRldKTlJvd2lfaE9ENlJVQnkxTkd5anpnUlhSSGxra2tkcGpzVlVBeUdWOVhURFU3b3dHRVU0ZkNOWmNkTldMd3Fod2U?oc=5",
+    "published": "2026-10-28T16:34:36.000Z",
+    "snippet": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise” SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDNITDF0aTdNbEdIcS0tZ3NKbjBzMWtVbTQ5SkdBazExTUt6STFESHZIWmtzckY5Unp5clBJOTJpeGxlSldXTmJQdGY0bTM1cWdoY09mSDJCcnZpOHh5N0JQY0lnSFV2V3BxcklmSVhLZTdfelF0cG13N3dPYTVSRGZkbWR5MTVyd2xLWDdnZWlsQkJyV2Z2aDFXRDBYU20tUGVLcnBQUHkyS3M?oc=5",
+    "published": "2026-10-28T11:04:35.000Z",
+    "snippet": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Bets on 'AI That Executes' with Full-Scale Expansion of Agent Development and Control Platform - BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13SzJldFhjODl5WU1tWUZGeUZwNmk5ckNqVnk3bENWeGJJZldGbmdvZHRSTTdBRUh2Y2FKSENycHZZZXdFUEJlUHZ1eG51TlV4WVVhNTV0WHlVaEZtMHVqdGg4X0ZhWXQyWUlMRHFnbTdFV2VDdUE?oc=5",
+    "published": "2026-10-28T10:25:00.000Z",
+    "snippet": "SAP Bets on 'AI That Executes' with Full-Scale Expansion of Agent Development and Control Platform BigGo Finance"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP TechEd - how SAP is pushing into the emerging realm of physical AI with Intel - diginomica",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTh0b0ZBaEQxWEtjNU5DcUMwdTI1WExZVzBFUWdLdkhyUHotaXRnNV9LQms0Y1hTMmtJMTdkemxVQkVnYk1hZm9SVlFiWWx3YkVnMmJzSV9VRFlCTlhmd1dwMVEzOUhDS1FiZ3FYQjVBQjd0RUlPQUFra1JySUx0LWhDYU1FelNURnc?oc=5",
+    "published": "2026-10-28T09:05:01.000Z",
+    "snippet": "SAP TechEd - how SAP is pushing into the emerging realm of physical AI with Intel diginomica"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "AWS, 키로 기반 AI 에이전트 공개...인터페이스·코드 변환 자동화 - 더에이아이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWWV5aExOZDBsOEN0S2xpR2ZvR3lQSV94TVd2WXNlV0FKSlB5R0NBYUlmVXY1S0ltUGFlal9pWFBRZkk4ZFBnV3RJVVVJTTN4dUVUcWhGM1dKY0plNUY1UHNHcTRnSTMyRmc?oc=5",
+    "published": "2026-10-28T08:53:00.000Z",
+    "snippet": "AWS, 키로 기반 AI 에이전트 공개...인터페이스·코드 변환 자동화 더에이아이"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFVtd2lhQ3RqUzhRazE5ZWhRVlVNVHhhLVJ2WW1lSUtGbVNERlVXSVFHWHhKLUpCZE8wZ2U3MzRydk5DODRXR3FXeG9lMDJfUjhXVWdRUFF0RkZRaDBybzBPMXVUbVhnaGI2VDJUZ3lieDNBT3BYVk16YnhleWwzOXo5M2MzdTUzOFdVNlotajFjeEFlOGJsT1ZVLWcydHJIZ3FaemFoUTFhMTlKS1RxMg?oc=5",
+    "published": "2026-10-28T08:09:36.000Z",
+    "snippet": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP's AI Roadmap Wins Applause, but the Invoice Is Still Being Written - ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORUhKWnZXUUlmRmFqNEhfcmpNWG1GWjU2U0tCN08wV3ZZQ0VuNHB6ZC1oa1ZfZ0daM3IwbGdHMmpDNWZVOTJSRnI1Qjl5ZEx3U1NPa3g0UXFhRFl3eDduVnEyWTNiclE5dl8xbkRLRThrWTdIMC1iY3B1Nld2ZnRya1F1RWMxNnZOS2c4TUhRNmxxRi1lSTRTaVNYU044bjlhRnY5VTlsQktfS0xXSlNVWkMyVklUY3RmTVY3ZUM4a3FYVXF2Qm5nNkcySkhuVTBHRWpzNHYxZnY?oc=5",
+    "published": "2026-10-28T05:40:36.000Z",
+    "snippet": "SAP's AI Roadmap Wins Applause, but the Invoice Is Still Being Written ad-hoc-news.de"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 - OpenTools",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmFvSnlfU3F1NUMyb0VwYkx3QmM3R2ttZ05BdWpwWUdiNjg3Y2JSUXRzSTBFTk9qYmZIaENoWHBPQ3FNSnlOMXhDbm1KNHliSjZrTC1tWjlNMFo1QlJTRFFSY3Z5TlFPWU15emMzbHZQSFdJVHVVVzlYaEx4OXZuVElqb2diNUZraU1uU20zVEZVdEU?oc=5",
+    "published": "2026-10-27T17:20:41.000Z",
+    "snippet": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 OpenTools"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "TechEd 2026: SAP fronts tabular data model in space as it bids to make autonomous enterprise real - Computer Weekly",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEZXejdyZGhiOGZfTXZNNWtqdkl5OXVjYjJoR3duWS1zT3VwZm9yNnlicjh0MVJRc1RRMlRISGFjRDdZcXljQXJPZ2UzYXY4WkF3SGk1N1lPeVoyYV9TaVZORF9HYjNZMkFWbkxzazM3ZFJ2S2JpaFhJbVFvaGV5R0o4N3ZNdnFldkFuTVo2dXl4cU5mZkI2MmI0ZHJKVEpkSmxUN25xb0tZR01oa3pmWkJYZkZvNk5tU3IxcG9UbU1wQV9XTFRxd2VTLXZfY0VSVmIxYURMZklGUQ?oc=5",
+    "published": "2026-10-27T16:12:24.000Z",
+    "snippet": "TechEd 2026: SAP fronts tabular data model in space as it bids to make autonomous enterprise real Computer Weekly"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP TechEd - how Bosch's early exposure to an enhanced Joule Work is stacking up - Diginomica",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2ZDZTNtc0N0aXpsLWxwaGcyT2l6LVFYSWFXdHotTXNiY3RSTkctTklWN3NQTHNRZmJEb05FdWZwUTYwRUhXZUpDNGtra2drd2xwOFRrWTdyeXFzNzE0RFZuRUFfOV85YkJPd1N4YzhHX3VOZ09DMUZrR0FYUmcxVUNEMVF5ek5OYml3OENCUFlBZw?oc=5",
+    "published": "2026-10-27T13:57:06.000Z",
+    "snippet": "SAP TechEd - how Bosch's early exposure to an enhanced Joule Work is stacking up Diginomica"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Semos Cloud recognized as a winner of the partner agent race to SAP TechEd 2026 with AI innovation for people and culture - PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeFJmUzQyWnBxVnJqSEpzUkpNVnFEdXFkUkIzdld1akJLN0pKOTdpMHlCTUl2M21aRzJsSEpCTC1Ob3JhUUVqMUpqSnVzMWN5U2U1WGI0cThPcWM2MWM4UTVscTRlN1pHNnJUeU0yWVJXV1daVVI5NnpJMXF5LUNNYXEtaGUxVzd2RnNhaWhERW9VeHdXVzJpMTlEX0t5T3Y3ZmM5QkdKcDduWG1xcGo3eFBvenF5Z2Rra0FFOW9CdkczWXlUbzhaVW1fMVB0V2VIODdhSy1yNE10TkZpbHBaTFg4UTJtT1ZKZHBuSFhEVTNnZmtrYzNrSUthM1pPMjM4MGN0dlhibVQ?oc=5",
+    "published": "2026-10-27T10:00:00.000Z",
+    "snippet": "Semos Cloud recognized as a winner of the partner agent race to SAP TechEd 2026 with AI innovation for people and culture PR Newswire"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP unveils AI innovations including tabular AI on ISS and expanded enterprise AI platform at SAP TechEd 2026 - Pluang",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmpKVl9PWFNsMkt0RUdaR1RKWnh6MzJfbDE1WE5YQUlzak53WmhxM3ZjQWcwRzMyejhJV3IyNEhpUWdIeTMxT3VXSzhybFgtUVlXcWd6QmFXX2JTWnB2NlV0RmtXNWlYYmpFU3VmS2M4Y1F4eTUwa1RmM2JreC1neHZzUTdJdw?oc=5",
+    "published": "2026-10-27T08:14:34.000Z",
+    "snippet": "SAP unveils AI innovations including tabular AI on ISS and expanded enterprise AI platform at SAP TechEd 2026 Pluang"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2pqWVZ4dS15QTN5VEtJQ2pRaG1zYTl0TWFoRE1VNDFYR19vQlRZUDJHRVJkRGFXVlN2T0Fyc3JPbFRHODJpckJWWFZXOEYwdEFpcnM0MEJfa2NVMlJTSzR5TTQ5cGc4cG1mXzZzTlpOWTVwajVHQWU5a2s4ZkpLeHItM2FlUWp1WjZvMFUzMjVhN2Z4eURLN3lR?oc=5",
+    "published": "2026-10-27T08:06:37.000Z",
+    "snippet": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemo3UUJuUUgtWFFzSGFTVVVBb2xNVHdfclhtRjVpV0RmWjMtNjI0ZFZJalpIemRKczFEa2ZsR3BBMjJFVHlPSTVBd0JFRW5vVE42MW5qbEdzUWNXcUJBYlJJdWxyUG9Jd2NLTHlVWEFBaFdGRmo5S1o4YW1iRF9LWTN4X2RFcjl3aWtfa0JLVGJZRFJlVS1oN1BGQ2hMMTMxbHVzMTNrcHU?oc=5",
+    "published": "2026-10-27T08:06:33.000Z",
+    "snippet": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWJpRzZWTElrelc2Z3dCR1dSS0JhbmtEcWtUaEYzSkdvcW9wVkNMMWNSbVQ2bERWb0RPTUw0VmtNUU5LZ3NpVnZrMDdteFJqX0RlellLQ0lfNjdUQ3VkMGVYZkFYN1BsOHdESVhOX01tVzdtc3FEUnZHbENrVWNEMzJ2X19kbC14cVE?oc=5",
+    "published": "2026-10-27T08:06:33.000Z",
+    "snippet": "From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Launches SAP-RPT-2.0 and Edge AI Deployment on ISS at TechEd 2026 - Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXJFeE1JWVlPTU1CQVVWdWZmZ1NmWU9GMUFXcWlBR0tOd2lOeGJRNkVjQjU0YTFvQW9mQzl4VUVRTE1lcVhiSVNoWTBSSk1ZeThVdVMtSE1QSFBHd0tEVjFpMkd5MGJPUV9lR1BoMnBORVRjRUM5TGh0U2FEYkpmNmVJdUlINjVkQjNJQklCT1lzZ0dKdjBDUFkwZW9JdHd5a0NBT2RrenE5VmVwYlNMczlKTEcyUQ?oc=5",
+    "published": "2026-10-27T08:01:26.000Z",
+    "snippet": "SAP Launches SAP-RPT-2.0 and Edge AI Deployment on ISS at TechEd 2026 Kalkine Media"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "국제 컨퍼런스 \"새로운 맥락에서의 최고 감사 기관: 비전, 제도 및 혁신\"이 곧 개최될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEFYVWFDQVd2bWk3R1JFdVJ3RzdDNVNPaWhnX0Q1bW9rQUtIbjdLdXN3RnFlXzdDWEJNRkhiQzU1UXVtbkN4anNzN0xIcjRlY1RJRkpCOTdUR3JpOEtGV0Z5YThCa2U3M3o1NDZNXzFYbFdZU0JhQzVwUF9fZXAzTmNnWjlCSFZadWxVaGdZaEp2MVlUZVVVQjFpV2RobmxReHA5SDNvdnBocDBDLXItTThBbHVkeXJ6aHhqNEJDUXNiZw?oc=5",
+    "published": "2026-10-27T07:00:00.000Z",
+    "snippet": "국제 컨퍼런스 \"새로운 맥락에서의 최고 감사 기관: 비전, 제도 및 혁신\"이 곧 개최될 예정입니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "최고 감사에 관한 국제 회의가 곧 개최될 예정입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHQtdHE3QklfUjlSVzZYZFNhMTdJc2JMWDVvZ0d6QTk0NDgwRzRhMnlLTmFnMHFCZUNETlNzQjFSYW52TWVwczY5UE0wWThEWjNoTFltSDdhbDhTRFkydVdSbDI4MGprUzE1WG02YWMxVTViLTIzRmZVQkpSR0VWeA?oc=5",
+    "published": "2026-10-27T07:00:00.000Z",
+    "snippet": "최고 감사에 관한 국제 회의가 곧 개최될 예정입니다. Vietnam.vn"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "New Offering Developed by Redwood Software to Be Sold as an SAP Solution Extension - Press Release Hub",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanoxNEN1OWZVLXdXa3BESmNMWkcxRkdJY3hLQjFGajA3dzhfeGlWZHMtN2hrUWw0cnRWc2dabUFVckpuLXpWeE5LcnBnN3NZQzlCVllncHFCN0Nta295eHBpVWQ1V2tNUmxYOTFXTlYtclBzNGFwVlJaX3dJbXQ4QjF3M1p3WkFDR3VMNGhaRk1ZMWcyY3pHVzdRWnJKV01UQk9nT05la3BmTGRMRnFORWhscmVpTHdVZGRoVUxGRlRPS21IS0JORTh3UENwNlk?oc=5",
+    "published": "2026-10-26T07:02:16.000Z",
+    "snippet": "New Offering Developed by Redwood Software to Be Sold as an SAP Solution Extension Press Release Hub"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Weekly Recap: Q3 2026 revenue and cloud growth and €10B buyback progress - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3Qxd29TSnVrcE5MR0ZGMG5kRUNmLWF6bzlLWGhraE8ycXc4eDVqRm5TZGJONk85NEQtalpvd3dQT2xERHNqa0lUUWNPQzk3MFlEVEIxR1E3b1pEMHlBQ2tlajhtdHFVQ215R1VFM1Z4VUZ5Y0RraXZ5NUVUYjNBSEtsVm14ZU0wcEJjbGdIN29KUjVuRlQ3cW1mMHNlYXcwd2xIc3I3OHM5ZGtzRlJSMHdESm5FS3RVRExnUlNWbkdRNHdTN3dZaUlIRUY?oc=5",
+    "published": "2026-10-26T05:00:00.000Z",
+    "snippet": "Weekly Recap: Q3 2026 revenue and cloud growth and €10B buyback progress TradingView"
+  }
+]

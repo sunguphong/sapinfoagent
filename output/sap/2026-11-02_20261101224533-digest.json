@@ -1,0 +1,220 @@
+{
+  "overview": "지난주 열린 SAP TechEd 2026의 후속 보도가 이어지는 가운데, SAP는 '자율형 엔터프라이즈(Autonomous Enterprise)'를 핵심 메시지로 내세워 Joule·Business AI 플랫폼 확장, 테이블형 AI 모델 SAP-RPT-2.0, 인텔과의 피지컬 AI 협력 등을 발표했습니다. 기술 측면에서는 BTP Job Scheduling Service의 Destination Job 신규 유형, BTP Cockpit의 스크립팅·자동화 미리보기 패널, LeanIX MCP 서버 활용법 등 실무에 바로 쓸 수 있는 업데이트가 소개되었습니다. 비즈니스 측면에서는 NTT와의 소버린 클라우드 협력, 클라우드 ERP 전환용 마이그레이션·현대화 어시스턴트 출시와 함께, 241억 유로 규모 클라우드 수주잔고와 AI 비용 부담을 둘러싼 시장의 시선도 주목됩니다. 국내에서는 'AI로 ERP를 직접 만드는 시대에 SAP의 역할'을 묻는 논의가 등장해 ERP 시장 변화에 대한 관심이 커지고 있습니다.",
+  "categories": [
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "SAP, 고객의 클라우드 ERP 전환을 위한 마이그레이션·현대화 어시스턴트 출시",
+          "summary": "SAP가 클라우드 ERP 전환 프로젝트를 지원하는 마이그레이션 및 현대화 어시스턴트를 고객에게 제공한다고 발표했습니다. 레거시 시스템에서 클라우드 ERP로 옮기는 과정의 분석·전환 작업을 AI 기반으로 보조하는 것이 핵심입니다.",
+          "why": "S/4HANA 전환 프로젝트를 수행하는 컨설턴트의 작업 방식과 견적·일정 산정에 직접 영향을 줄 수 있는 도구입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDNITDF0aTdNbEdIcS0tZ3NKbjBzMWtVbTQ5SkdBazExTUt6STFESHZIWmtzckY5Unp5clBJOTJpeGxlSldXTmJQdGY0bTM1cWdoY09mSDJCcnZpOHh5N0JQY0lnSFV2V3BxcklmSVhLZTdfelF0cG13N3dPYTVSRGZkbWR5MTVyd2xLWDdnZWlsQkJyV2Z2aDFXRDBYU20tUGVLcnBQUHkyS3M?oc=5",
+            "published": "2026-10-28T11:04:35.000Z",
+            "snippet": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations SAP News Center"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "SAP S/4HANA Cloud Private Edition의 CDS 뷰 확장: 아키텍처, 도구, 그리고 핵심 고려사항",
+          "summary": "S/4HANA Cloud Private Edition 2023 FPS01 이상을 기준으로 CDS 뷰 확장의 구조와 도구를 설명하는 2부작 시리즈의 1부입니다. 'S/4HANA 데이터 모델이 곧 AI 전략'이라는 관점에서, Joule 활성화 시 커스텀 데이터를 어떻게 노출·연결할지 다룹니다(CDS 확장 메커니즘 자체는 1909부터 적용).",
+          "why": "Joule 도입 시 커스텀 필드·확장 데이터를 AI가 활용하게 하려면 CDS 확장 설계가 선행되어야 함을 보여줍니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "CDS View Extensions in SAP S/4HANA Cloud Private Edition: Architecture, Tools, and What Matters",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/cds-view-extensions-in-sap-s-4hana-cloud-private-edition-architecture-tools/ba-p/14512011",
+            "published": "2026-11-01T21:55:02.000Z",
+            "snippet": "***Applies to: SAP S/4HANA Cloud Private Edition 2023 FPS01 and later. CDS extension mechanics apply from S/4HANA 1909 onwards; the Joule connectivity described here requires 2023 FPS01+***Part 1 of 2 | Series: Your SAP S/4HANA Data Model Is Your AI StrategyPicture this scenario. As part of an SAP S/4HANA Cloud Private Edition transformation project, your company has just enabled Joule on the SAP "
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "SAP BTP Job Scheduling Service, 새로운 작업 유형 'Destination Job' 도입",
+          "summary": "Cloud Foundry와 Kyma 런타임에서 통합 REST API로 시간 기반 작업을 실행하는 BTP Job Scheduling Service에 Destination Job 유형이 추가되었습니다. BTP Destination을 통해 대상 시스템을 호출하는 예약 작업을 보다 간단하게 구성할 수 있습니다.",
+          "why": "야간 데이터 동기화나 정기 배치 호출을 BTP에서 구성하는 개발자·아키텍트에게 연결 설정 부담을 줄여줍니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP BTP Job Scheduling Service — Introducing New Job Type: Destination Job",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-btp-job-scheduling-service-introducing-new-job-type-destination-job/ba-p/14514356",
+            "published": "2026-11-01T14:43:10.000Z",
+            "snippet": "IntroductionSAP Job Scheduling Service on SAP Business Technology Platform (SAP BTP) is the backbone of automated, time-driven workloads for cloud-native applications. Whether you need to trigger a nightly data sync, execute a recurring business process, or run a long-running background task — the service has you covered, across both the Cloud Foundry and Kyma runtimes, through a unified REST API "
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "SAP BTP Cockpit, 스크립팅·자동화 미리보기(Scripting and Automation Preview) 패널 도입",
+          "summary": "BTP Cockpit에서 서브어카운트 설정 등 수작업 클릭 작업을 스크립트로 확인하고 자동화할 수 있는 미리보기 패널이 새로 추가되었습니다. 대규모 환경에서 반복적이고 오류가 잦던 설정 작업을 코드화하는 데 도움이 됩니다.",
+          "why": "BTP 계정·서브어카운트 구성을 IaC 방식으로 표준화하려는 Basis·클라우드 운영 담당자에게 유용합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP BTP Cockpit now introduces Scripting and Automation Preview panel",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-btp-cockpit-now-introduces-scripting-and-automation-preview-panel/ba-p/14514327",
+            "published": "2026-11-01T08:42:53.000Z",
+            "snippet": "Automate Everything: A Deep Dive into SAP BTP's Scripting & Automation PreviewIntroductionIf you have ever set up an SAP BTP subaccount manually — clicking through the cockpit, filling in forms, waiting for confirmations — you know how repetitive and error-prone that process can be, especially at scale. SAP BTP has quietly introduced a game-changing feature right inside the BTP Cockpit: Scripting "
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "대화만으로 SAP LeanIX 커스텀 디스커버리 커넥터 설정하기",
+          "summary": "SAP LeanIX MCP 서버를 활용해 AI 코딩 에이전트와 대화하는 방식으로 커스텀 디스커버리 커넥터 기반 연동을 구성하는 방법을 소개합니다. 사용자는 의도와 인증 정보만 제공하고, 세부 연동 작업은 에이전트가 처리합니다.",
+          "why": "엔터프라이즈 아키텍처 관리 도구 연동에 MCP 기반 에이전트를 실무 적용한 구체적 사례입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Set up LeanIX' custom discovery connector just by talking to it",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/set-up-leanix-custom-discovery-connector-just-by-talking-to-it/ba-p/14514295",
+            "published": "2026-11-01T03:14:02.000Z",
+            "snippet": "Use the SAP LeanIX MCP server to setup a custom-integration via custom discovery connector just by talking to your AI coding agent. In short: you bring the intent and the credentials; the agent handles the plumbing."
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "SAP, AI 개발자가 의도를 자율 실행으로 전환하도록 지원",
+          "summary": "SAP TechEd 2026에서 SAP는 개발자를 향해 '자율형 엔터프라이즈를 직접 만들 수 있다'는 메시지와 함께 에이전트 개발·운영 도구를 강화했다고 발표했습니다. 비즈니스 의도를 실제 실행 가능한 AI 에이전트로 연결하는 개발 환경 확장이 핵심입니다.",
+          "why": "SAP 개발 생태계의 중심이 ABAP·CAP 개발을 넘어 에이전트 개발로 옮겨가고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2pqWVZ4dS15QTN5VEtJQ2pRaG1zYTl0TWFoRE1VNDFYR19vQlRZUDJHRVJkRGFXVlN2T0Fyc3JPbFRHODJpckJWWFZXOEYwdEFpcnM0MEJfa2NVMlJTSzR5TTQ5cGc4cG1mXzZzTlpOWTVwajVHQWU5a2s4ZkpLeHItM2FlUWp1WjZvMFUzMjVhN2Z4eURLN3lR?oc=5",
+            "published": "2026-10-27T08:06:37.000Z",
+            "snippet": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution SAP News Center"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "SAP, 에이전틱 AI 확산을 위해 Business AI 플랫폼과 Joule 강화",
+          "summary": "SAP가 에이전틱 AI 도입을 가속하기 위해 Business AI 플랫폼과 Joule의 기능을 확대했습니다. 에이전트 개발·통제 플랫폼을 전면 확장해 '실행하는 AI'에 집중하겠다는 전략입니다.",
+          "why": "고객사의 Joule·AI 에이전트 도입 로드맵을 수립할 때 참고해야 할 최신 기능 범위입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption - ITWeb",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHozZW14aEdrZzJKalM1Vl9Ra0ZJeXJZYWFZb2x4bjhCLU9TVkRwQ2duTUE5VXdNTlFMRUZUa2diczB0SG95RWgwV1QtQlBURXlCWDdtZUNuZXNaZHVHMjA0RVE1QUFBWWliUElOTEJkWkh1LVQtMW4xUEFrOFVZSTBsLU1jaHBJMUpUcUVLeW5yN2NXYjZvMWlRUEpxNVFSc0c2R2NzcHdnZ2xQNDdTajBkUk5zb2NVZkRxS1Bn?oc=5",
+            "published": "2026-10-30T10:43:07.000Z",
+            "snippet": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption ITWeb"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "SAP, Joule 도구 단계적 출시… Enterprise AI Gateway는 2027년 예정",
+          "summary": "SAP가 Joule 관련 도구를 단계적으로 출시하며, Enterprise AI Gateway는 2027년에 제공할 계획이라고 밝혔습니다. 발표된 기능 중 일부는 즉시 사용 가능하지 않다는 점이 확인됩니다.",
+          "why": "고객에게 AI 기능 도입 시점을 안내할 때 발표와 실제 가용 시점을 구분해야 합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 - OpenTools",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmFvSnlfU3F1NUMyb0VwYkx3QmM3R2ttZ05BdWpwWUdiNjg3Y2JSUXRzSTBFTk9qYmZIaENoWHBPQ3FNSnlOMXhDbm1KNHliSjZrTC1tWjlNMFo1QlJTRFFSY3Z5TlFPWU15emMzbHZQSFdJVHVVVzlYaEx4OXZuVElqb2diNUZraU1uU20zVEZVdEU?oc=5",
+            "published": "2026-10-27T17:20:41.000Z",
+            "snippet": "SAP phases in Joule tools with Enterprise AI Gateway planned for 2027 OpenTools"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "SAP Business Data Cloud의 레이크하우스·데이터 패브릭 혁신 (SAP TechEd)",
+          "summary": "SAP가 TechEd에서 SAP Business Data Cloud(BDC)의 레이크하우스 및 데이터 패브릭 관련 신기능을 소개했습니다. 아울러 엔터프라이즈 AI 에이전트를 위한 데이터 패브릭과 마스터 데이터 도구도 확대했습니다.",
+          "why": "AI 에이전트 성능이 데이터 품질과 통합에 달려 있어, BDC와 마스터 데이터 전략이 AI 프로젝트의 선결 과제가 되고 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXk5bjRZUXhRN05JMGw0Mnd3MU15TDhCVkdXNlhsQXJYMF95NmtnTVBZQW9GTVVwS3hsLUJPSlpXMVJCOWhlYlJBNjRTTHJVdTZIQjlWdnZLLVlCd284MkVwTEd2VjJSOTlOd1NjSW1ZRmRjM2h5Y01fbjNDNGRhejkzZDlXZGZMaDluc1NoODlYdzBiNUROd3ZLczBISzFFTDNF?oc=5",
+            "published": "2026-10-29T11:04:36.000Z",
+            "snippet": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd SAP News Center"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "SAP, TechEd 2026에서 SAP-RPT-2.0 출시 및 국제우주정거장(ISS) 엣지 AI 배포 공개",
+          "summary": "SAP가 테이블형(tabular) 데이터 기반 AI 모델 SAP-RPT-2.0을 발표하고, HPE와 협력해 국제우주정거장에서 엣지 AI로 구동하는 사례를 선보였습니다. 정형 비즈니스 데이터에 특화된 AI 모델을 전면에 내세운 것이 특징입니다.",
+          "why": "ERP의 정형 데이터를 직접 예측·분석에 활용하는 SAP 자체 AI 모델 동향을 파악할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Launches SAP-RPT-2.0 and Edge AI Deployment on ISS at TechEd 2026 - Kalkine Media",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXJFeE1JWVlPTU1CQVVWdWZmZ1NmWU9GMUFXcWlBR0tOd2lOeGJRNkVjQjU0YTFvQW9mQzl4VUVRTE1lcVhiSVNoWTBSSk1ZeThVdVMtSE1QSFBHd0tEVjFpMkd5MGJPUV9lR1BoMnBORVRjRUM5TGh0U2FEYkpmNmVJdUlINjVkQjNJQklCT1lzZ0dKdjBDUFkwZW9JdHd5a0NBT2RrenE5VmVwYlNMczlKTEcyUQ?oc=5",
+            "published": "2026-10-27T08:01:26.000Z",
+            "snippet": "SAP Launches SAP-RPT-2.0 and Edge AI Deployment on ISS at TechEd 2026 Kalkine Media"
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "SAP, 인텔과 피지컬 AI 공개… 자율형 엔터프라이즈를 현실 세계로 확장",
+          "summary": "SAP가 인텔과 협력해 기업 시스템과 로봇을 연결하는 피지컬 AI를 발표하고, 자율 창고에서 자재 운반을 자동화하는 실제 작동 모습을 시연했습니다. ERP·물류 데이터가 로봇의 실제 동작으로 이어지는 구조를 제시했습니다.",
+          "why": "SAP EWM 등 물류·제조 영역에서 ERP와 로봇 자동화 연계가 새로운 프로젝트 영역이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemo3UUJuUUgtWFFzSGFTVVVBb2xNVHdfclhtRjVpV0RmWjMtNjI0ZFZJalpIemRKczFEa2ZsR3BBMjJFVHlPSTVBd0JFRW5vVE42MW5qbEdzUWNXcUJBYlJJdWxyUG9Jd2NLTHlVWEFBaFdGRmo5S1o4YW1iRF9LWTN4X2RFcjl3aWtfa0JLVGJZRFJlVS1oN1BGQ2hMMTMxbHVzMTNrcHU?oc=5",
+            "published": "2026-10-27T08:06:33.000Z",
+            "snippet": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 23,
+          "title_ko": "SAP-NTT, 신뢰 가능한 소버린 클라우드 및 SAP Business AI 제공 협력",
+          "summary": "SAP와 NTT가 소버린(데이터 주권) 클라우드와 SAP Business AI 역량 제공을 위해 협력한다고 발표했습니다. 데이터 주권 요구가 높은 고객을 겨냥한 파트너십입니다.",
+          "why": "공공·금융 등 규제 산업 고객의 클라우드 전환 시 소버린 클라우드 선택지가 넓어지고 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFVtd2lhQ3RqUzhRazE5ZWhRVlVNVHhhLVJ2WW1lSUtGbVNERlVXSVFHWHhKLUpCZE8wZ2U3MzRydk5DODRXR3FXeG9lMDJfUjhXVWdRUFF0RkZRaDBybzBPMXVUbVhnaGI2VDJUZ3lieDNBT3BYVk16YnhleWwzOXo5M2MzdTUzOFdVNlotajFjeEFlOGJsT1ZVLWcydHJIZ3FaemFoUTFhMTlKS1RxMg?oc=5",
+            "published": "2026-10-28T08:09:36.000Z",
+            "snippet": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities SAP News Center"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "SAP의 241억 유로 클라우드 수주잔고, 연말 수주와 AI 비용 문제라는 이중 시험대에",
+          "summary": "SAP의 클라우드 수주잔고가 241억 유로에 이르는 가운데, 연말 수주 실적과 AI 투자 비용이 함께 시험대에 올랐다는 분석입니다. AI 로드맵은 호평받지만 수익화 효과는 아직 입증 중이라는 평가도 나옵니다.",
+          "why": "고객사의 RISE·클라우드 계약 협상 환경과 SAP의 영업 압박 강도를 가늠하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP's €24.1 Billion Cloud Backlog Faces a Double Reckoning: Year-End Bookings and the AI Cost Ques - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdjM3blhhamFlYVFuYU90U0VjMGF3UzloM29rY3Y0OUZXTVFOcGRpdjBRMmh4bGdkUFJoTlFlWGMtRXpOWmFSeDM0SlNzc3NJeEZBMFZtd1k1cUl5aUt3R3Y5MFluWmVKcC1xaEYyNVBwWWZRbnRvQkw3ZVZQd2hJN1NKNTZvNGlZQW9rWUZfbzRPa25YZjJoOVJSU1VMb0lGQ09kNHQ0TEZJUThSR0NDTW9uaEtobDg5TmltaEk5V3RFRGNvNF84dnJiZS1YQzhaejJKa0tMQ0RXT0h2bFJBQV9SVS1fdVEtaGZZQ0VZYlltZ1NPczk4Y3Y2WXRjWEZfUkE?oc=5",
+            "published": "2026-10-31T02:01:29.000Z",
+            "snippet": "SAP's €24.1 Billion Cloud Backlog Faces a Double Reckoning: Year-End Bookings and the AI Cost Ques ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "'작은 개선과 신뢰성이 모든 곳에서 중요하다': SAP 핵심 업그레이드가 메르세데스의 2026년 F1 우승을 견인한 방법",
+          "summary": "메르세데스 F1 팀이 SAP 시스템의 주요 업그레이드를 통해 운영 효율과 안정성을 높인 사례를 소개합니다. 미세한 성능 차이가 승부를 가르는 환경에서 SAP 시스템의 신뢰성이 경쟁력으로 이어졌다는 내용입니다.",
+          "why": "고객에게 SAP 업그레이드의 비즈니스 가치를 설명할 때 활용할 수 있는 인지도 높은 레퍼런스입니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "'Marginal gains and reliability matter everywhere': How a key SAP upgrade is helping Mercedes soar to Formula 1 triumph in 2026 - TechRadar",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSUpYWE8yTGZlenltSGRjYnMtaGRNa01yNVdrZFJWWnYwU1ZBbVphYlF1bUlMZnF1cmdzZ2czY1p1dHpQZmQ0c2JJT1RPOWhzTFRyWjRQb2RuRkNMZk9XTVdUMVdrMlNqR1dKallNRGw3N3UyYkVJaHo3RHA0cFh2cTR4ZnhodGlzbC02dzlqdmNtUHYwV0hpV0JjdmpuOXI4SWpTR3JiY09sYmJISmpWaFFDZGVGcy1UekJHTFpOQ0VSMTZaeHFBc0ItQ29JVklaSFZYbmpxZ3I5aktkdnpZdVdqRTVPSmdMRVE?oc=5",
+            "published": "2026-11-01T13:00:00.000Z",
+            "snippet": "'Marginal gains and reliability matter everywhere': How a key SAP upgrade is helping Mercedes soar to Formula 1 triumph in 2026 TechRadar"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 9,
+          "title_ko": "[템터뷰] 'AI로 ERP 직접 만들면 SAP는?'… AI 책임자에게 물었더니",
+          "summary": "AI로 기업이 ERP를 직접 구축할 수 있게 되는 상황에서 SAP의 역할과 경쟁력이 무엇인지 AI 책임자에게 묻는 인터뷰 기사입니다. 국내에서도 생성형 AI가 ERP 시장 구도를 바꿀 수 있는지에 대한 관심이 높아지고 있습니다.",
+          "why": "'AI로 대체 가능한가'라는 고객의 질문에 대응하기 위한 논리를 준비하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "[템터뷰] 'AI로 ERP 직접 만들면 SAP는?'...AI 책임자에게 물었더니 - 테크M",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBVUI4b3p5Q3pIU1ktVzFVSUNGMXRHc2JnN1lKVzRGSTgtQ3FJb09sSTJlZS16X3BlTlBtc1E3Q2o0NVBYdkUwUXRPUFJaT21yZW9ERm1RWkRIbzZaWUJ3NF9yd1Vxd9IBakFVX3lxTE1RMkVMeDRRdGFxZWViSVRsTFg5UUVyaWF2SzNUTlI0ZnNvUUR4WWRuN0NodkhzM3RwT3hrUHNIZ0xDZGZYMmc2NHMtQjRpbGdiUENHbGhFbXNVcFZpR05JQ2ZNYkRfWVZMenc?oc=5",
+            "published": "2026-11-01T00:40:00.000Z",
+            "snippet": "[템터뷰] 'AI로 ERP 직접 만들면 SAP는?'...AI 책임자에게 물었더니 테크M"
+          }
+        }
+      ]
+    }
+  ]
+}
