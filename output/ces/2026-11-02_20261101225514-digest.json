@@ -1,0 +1,142 @@
+{
+  "overview": "현재 CES 2027 개막(2027년 1월 초, 라스베이거스)을 약 2개월 앞둔 사전 준비 시점입니다. 오늘 소식의 핵심은 '휴머노이드'로, 삼성전기가 휴머노이드 부품과 유리기판을 앞세워 CES 2027을 준비하고 있고 삼성·LG도 내년 휴머노이드 시장 경쟁을 예고했습니다. 엔아이디에스의 참가 확정, 삼성금융 C-랩 아웃사이드의 스타트업 CES 참가 지원, K-엔터테크 얼라이언스의 참가자 모집 등 국내 기업·기관의 참가 준비도 이어지고 있습니다. 해외에서는 소니·파나소닉이 CES를 떠나고 중국 가전이 존재감을 키운다는 분석이 나왔고, AMD 차세대 RDNA 5 그래픽카드는 CES 2027에서 공개되지 않을 가능성이 거론됐습니다.",
+  "categories": [
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "CES 2027 향하는 삼성전기…장덕현 사장, 휴머노이드·유리기판 들고 '동분서주'",
+          "summary": "삼성전기가 CES 2027을 앞두고 휴머노이드 로봇용 부품과 차세대 반도체 패키지 소재인 유리기판을 전면에 내세워 준비하고 있습니다. 장덕현 사장이 MLCC 등 AI 부품 사업 확대와 함께 신사업 고객 확보에 직접 나서고 있다는 내용입니다.",
+          "why": "국내 부품사가 CES를 완제품이 아닌 AI·로봇 부품 공급망 진입의 무대로 활용하려는 흐름을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[삼성전기, 손톱보다 작은 MLCC AI 부품 시장 잡다③] CES 2027 향하는 삼성전기…장덕현, 휴머노이드·유리기판 들고 '동분서주' - ER 이코노믹리뷰",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuLTdJQTNDX21KcjFXU0hWV0E0ZGZmWExZREtPaE5hNXA1UlU5YjhDSU5pLWNET1JYUEV2ZV9ZTXNiMmgtd003U1pBLVJGaFA1Q1FyOFBENmZjRFlnakNySXNCZDFUcERVbmsyQQ?oc=5",
+            "published": "2026-11-01T06:40:00.000Z",
+            "snippet": "[삼성전기, 손톱보다 작은 MLCC AI 부품 시장 잡다③] CES 2027 향하는 삼성전기…장덕현, 휴머노이드·유리기판 들고 '동분서주' ER 이코노믹리뷰"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "\"5조 달러 시장 잡아라\"…삼성·LG, 내년 '휴머노이드' 정면승부",
+          "summary": "삼성전자와 LG전자가 5조 달러 규모로 전망되는 휴머노이드 시장을 겨냥해 내년 본격적인 경쟁에 나설 것으로 보인다는 보도입니다. 두 회사의 로봇 전략이 내년 초 CES 2027 무대에서 어떻게 드러날지 관심이 모입니다.",
+          "why": "CES 2027에서 국내 양대 가전사의 로봇·휴머노이드 전시가 핵심 관전 포인트가 될 가능성이 큽니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "\"5조달러 시장 잡아라\"…삼성·LG, 내년 '휴머노이드' 정면승부 - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JUm9MNlFqZ1d2eVBZcTFiRi1SamUtZmFsQVRJR2t0V0JxSTB0Z25TSW1FallQWEtGOTBkMVlxZWloU0pEcmctX2Z4YXotek5tc2hWSTdQbzBKM2R1YVFKbjR4TjQ?oc=5",
+            "published": "2026-11-01T04:00:00.000Z",
+            "snippet": "\"5조달러 시장 잡아라\"…삼성·LG, 내년 '휴머노이드' 정면승부 매일일보"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "엔아이디에스, CES 2027 참가 확정…환경센서 글로벌 공급망 확대 추진",
+          "summary": "환경센서 전문기업 엔아이디에스가 CES 2027 참가를 확정했습니다. 회사는 이번 전시를 통해 환경센서의 해외 고객사를 발굴하고 글로벌 공급망을 넓힐 계획입니다.",
+          "why": "국내 중소 센서 기업들이 CES를 해외 판로 개척 창구로 적극 활용하고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "엔아이디에스, CES 2027 참가 확정…환경센서 글로벌 공급망 확대 추진 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MWGdLQnY2RWFPaEtESkxUSV9wbVQtOC16dXB0eVZGbGdUazJManVpeExWUmw2T083SU5WdmV2bW9Odnk4TTdMT2FaZzMwUQ?oc=5",
+            "published": "2026-10-31T17:16:56.000Z",
+            "snippet": "엔아이디에스, CES 2027 참가 확정…환경센서 글로벌 공급망 확대 추진 전자신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "삼성금융, 'C-랩 아웃사이드' 최우수 스타트업 선정…CES 참가 지원",
+          "summary": "삼성 금융 계열사들이 C-랩 아웃사이드 프로그램으로 육성한 스타트업 가운데 최우수 기업을 선정했습니다. 선정된 스타트업에는 CES 참가를 지원할 예정입니다.",
+          "why": "대기업 육성 프로그램을 통해 국내 핀테크·스타트업의 CES 진출 기회가 넓어지고 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성금융, ‘C-랩 아웃사이드’ 최우수 스타트업 선정…CES 참가 지원 - 더퍼블릭",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nNDNSY1RXZEhHc1VvMjgtU0otdU9UbXFMYTZVa3lsRmdfZWUwVkZFRm1vU0h4dFJXdGtZeFhZcEdCM1poei0xdDI4VVFGb21KSXJ6aDlaeHZzMm9fOF9JR3pzTGRBS2Z6YnNXc2Nxb9IBb0FVX3lxTE1nNDNSY1RXZEhHc1VvMjgtU0otdU9UbXFMYTZVa3lsRmdfZWUwVkZFRm1vU0h4dFJXdGtZeFhZcEdCM1poei0xdDI4VVFGb21KSXJ6aDlaeHZzMm9fOF9JR3pzTGRBS2Z6YnNXc2Nxbw?oc=5",
+            "published": "2026-11-01T03:42:35.000Z",
+            "snippet": "삼성금융, ‘C-랩 아웃사이드’ 최우수 스타트업 선정…CES 참가 지원 더퍼블릭"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "'글로벌 K-엔터테크 얼라이언스' 11월 4일 출범…CES 2027 프로그램 참가자 모집",
+          "summary": "K-엔터테크허브가 11월 4일 '글로벌 K-엔터테크 얼라이언스'를 공식 발표하고, CES 2027 연계 프로그램 참가자를 모집합니다. 엔터테인먼트·콘텐츠 기술 기업의 CES 진출을 돕는 것이 목표입니다.",
+          "why": "K-콘텐츠와 기술을 결합한 엔터테크 분야 국내 기업에 CES 진출 통로가 새로 생긴다는 의미입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "‘글로벌 K-엔터테크 얼라이언스’ 11월 4일 발표… CES 2027 프로그램 참가 모집 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTUJaNkMtZkNyeVFOU3Vxb1hjVDhIZDFoNURVU1lpQ1dVUHpGblRaQm1EdUdCdlpHZUdqUmMydjJoYXpKckZvaURqcVl1NUVrQnV0QkU5ZVB6VjdNdVE?oc=5",
+            "published": "2026-10-31T22:20:17.000Z",
+            "snippet": "‘글로벌 K-엔터테크 얼라이언스’ 11월 4일 발표… CES 2027 프로그램 참가 모집 K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "동국대 한류융합학술원·K엔터테크허브, 1월 5일부터 CES·LA서 엔터테크·컬처테크 한류 과정 운영",
+          "summary": "동국대 한류융합학술원과 K엔터테크허브가 2027년 1월 5일부터 CES 현장과 미국 LA에서 엔터테크·컬처테크·한류를 주제로 한 교육 과정을 엽니다. CES 참관과 현지 산업 탐방을 결합한 형태입니다.",
+          "why": "CES를 문화기술 분야 인재 교육과 네트워킹 기회로 활용하려는 시도로, 콘텐츠 업계 종사자가 참고할 만합니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "동국대 한류융합학술원·K엔터테크허브, 1월 5일 CES·LA서 엔터테크·컬처테크 한류 과정 연다 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44VDVSSHVPYW9OVTktSE8wcUxlREhGWS01dWNPdTRMeFZoUjhVTG5BLXdPUWpzOHJWa1RBYi10QkZqM1VPN0VaNzNheHFST1VXTHk1OEU1N1BseWE2NEJJ?oc=5",
+            "published": "2026-11-01T03:25:40.000Z",
+            "snippet": "동국대 한류융합학술원·K엔터테크허브, 1월 5일 CES·LA서 엔터테크·컬처테크 한류 과정 연다 K-EnterTech Hub"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "소니·파나소닉 CES 떠나는데…중국 가전은 프리미엄 시장 질주",
+          "summary": "소니와 파나소닉 등 일본 가전 대표 기업들이 CES에서 발을 빼는 반면, 중국 가전 브랜드는 프리미엄 시장으로 빠르게 영역을 넓히고 있다는 분석입니다. 글로벌 가전 시장의 주도권이 일본에서 중국으로 넘어가는 세대교체 흐름을 짚었습니다.",
+          "why": "CES 무대에서 삼성·LG가 중국 브랜드와 정면으로 맞붙는 구도가 더 뚜렷해질 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "소니·파나소닉 CES 떠나는데…중국 가전은 프리미엄 시장 질주…일본 가전의 퇴장, 중국 브랜드의 전진..세계 시장 세대교체 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WN0tOc290UUlPdGROYTAzOFM3a0N2VzNzbnVlYnhpbnFLQ3FzWjdhOEJkSkJOZXh2MUdhNFpPTEFzQzNwdXY2NzB6RQ?oc=5",
+            "published": "2026-10-31T06:32:00.000Z",
+            "snippet": "소니·파나소닉 CES 떠나는데…중국 가전은 프리미엄 시장 질주…일본 가전의 퇴장, 중국 브랜드의 전진..세계 시장 세대교체 재경일보"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "AMD RDNA 5 그래픽카드, CES 2027서 공개 안 될 듯",
+          "summary": "AMD의 차세대 RDNA 5 아키텍처 기반 그래픽카드가 CES 2027에서는 공개되지 않을 가능성이 높다는 관측이 나왔습니다. 그래픽카드 신제품 발표를 기대하던 PC·게이밍 업계의 예상과는 다른 전망입니다.",
+          "why": "CES 2027의 PC·게이밍 분야 발표는 GPU 신제품보다 CPU·노트북 중심이 될 수 있어, 그래픽카드 교체를 계획하는 소비자는 일정을 감안할 필요가 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "AMD RDNA 5 Graphics Card Likely Won’t Be At CES 2027! - eTeknix",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15NGQtQkQ2anhkNDJ1OWw5SDRkM05Pb3p1WENVYzRHcV9sOWdGeFRFQklVSDA2Y0pXSzg0RWN6SVlSTE1RSk5qandrc1VjdUNrOG9YLUJOUlZHNVdSNS13SkhIM3E2YXJLaTNBdg?oc=5",
+            "published": "2026-10-31T18:29:58.000Z",
+            "snippet": "AMD RDNA 5 Graphics Card Likely Won’t Be At CES 2027! eTeknix"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 32,
+          "title_ko": "유나이티드항공, CES 기간 라스베이거스 노선에 프리미엄 787 투입",
+          "summary": "유나이티드항공이 2027년 1월 CES 기간에 맞춰 자사 최상급 프리미엄 사양의 보잉 787 기종을 라스베이거스 노선에 임시 투입합니다. 전 세계 업계 관계자가 몰리는 CES 수요를 겨냥한 조치입니다.",
+          "why": "CES 출장을 준비하는 국내 직장인에게 미국 내 연결편 선택지가 늘어나는 소식입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "United schedules premium 787 flights for CES in Las Vegas - www.insideflyer.com",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0xHWkZzZ2Z4ZkcwRDUxMzRndm81dVh5dXRXaTJ2M2ZOaVZBLXVVQ2JZMVN3Q3FsVTNMcFl4N3VfOXVVZDhlWk1HWGx0Nk5fZzRESFVJWG1XX092TW8zc1lBZjN3VUZ5OXFUR19RRlA1Q0JOX0drNloxV1pfOXk5ZjJOSjlKVWpMczlhOFVMdHAtTjB1aFN3?oc=5",
+            "published": "2026-10-31T12:00:19.000Z",
+            "snippet": "United schedules premium 787 flights for CES in Las Vegas www.insideflyer.com"
+          }
+        }
+      ]
+    }
+  ]
+}
