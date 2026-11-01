@@ -1,0 +1,124 @@
+{
+  "overview": "■ 오늘 챙길 지원 혜택: 경기도 소상공인 에너지 절감 지원(경상원·에너지공단, 마감일 기사에 없음) / 정부 자영업자 고용보험료 지원 최대 80%(상시 신청 여부 원문 확인) / 정부(행정안전부) 소상공인 가게 운영 상담·지원(마감일 기사에 없음)\n■ 정책 흐름: 중기부가 키오스크·서빙로봇 등 스마트기기를 지원받은 소상공인 사업장 1만2천 곳을 전수점검하며, 고장 수리와 추가 교육까지 지원하는 사후관리를 강화합니다. 자영업 폐업이 62만 곳, 연체율이 12%에 이르는 등 경영 부담이 커지면서 지자체마다 보증·채무조정·시설지원을 늘리고 있습니다.",
+  "categories": [
+    {
+      "name": "신청 가능한 지원사업",
+      "items": [
+        {
+          "index": 51,
+          "title_ko": "[경기도] 경상원·한국에너지공단, 소상공인 에너지(전기료) 절감 지원",
+          "summary": "경기도시장상권진흥원(경상원)과 한국에너지공단이 손잡고 소상공인 가게의 전기료 등 에너지 비용 절감을 지원합니다. 지원 대상, 지원 내용(진단·고효율 기기 교체 등), 금액은 기사 제목만으로는 확인되지 않습니다. 마감일 기사에 없음 — 원문 확인, 문의는 경기도시장상권진흥원 누리집으로 하시면 됩니다.",
+          "why": "경기도 소상공인 대상 사업이라 동탄 피부관리샵도 대상일 가능성이 높습니다(대상 여부 확인 필요 — 세부 자격 미공개). 관리기기·조명·냉난방 전기료 부담이 있다면 경상원 누리집에서 공고와 신청 기간을 바로 확인하세요.",
+          "article": {
+            "source": "Google News 경기도·경기신보 소상공인 (KR)",
+            "title": "“전기료 줄여야 가게도 산다”…경상원·에너지공단, 소상공인 에너지 절감 지원 - 에너지경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MN2tMRkxkSXRrNUQ1NTl5cnBoMC1WOXBIVzN0bkwwd19oaFNFNF9IT21QYS1zeDRnSWgxSzBOLUpaRXJDQnZkZ0VXZDJzQ0RBRExkSXpHOTl6S0U?oc=5",
+            "published": "2026-10-31T13:38:31.000Z",
+            "snippet": "“전기료 줄여야 가게도 산다”…경상원·에너지공단, 소상공인 에너지 절감 지원 에너지경제신문"
+          }
+        },
+        {
+          "index": 46,
+          "title_ko": "[정부] 자영업자 고용보험료 최대 80% 환급, 산재보험료 지원도 확대",
+          "summary": "소상공인(자영업자)이 고용보험에 가입하면 보험료를 최대 80%까지 환급받을 수 있고, 산재보험료 지원 대상도 넓어진다는 소식입니다. 기사는 PC방 업주를 예로 들었지만, 고용보험료 지원은 업종 제한이 없는 1인 소상공인 대상 사업입니다. 마감일 기사에 없음 — 원문 확인, 신청은 소상공인시장진흥공단과 근로복지공단을 통해 하시면 됩니다.",
+          "why": "1인 피부관리샵 사장님이 대상이 될 수 있습니다(대상 여부 확인 필요 — 직원 유무와 매출 기준). 아직 자영업자 고용보험에 가입하지 않았다면 근로복지공단(1588-0075)에서 가입과 지원 신청을 함께 상담하세요.",
+          "article": {
+            "source": "Google News 소상공인 지원사업 신청·공고 (KR)",
+            "title": "PC방 사장님도 산재보험료 지원받는다… 고용보험은 지금도 최대 80% 환급 - 아이러브PC방",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OeW9BV3c1SnJzRG1OV2pvV1czNkd1dkdVYTdpRDBSaWw0SG0tNFhnTFlVeS14a21aX2tBWGQ1dURHZnpnSVFnOUZxT3NETElaU0JyQlhiU1dBMjFoZUs0NG5VRWhBVlh4TXlVQnVGdw?oc=5",
+            "published": "2026-11-01T02:20:00.000Z",
+            "snippet": "PC방 사장님도 산재보험료 지원받는다… 고용보험은 지금도 최대 80% 환급 아이러브PC방"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "[정부] 행정안전부, '가게 운영 막막하신가요?' 소상공인 상담·지원 안내",
+          "summary": "행정안전부가 가게 운영에 어려움을 겪는 소상공인에게 상담과 지원 창구를 안내하는 내용입니다. 구체적인 지원 내용, 대상, 신청 방법은 기사 제목만으로는 확인되지 않습니다. 마감일 기사에 없음 — 원문 확인.",
+          "why": "대상 여부 확인 필요 — 기사 원문에서 지원 내용(컨설팅·경영상담 등)과 업종 제한이 있는지 확인한 뒤, 해당되면 안내된 창구에 신청하세요.",
+          "article": {
+            "source": "Google News 소상공인 지원사업 신청·공고 (KR)",
+            "title": "행정안전부, 막막한 가게 운영, 혼자 고민하고 계신가요? - 시사일보",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHN1JnWW1TZFNWZXJsYnBzVV9HWVNvWUNWalZQeUVYVU42Z2lXdGJIOW52R3BiQ2Q0NGY3cVVXSThsZUhtT2Y5NjZFM0Q?oc=5",
+            "published": "2026-11-01T03:01:00.000Z",
+            "snippet": "행정안전부, 막막한 가게 운영, 혼자 고민하고 계신가요? 시사일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "미용업·피부관리 관련",
+      "items": [
+        {
+          "index": 23,
+          "title_ko": "[2026 국감] 피부관리 가맹점 필수품목 51개, 공급가 산정 근거는 비공개 논란",
+          "summary": "국정감사에서 한 피부관리 프랜차이즈가 가맹점에 필수품목 51개를 지정하면서도 공급가 산정 근거를 공개하지 않은 점이 지적됐습니다. 가맹본부의 필수품목 강매와 가격 불투명성 문제가 제도 개선 논의로 이어질 수 있습니다.",
+          "why": "프랜차이즈 가맹점이거나 가맹 창업을 고민 중이라면 계약서의 필수품목 범위와 공급가 조건을 점검해 두세요. 개인 샵이라면 직접 해당되지는 않습니다.",
+          "article": {
+            "source": "Google News 피부관리·미용업 정책 (KR)",
+            "title": "[2026 국감] 피부관리 가맹점 필수품목 51개…공급가 산정 근거는 비공개 논란 - 알티케이뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TLWc3ajFUUVdPOVF3N0VqcUYtOFExbTNxdmlOUzJmUnhOTEFES3pPSkZHZDBKd1pUbm4tdTBPNEx2NzYxYUE4bWxCSWlZbi05TWdlTTlsWXFIMy1OMERBMDdHczNwQmxMY3EyLXZR?oc=5",
+            "published": "2026-11-01T06:53:59.000Z",
+            "snippet": "[2026 국감] 피부관리 가맹점 필수품목 51개…공급가 산정 근거는 비공개 논란 알티케이뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "소상공인 정책 동향",
+      "items": [
+        {
+          "index": 40,
+          "title_ko": "중기부, 스마트상점 1만2천 곳 전수점검…고장 수리·추가 교육 지원",
+          "summary": "중기부가 키오스크·서빙로봇 등 스마트기술 보급사업으로 기기를 지원받은 소상공인 사업장 1만2천 곳을 전수점검합니다. 기기가 제대로 작동하고 활용되는지 확인하고, 고장 수리와 추가 교육을 지원합니다.",
+          "why": "스마트상점 사업으로 키오스크나 예약·결제 기기를 지원받았다면 점검 연락에 대비하세요. 이때 고장 수리와 추가 교육을 요청할 수 있습니다.",
+          "article": {
+            "source": "Google News 소진공·중기부 (KR)",
+            "title": "중기부, 스마트상점 1.2만곳 전수점검…고장 수리·추가 교육 지원 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EaV9SZmgzV0V0dG1lMUh0WFhZa1J1YkJSQi0zQ3huR0Z4bkl1RFhlZEs4TlFRNHBTblNfSmdIQnVhNE5ueFE0NHdwWkNkWDhnWFhtSDdmdHJjZW12?oc=5",
+            "published": "2026-11-01T03:00:00.000Z",
+            "snippet": "중기부, 스마트상점 1.2만곳 전수점검…고장 수리·추가 교육 지원 뉴스1"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "폐업 62만 곳·연체율 12%…자영업을 잠식한 '부실의 악순환'",
+          "summary": "자영업 폐업이 62만 곳에 이르고 대출 연체율이 12%까지 치솟는 등 자영업 부실이 서로 맞물려 악화되고 있다는 분석입니다. 정부와 지자체의 채무조정·보증 지원 확대 요구가 커지고 있습니다.",
+          "why": "대출 상환 부담이 있다면 경기신용보증재단이나 소상공인시장진흥공단의 채무조정·대환 프로그램을 미리 알아 두세요.",
+          "article": {
+            "source": "Google News 자영업자 대책 (KR)",
+            "title": "폐업 62만·연체율 12% … 자영업 잠식한 '부실의 톱니바퀴' - 뉴데일리",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41UnJiN1NmWmk5ckpyeUNJRjRNcTg0MlVidVp5ZHVna1ZycmIwX3kzSTAwZ0dXVE5ZSkx5UW9seUp0ekUtRkVJV09zN1JYdjlBUVk1Sy1KTGhoZWNFM2REaS1tSTlxQ0FWQ0wtbHRNQVNZVmlyd3VNUk9Oa9IBgAFBVV95cUxQb1VaMFFBLV9tSTBwNWZWRWN6bjE3aW9ZMjc3amZ0SjEwMGJ3eXVHbmp5UWZxaVQ3UTVUU2pNb0hFSVk5UFhFX1NKQWxMaElpMnMxWllqTzZ5ZVBMMVM0ck5NYk0wSU11cWViUEtudEhUbjJRMkV5TVpCb1ctU1BMag?oc=5",
+            "published": "2026-11-01T10:06:00.000Z",
+            "snippet": "폐업 62만·연체율 12% … 자영업 잠식한 '부실의 톱니바퀴' 뉴데일리"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "남양주시, 소상공인 냉난방기 청소 지원…13일까지 250곳 모집",
+          "summary": "남양주시가 관내 소상공인 250곳을 대상으로 냉난방기 청소를 지원하며, 11월 13일까지 신청을 받습니다. 남양주시 전용 사업입니다.",
+          "why": "화성시 사장님은 대상이 아닙니다. 화성시에도 비슷한 시설 지원 사업이 있는지 화성시청이나 화성시 소상공인지원센터에 문의해 볼 만합니다.",
+          "article": {
+            "source": "Google News 화성시·동탄 소상공인 (KR)",
+            "title": "남양주시, 소상공인 냉난방기 청소 지원…13일까지 250곳 모집 - 경인미래신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBST2E1NDI2c1FmVzRQSW94NzhKQ3dyaXlxY3BEb0VNZlZ4TmxkRHVUVjN2N3MzeEpWbngycVBGT3NjVGFiU3lkQVhYRllUYkdlTUMwLS0tZGNHazJhNHQxSTFR?oc=5",
+            "published": "2026-11-01T22:19:39.000Z",
+            "snippet": "남양주시, 소상공인 냉난방기 청소 지원…13일까지 250곳 모집 경인미래신문"
+          }
+        },
+        {
+          "index": 55,
+          "title_ko": "한영수 경기도의원, 경기도 중소기업·소상공인 전국 판로 개척 추진",
+          "summary": "경기도의회에서 도내 중소기업과 소상공인의 전국 판로를 넓히는 방안이 추진되고 있습니다. 구체적인 지원사업으로 이어지는지는 지켜봐야 합니다.",
+          "why": "당장 신청할 사업은 아닙니다. 경기도 판로 지원 공고가 나오면 홈케어 제품 판매 등에 활용할 수 있는지 확인해 보세요.",
+          "article": {
+            "source": "Google News 화성시·동탄 소상공인 (KR)",
+            "title": "한영수 경기도의원, 경기도 중소기업·소상공인 전국 판로 만든다 - 경기뉴스원",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVcGJzbmFBSEZ1QndPb25qVEpPZVI0bkxfT2VYUXJKQVVIX3F2aW0tNXJQUXUyQjBLZUxrNzExanJoWk03YjRXRkRiN1pfenV5SlFvSGJRZENQQkNrTVBaS0MyVQ?oc=5",
+            "published": "2026-10-30T08:11:19.000Z",
+            "snippet": "한영수 경기도의원, 경기도 중소기업·소상공인 전국 판로 만든다 경기뉴스원"
+          }
+        }
+      ]
+    }
+  ]
+}
