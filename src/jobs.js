@@ -5,6 +5,10 @@
 // 반환 형식은 RSS 기사와 같다 (source, title, link, published, snippet) + company. 등록일이 없는 사이트(원티드)는
 // published 를 수집 시각으로 두므로, 새 공고인지는 index.js 의 seen 기록(trackSeen)으로 가린다.
 // addCompanyInfo() 는 수집 뒤 회사별 사원수·최근 매출액·영업이익을 잡코리아 기업정보에서 찾아 article.companyInfo 에 붙인다.
+import { readFileSync } from "node:fs";
+import path from "node:path";
+import { ROOT } from "./agents.js";
+
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
 
 async function get(url, { json = false } = {}) {
@@ -247,10 +251,31 @@ export function isJobFeed(feed) {
 }
 
 // feed.filter: 제목에 이 정규식(대소문자 무시)이 있는 공고만 남긴다. 검색이 느슨한 사이트(원티드 등)의 무관한 공고를 거른다.
-export async function fetchJobs(feed) {
+export async function scrapeFeed(feed) {
   let items = await SCRAPERS[feed.type](feed.query, feed);
   if (feed.filter) { const re = new RegExp(feed.filter, "i"); items = items.filter((a) => re.test(a.title)); }
   return items.map((a) => ({ source: feed.name, ...a, snippet: a.snippet.slice(0, 400) }));
+}
+
+// feed.relay: GitHub Actions 에서 막히는 사이트(원티드 HTTP 403, 2026-10-26~ 관측)를 PC 가 대신 수집해 둔 파일 경로.
+// src/relay-feeds.js 가 ci-state 에 올리고, 실행 시 logs/<id>/ 와 함께 내려온다. 직접 수집이 실패했을 때만 쓰고, 오래됐으면 원래 오류를 낸다.
+const RELAY_MAX_AGE = 30 * 3600 * 1000;
+function readRelay(feed) {
+  try {
+    const { fetchedAt, items } = JSON.parse(readFileSync(path.join(ROOT, feed.relay), "utf8"));
+    return Date.now() - new Date(fetchedAt).getTime() <= RELAY_MAX_AGE ? items : null;
+  } catch { return null; }
+}
+
+export async function fetchJobs(feed) {
+  try {
+    return await scrapeFeed(feed);
+  } catch (e) {
+    const relayed = feed.relay && readRelay(feed);
+    if (!relayed) throw e;
+    console.log(`${feed.name}: ${e.message} - PC 수집본 ${relayed.length}건 사용`);
+    return relayed;
+  }
 }
 
 // ---------- 회사 정보 (사원수·최근 매출액·영업이익) ----------

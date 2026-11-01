@@ -52,6 +52,24 @@ if (-not (Test-Port $Port)) {
   if (Test-Port $Port) { Log '웹 서버 꺼져 있어 다시 띄움' } else { Log '웹 서버 재기동 실패' }
 }
 
+# 1.4) GitHub Actions 에서 막히는 채용 사이트(원티드)를 PC 가 대신 수집해 ci-state 에 올린다 (src/relay-feeds.js).
+#  첫 발송 요청(06:45~06:50) 전인 06:30 부터 12:00 사이에 하루 한 번, 실패하면 다음 5분 주기에 다시 시도한다.
+#  PC 가 꺼져 있거나 막히면 그날 메일에서 원티드만 빠진다 (30시간 안의 수집본이 있으면 그것을 쓴다).
+$RlFile = Join-Path $Root 'logs\relay.txt'
+function Invoke-Relay {
+  $now = Get-Date
+  $today = $now.ToString('yyyy-MM-dd')
+  if ($now.Hour -ge 12 -or $now -lt $now.Date.AddHours(6.5)) { return }
+  if ((Test-Path $RlFile) -and ((Get-Content $RlFile -Raw).Trim() -eq $today)) { return }
+  $node = Find-Exe 'node' @("$env:ProgramFiles\nodejs")
+  $git = Find-Exe 'git' @("$env:ProgramFiles\Git\cmd")
+  if (-not $node -or -not $git) { Log '원티드 PC 수집 - node.exe 또는 git.exe 를 찾지 못함'; return }
+  $env:GIT_EXE = $git
+  $out = (& $node (Join-Path $Root 'src\relay-feeds.js') 2>&1) -join ' / '
+  if ($LASTEXITCODE -eq 0) { Set-Content $RlFile $today; Log "원티드 PC 수집: $out" } else { Log "원티드 PC 수집 실패: $out" }
+}
+try { Invoke-Relay } catch { Log "원티드 PC 수집 오류: $($_.Exception.Message)" }
+
 # 1.5) 아침 브리핑 백업 실행
 #  GitHub 예약 실행이 3시간씩 늦어(04:07 예약 → 07:16 시작, 2026-10-22·23), 사실상 이 PC 요청이 발송을 맡는다.
 #  발송 시각 10분 전 ~ 12:00 사이에(watchdog 5분 간격 + 실행 2~4분 → 발송 시각 직전 도착) ci-state 의

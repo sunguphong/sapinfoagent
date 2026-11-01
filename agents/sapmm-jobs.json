@@ -34,7 +34,8 @@
       "name": "원티드",
       "type": "wanted",
       "query": "SAP",
-      "filter": "SAP"
+      "filter": "SAP",
+      "relay": "logs/sapmm-jobs/wanted-relay.json"
     },
     {
       "name": "LinkedIn",
