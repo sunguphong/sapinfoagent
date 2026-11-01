@@ -13,9 +13,10 @@ const C = {
   headBg: "#0f131b", headBg2: "#161c27", headText: "#eceef2", headMuted: "#a5adba", headGold: "#d9bc82",
   overviewBg: "#fbf9f3",
 };
-// 강조 섹션(에이전트 설정 accentCategories) 색: 골드 톤 본문과 한눈에 구분되도록 차분한 블루 톤 바탕을 깐다.
-const A = {
-  panel: "#dde8f6", panelLine: "#bccfe8", card: "#eaf1fb", line: "#c4d6ee", deep: "#2c5487", accent: "#4a78b5", soft: "#d4e2f5", softLine: "#b3c9e6",
+// 강조 섹션(에이전트 설정 accentCategories) 색: 골드 톤 본문과 한눈에 구분되도록 차분한 바탕을 깐다. 기본은 블루, 섹션끼리 구분이 필요하면 그린.
+const ACCENTS = {
+  blue: { panel: "#dde8f6", panelLine: "#bccfe8", card: "#eaf1fb", line: "#c4d6ee", deep: "#2c5487", accent: "#4a78b5", soft: "#d4e2f5", softLine: "#b3c9e6" },
+  green: { panel: "#dcf0e3", panelLine: "#b5dcc4", card: "#ebf7f0", line: "#c0e2cd", deep: "#1f6b45", accent: "#3f9a6c", soft: "#d1ebdb", softLine: "#acd7be" },
 };
 const FONT = "'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif";
 
@@ -39,10 +40,17 @@ export function renderHtml(digest, { dateLabel, articleCount, errors = [], artic
   const srcCount = {};
   for (const a of articles) srcCount[a.source] = (srcCount[a.source] || 0) + 1;
   const srcList = Object.entries(srcCount).map(([s, n]) => `${esc(s)} ${n}건`).join(" &nbsp;·&nbsp; ");
-  // 카테고리 이름에 accentCategories 의 단어가 들어 있으면 그 섹션 전체를 블루 톤 패널로 감싼다 (예: 채용공고 메일 속 동국 계열사 뉴스)
-  const isAccent = (name = "") => accentCategories.some((k) => k && name.includes(k));
+  // 카테고리 이름에 accentCategories 의 단어가 들어 있으면 그 섹션 전체를 색 패널로 감싼다 (예: 채용공고 메일 속 동국 계열사 뉴스).
+  // 항목은 "단어"(블루) 또는 { "match": "단어", "theme": "green" }
+  const accentOf = (name = "") => {
+    for (const k of accentCategories) {
+      const match = typeof k === "string" ? k : k?.match;
+      if (match && name.includes(match)) return ACCENTS[k.theme] || ACCENTS.blue;
+    }
+    return null;
+  };
   const cats = (digest.categories || []).map((c, ci) => {
-    const acc = isAccent(c.name);
+    const A = accentOf(c.name), acc = !!A;
     const T = acc
       ? { card: A.card, deep: A.deep, accent: A.accent, soft: A.soft, softLine: A.softLine, line: A.line, rule: `linear-gradient(90deg,${A.accent},${A.panelLine})` }
       : { card: C.card, deep: C.goldDeep, accent: C.gold, soft: C.goldSoft, softLine: C.goldLine, line: C.line, rule: `linear-gradient(90deg,${C.gold},${C.lineSoft})` };

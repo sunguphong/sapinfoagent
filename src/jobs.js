@@ -101,13 +101,20 @@ async function wanted(q, feed = {}) {
 }
 
 // LinkedIn: 비로그인 공개 검색(guest API). 최근 7일, 최신순. location 은 feed.location (기본 South Korea).
-// 한 번에 10건씩 주므로 feed.pages(기본 6) 쪽까지 넘겨 읽는다. 연달아 부르면 막힐 수 있어 사이에 잠깐 쉰다.
+// 한 번에 10건씩 주므로 feed.pages(기본 6) 쪽까지 넘겨 읽는다. 연달아 부르면 HTTP 429 로 막히므로 사이에 쉬고,
+// 첫 쪽을 읽은 뒤 막히면 그때까지 읽은 공고만 쓴다.
 async function linkedin(q, feed) {
   const loc = feed.location || "South Korea";
   const out = [];
   for (let page = 0; page < (feed.pages || 6); page++) {
-    if (page) await new Promise((r) => setTimeout(r, 800));
-    const html = await get(`https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${enc(q)}&location=${enc(loc)}&f_TPR=r604800&sortBy=DD&start=${page * 10}`);
+    if (page) await new Promise((r) => setTimeout(r, 2000));
+    let html;
+    try {
+      html = await get(`https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${enc(q)}&location=${enc(loc)}&f_TPR=r604800&sortBy=DD&start=${page * 10}`);
+    } catch (e) {
+      if (page) break;
+      throw e;
+    }
     const cards = html.split("<li>").slice(1);
     if (!cards.length) break;
     out.push(...cards.map((b) => {
