@@ -1,0 +1,225 @@
+{
+  "overview": "■ 전날 미국 증시 2일(현지시간) 뉴욕증시는 혼조로 마감했습니다. 다우지수는 0.41% 올랐지만 S&P500은 0.51%, 나스닥은 1.07% 내렸습니다. AI 투자 부담과 버블 우려가 다시 커지면서 기술주 매도세가 이어졌습니다. 필라델피아 반도체지수(SOX)는 3% 넘게 급락했고 마벨(-12%대)과 오라클(-8%대) 등 AI 관련주의 낙폭이 컸습니다. 반면 국제유가가 7%대 급락하고 국채금리 하락세가 이어지면서, 경기민감·가치주 중심의 순환매가 다우지수를 떠받쳤습니다. 장 마감 후 애플은 아이폰 판매 호조로 시장 예상을 웃도는 회계연도 4분기 실적을 내놨고, 미국 중간선거를 하루 앞둔 경계심리도 시장에 남아 있습니다.\n\n■ 오늘 국내 증시 전망 오늘 코스피·코스닥은 하락 우세 흐름으로 출발할 가능성이 큽니다. 전날 코스피는 '인텔 쇼크'에도 기관이 1.2조원을 순매수해 2.24% 반등하며 5,800선을 회복했습니다. 하지만 밤사이 SOX가 3% 넘게 떨어졌고, 키옥시아 실적 여파로 마이크론 등 메모리주도 약세를 보였습니다. 이 때문에 반도체 비중이 큰 코스피는 삼성전자·SK하이닉스를 중심으로 차익실현 압력을 받을 수 있습니다. 다만 유가 급락과 미 국채금리 하락은 원·달러 환율 안정과 외국인 수급에 우호적인 요인이어서 낙폭은 제한적일 수 있습니다. 개장 전 야간선물과 환율 흐름을 확인할 필요가 있습니다. 업종별로는 정유·화학이 약세 압력을, 항공·운송이 비용 절감 기대를 받을 수 있습니다. 미국 중간선거 결과와 이번 주 AMD 실적 발표는 변동성을 키울 수 있는 리스크입니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "美증시 혼조 마감…다우 +0.41%, S&P500 -0.51%, 나스닥 -1.07%",
+          "summary": "2일 뉴욕증시는 다우지수만 0.41% 오르고 S&P500(-0.51%)과 나스닥(-1.07%)은 하락하는 혼조세로 마감했습니다. 유가 급락이 호재로 작용했지만, 기술주 매도세가 지수 전반을 짓눌렀습니다.",
+          "why": "기술주 중심의 나스닥 약세는 오늘 코스피·코스닥의 성장주와 반도체 업종 투자심리를 위축시킬 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[속보] 美증시 혼조 마감…다우 +0.41%, S&P500 -0.51%, 나스닥 -1.07% - SBS Biz",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEU2NLYVNHNDVOaV8wRWdPS0stMmx0OE5sejhyeTB3UWF1UmVaYlJKU2pnTHlLelkxLVVkbW5ZM2h4RWxnbHBrdnN4TGFjNXB4TUcxbElJdDBCUmpUU2dHR2MtUzVCWE3SAVhBVV95cUxQVGVRRjhRRnVkemduWlRabjR2WmFvOEdHZmdZQ2wtbnI0SU1EcUJOX2lGWVNGaTUycmduaE9qZ1BvUm1fSHJERDlGX2hRRHBZOE54cUVMM0JX?oc=5",
+            "published": "2026-11-02T21:05:00.000Z",
+            "snippet": "[속보] 美증시 혼조 마감…다우 +0.41%, S&P500 -0.51%, 나스닥 -1.07% SBS Biz"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "[뉴욕마감] AI 불안에 나스닥 1% 하락…반도체 급락에 기술주 조정장",
+          "summary": "AI 투자의 수익성과 버블 우려가 다시 부각되면서 반도체를 중심으로 기술주 조정이 이어졌습니다. 시장 자금이 기술주에서 경기민감주와 가치주로 옮겨가는 순환매 양상이 나타났습니다.",
+          "why": "AI 반도체 랠리를 이끌던 SK하이닉스·삼성전자 등 국내 반도체 대형주와 AI 관련 장비·부품주에 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[뉴욕마감] AI 불안에 나스닥 1% 하락…반도체 급락에 기술주 조정장 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YcWZkRW9Hd0dDRlhSTzNuS3REcmJtcFRkVXRKWFRmTkU4NGhHZ0dRbFNMNDRVXzQ0LXVpaHpTVWw4MEZDRGVsajVhOE51d0wzelYxdDF1dmhPN3NyNU4tX0FkU1NfNnM?oc=5",
+            "published": "2026-11-02T21:33:59.000Z",
+            "snippet": "[뉴욕마감] AI 불안에 나스닥 1% 하락…반도체 급락에 기술주 조정장 뉴스1"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "나스닥 1.07%·SOX 3% 넘게 하락…AI 관련주 낙폭 확대, 마벨 12%·오라클 8% 급락",
+          "summary": "필라델피아 반도체지수(SOX)가 3% 넘게 떨어졌고 AI 관련주의 하락세가 이어졌습니다. 마벨 테크놀로지는 12% 이상, 오라클은 8% 이상 급락하며 AI 인프라 투자 부담 우려를 키웠습니다.",
+          "why": "SOX 급락은 오늘 SK하이닉스·삼성전자 등 반도체 대형주와 HBM·AI 서버 관련 소부장주의 약세 요인으로 작용할 가능성이 큽니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Nasdaq Falls 1.07%, SOX Drops Over 3%; AI-Related Stocks Extend Losses, Marvell Falls Over 12%, Oracle Drops Over 8% - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFl4NV9ta1YxSWV5aFduTVJ6ZUp6cHpad0NCU25iM0QtcGVrQ0tyeTBOLUJ4c1FnX2p2LUF6ek1uTE9Wem9jNm5GZzRXdUh0cXJIMXFrQ0Jfc29PMWpwUzU4MTZpVFFSYUhXTVdEbmc0Z19yaDI3SUZnc3dxMFRBUV9RTm41R1NTclI1MjFwYjFqUklUX3RDNVZJMm9TdFVFWHB3azdPdWwyU2xxaDdTUjVwVnJqRkU3STJRNWRvT1QyVmto?oc=5",
+            "published": "2026-11-02T21:14:27.000Z",
+            "snippet": "Nasdaq Falls 1.07%, SOX Drops Over 3%; AI-Related Stocks Extend Losses, Marvell Falls Over 12%, Oracle Drops Over 8% TradingKey"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "뉴욕증시 혼조…AI 기술주 약세에 나스닥 1%↓, 국제유가 7% 급락",
+          "summary": "국제유가가 하루 만에 7%대 급락하면서 인플레이션 부담 완화 기대가 커졌습니다. 다만 기술주 매도세를 되돌리기에는 역부족이었습니다.",
+          "why": "유가 급락은 정유·화학주에는 약세 요인이지만, 항공·해운 등 원가 부담이 큰 업종과 무역수지에는 긍정적일 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "뉴욕증시 혼조…AI 기술주 약세에 나스닥 1%↓, 국제유가 7% 급락 - 디지털데일리",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRMmR1SS1OVW9PekN0MWR5azhDU2FycDBLSmoxc0YyRWo1MkNJNjU5RVNKNGF1aHVYNEw4WVI1NGNmdnN5X0ozTl9TNU1STHVZREhHNkJTLVlUVlJVRlZ4Qi0yTEU?oc=5",
+            "published": "2026-11-02T21:34:14.000Z",
+            "snippet": "뉴욕증시 혼조…AI 기술주 약세에 나스닥 1%↓, 국제유가 7% 급락 디지털데일리"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "유가 급락에 미 국채금리, 지난달 하락세 이어가",
+          "summary": "유가 급락으로 물가 압력 완화 기대가 커지면서 미 국채금리가 지난 한 달간의 하락세를 이어갔습니다. 채권시장에서는 인플레이션 우려가 누그러지는 흐름이 나타났습니다.",
+          "why": "미 금리 하락은 달러 강세를 완화해 원·달러 환율 안정과 외국인 수급 개선, 바이오 등 금리 민감 성장주에 우호적일 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYklzcjZIYkJLNGJ5eXZ0S3dQWTJXMk9Xd2QxSk9oandNUG9VdE5pQnFhc0ZLQnBrZGtqeDVlOGNRUnh3U3Rqd3VhM1JubTFPOVU5MzRudi00SUhtOHcyUkkwLUtPTjl5S2RkZmVpZXJNbENwN0h1NnRjM2piRm9uQThVdjhGRDFWbWVJa3VvYnpjdFdKa3VjeFdUYVpxM2ZBc1JKdnhMY215WUNCaElla19pUQ?oc=5",
+            "published": "2026-11-02T21:05:52.000Z",
+            "snippet": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble Bloomberg.com"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 증시 전망",
+      "items": [
+        {
+          "index": 47,
+          "title_ko": "[클로징 벨] 美 반도체 급락에도 코스피 2.24% 반등…기관 1.2조 순매수",
+          "summary": "전날 코스피는 '인텔 쇼크'로 하락 출발했지만 기관이 1.2조원을 순매수하면서 2.24% 반등 마감했고 5,800선을 회복했습니다. 그러나 밤사이 SOX가 3% 넘게 다시 급락해, 오늘은 반등분 일부를 되돌리는 하락 우세 출발 가능성이 큽니다.",
+          "why": "전날 기관 매수로 반등한 반도체 대형주가 미국 반도체 약세를 다시 반영하면서 차익실현 압력을 받을 수 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[클로징 벨] 美 반도체 급락에도 코스피 2.24% 반등…기관 1.2조 샀다 - https://www.standingout.kr/",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PQk4xOEFxUkItTFhXZlV2dTdCSHpmMHE0MEJoQTUtRnZjaEZKb0FCMmIzZldodmxzXzg5TkVyNkd4YWZGclhJWllxWFNpTnprT2dVcERlMXFOQkQ0WlNiMDAtb0QwZFppVUVR?oc=5",
+            "published": "2026-11-02T10:40:33.000Z",
+            "snippet": "[클로징 벨] 美 반도체 급락에도 코스피 2.24% 반등…기관 1.2조 샀다 https://www.standingout.kr/"
+          }
+        },
+        {
+          "index": 46,
+          "title_ko": "\"인텔 폭락에 코스피 안 보려 했는데\"…지수 끌어올린 '큰손'",
+          "summary": "인텔 실적 쇼크에도 기관 등 큰손 자금이 저가 매수에 나서며 코스피 하단을 방어했습니다. 수급 주체의 매수 여력이 지수 낙폭을 제한하는 변수로 꼽힙니다.",
+          "why": "오늘 반도체 약세 속에서도 기관 저가 매수가 이어진다면 코스피 낙폭은 제한적일 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "“인텔 폭락에 코스피 안 보려 했는데”…멱살 잡고 끌어올린 ‘큰손’ - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5ZHdiT3hVZ2hWQW1nS0xCQW5ycmdHY3J4a2hWcVVLdmpweF9JN3IxTXAwYVoyWmFIZm5VWDl0cnBRbHczWkR1eEJ6elJybTdURFE?oc=5",
+            "published": "2026-11-02T12:41:15.000Z",
+            "snippet": "“인텔 폭락에 코스피 안 보려 했는데”…멱살 잡고 끌어올린 ‘큰손’ 매일경제 마켓"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "반등 노린 개인 투자자 수익…코스피, AI 버블론 딛고 'W자 반등' 본격화하나",
+          "summary": "AI 버블론으로 조정을 받던 코스피가 W자형 반등에 나설지 관심이 커지고 있습니다. 다만 밤사이 나스닥이 1.07%, SOX가 3% 넘게 하락해 단기적으로는 반등 흐름의 연속성이 시험대에 오를 전망입니다.",
+          "why": "AI 버블 논란이 계속되는 한 반도체 중심의 코스피 반등은 변동성이 큰 흐름을 보일 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "반등 겨냥 베팅했던 개미 떼돈…코스피, AI 버블론 딛고 W 반등 본격화하나 - 파이낸셜포스트",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BNnBnOXZ2dGZDTlRFZDk0REtSUklKSTlUaUdkWnVHSUVJSmNxaWFsenR0V2dTZkhTajFTUmhORzRGVlBDckVqRmZvM0JvWDM1ZjRMS280bmdvSTFCODlUeHZlNnRaYlo5Z2laT3g1WlZmNHhE?oc=5",
+            "published": "2026-11-02T21:30:00.000Z",
+            "snippet": "반등 겨냥 베팅했던 개미 떼돈…코스피, AI 버블론 딛고 W 반등 본격화하나 파이낸셜포스트"
+          }
+        },
+        {
+          "index": 41,
+          "title_ko": "코스피 7500 간다? 반도체 바닥은 언제…투자 고수들의 답",
+          "summary": "투자 전문가들이 코스피 추가 상승 여력과 반도체 업황의 바닥 시점에 대한 견해를 내놨습니다. 반도체 사이클이 지수 방향을 좌우할 핵심 변수라는 진단입니다.",
+          "why": "반도체 업황에 대한 시각차가 커서, 단기적으로 삼성전자·SK하이닉스 주가는 미국 반도체주 흐름에 민감하게 반응할 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "코스피 7500 간다? 반도체 바닥은 언제…투자 구루의 답 - 한경매거진",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40dXlsNzFGY1lXX0VHaHdOSUlqVGxGQVFSYmNHZXZGdURoU0FhRnRFODA5UGRPWWFWZmxqQ2hUYlVublZac3Z2SFd4aDZuRTRjNFlHTDFsYWl2MU9NdVVxSTlSMlNsS0pBNXF3Rw?oc=5",
+            "published": "2026-11-02T20:15:00.000Z",
+            "snippet": "코스피 7500 간다? 반도체 바닥은 언제…투자 구루의 답 한경매거진"
+          }
+        },
+        {
+          "index": 48,
+          "title_ko": "韓 증시 어디로…증권가도 엇갈리는 내년 코스피 전망",
+          "summary": "증권가의 내년 코스피 전망이 낙관론과 신중론으로 엇갈리고 있습니다. AI 투자 사이클의 지속 여부와 글로벌 금리 경로가 주요 변수로 꼽힙니다.",
+          "why": "전망이 엇갈리는 만큼 오늘 시장도 대외 변수에 따라 업종별 순환매가 나타날 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "韓 증시 어디로...증권가도 엇갈리는 내년 코스피 전망 - 디지털투데이",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NQVgtVGd2WHVvVGV4V24tVnNkd1NrWEM1YmRidGY2NFJLYlRESUFQOThvSkVkdXNrcTFOVWtjNUtiVjc4bGNJRDBOTnplaGQyb1pEcTNORXZrY19CS05jODZ1ZEtiQnJyUUlVSW9pNkpPU0U?oc=5",
+            "published": "2026-11-02T10:36:56.000Z",
+            "snippet": "韓 증시 어디로...증권가도 엇갈리는 내년 코스피 전망 디지털투데이"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 43,
+          "title_ko": "키옥시아 실적 여파에 마이크론 등 메모리주 하락",
+          "summary": "일본 낸드플래시 업체 키옥시아의 실적 발표 이후 마이크론 등 메모리 반도체주가 일제히 하락했습니다. 메모리 업황 둔화 우려가 다시 부각됐습니다.",
+          "why": "메모리 업황 우려는 삼성전자·SK하이닉스와 메모리 소부장주에 직접적인 약세 요인이 될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Micron and memory stocks fall after Kioxia's ca... - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHpIdkJ3M3VCRGkxWlFOSGs2ejRGNEdBQVU5UGVNVmNBM19sWHl5R3hvOVd2b2lVUnQyZkUxV25YazdGQTFZbjRWYmREV05wUlRGZzB5Q3FTNjZHMXE1MUFldU15WmVjcTJmaGRVcC15VXZkcmFQOW1BaHE2cXZqVml1elNvdV9zekd1ZE4yRUlSTVVUUzFYS1NzNUpvdlpPZFVDWWkwYnViRzZWazd3?oc=5",
+            "published": "2026-11-02T19:05:27.000Z",
+            "snippet": "Micron and memory stocks fall after Kioxia's ca... Pluang"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "마이크론, 12월 대규모 자사주 매입 나설 전망",
+          "summary": "마이크론이 12월에 대규모 자사주 매입을 시작할 것으로 예상된다는 분석이 나왔습니다. 주주환원 강화가 최근 메모리주 약세 국면에서 주가 하단을 지지할 수 있다는 평가입니다.",
+          "why": "마이크론의 주주환원 기대는 메모리 업황에 대한 자신감 신호로 해석될 수 있어, 국내 메모리주 투자심리를 일부 완충할 가능성이 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Micron Expected to Launch Massive Stock Buybacks in December. What to Know. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaEJIZWFJMXNaTnNieTMyTzFvT1NtOVVPT1FURXRpTEtQdWtIVDl6VTZsWjZrLWQyTDhHc19qUUN4OVNkLUpqUjN2Q3FLemM1SzNnb1VwcldfSmIwVzJ5VUpLWmQ4NFhPdWoxZ3BOczRuYmdzUEFxdEdIVTFCSnM?oc=5",
+            "published": "2026-11-02T21:10:00.000Z",
+            "snippet": "Micron Expected to Launch Massive Stock Buybacks in December. What to Know. Barron's"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "애플, 아이폰 판매 호조로 월가 예상 웃도는 실적 발표",
+          "summary": "애플은 장 마감 후 발표한 회계연도 4분기 실적에서 아이폰 판매 호조에 힘입어 시장 예상을 웃도는 매출을 기록했습니다. 신임 CEO 존 터너스가 처음으로 실적 발표 무대에 섰습니다.",
+          "why": "아이폰 판매 호조는 LG이노텍·삼성전기 등 국내 애플 공급망 부품주에 긍정적인 재료가 될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Apple results beat Wall Street expectations on strong iPhone sales - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0w0OU56NGNoWFdMNDlkeGdpQ1JQbmpwUnpaVTdnblhBRWppdUI1RzZsWXRObWZlT1BxaDRhaTgyUlEtbTRqdl9HRjgwb2hpeGxYdUtOdEhwXzJPU3pIT29heGpmdkI1bmZ1Sno5aUF5QldHejBNMnNUd3p1ZFhKNXhSQmNQalFNRzhNSXExZ0sxQQ?oc=5",
+            "published": "2026-11-02T21:40:52.000Z",
+            "snippet": "Apple results beat Wall Street expectations on strong iPhone sales The Globe and Mail"
+          }
+        }
+      ]
+    },
+    {
+      "name": "오늘의 일정·이벤트",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "선거 D-1, 기술주 급락에 뉴욕증시 혼조 마감",
+          "summary": "미국 중간선거를 하루 앞두고 경계심리 속에 기술주가 급락했습니다. 선거는 현지시간 3일 치러지며, 결과는 한국 시각 기준 내일(4일) 오전부터 윤곽이 드러날 전망입니다.",
+          "why": "선거 결과에 따른 정책 불확실성은 2차전지·친환경·방산 등 정책 민감 업종의 변동성을 키울 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[속보]선거 D-1, 기술주 급락에 뉴욕증시 혼조 마감 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2a2xuMExUOTk5eEZDYV81OE0wOUZVZHRIMmppNnI0QTVPOXhTSkRGaktCSE50Q1kxMXNDMmk4NF8tQzhaVjh0U09KVXBfdm8tc2FQMzk5WU5nLVlDY2RpTg?oc=5",
+            "published": "2026-11-02T21:07:51.000Z",
+            "snippet": "[속보]선거 D-1, 기술주 급락에 뉴욕증시 혼조 마감 아시아경제"
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "인텔 실적 부담에 AMD 급락…AMD 3분기 실적 발표 앞둬",
+          "summary": "인텔의 부진한 실적이 반도체 투자심리를 짓누르면서 AMD 주가가 급락했습니다. 시장은 이번 주 예정된 AMD 3분기 실적 발표에 주목하고 있습니다.",
+          "why": "AMD 실적과 AI 가속기 전망은 HBM을 공급하는 SK하이닉스·삼성전자 주가 방향에 영향을 줄 수 있는 주요 이벤트입니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "AMD and Lite Stock Dive as Intel Earnings Weigh Before Upcoming Advanced Micro Devices Q3 Earnings Report - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMEdGek5Ta09Bek9keEJTa0lDT1NvVlhUU0hjOUNyanF2ZU5DbllZVG5fTTlHVk80c0JaMUpaWFpnSEVaa3RlN2RBVVBiWFRvWmhkeE14N1FQZ0ZpZG9tVjRZd2FLUGY2U0FHOWhQU1dtaUlZYU9oamZpUm5jOHdMcW1WaXAzenlMalVUd1E5ZEJNbHFZbWJycWtBbEtoOGE1UDU3Zy1WVHFQZmdTdnBYZzNWUjY0YkdHbUl0b2I1SndlUWJBVFBiWmRyRHFkbUhrUllRWkZCdW5wNlB4RmNaTUlR?oc=5",
+            "published": "2026-11-02T19:03:35.000Z",
+            "snippet": "AMD and Lite Stock Dive as Intel Earnings Weigh Before Upcoming Advanced Micro Devices Q3 Earnings Report FXLeaders"
+          }
+        }
+      ]
+    }
+  ]
+}
