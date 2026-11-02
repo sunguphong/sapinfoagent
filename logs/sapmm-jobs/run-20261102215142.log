@@ -1,0 +1,10 @@
+2026-11-02T21:51:43.182Z run 20261102215142 start (agent=sapmm-jobs "SAP MM 구인정보", source=github, mode=send)
+2026-11-02T21:51:43.183Z collecting from 9 feeds...
+2026-11-02T21:51:55.690Z fetched 288, selected 120 (last 336h), feed errors: 0
+2026-11-02T21:52:18.742Z company info: 8 / 22 companies
+2026-11-02T21:52:18.745Z job history: 191 postings, 34 cards with repeat company
+2026-11-02T21:52:18.746Z new: 16 / 120
+2026-11-02T21:52:18.746Z summarizing with claude (opus)...
+2026-11-02T21:53:08.051Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sapmm-jobs/2026-11-03_20261102215142.html
+2026-11-02T21:53:09.108Z mail sent: <5bf42433-3c33-ceb1-82bd-d5b47fcdbdfd@gmail.com> -> upsan77@gmail.com
+2026-11-02T21:53:09.110Z done
