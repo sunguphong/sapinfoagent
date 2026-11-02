@@ -1,0 +1,220 @@
+{
+  "overview": "SAP가 Max Success Plan을 직접 계약 고객뿐 아니라 파트너 경유 고객까지 모든 고객에게 확대 제공한다고 발표했습니다. TechEd 이후 Business AI Platform·Joule 강화, Business Data Cloud 데이터 패브릭 확장, 인텔과의 피지컬 AI 협력 등 에이전틱 AI 관련 후속 보도가 이어졌습니다. 시장에서는 저렴한 AI 모델 전환에 따른 비용 투명성 요구와 241억 유로 규모 클라우드 백로그의 연말 수주 전망이 관심을 받고 있습니다. 국내에서는 더존비즈온 해킹으로 중소기업 ERP 공급망 보안 문제가 커지고 있으며, 커뮤니티에서는 BTP 보안, Digital Access 라이선스, CAP 기반 에이전트 개발 등 실무 가이드가 공유됐습니다.",
+  "categories": [
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "모든 고객을 위한 AI·전환 가이드: Max Success Plan 전면 제공",
+          "summary": "SAP가 Max Success Plan을 모든 고객에게 제공한다고 발표했습니다. SAP와 직접 계약한 고객뿐 아니라 신뢰할 수 있는 파트너를 통해 계약한 고객도 이용할 수 있습니다.",
+          "why": "파트너 경유 고객도 SAP의 AI·전환 지원 프로그램을 쓸 수 있게 되어 고객 제안과 성공 관리 방식에 영향을 줍니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "AI and Transformation Guidance for Every Customer",
+            "link": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
+            "published": "2026-11-02T12:15:00.000Z",
+            "snippet": "Max Success Plan is now available to every customer, whether they choose to work with SAP directly or through a trusted partner."
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "도이치반, SAP ECC에서 S/4HANA로의 코드 마이그레이션 자동화",
+          "summary": "NTT Data는 독일 철도회사 도이치반(Deutsche Bahn)이 SAP ECC 커스텀 코드를 S/4HANA로 옮기는 작업을 자동화한 사례를 소개했습니다. 대형 공공 인프라 기업의 전환 사례입니다.",
+          "why": "2027년 ECC 유지보수 종료를 앞두고 커스텀 코드 전환 자동화를 검토할 때 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Deutsche Bahn automates SAP ECC code migration to S/4HANA - NTT Data",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd25NVFJfUVNXNDhBLWkya0lhYktreHlwRnUyeGN0UEhIek5fZUZiYjROV21zcDhRcnh6ZnMyUjlCZjVpUVRTZ1BycUhjUEdoZ1BKUnBmajlmU1N0QU1ISDJydWdmSGl1NW5WNm1wenBsYnJQNFoyblM5cXFIc1JrRFRnM1oxWGdsbjZsSzhGRG1FbWd1MUF2MnJWZ0RMbXYwZjVhVXYwUWNWcmtG?oc=5",
+            "published": "2026-11-02T14:55:34.000Z",
+            "snippet": "Deutsche Bahn automates SAP ECC code migration to S/4HANA NTT Data"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "SAP Document and Reporting Compliance: 확장성을 활용한 FI-CA 전자세금계산서 발행",
+          "summary": "계약 회계(FI-CA)에서 전기한 송장에 대해 확장성(Extensibility)을 활용해 DRC 전자문서를 생성하는 방법을 네덜란드 사례로 설명합니다. 같은 시리즈에서 Convergent Invoicing(벨기에 사례)에 대한 글도 함께 공개됐습니다.",
+          "why": "표준 범위 밖의 청구 프로세스에서도 각국 전자세금계산서 의무화에 대응할 수 있는 구현 방법을 제시합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Document and Reporting Compliance: e-Invoice in Contract Accounting (FI-CA) using Extensibility",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-document-and-reporting-compliance-e-invoice-in-contract-accounting-fi/ba-p/14514876",
+            "published": "2026-11-02T14:05:07.000Z",
+            "snippet": "You want to enable your system to create electronic documents for invoices posted via Contract Accounting (FI-CA) using SAP Document and Reporting Compliance. In this blog, we'll show you an example of how this can be achieved using extensibility, with the Netherlands (NL) as a reference country.Before you begin, ensure that the Financial Accounting Document, Sales and Distribution Billing Documen"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "SAP S/4HANA Cloud Private Edition의 CDS 뷰 확장: 아키텍처, 도구, 핵심 고려사항",
+          "summary": "2023 FPS01 이상 Private Edition 환경에서 CDS 뷰 확장 구조와 도구, Joule 연계 시 고려할 점을 다루는 2부작 시리즈의 첫 편입니다. 데이터 모델이 곧 AI 전략이라는 관점에서 확장 설계를 설명합니다.",
+          "why": "Joule 도입 시 커스텀 데이터 모델을 AI가 제대로 활용하게 하려면 CDS 확장을 올바르게 설계해야 합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "CDS View Extensions in SAP S/4HANA Cloud Private Edition: Architecture, Tools, and What Matters",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/cds-view-extensions-in-sap-s-4hana-cloud-private-edition-architecture-tools/ba-p/14512011",
+            "published": "2026-11-01T21:55:02.000Z",
+            "snippet": "***Applies to: SAP S/4HANA Cloud Private Edition 2023 FPS01 and later. CDS extension mechanics apply from S/4HANA 1909 onwards; the Joule connectivity described here requires 2023 FPS01+***Part 1 of 2 | Series: Your SAP S/4HANA Data Model Is Your AI StrategyPicture this scenario. As part of an SAP S/4HANA Cloud Private Edition transformation project, your company has just enabled Joule on the SAP "
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 33,
+          "title_ko": "SAP, 에이전틱 AI 확산을 위해 Business AI Platform과 Joule 강화",
+          "summary": "SAP가 TechEd에서 기업의 에이전틱 AI 도입을 가속하기 위해 Business AI Platform과 Joule 기능을 강화했다고 ITWeb이 보도했습니다.",
+          "why": "향후 프로젝트에서 Joule 에이전트 활용 범위와 BTP 기반 AI 아키텍처를 판단하는 기준이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption - ITWeb",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHozZW14aEdrZzJKalM1Vl9Ra0ZJeXJZYWFZb2x4bjhCLU9TVkRwQ2duTUE5VXdNTlFMRUZUa2diczB0SG95RWgwV1QtQlBURXlCWDdtZUNuZXNaZHVHMjA0RVE1QUFBWWliUElOTEJkWkh1LVQtMW4xUEFrOFVZSTBsLU1jaHBJMUpUcUVLeW5yN2NXYjZvMWlRUEpxNVFSc0c2R2NzcHdnZ2xQNDdTajBkUk5zb2NVZkRxS1Bn?oc=5",
+            "published": "2026-10-30T10:43:07.000Z",
+            "snippet": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption ITWeb"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "SAP, 엔터프라이즈 AI 에이전트를 위한 데이터 패브릭·마스터 데이터 도구 확장",
+          "summary": "SAP가 AI 에이전트를 지원하기 위해 데이터 패브릭과 마스터 데이터 관리 도구를 확장했습니다. TechEd에서 함께 소개된 Business Data Cloud의 레이크하우스·데이터 패브릭 혁신과 같은 흐름에 있습니다.",
+          "why": "AI 에이전트의 성능은 데이터 품질에 달려 있어 MDG·BDC 기반 데이터 거버넌스의 중요성이 커지고 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Expands Data Fabric and Master Data Tools for Enterprise AI Agents - CDO Magazine",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGMzVDRNLWhrc2ZzVG50WGk1RGJuVUNTN1dhUy1yUHFPVWlyZlZ2bk11dDJlaFNPbENmQnpRYXpZRXZMLWFjcFlCOVl5Zkd0U25FSVhjQW1lV25VSjJwblNtelM3ZVlNMldvUHNjXzdnMHZQdkxfRmpKbDZZc2V6ZWpYS0pFNGdJYXp3dnFfZ0JrUUl1czhZZHlIczNhN0QtV1YyTlJqdw?oc=5",
+            "published": "2026-10-30T18:31:00.000Z",
+            "snippet": "SAP Expands Data Fabric and Master Data Tools for Enterprise AI Agents CDO Magazine"
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "인텔·SAP, 피지컬 AI로 기업 시스템과 로봇 연결",
+          "summary": "인텔과 SAP가 피지컬 AI를 활용해 기업 시스템과 로봇을 연결하는 협력을 발표하고, 창고 내 자재 운반 자동화 기술을 시연했습니다.",
+          "why": "EWM 등 물류 프로세스가 로봇 실행 계층과 직접 연동되는 방향을 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Intel, SAP Partner to Connect Enterprise Systems With Robots Through Physical AI - THE ELEC, Korea Electronics Industry Media",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMGczdGVURkRZN2txUUFrMFVna0NwLUFBT1FQek40TFlNSzRPOHFZNF9mU0xoZDRlbmdPUDJodkh3WmN6Wms1SERZXzQwNTF6Wi1DMWZuaWN5RmpJb0NUUW9tUFhnSVk?oc=5",
+            "published": "2026-10-30T04:23:57.000Z",
+            "snippet": "Intel, SAP Partner to Connect Enterprise Systems With Robots Through Physical AI THE ELEC, Korea Electronics Industry Media"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "아는 것에서 실천으로: SAP BTP 공동 책임 모델에서 고객이 맡을 보안 영역",
+          "summary": "SAP BTP 확장 과정에서 보안 설정이 뒤로 밀리다가 감사에서 중대한 지적 사항으로 드러나는 경우가 많다고 지적합니다. 지금 바로 적용할 수 있는 영향력 큰 BTP 보안 권고사항을 정리했습니다.",
+          "why": "BTP 운영 시 고객 책임 영역을 미리 점검하면 보안 감사 리스크를 줄일 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "From Knowing to Doing: Acting on Your Side of the SAP BTP Shared Responsibility Model",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-knowing-to-doing-acting-on-your-side-of-the-sap-btp-shared/ba-p/14514789",
+            "published": "2026-11-02T11:48:26.000Z",
+            "snippet": "As enterprises scale on SAP Business Technology Platform, security configurations are often an afterthought - until they show up as critical findings in a security review. In this post, I break down the most impactful BTP security recommendations you can act on today. Don't wait for the audit to find the gaps first."
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "CDS에서 A2A까지: @cap-js/agents와 SAP AI Core로 프로덕션 CAP 에이전트 구축하기",
+          "summary": "CAP의 CDS 모델을 기반으로 @cap-js/agents 패키지와 SAP AI Core를 활용해 A2A(Agent-to-Agent) 방식의 프로덕션용 에이전트를 만드는 과정을 소개합니다.",
+          "why": "CAP 개발자가 기존 서비스 모델을 AI 에이전트로 확장하는 구체적인 방법을 확인할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "From CDS to A2A: Building a Production CAP Agent with @cap-js/agents and SAP AI Core",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-cds-to-a2a-building-a-production-cap-agent-with-cap-js-agents-and-sap/ba-p/14514274",
+            "published": "2026-11-02T06:39:57.000Z",
+            "snippet": "From CDS to A2A: Building a Production CAP Agent with @cap-js/agents and SAP AI Core"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "SAP-RPT와 SAP-RPT-TS 비교: 입문 가이드",
+          "summary": "SAP-RPT는 개별 레코드의 값을 예측하고, SAP-RPT-TS는 시간에 따른 값을 예측합니다. 전력 수요 예제로 두 모델을 비교하고 시작 방법을 안내합니다.",
+          "why": "SAP의 정형 데이터 기반 예측 모델을 업무 시나리오에 맞게 고르는 데 도움이 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP-RPT vs. SAP-RPT-TS: A Beginner's Guide",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-rpt-vs-sap-rpt-ts-a-beginner-s-guide/ba-p/14514502",
+            "published": "2026-11-02T03:37:44.000Z",
+            "snippet": "SAP-RPT predicts values for individual records. SAP-RPT-TS forecasts values over time. This beginner’s guide explains the difference, compares them on an electricity-demand example, and shows where to get started."
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "SAP, 저가 AI 모델 도입과 비용 투명성을 요구하는 사용자 사이에서 균형 모색",
+          "summary": "SAP가 더 저렴한 AI 모델을 도입하는 가운데, 사용자들은 AI 비용 구조를 명확히 해 달라고 요구하고 있다고 ad-hoc-news가 보도했습니다.",
+          "why": "AI Units 등 AI 과금 구조는 고객의 TCO 산정과 계약 협상에서 핵심 쟁점이 되고 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Balances Cheaper AI Models Against User Demands for Cost Clarity - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2Z4MnQtUDFWOEMyWWRmTEtkNjNaWkxZVmNadUVHc3d2RktkZG9uTFVjMGJybUxYZ09TcmtDbE9IeC1aZGswSDFGUHZQZ0RSX1RMTEZvNTR0cGhEem1qRS0weDFqb0tpRTVtMzV0cy1ySUZ3YVNJek9McmZfd21CWHNHWDYxUWdaZ000WWYxWU5fTWpVUFQ2SE5BR1B2eXBpZHViQkNjMjQ5clU1azFPY3pwel85c2VuakZOREtZU2tXdVE3bUZRSUlBcVBySHlqbXFwOXNMbw?oc=5",
+            "published": "2026-11-02T14:02:26.000Z",
+            "snippet": "SAP Balances Cheaper AI Models Against User Demands for Cost Clarity ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "SAP의 241억 유로 클라우드 백로그, 연말 수주와 AI 비용 문제라는 이중 시험대",
+          "summary": "SAP의 241억 유로 규모 클라우드 백로그가 연말 수주 실적과 AI 비용 문제라는 두 가지 과제에 직면해 있다고 분석한 기사입니다.",
+          "why": "연말 RISE·클라우드 계약 동향과 SAP의 영업 정책 변화를 가늠하는 데 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP's €24.1 Billion Cloud Backlog Faces a Double Reckoning: Year-End Bookings and the AI Cost Ques - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdjM3blhhamFlYVFuYU90U0VjMGF3UzloM29rY3Y0OUZXTVFOcGRpdjBRMmh4bGdkUFJoTlFlWGMtRXpOWmFSeDM0SlNzc3NJeEZBMFZtd1k1cUl5aUt3R3Y5MFluWmVKcC1xaEYyNVBwWWZRbnRvQkw3ZVZQd2hJN1NKNTZvNGlZQW9rWUZfbzRPa25YZjJoOVJSU1VMb0lGQ09kNHQ0TEZJUThSR0NDTW9uaEtobDg5TmltaEk5V3RFRGNvNF84dnJiZS1YQzhaejJKa0tMQ0RXT0h2bFJBQV9SVS1fdVEtaGZZQ0VZYlltZ1NPczk4Y3Y2WXRjWEZfUkE?oc=5",
+            "published": "2026-10-31T02:01:29.000Z",
+            "snippet": "SAP's €24.1 Billion Cloud Backlog Faces a Double Reckoning: Year-End Bookings and the AI Cost Ques ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "FAQ: SAP S/4HANA Cloud Public Edition의 Digital Access 라이선스 이해하기",
+          "summary": "외부 시스템이나 BTP와 연동된 Public Edition 환경에서는 Digital Access 라이선스 사용량이 늘어날 수 있습니다. 문서 가중치에 따른 엔타이틀먼트 계산 방식과, License Compliance 앱만으로는 초과 여부를 확정할 수 없는 이유 등을 설명합니다.",
+          "why": "인터페이스 설계 단계부터 라이선스 비용 영향을 따져봐야 예상치 못한 추가 비용을 막을 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "FAQ: Understanding the Digital Access License in SAP S/4HANA Cloud Public Edition",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/faq-understanding-the-digital-access-license-in-sap-s-4hana-cloud-public/ba-p/14514611",
+            "published": "2026-11-02T07:35:27.000Z",
+            "snippet": "If your SAP S/4HANA Cloud Public Edition environment is integrated with external systems or SAP BTP, your Digital Access license consumption may be growing.From understanding how document weights affect your entitlement, to knowing why the License Compliance app alone isn't enough to confirm exceedance, there's more to Digital Access licensing .In this article, I break down:How entitlement is meas"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "더존비즈온 해킹 파장 확산…중소기업 ERP 시장 공급망 보안 시험대",
+          "summary": "더존비즈온 해킹 사고의 파장이 커지면서 중소기업 ERP 시장 전반의 공급망 보안이 시험대에 올랐다는 보도입니다.",
+          "why": "국내 ERP 보안 우려가 커지면서 SAP 고객사에서도 보안 점검과 공급망 보안 요구가 강화될 수 있습니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "더존비즈온 해킹 일파만파…中企 ERP 시장 공급망 보안 시험대 - 중기이코노미",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWllGb0g4d3ZZaVBjYTN0bHJuck4wdC1yWjN6TmhJVmpXVURrV2l1REtURkRpaWZLalA1bWNNSW82MVA4RjN2bG5xbF91RmZFQjBfSkdpVDhCcDFPQ3dSQ25xNWM4NGw2VUE?oc=5",
+            "published": "2026-11-02T04:23:30.000Z",
+            "snippet": "더존비즈온 해킹 일파만파…中企 ERP 시장 공급망 보안 시험대 중기이코노미"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "에스비티글로벌, 한국전력기술 재무회계시스템 고도화 완료",
+          "summary": "에스비티글로벌이 한국전력기술의 재무회계시스템 고도화 사업을 마쳤다고 전자신문이 보도했습니다.",
+          "why": "국내 공공·에너지 분야의 재무회계 시스템 고도화 수요를 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "에스비티글로벌, 한국전력기술 재무회계시스템 고도화 완료 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HaWtzUnNaWHB6SlktdUttcmtJTDhqcFNrVENhVUV6Tk5aRnZ1UVg3aU5XbkdTOUpWS2s5R3VTa3BhS0h4V08xdlFlNHYxQQ?oc=5",
+            "published": "2026-11-02T01:22:00.000Z",
+            "snippet": "에스비티글로벌, 한국전력기술 재무회계시스템 고도화 완료 전자신문"
+          }
+        }
+      ]
+    }
+  ]
+}
