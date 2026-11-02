@@ -1,0 +1,129 @@
+{
+  "overview": "CES 2027 개막(2027년 1월 초, 라스베이거스)을 약 두 달 앞둔 시점으로, 참가 준비와 지난 CES 발표의 후속 소식이 함께 나오고 있습니다. 국내에서는 CES 2026 현장에서 맺은 투자협약으로 추진된 삼성SDS 구미 AI 데이터센터가 10개월 만에 착공했습니다. 엔터테크 분야에서는 1월 5일부터 라스베이거스와 LA에서 'AI 도입을 넘어 AI 수익화'를 주제로 한 한국 측 참관·컨퍼런스 프로그램이 예고됐습니다. 해외에서는 NVIDIA RTX 5080 24GB의 1월 공개가 늦어질 수 있다는 관측이 나왔습니다. 웨어러블 로봇 등 CES 혁신상 출신 국내 스타트업의 성과 소식도 이어지고 있습니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 44,
+          "title_ko": "CES 2027 엔터테크, 1월 5일 라스베이거스서 '돈 버는 AI' 현장 점검",
+          "summary": "K-EnterTech Hub가 CES 2027 엔터테크 분야를 'AI 도입에서 AI 수익화로'라는 관점으로 살펴보는 현장 프로그램을 1월 5일부터 라스베이거스와 LA에서 진행합니다. 한류의 다음 단계를 AI·엔터테크에서 찾는 것이 목표입니다. 1월 7일에는 엔터테크 컨퍼런스 발표와 전시도 예정돼 있습니다.",
+          "why": "K-콘텐츠 기업이 AI를 실제 매출로 연결하는 글로벌 사례를 CES 현장에서 확인할 기회입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES 2027 엔터테크, 1월 5일 라스베이거스서 '돈 버는 AI' 현장 본다 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Uc3JqZ2FpQndETVV2OHpmVEhPTXFxSVd4Y2FBMHpIRERNNkFZbzFscUN4UGpHaHJJdllrZWtFdC03VVZOQXF3bVpkMjBiWVJmeGhjN01uT25HTGd1YXgtT2MzUWU4TGpnOGc?oc=5",
+            "published": "2026-11-02T00:57:28.000Z",
+            "snippet": "CES 2027 엔터테크, 1월 5일 라스베이거스서 '돈 버는 AI' 현장 본다 K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "웨이빙 나이트, 11월 4일 서울서 '엔터테크 2027' 미리 읽기",
+          "summary": "CES 2027 엔터테크 흐름을 숏폼과 AI 수익 모델 중심으로 미리 짚어보는 사전 토크 행사 '웨이빙 나이트'가 11월 4일 서울에서 열립니다. CES 엔터테크 세션 분석 일부도 무료로 미리 공개됐습니다.",
+          "why": "CES 참관 전에 엔터테크 핵심 의제를 국내에서 먼저 파악할 수 있는 자리입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "웨이빙 나이트, 11월 4일 서울서 엔터테크 2027 먼저 읽는다 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZakVhZ0hTVlBENmIwcnZkc3RoWDJCcWdwbnJuYl9Kdjc5dXNRcWFmdTFyc1d0T3pkb0JQQThFSUJya3lpNGRTQWUwUDB0ZkhITGZUMHFmYm4ybVYzTnhTSFpFY0N0NF9sZGc?oc=5",
+            "published": "2026-11-02T06:22:38.000Z",
+            "snippet": "웨이빙 나이트, 11월 4일 서울서 엔터테크 2027 먼저 읽는다 K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "유나이티드항공, CES 2027 맞춰 라스베이거스–도쿄 노선에 프리미엄 787-9 투입",
+          "summary": "유나이티드항공이 CES 2027 기간 수요에 맞춰 라스베이거스–도쿄 노선에 프리미엄 좌석을 갖춘 보잉 787-9를 운항합니다. CES를 겨냥해 아시아 참관객 이동 편의를 높이려는 조치입니다.",
+          "why": "일본을 경유해 CES에 가려는 국내 참관객에게 이동 경로를 하나 더 고려할 수 있는 선택지입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "United to Fly Premium 787-9 on Las Vegas-Tokyo Route for CES 2027 - Aviation A2Z",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTZBTTJtZ0RZYk16TVBvRThkbm5LVU82MVNLR3pWMnA0YkJrcVVfMnYwQlE0SlowX0QxMUFfUkhWMWRFOVBNRU1MVFJ4NnZ5MFp3a3F4eW9USW12UzF4ZURRNHJpZGY4b3F5UXVJbFJmZWhVWGlkdDhGZFJIclRyQkhXZGFUMTRnODlyMDM2ZGhrU09PTFp5RVFvY1V4dXM?oc=5",
+            "published": "2026-11-02T16:38:00.000Z",
+            "snippet": "United to Fly Premium 787-9 on Las Vegas-Tokyo Route for CES 2027 Aviation A2Z"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "CES서 맺은 투자협약 10개월 만에 결실…삼성SDS 구미 AI 데이터센터 착공",
+          "summary": "삼성SDS가 CES 2026 현장에서 경북도·구미시와 맺은 투자협약에 따라, 옛 삼성 구미공장 부지에 60MW급 AI 데이터센터를 11월 2일 착공했습니다. 2029년 3월 가동이 목표이며, 이후 최대 120MW까지 확장할 계획입니다.",
+          "why": "CES가 단순한 전시를 넘어 지방 AI 인프라 투자로 이어진 사례이며, 비수도권 AI 데이터센터 확대에 신호탄이 될 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES서 맺은 투자협약 10달 만에 결실…삼성SDS 구미 데이터센터 첫 삽 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFc1BuLXZlQXFWR3JOczI3U3luc2VkT3AybzhsR0pER0E5UWZYeG01MmxoRWcyd3RWNzh6Z21tQUNrOTFzdnc1X3BsbFMya3hyVEHSAVNBVV95cUxQOEVLXzJCa2IzYnhiRk14MDlaUkVXSXVya2xGcjM0aS1DVEFRWlFRbWNxVVR0S2c3TjVEN05GTGtmbHVtWW45cDFhd09pLXN2VWRocw?oc=5",
+            "published": "2026-11-02T08:45:17.000Z",
+            "snippet": "CES서 맺은 투자협약 10달 만에 결실…삼성SDS 구미 데이터센터 첫 삽 서울경제"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "\"먼저 선보였는데\"…삼성·LG는 주춤, 해외 업체는 예약 판매 돌입",
+          "summary": "삼성전자와 LG전자가 먼저 공개했던 제품 분야에서 해외 경쟁사들이 예약 판매에 들어가며 상용화를 앞서가고 있다는 보도입니다. 전시회에서 기술을 먼저 공개하는 것과 실제 출시 사이의 시차가 문제로 지적됩니다.",
+          "why": "국내 대기업이 CES 등에서 보여준 기술 선점 효과가 출시 지연으로 약해질 수 있다는 경고입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "\"먼저 선보였는데\"…삼성·LG는 주춤, 해외는 예약 돌입 - IT조선",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51bnZDbTU3NjM4c0hKYl9rcXZRaTlOSlZQV00tVDFpbktRNnZVWjZNT1NKWWVRVjlmSFlqc055RVJXeXYxZFo5LWtITXhIcGd4ZTFNSkJyS0ZsNWlkeGlvWDUtTVlrM3RfR2RpVEFYUS3SAXRBVV95cUxOWFA0SXFGMDlmZEh1SVJjS29BTEpBdmhuYXhoWjREaXJNeklXWlRkQXRQeng0REsxdFM2UU1ad09ZNDB2LU82dzQ4UjVXT045UDRZS1dmMzdkZ25PNk9zcUJGR2NFc0dzWk8zbXRqM2VjNUdmSA?oc=5",
+            "published": "2026-11-02T21:00:00.000Z",
+            "snippet": "\"먼저 선보였는데\"…삼성·LG는 주춤, 해외는 예약 돌입 IT조선"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 29,
+          "title_ko": "\"청년창업자금을 발판으로 CES 혁신상까지 받았죠\"",
+          "summary": "정책자금인 청년창업자금을 초기 자금으로 활용해 성장한 국내 스타트업이 CES 혁신상을 받은 사례를 소개한 기사입니다. 공공 창업 지원이 글로벌 무대 진출로 이어진 과정을 다룹니다.",
+          "why": "CES 혁신상을 노리는 국내 초기 스타트업에게 정책자금 활용 전략을 참고할 수 있는 사례입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "\"청년창업자금 발판 … CES 혁신상 받았죠\" - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kbGtsRkZZWXJVWVFnRTl1RzVSbk9uelVqTWdFU2R4M1ZHZEs2MUI4TFNfb2ZYZlM3TnBBSEFVckcteVpRVU1wcHJrc3R3VHhmUkxwUHJn?oc=5",
+            "published": "2026-11-02T07:03:30.000Z",
+            "snippet": "\"청년창업자금 발판 … CES 혁신상 받았죠\" 매일경제"
+          }
+        },
+        {
+          "index": 48,
+          "title_ko": "근육처럼 움직이는 웨어러블 로봇…휴로틱스, 250억 원 규모 시리즈A 유치",
+          "summary": "근육처럼 움직이는 웨어러블 로봇을 개발하는 국내 스타트업 휴로틱스가 250억 원 규모의 시리즈A 투자를 유치했습니다. CES 2027 행사 목록에서도 외골격·웨어러블 로봇 분야가 주목받고 있습니다.",
+          "why": "CES에서 주목받는 웨어러블 로봇 분야에서 국내 스타트업의 사업화 속도가 빨라지고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "근육처럼 움직이는 웨어러블 로봇…휴로틱스, 250억 시리즈A - 네이버 프리미엄콘텐츠",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNDZHRDhvR1YyUkE2LWpwb1Y2NGJFWHJSWnB3OG0xdUdWUURnWTVRaFhxUDl4LXFhRDhQQURGRmNyY2hfQkJnd1NHNnF3Z09TclR3TUJKMU80OFdyaFB4eHYxLVpTLWZiNkxsdFZvNmZub21HbTNURWN0NUdtS0dLVg?oc=5",
+            "published": "2026-11-01T21:50:00.000Z",
+            "snippet": "근육처럼 움직이는 웨어러블 로봇…휴로틱스, 250억 시리즈A 네이버 프리미엄콘텐츠"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "NVIDIA RTX 5080 24GB, 설계 키트 지연으로 1월 공개 어려울 수도",
+          "summary": "CES 시즌인 1월 공개가 예상되던 NVIDIA RTX 5080 24GB 모델이 설계 키트 공급 지연으로 일정이 늦춰질 수 있다는 관측이 나왔습니다. 협력사들의 제품 준비 일정에도 영향을 줄 수 있습니다.",
+          "why": "CES 2027 PC·게이밍 신제품 라인업과 국내 그래픽카드 유통·출시 일정에 변수가 될 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "NVIDIA’s RTX 5080 24GB may miss January after design kit delay - Tbreak UAE",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwam4xV0hIRTBocElJUUJoQ3RNdnpGWm5MSTg1QVFaWWZpYnVubU5uY3NkRmZpM21ISEdMWUU2T3l2TnRzLWdybXVNM0txSlI5Y25JUjhfRmRDZC14SG5OMQ?oc=5",
+            "published": "2026-11-02T09:28:44.000Z",
+            "snippet": "NVIDIA’s RTX 5080 24GB may miss January after design kit delay Tbreak UAE"
+          }
+        }
+      ]
+    }
+  ]
+}
