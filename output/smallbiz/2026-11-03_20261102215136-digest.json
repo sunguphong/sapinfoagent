@@ -1,0 +1,111 @@
+{
+  "overview": "■ 오늘 챙길 지원 혜택: 화성시·경기도에서 새로 신청할 수 있는 지원 공고는 없습니다. 정부 쪽에서는 신용보증기금·NH농협은행 비대면 보증대출(마감일 공고에 없음 — 원문 확인) 1건이 있으며, 개인사업자가 대상인지 확인이 필요합니다.\n■ 정책 흐름: 경기도의회가 경기신용보증재단의 소상공인 금융지원 확대 방안을 논의했고, 정부 민생 예산에는 자영업자 건강검진 지원이 포함돼 내년에 새 혜택이 생길 가능성이 있습니다. 중기부는 스마트상점 기술을 지원받은 1만2천 곳을 전수점검하고 있습니다. 조폐공사는 지역화폐 플랫폼을 소상공인 경영지원 서비스로 넓히고 있어, 지역화폐 가맹점 혜택도 계속 눈여겨볼 만합니다.",
+  "categories": [
+    {
+      "name": "신청 가능한 지원사업",
+      "items": [
+        {
+          "index": 25,
+          "title_ko": "[정부] NH농협은행·신용보증기금, 중소기업·소상공인 비대면 보증대출 지원",
+          "summary": "NH농협은행과 신용보증기금이 협업해 중소기업과 소상공인이 영업점에 가지 않고 비대면으로 보증부 대출을 받을 수 있게 지원합니다. 지원 한도·금리·마감일은 기사 제목에 없으므로 원문을 확인해야 합니다. 신청은 NH농협은행(앱·영업점)이나 신용보증기금에 문의하면 됩니다.",
+          "why": "대상 여부 확인 필요 — 신용보증기금 보증은 주로 중소기업 중심이고 소규모 개인사업자는 보통 경기신보가 맡으므로, 필요하면 NH농협은행 앱에서 대상 요건과 한도부터 조회해 보세요.",
+          "article": {
+            "source": "Google News 소상공인 정책자금·지원금 (KR)",
+            "title": "농협은행-신용보증기금 중소기업·소상공인 비대면 보증대출 지원 - 농민신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTmtvbzJQT2xsZEpzNTdPNXV1M0F0UWJtaVBfUDNhQ2JhRl9JOE1lSUJuMUxwOGd0N1JrTjVtOXVqRmVtOENnZXNmTlg1Z0hhYUx1MFo0WXN3UQ?oc=5",
+            "published": "2026-11-02T08:57:00.000Z",
+            "snippet": "농협은행-신용보증기금 중소기업·소상공인 비대면 보증대출 지원 농민신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "미용업·피부관리 관련",
+      "items": [
+        {
+          "index": 29,
+          "title_ko": "임실군, 미용업 영업주 대상 위생교육 실시",
+          "summary": "전북 임실군이 공중위생관리법에 따라 미용업 영업주를 대상으로 정기 위생교육을 했습니다. 미용업 영업자는 해마다 위생교육을 받아야 하는 의무 대상입니다.",
+          "why": "화성시 피부관리샵도 연 1회 위생교육 의무 대상이니, 올해 교육을 마쳤는지 확인하고 아직이면 대한미용사회 등 교육기관 일정을 확인하세요.",
+          "article": {
+            "source": "Google News 피부관리·미용업 정책 (KR)",
+            "title": "임실군, 미용업 영업주 대상 위생교육 실시 - 웹이코노미",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LOEtEUmItVjZnajhnYnRmcUFqdERzUC1xOHl5NUFGSy1aM1ViOFB0VG10NXhVT2ZpRFpCT1B4UlZyTDJxSTJoOVFzNy1nRlVHeXFnMmN3YjUxX3AzMUJqY05SNk41ank2Q1FxWXZIRmxLQQ?oc=5",
+            "published": "2026-11-02T08:32:44.000Z",
+            "snippet": "임실군, 미용업 영업주 대상 위생교육 실시 웹이코노미"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "주름은 피부과, 턱선은 집에서, 기기는 중고·렌탈로…관심 부쩍 늘어난 '피부 관리'",
+          "summary": "피부 관리에 대한 소비자 관심이 커지는 가운데, 주름 같은 시술은 피부과를 찾고 턱선 관리는 홈케어로 하며 기기는 중고·렌탈로 마련하는 흐름이 나타나고 있습니다.",
+          "why": "지원 대상은 아니지만, 홈케어 기기 수요가 늘어나는 만큼 샵만의 전문 관리 메뉴와 홈케어 연계 상품을 구성할 때 참고할 만합니다.",
+          "article": {
+            "source": "Google News 피부관리·미용업 정책 (KR)",
+            "title": "주름은 피부과, 턱선은 집에서, 기기는 중고·렌탈로…부쩍 관심 늘어난 '피부 관리' [키워드랩] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52WDR2U3BjRk92WDJCT25GcTBiazl4bTRxMW51U1JMNGp0Tmt6SHc5bWJYb25Ka0Vrc2VjMmNjanRHWk5XbGFPNXRMVkx0WUgyUHlDM0JlZ0RIZw?oc=5",
+            "published": "2026-11-02T21:00:46.000Z",
+            "snippet": "주름은 피부과, 턱선은 집에서, 기기는 중고·렌탈로…부쩍 관심 늘어난 '피부 관리' [키워드랩] 한국경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "소상공인 정책 동향",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "경기도의회 유수연 의원, 경기신보 소상공인 금융지원 확대 방안 논의",
+          "summary": "경기도의회에서 경기신용보증재단의 소상공인 금융지원을 늘리는 방안이 논의됐습니다. 구체적인 확대 내용과 시기는 아직 정해지지 않았습니다.",
+          "why": "아직 신청할 수 있는 사업은 아니지만, 확대되면 화성시 소상공인도 직접 대상이 되므로 경기신보 공고(이지원 앱)를 계속 지켜보세요.",
+          "article": {
+            "source": "Google News 경기도·경기신보 소상공인 (KR)",
+            "title": "경기도의회 유수연 의원, 경기신보 소상공인의 금융지원 확대 방안 논의 - 사회적경제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1DcUtHTW9pWWNjMXh0dVVVdWdBWWpkQ1FfZERIQkl3TjlOSlF6Qm1FT1RuM0pKZEdPRTdpZk5BSQ?oc=5",
+            "published": "2026-11-02T11:09:00.000Z",
+            "snippet": "경기도의회 유수연 의원, 경기신보 소상공인의 금융지원 확대 방안 논의 사회적경제뉴스"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "전역 후 실손보험부터 자영업자 건강검진 지원까지, 민생 예산 5가지 정리",
+          "summary": "정부 민생 예산안에 자영업자 건강검진 지원 등 생활 밀착형 사업이 담겼다는 내용입니다. 예산이 국회를 통과해야 시행되며, 세부 대상과 시기는 아직 정해지지 않았습니다.",
+          "why": "1인 자영업자도 대상이 될 가능성이 있으니, 내년 예산이 확정된 뒤 나오는 신청 공고를 기다리면 됩니다.",
+          "article": {
+            "source": "Google News 자영업자 대책 (KR)",
+            "title": "전역 후 실손보험부터 자영업자 건강검진 지원까지! 민생 예산 5가지 짚어드림 (261102 월요일 클립) 강수영 노영희 박태훈 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92c2RkamRWaFFBM1B4c05zZ2VMY2pybFVpc2ZFMjcwYVdqaXZPclZaT3R4ZXg3SmhKWnpGZkFnRkhVak1OemtPdWRZWUJBNFF0Yy1rQUxBSVZoVFNiUFhoaWh3?oc=5",
+            "published": "2026-11-02T12:00:34.000Z",
+            "snippet": "전역 후 실손보험부터 자영업자 건강검진 지원까지! 민생 예산 5가지 짚어드림 (261102 월요일 클립) 강수영 노영희 박태훈 경향신문"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "중기부, 스마트상점 1만2천 곳 전수점검",
+          "summary": "중소벤처기업부가 스마트상점 기술보급 사업으로 지원받은 점포 약 1만2천 곳의 장비 활용과 운영 실태를 전부 점검합니다.",
+          "why": "예전에 스마트상점 지원(키오스크·예약 시스템 등)을 받았다면 장비를 제대로 쓰고 있는지 점검에 대비하고, 받은 적이 없으면 따로 할 일은 없습니다.",
+          "article": {
+            "source": "Google News 소진공·중기부 (KR)",
+            "title": "중기부, 스마트상점 1만2천곳 전수점검 - 전라매일",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EUTQ1V3hLd2VDb09JcGhScjNXaDJ4dTFoTmoxWGNVUElsZjQxSWhEN1ZtMUZCUzJKNDF5X29pQmVVdXBMRFhTNm82dS1FbDRKRTNpb1gzRUwtWjFMNzdPR2VEUTQwNllHckdZSE1jNWVvUHlpOW10Zm53WFlOdFE?oc=5",
+            "published": "2026-11-02T10:00:00.000Z",
+            "snippet": "중기부, 스마트상점 1만2천곳 전수점검 전라매일"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "남양주시, 소상공인 냉난방기 청소 지원…13일까지 신청",
+          "summary": "남양주시가 처음으로 소상공인 점포의 냉난방기를 전문업체가 청소해 주는 사업을 시행하며, 11월 13일까지 신청을 받습니다. 남양주시 소상공인만 신청할 수 있습니다.",
+          "why": "화성시 사장님은 대상이 아니지만, 화성시에도 비슷한 사업이 생길 수 있으니 화성시청 고시공고를 확인해 보세요.",
+          "article": {
+            "source": "Google News 소상공인 지원사업 신청·공고 (KR)",
+            "title": "남양주시, 소상공인 냉난방기 청소 지원…13일까지 신청 접수 - 뉴스티앤티",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hc3lrX011c1RQeW44c0wxR0ZQaFJSRFJiTHF4aEtETWRjR3M3cnM1R1ZGUzl2eDZkOFd2d2RUeXB0OFJWalhQa0RPUGZEVVdLS1VfQ1N0MjRqemI4V29zRHo4cVF4TVRkcGc?oc=5",
+            "published": "2026-11-02T08:32:30.000Z",
+            "snippet": "남양주시, 소상공인 냉난방기 청소 지원…13일까지 신청 접수 뉴스티앤티"
+          }
+        }
+      ]
+    }
+  ]
+}
