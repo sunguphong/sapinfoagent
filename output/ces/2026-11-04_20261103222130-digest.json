@@ -1,0 +1,142 @@
+{
+  "overview": "CES 2027 개막까지 약 두 달 남았습니다. 사전 공개 소식과 업계 전망이 본격적으로 나오기 시작했습니다. 가장 큰 화제는 엔비디아가 CES 2027에서 발표할 것으로 알려진 'RTX 5080 24GB'입니다. 다만 보드 파트너사들이 아직 설계 키트를 받지 못해 1월 출시가 불투명하다는 보도가 이어지고 있습니다. 국내에서는 삼성전자의 2027년 TV 라인업 개편설과 광주·전남 지역 공동관 준비 소식이 나왔습니다. 전반적인 트렌드로는 '보여주는 AI에서 실제로 일하고 돈을 버는 AI로'의 전환, 자동차·모빌리티 기업의 복귀가 주목받고 있습니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 36,
+          "title_ko": "CES 2027 엔터테크 컨퍼런스, 발표·전시 일정(1월 7일)",
+          "summary": "K-EnterTech Hub가 CES 2027 기간인 1월 7일 엔터테인먼트 기술 컨퍼런스 발표와 전시를 진행한다고 안내했습니다. 이와 함께 CES 2027 엔터테크 세션을 분석한 무료 미리보기 자료도 공개했습니다. 숏폼과 AI 수익화 관점에서 2027년 엔터테크 흐름을 읽는 토크 행사도 열렸습니다.",
+          "why": "콘텐츠·미디어 업계 종사자라면 CES 현장의 엔터테크 세션 흐름을 미리 파악해 출장 일정과 미팅을 계획하는 데 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "CES 2027 엔터테크 컨퍼런스 발표+전시(1월 7일) - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DZ3hqZFlfM21uR2QzV3ZId2NYLTdESUtwVTdZRzFyOUpLNEZNMHQ3MjJ2YnAxYThxRlJUWGF5UFlLeldPS1licXQwRTVjRkRJTE9Nc1REUFB3UHNkTnhZXw?oc=5",
+            "published": "2026-11-02T18:27:23.000Z",
+            "snippet": "CES 2027 엔터테크 컨퍼런스 발표+전시(1월 7일) K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "유나이티드항공, CES 2027 맞춰 라스베이거스-도쿄 노선에 프리미엄 787-9 투입",
+          "summary": "유나이티드항공이 CES 2027 기간 수요에 대응해 라스베이거스-도쿄 노선에 프리미엄 좌석을 강화한 보잉 787-9 드림라이너를 띄웁니다. CES 참관객이 늘어나는 아시아 수요를 겨냥한 특별 운항으로 풀이됩니다.",
+          "why": "도쿄 경유 항공편이 늘면 한국에서 CES에 가는 출장객의 이동 선택지도 넓어질 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "United to Fly Premium 787-9 on Las Vegas-Tokyo Route for CES 2027 - Aviation A2Z",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTZBTTJtZ0RZYk16TVBvRThkbm5LVU82MVNLR3pWMnA0YkJrcVVfMnYwQlE0SlowX0QxMUFfUkhWMWRFOVBNRU1MVFJ4NnZ5MFp3a3F4eW9USW12UzF4ZURRNHJpZGY4b3F5UXVJbFJmZWhVWGlkdDhGZFJIclRyQkhXZGFUMTRnODlyMDM2ZGhrU09PTFp5RVFvY1V4dXM?oc=5",
+            "published": "2026-11-02T16:38:00.000Z",
+            "snippet": "United to Fly Premium 787-9 on Las Vegas-Tokyo Route for CES 2027 Aviation A2Z"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 44,
+          "title_ko": "엔비디아 지포스 RTX 5080 24GB, 보드 파트너 설계 키트 미수령으로 2027년 1월 출시 불투명",
+          "summary": "RTX 5080 24GB가 기존 RTX 5090의 자리를 대체하며 CES 2027에서 엔비디아의 최대 발표가 될 것이라는 보도가 나왔습니다. 그러나 그래픽카드 제조 파트너사들이 아직 설계 키트를 받지 못해 1월 출시 일정이 늦어질 수 있다는 관측이 여러 매체에서 이어지고 있습니다. CES 현장 발표와 실제 출시 시점이 어긋날 가능성이 있습니다.",
+          "why": "그래픽카드 구매를 고민 중인 국내 소비자와 PC·메모리 부품 업계는 출시 시점과 가격 변화를 주의 깊게 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "NVIDIA GeForce RTX 5080 24 GB May Miss January 2027 Launch As Board Partners Still Await Design Kits - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcUJzWVBnQ3Qzd1p1akQtZWVYcExOZmZYVlRYTzVlSDdNM19OQnpORlZrUDBQb0RHeTFYMklhbzBzRTlvUnBaOGJvSy1SQzl3NkpFWlZMdjRmWnZoRGRDeGFFQXo1ZWJsSnpMNHBmZ1ptS2dwNW5lcElzLUY2ZVFDYzNERnRocXZRU0JxUjFfMkhoTW1PdnZkM3RDWGp0eEJCSlVCOUFzX3NXci1EdmhpQkgzMTYzdGpHUm8zdmJENNIBxAFBVV95cUxOYkhRZml5RVpKOEdrUVdMZTdZTFhrMXJSNXVWUGN3Vm41YUphelZPX1N3RDdvVmo5RmlOUzF1OThIUlJZX3BUa3J5eTktTVRybUVkMGpCUFpENjNfdDUySWdqUTJFU1Z6UTRjLTF1a0JBOUphYWJWMUpsS2gxbDIwNE8zaVRlYnl6dUEzWGxKWU1GTUJfaExnLXhPQzd2dTlnZk1RTkN6MDJrWmxCYmltakdncDRNYjJLWWZRTENNc0R6Z05m?oc=5",
+            "published": "2026-11-02T12:35:10.000Z",
+            "snippet": "NVIDIA GeForce RTX 5080 24 GB May Miss January 2027 Launch As Board Partners Still Await Design Kits Wccftech"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "완성차·모빌리티 기업들, CES 복귀…자동차 부문 다시 힘 싣는 CES",
+          "summary": "포브스는 최근 몇 년간 참가를 줄였던 완성차 업체와 모빌리티 기업들이 CES 2027에 다시 돌아오고 있다고 보도했습니다. CES가 자동차 기술 분야 전시를 다시 강화하는 흐름입니다.",
+          "why": "현대차그룹 등 국내 완성차·전장 기업에게 CES 무대에서 글로벌 경쟁사와의 기술 경쟁이 다시 치열해질 것임을 시사합니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "Carmakers, Mobility Firms Return As CES Gears Up With Auto Sector - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWJNeUVOaW90b1AweThROEtUMGd0LUxtYmM3b0NjOTBXRExQVGI4SGhXUkpIVE4yMWdKbFhNeklzejVTSVN5Nm44cThxY1ZKNGdCVFFBZWNvbDFPdmstMzN6dVBZNGRoZFZHcmxjenhEUjNodkRJcEhYM2REbXV4NFBoVE93TFJPdDgzR3l5aEZrNGdJRnA4LXM3TGxTTy1fU0tTTWtlRkNZMlBpcmtLUU9GMEJZb0FWclE?oc=5",
+            "published": "2026-11-03T01:53:47.000Z",
+            "snippet": "Carmakers, Mobility Firms Return As CES Gears Up With Auto Sector Forbes"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "중국 왕텅의 ISHO, 스마트링·침대 온도 조절 시스템 출시…CES 2027 전시 계획",
+          "summary": "중국 기업 ISHO가 수면·건강 관리를 겨냥한 스마트링과 침대 온도 조절 시스템을 선보였습니다. 이 제품들을 CES 2027에서 전시할 계획이라고 밝혔습니다.",
+          "why": "수면·헬스케어 웨어러블 분야에서 중국 기업의 CES 공세가 거세지고 있어, 국내 슬립테크·스마트링 업체들과 경쟁이 심해질 전망입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Wang Teng's ISHO Launches Smart Ring and Bed Temperature System, Plans CES 2027 Showcase - Pandaily",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjZEdHpLR3BEMkxjSjZaNU1Cb0FUc1BlNVFEcjc5REktaDRlT0RybWVHTHJNa1JwN3dPR3ljQ2stbGl5aEpLUUZSQXpHeG04bkFQNEkweXRhOE5LcGFhSjhDLW9FcTJKSHppazNPM0NRMFYyOU9DOG9EWkpkRklJTw?oc=5",
+            "published": "2026-11-03T10:08:01.000Z",
+            "snippet": "Wang Teng's ISHO Launches Smart Ring and Bed Temperature System, Plans CES 2027 Showcase Pandaily"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 29,
+          "title_ko": "삼성전자, 2027년 TV 라인업 대개편 추진…QLED 브랜드 퇴장 가능성",
+          "summary": "삼성전자가 2027년 TV 라인업을 'Ultra·Plus·Basic' 3개 등급 체계로 재편할 계획이라는 보도가 나왔습니다. 이 과정에서 기존 QLED 명칭이 사라질 수 있다는 관측도 함께 제기됐습니다. 삼성은 매년 CES에서 새해 TV 라인업을 공개해 왔기 때문에 CES 2027 발표 내용에 관심이 쏠립니다.",
+          "why": "국내 TV 소비자의 제품 선택 기준이 바뀌고, LG전자 등 경쟁사의 라인업 전략에도 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "Samsung Plans Major TV Shake-up As QLED Faces Axe in 2027 - ChannelNews.com.au",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFZWZWpxcGQ5QTd1SWtZVmZjYWtWYmlrdHk5cnRJMVkzLVpXdnJNUzlYZDV2X2hJdU5Ha0dYOHRreV81eUlqOHBoQmQ3UmpDSVhVYnJrSDZZVWppR0FpX3Bxcl9uRmNOUzB4U0d5Y3ZNU0VVMnBIWkdOUzFGZnIwZlZ1N19pLXZwOXE1WjBlb1ZSUnc?oc=5",
+            "published": "2026-11-03T01:00:08.000Z",
+            "snippet": "Samsung Plans Major TV Shake-up As QLED Faces Axe in 2027 ChannelNews.com.au"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "호남대 앵커사업단, 'CES 2027' 광주·전남 공동관 지원 실무협의회 개최",
+          "summary": "호남대 앵커사업단이 CES 2027에 참가할 광주·전남 공동관 운영을 위한 실무협의회를 열었습니다. 지역 기업과 스타트업의 전시 준비와 지원 방안을 논의했습니다.",
+          "why": "지자체·대학 주도의 지역 공동관이 늘면서, 국내 중소기업과 스타트업의 CES 진출 통로가 넓어지고 있습니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "호남대 앵커사업단, ‘CES 2027’ 광주·전남 공동관 지원 실무협의회 개최 - 톡톡뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sX3RIcDQ0MzdOZ09sVlhCZHNxelI1NWJJcGVtWDQ1TTg4dnhILTR0RUZlU0ZFNjZWWl8tVTJ2WlBpclJkYTYyclBEWkVuSGVtdHV1eE0xeEJwWTh1dUE?oc=5",
+            "published": "2026-11-03T02:05:00.000Z",
+            "snippet": "호남대 앵커사업단, ‘CES 2027’ 광주·전남 공동관 지원 실무협의회 개최 톡톡뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신제품·기술 트렌드",
+      "items": [
+        {
+          "index": 15,
+          "title_ko": "CES 2027 트렌드 프리뷰: '보여주는 AI'에서 '일하는 AI'로",
+          "summary": "이글루코퍼레이션은 리포트에서 CES 2027의 핵심 흐름을 시연 중심 AI에서 실제 업무를 수행하는 AI로의 전환으로 짚었습니다. 개막을 두 달 앞둔 시점에 AI가 시연을 넘어 실제 매출로 이어질 수 있을지가 올해 CES의 관전 포인트라는 분석도 함께 나왔습니다.",
+          "why": "국내 기업들도 CES에서 단순 기술 시연보다 실제 사업화 사례와 수익 모델을 보여주는 것이 중요해질 것으로 보입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "[AI Report] CES 2027 트렌드 프리뷰: 보여주는 AI에서 일하는 AI로 - 이글루코퍼레이션",
+            "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcXF0eHM5eEpPejhWb0FzaE5LWldibmE0LV9hN2xjbGhRQXByZ2Zjd1JkeXlsTnpuWHpYRzRzX0F3V0p3Ylh3NFhvMWk0YUdwVHp2bEIycVM2VHVZMG1pZUF4ajIwcDF6M3JwR1RuNjBXeHVTTlh6Wlo5N3hWR1lkNFItSFNYYUswbFF2MTh3VHlxSE1vLWNqdm5ZU0s4dkZfNkpjQ2lzT1p3Y3N3TGM3TEIydHhNdnRtaHRWRktUMkpZdEJEWmY0MnZDbjRQMzAtVFNyQ3hfMm5oOExDRFN0WlJzMFpkd0Q3QktHUlR6a2JiZHdqb1JjSWJtVlhvRG04N1RSU0hXaDhlNXB0Z3pEVmMzOFE1VHRhV3JWcXRnOEx4Z2Zxb2pWa1ZJc2tBRXBrNC1xcUJ1a0cxOXlnem1v?oc=5",
+            "published": "2026-11-03T07:03:20.000Z",
+            "snippet": "[AI Report] CES 2027 트렌드 프리뷰: 보여주는 AI에서 일하는 AI로 이글루코퍼레이션"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "[CES 2027] AI·양자컴퓨팅이 바꾸는 글로벌 투자 지형",
+          "summary": "CES 2027을 앞두고 AI와 양자컴퓨팅이 글로벌 투자 흐름을 재편하는 핵심 분야로 떠오르고 있다는 분석이 나왔습니다. 같은 매체는 AI 기반 사이버보안도 새로운 글로벌 투자 시장으로 부상하고 있다고 짚었습니다.",
+          "why": "CES 2027에서 AI 보안·양자 분야 스타트업에 대한 투자 관심이 커질 수 있어, 해당 분야 국내 기업에게 투자 유치 기회가 될 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[CES 2027] AI and Quantum Computing Reshape the Global Investment Landscape - 데일리뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnk2bW1ORUtQcmI0cXc5Mno4UnV6X3NpUmpFNzctV2M3S05wZ2g2aVVtUzh0WWZjS3ZTbVF2VVZKMi1qUW5NOTZvYllDTWh0bElTS0kxRlFISWUtRndBbDAwLURZdjljYmd0Y0FEeXJLVTBDSlVkWTBhVDU4eW0yQmdnRDYyeTVUREw0QlowUC11TnZ5SXR0aThCcmp6YUFaa1FmcEphM1ZFQQ?oc=5",
+            "published": "2026-11-03T08:06:32.000Z",
+            "snippet": "[CES 2027] AI and Quantum Computing Reshape the Global Investment Landscape 데일리뉴스"
+          }
+        }
+      ]
+    }
+  ]
+}
