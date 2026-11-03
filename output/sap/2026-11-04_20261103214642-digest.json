@@ -1,0 +1,246 @@
+{
+  "overview": "SAP TechEd 2026 이후 SAP는 Business AI Platform, Joule, 에이전트 개발 도구를 중심으로 에이전틱 AI 전략을 넓히고 있으며, Cohere와 손잡고 규제 산업으로도 AI 적용을 확대하고 있습니다. Gartner 공급망 AI 에이전트 평가와 Business Network의 에이전틱 AI 비전도 같은 흐름에 있습니다. 운영 측면에서는 SAP BusinessObjects BI Platform 4.3의 메인스트림 유지보수가 2026년 12월 31일에 종료되므로 업그레이드 계획을 서둘러야 합니다. 또한 2027년 ABAP 환경(Steampunk) 업그레이드 일정과 RISE 환경 운영 팁 등 실무 정보도 함께 공개됐습니다.",
+  "categories": [
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "SAP BI Platform 4.3 고객이 2026년 12월 31일 전에 알아야 할 사항",
+          "summary": "SAP BusinessObjects BI Platform 4.3의 메인스트림 유지보수가 2026년 12월 31일에 종료됩니다. SAP는 BI 4.3 이하 버전을 쓰는 고객에게 SAP BusinessObjects BI 2025 또는 BI 2027로 업그레이드할 것을 권장하며, 관련 경로와 지원 리소스를 안내했습니다.",
+          "why": "BO 기반 리포팅을 운영하는 고객은 두 달 안에 업그레이드 계획과 예산을 확정해야 하므로 바로 챙겨야 할 사안입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "What SAP BI Platform 4.3 customers need to know before 31 December 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/what-sap-bi-platform-4-3-customers-need-to-know-before-31-december-2026/ba-p/14515833",
+            "published": "2026-11-03T19:44:49.000Z",
+            "snippet": "Key date: 31 December 2026. SAP BusinessObjects BI Platform 4.3 reaches End of Mainstream Maintenance on 31 December 2026. SAP has a clear upgrade path and the resources to support your move.If you are running SAP BI Platform 4.3 or lower, now is the right time to plan your upgrade to SAP BusinessObjects BI 2025 or BI 2027. Where BI 4.3 support stands todayAs of October 2026, SAP is focusing its B"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "SAP Business AI Platform ABAP 환경(Steampunk)의 2027년 유지보수 및 메이저 업그레이드 일정",
+          "summary": "SAP Business AI Platform ABAP 환경(일명 Steampunk)은 SAP가 업데이트와 업그레이드를 자주, 그리고 릴리스 시점에 맞춰 적용합니다. 이번 글에서 2027년 메이저 업그레이드 기간과 주간 유지보수 기간 일정이 공개됐습니다.",
+          "why": "BTP ABAP 환경으로 확장 개발을 하는 팀은 이 일정을 보고 테스트와 배포 계획을 미리 조정할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Business AI Platform, ABAP environment – Maintenance Windows and Major Upgrade Windows in 2027",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-business-ai-platform-abap-environment-maintenance-windows-and-major/ba-p/14515339",
+            "published": "2026-11-03T10:23:52.000Z",
+            "snippet": "One of the benefits of using SAP Business AI Platform, ABAP environment (also known as \"Steampunk\") is that updates and upgrades are applied by SAP to the systems in quite a high frequency and close to the corresponding release time.Find the latest known schedule of Major Upgrade Windows and Weekly Maintenance Windows for 2027 in this blog post.Major Upgrade WindowsAs in 2026, the SAP Business AI "
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "SAP, 클라우드 ERP 전환 고객에게 마이그레이션·현대화 어시스턴트 제공",
+          "summary": "SAP TechEd에서 고객의 클라우드 ERP 전환을 돕는 마이그레이션 어시스턴트와 현대화 어시스턴트가 발표됐습니다. AI 기반 도구로 전환 과정을 지원하는 것이 목적입니다.",
+          "why": "S/4HANA 및 클라우드 ERP 전환 프로젝트의 방법론과 공수 산정에 영향을 줄 수 있는 도구입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDNITDF0aTdNbEdIcS0tZ3NKbjBzMWtVbTQ5SkdBazExTUt6STFESHZIWmtzckY5Unp5clBJOTJpeGxlSldXTmJQdGY0bTM1cWdoY09mSDJCcnZpOHh5N0JQY0lnSFV2V3BxcklmSVhLZTdfelF0cG13N3dPYTVSRGZkbWR5MTVyd2xLWDdnZWlsQkJyV2Z2aDFXRDBYU20tUGVLcnBQUHkyS3M?oc=5",
+            "published": "2026-10-28T11:04:35.000Z",
+            "snippet": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 16,
+          "title_ko": "SAP와 Cohere, 규제 산업의 AI 혁신과 신속한 도입 지원",
+          "summary": "SAP는 SAP Business AI Platform과 Cohere의 North를 결합해 규제 산업 고객이 AI를 더 빠르게 도입할 수 있도록 지원한다고 발표했습니다. 관련 보도에 따르면 오스트리아 Erste Group도 2027년을 겨냥해 SAP AI에 투자하고 있습니다.",
+          "why": "금융·공공 등 규제가 엄격한 산업의 SAP 고객이 AI 도입 방안을 검토할 때 참고할 선택지가 늘었습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster",
+            "link": "https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/",
+            "published": "2026-11-03T09:00:00.000Z",
+            "snippet": "The combination of SAP Business AI Platform and North can deliver exponential value."
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "SAP, 에이전틱 AI 확산을 위해 Business AI Platform과 Joule 강화",
+          "summary": "SAP는 TechEd에서 Business AI Platform과 Joule의 기능을 강화하고, AI 에이전트의 개발과 통제를 지원하는 플랫폼을 확대한다고 발표했습니다. 개발자가 '자율 기업(Autonomous Enterprise)'을 직접 구축할 수 있다는 메시지를 내세웠습니다.",
+          "why": "향후 SAP 확장 개발과 프로세스 자동화가 에이전트 중심으로 바뀌는 흐름을 보여주는 핵심 발표입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption - ITWeb",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHozZW14aEdrZzJKalM1Vl9Ra0ZJeXJZYWFZb2x4bjhCLU9TVkRwQ2duTUE5VXdNTlFMRUZUa2diczB0SG95RWgwV1QtQlBURXlCWDdtZUNuZXNaZHVHMjA0RVE1QUFBWWliUElOTEJkWkh1LVQtMW4xUEFrOFVZSTBsLU1jaHBJMUpUcUVLeW5yN2NXYjZvMWlRUEpxNVFSc0c2R2NzcHdnZ2xQNDdTajBkUk5zb2NVZkRxS1Bn?oc=5",
+            "published": "2026-10-30T10:43:07.000Z",
+            "snippet": "SAP beefs up Business AI Platform and Joule to drive agentic AI adoption ITWeb"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "신뢰와 보안 경계: Joule에서 SAP Cloud ERP Private까지",
+          "summary": "Joule을 SAP Cloud ERP Private에 연결할 때 접근 가능한 데이터, 사용되는 사용자 ID, 수행 가능한 작업을 무엇이 결정하는지 설명한 글입니다. ID, 연결, 권한, 감사 통제가 함께 작동하는 방식과 SAP·고객 간 책임 경계를 정리했습니다.",
+          "why": "RISE 고객이 Joule을 도입할 때 보안·권한 설계와 감사 대응의 기준으로 삼을 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Trust and Security Boundaries: From Joule to SAP Cloud ERP Private",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/trust-and-security-boundaries-from-joule-to-sap-cloud-erp-private/ba-p/14515397",
+            "published": "2026-11-03T13:23:50.000Z",
+            "snippet": "As Joule connects AI capabilities to SAP Cloud ERP Private, what determines which data it can access, whose identity it uses, and which actions it can perform? This article explores the trust and security boundaries along that journey, explaining how identity, connectivity, authorization and audit controls work together—and where SAP and customer responsibilities meet. This blog addresses how exis"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "실습 튜토리얼: SAP 테이블형 AI 모델 SAP-RPT-TS로 시계열 예측 개선하기",
+          "summary": "사전 학습된 테이블형(Tabular) AI 모델을 쓰면 작업마다 별도의 머신러닝 모델을 학습, 튜닝, 유지보수할 필요가 없습니다. 이 튜토리얼은 SAP-RPT-TS를 활용해 정형 데이터의 시계열 예측 정확도를 높이는 방법을 실습 형태로 소개합니다.",
+          "why": "데이터 사이언티스트가 없어도 수요 예측 등 SAP 데이터 기반 예측을 시도할 수 있는 실용적인 방법입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Hands-on Tutorial: Improve your time-series forecasts with SAP's Tabular AI model SAP-RPT-TS",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/hands-on-tutorial-improve-your-time-series-forecasts-with-sap-s-tabular-ai/ba-p/14514276",
+            "published": "2026-11-03T11:48:17.000Z",
+            "snippet": "Tabular AI is causing a big stir in the world of traditional Machine Learning. Since Tabular AI models are pre-trained , there is no need anymore to train, tune and maintain a specific Machine Learning model for each task.This makes forecasting on structured data accessible to non-Data Scientists. And Data Scientists have a good chance to get more accurate predictions with less effort, compared to"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "BTP에서 Knowledge Graph Foundation API 활성화 및 활용하기",
+          "summary": "SAP Knowledge Graph Foundation을 BTP에서 직접 활성화하고 API를 사용해 본 경험을 공유한 글입니다. 공식 문서에 없는 시행착오와 교훈을 담고 있습니다.",
+          "why": "AI 에이전트에 비즈니스 맥락을 제공하는 지식 그래프를 검토하는 BTP 개발자에게 실전 참고 자료가 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Activating and Consuming Knowledge Graph Foundation APIs on BTP",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/activating-and-consuming-knowledge-graph-foundation-apis-on-btp/ba-p/14515468",
+            "published": "2026-11-03T18:32:04.000Z",
+            "snippet": "My Hands-on Experience with SAP Knowledge Graph Foundation on BTP: Lessons Beyond the Documentation"
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "SAP BDC의 레이크하우스 및 데이터 패브릭 혁신 (SAP TechEd)",
+          "summary": "SAP TechEd에서 SAP Business Data Cloud(BDC)의 레이크하우스와 데이터 패브릭 관련 신기능이 소개됐습니다. 관련 보도에 따르면 엔터프라이즈 AI 에이전트를 위한 데이터 패브릭과 마스터 데이터 도구도 함께 확장됐습니다.",
+          "why": "AI 활용의 전제가 되는 SAP 데이터 통합·관리 아키텍처의 방향을 파악하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXk5bjRZUXhRN05JMGw0Mnd3MU15TDhCVkdXNlhsQXJYMF95NmtnTVBZQW9GTVVwS3hsLUJPSlpXMVJCOWhlYlJBNjRTTHJVdTZIQjlWdnZLLVlCd284MkVwTEd2VjJSOTlOd1NjSW1ZRmRjM2h5Y01fbjNDNGRhejkzZDlXZGZMaDluc1NoODlYdzBiNUROd3ZLczBISzFFTDNF?oc=5",
+            "published": "2026-10-29T11:04:36.000Z",
+            "snippet": "Lakehouse and Data Fabric Innovations in SAP BDC | SAP TechEd SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "SAP, 2026 Gartner 통합 공급망 AI 에이전트 신흥 시장 쿼드런트(기존 벤더 부문)에서 '마켓 셰이퍼'로 선정",
+          "summary": "Gartner가 처음 발표한 통합 공급망 AI 에이전트 신흥 시장 쿼드런트의 기존 벤더 부문에서 SAP가 마켓 셰이퍼로 평가받았습니다. 공급망 AI 논의의 중심이 에이전트로 옮겨 가고 있음을 보여줍니다.",
+          "why": "SCM 영역에서 AI 에이전트 도입을 제안하거나 벤더를 비교할 때 근거 자료로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP Positioned as a Market Shaper in the Inaugural 2026 Gartner® Emerging Market Quadrant for Integrated Supply Chain AI Agents – Established Vendors",
+            "link": "https://news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors/",
+            "published": "2026-11-03T13:15:00.000Z",
+            "snippet": "The supply chain AI conversation is shifting."
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "비즈니스 네트워크, 에이전틱 AI로 거래 파트너 간 협업과 운영 회복력 강화",
+          "summary": "SAP는 SAP Business Network를 기업 간 상거래의 인텔리전스 및 실행 계층으로 만들겠다는 비전을 제시했습니다. 에이전틱 AI를 활용해 거래 파트너 간 협업과 공급망 회복력을 높이는 데 초점을 맞추고 있습니다.",
+          "why": "Ariba 및 Business Network 기반 조달·공급망 프로젝트의 향후 기능 방향을 가늠할 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "Business Networks Harness Agentic AI to Bolster Collaboration and Operational Resilience Among Trading Partners",
+            "link": "https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/",
+            "published": "2026-11-03T12:15:00.000Z",
+            "snippet": "The vision of SAP Business Network is to become the intelligence and execution layer for commerce between companies."
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "SAP DRC, 전자세금계산서와 디지털 컴플라이언스의 전략적 기반으로 부상",
+          "summary": "유럽을 중심으로 전자세금계산서 의무화가 확대되면서 SAP Document and Reporting Compliance(DRC)의 역할이 커지고 있습니다. SAP가 유럽 전자세금계산서 컴플라이언스 시장에서 입지를 넓히고 있다는 분석도 나왔습니다.",
+          "why": "글로벌 법인을 둔 고객의 FI 프로젝트에서 국가별 전자세금계산서 대응을 DRC로 설계할 필요성이 커지고 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP DRC emerges as a strategic enabler for e-invoicing and digital compliance - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanEyYS1UdGFDd2xQNy1XNmJXbmp5QjdqMnJYUTNFRmZ6UEJWQmNoekYwQnQzZUtRYm1Md3dMakxYQ0tVUE1uaTNPVXJYWVh1TTlaMmVWOXNuQksxcm5VTm1LY2hYRXNQMzVlLTN3c0N2X0JoY0lSdkZKdUdEa3lKTzdFSG9URkQ5S0txODg4Nmk4YlpWdU1GU1d3?oc=5",
+            "published": "2026-11-03T08:00:00.000Z",
+            "snippet": "SAP DRC emerges as a strategic enabler for e-invoicing and digital compliance Yahoo Finance"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "인텔-SAP, 피지컬 AI로 창고 내 자재 운반 자동화 기술 시연",
+          "summary": "인텔과 SAP가 협력해 엔터프라이즈 시스템과 로봇을 피지컬 AI로 연결하는 기술을 선보였습니다. 창고 내 자재 운반 자동화 시나리오를 시연했습니다.",
+          "why": "EWM 등 물류 시스템이 로봇·현장 자동화와 직접 연계되는 방향을 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "인텔-SAP, 피지컬 AI 활용해 창고 내 자재 운반 자동화 기술 시연 - 디지털경제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51eXFiUDJZSE5WZVByUUVMNERnTlM3LWp2bi0yckdUTm5FZEhpcGRveXlVUXNPOXN6ckF3V2RZVU9hdnhQUVdqZTI5cUlvSGxCR0hPTTNET1RiOHNaQUJfRWJQdTA2Rl9GbGc?oc=5",
+            "published": "2026-10-29T13:06:02.000Z",
+            "snippet": "인텔-SAP, 피지컬 AI 활용해 창고 내 자재 운반 자동화 기술 시연 디지털경제뉴스"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "Microsoft는 렌탈 기능을 ERP 코어에 내장, SAP·Oracle 고객은 애드온 필요",
+          "summary": "Microsoft가 ERP 코어에 렌탈 관리 기능을 기본 탑재한 반면, SAP와 Oracle 고객은 같은 기능을 위해 별도 애드온을 찾아야 한다는 분석 기사입니다.",
+          "why": "렌탈·리스 업종 고객에게 제안할 때 경쟁사와의 기능 차이와 애드온 전략을 미리 점검해야 합니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Microsoft Bakes Rental into the ERP Core While SAP and Oracle Send Customers Shopping for Add-Ons - Cloud Wars",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFJXdW5UcWtLbU96dWJFRW12TWxUbDBNcVlBbk5kZkR0X01ySWNTNHRsTmZSVk5lVFFkSWdkQjJla0FOTjNUa1NRX1B6dXJubjFlZW1DUWhwZC1tVm82cE0yWl8wVUhUSGVIWHJ3R2l2UFNTU1g0M1k1anJveFdBRklGNEJFMFFmQXVhNlRuOWdMaTM3MllVSHo4RDNIeHNZWVZmeEFCRVhsbHZrQ2VPY19oa2pYcmFodWYyX2x2eEw?oc=5",
+            "published": "2026-11-03T14:24:27.000Z",
+            "snippet": "Microsoft Bakes Rental into the ERP Core While SAP and Oracle Send Customers Shopping for Add-Ons Cloud Wars"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "S/4HANA Cloud Private Edition (009) - RISE 환경에서 외부 시스템으로 HTTP(S) 접속하는 방법 (Squid Proxy 허용 목록)",
+          "summary": "RISE 측 서버에서 인터넷을 통해 외부 시스템에 HTTP(S)로 접속하려면 'Allowlist Squid Proxy access HTTP/HTTPS(80/443): OUTBOUND to EXTERNAL' 서비스 요청(SR) 템플릿을 사용합니다. 반대로 외부에서 RISE 서버로 접속하려면 LoadBalancer를 생성해 시스템을 인터넷에 공개해야 합니다. 이 글은 하이퍼스케일러(AWS/Azure/GCP) 기반 환경을 전제로 합니다.",
+          "why": "RISE 프로젝트에서 외부 연계 인터페이스를 구성할 때 바로 적용할 수 있는 실무 절차입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "S/4HANA Cloud Private Edition (009) - RISE環境から外部システムへHTTP(S)でアクセスする方法(Squid Proxy Allowlist)",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/s-4hana-cloud-private-edition-009-rise%E7%92%B0%E5%A2%83%E3%81%8B%E3%82%89%E5%A4%96%E9%83%A8%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%B8http-s-%E3%81%A7%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-squid/ba-p/14515242",
+            "published": "2026-11-03T04:35:49.000Z",
+            "snippet": "SAP S/4HANA Cloud Private Editionにおいて、RISE側のサーバからインターネット経由で外部システムへHTTP(S)方式でアクセスしたいケースがあるかと存じます。なお、本記事は、お客様がご利用のPlatformがCloud(AWS/Azure/GCP)であることを前提に記載しております。その際に利用するのが、下記のService Request(以下、SR)です。SRテンプレート: Allowlist Squid Proxy access HTTP/HTTPS(80/443): OUTBOUND to EXTERNAL反対に、外部システムからインターネット経由でRISE側のサーバへアクセスしたい場合は、RISE側にLoadBalancerを設置し、システムをインターネットに公開する必要があります。LoadBalancerを作成する場合は、下記のSRテンプレート"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "S/4HANA Cloud Private Edition (008) - AP 서버에서 고객 CIFS 서버의 공유 폴더를 마운트하는 방법",
+          "summary": "RISE 환경의 AP 서버를 CIFS 클라이언트로 사용해 고객 온프레미스나 고객 소유 클라우드의 CIFS 서버 공유 폴더에 접근하는 방법을 소개합니다. 'Mount CIFS (aka Samba) shares' SR 템플릿을 사용하며, HANA 서버에서는 CIFS 마운트가 허용되지 않고 AP 서버에서만 가능합니다.",
+          "why": "RISE 전환 후 파일 기반 인터페이스를 유지해야 하는 경우 사전 조건과 절차를 확인하는 데 유용합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "S/4HANA Cloud Private Edition (008) - APサーバからお客様のCIFSサーバ上の共有フォルダをマウントする方法",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/s-4hana-cloud-private-edition-008-ap%E3%82%B5%E3%83%BC%E3%83%90%E3%81%8B%E3%82%89%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AEcifs%E3%82%B5%E3%83%BC%E3%83%90%E4%B8%8A%E3%81%AE%E5%85%B1%E6%9C%89%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/ba-p/14514590",
+            "published": "2026-11-03T03:08:28.000Z",
+            "snippet": "SAP S/4HANA Cloud Private Editionにおいて、APサーバからCIFSを利用し、お客様側のオンプレミス環境、またはお客様所有のCloud上のCIFSサーバ上のファイルへアクセスする方法についてご紹介いたします。構成を整理いたしますと、以下のとおりとなります。RISE側のAPサーバ: CIFSクライアントお客様オンプレミス/お客様所有のCloud上のサーバ: CIFSサーバご利用するService Request(以下、SR)テンプレートは、下記のとおりでございます。SRテンプレート: Mount CIFS (aka Samba) sharesSRを起票される前に、下記の前提条件をご確認いただけますようお願いいたします。RISE上のAPサーバからのみ、お客様所有のCIFSサーバをマウントできること(HANAサーバでのCIFSマウントは許可されておりません)。そのた"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "SAP Signavio Process Navigator의 미래를 함께 만드세요 – CEI 프로젝트 참여 모집",
+          "summary": "SAP가 SAP Signavio Process Navigator에 대한 고객·파트너의 직접적인 피드백을 받는 CEI(Customer Engagement Initiative) 프로젝트를 엽니다. 개발, 개선, 우선순위에 대한 의견을 제시할 수 있으며 등록 마감은 2026년 11월 20일입니다.",
+          "why": "프로세스 모델링과 Best Practice 탐색에 이 도구를 쓰는 컨설턴트가 제품 방향에 직접 의견을 낼 수 있는 기회입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Shape the Future of SAP Signavio Process Navigator – Join Our CEI Project",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/shape-the-future-of-sap-signavio-process-navigator-join-our-cei-project/ba-p/14515603",
+            "published": "2026-11-03T12:29:57.000Z",
+            "snippet": "We're opening up SAP Signavio Process Navigator to direct customer and partner feedback. Tell us what to build, fix, and prioritize – register by November 20, 2026."
+          }
+        }
+      ]
+    }
+  ]
+}
