@@ -33,6 +33,10 @@
           <span class="mi"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="9" rx="1.5"/><rect x="14" y="3" width="7" height="5" rx="1.5"/><rect x="14" y="12" width="7" height="9" rx="1.5"/><rect x="3" y="16" width="7" height="5" rx="1.5"/></svg></span>
           <span class="ml">대시보드</span>
         </a>
+        <a href="#office" data-view="office" class="menu-item">
+          <span class="mi"><svg viewBox="0 0 24 24"><rect x="5" y="8" width="14" height="11" rx="3"/><path d="M12 4v4M9 13h.01M15 13h.01M9.5 16.5h5M3 12v3M21 12v3"/></svg></span>
+          <span class="ml">에이전트</span>
+        </a>
         <a href="#runs" data-view="runs" class="menu-item">
           <span class="mi"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg></span>
           <span class="ml">실행 기록</span>
@@ -130,6 +134,38 @@
           </div>
           <div id="recent-runs"></div>
         </div>
+      </section>
+
+      <!-- 에이전트 오피스: 모든 에이전트의 오늘 근무 상태 -->
+      <section id="view-office" class="view hidden">
+        <div class="office-hero">
+          <div class="office-hero-text">
+            <div class="office-tags"><span class="otag accent">에이전트 오피스</span><span class="otag">조간 브리핑 데스크</span></div>
+            <div class="office-eyebrow">SAP INFO AGENT</div>
+            <h1>에이전트 오피스</h1>
+            <p id="office-summary">불러오는 중…</p>
+          </div>
+          <div class="office-stats" id="office-stats"></div>
+        </div>
+
+        <div class="office-bar">
+          <div class="seg" role="tablist" aria-label="보기 방식">
+            <button type="button" role="tab" data-ov="cards" class="on" aria-selected="true">
+              <svg viewBox="0 0 24 24"><rect x="5" y="8" width="14" height="11" rx="3"/><path d="M12 4v4M9.5 16.5h5"/></svg>에이전트</button>
+            <button type="button" role="tab" data-ov="floor" aria-selected="false">
+              <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="1.5"/><path d="M3 11h8V4M11 15v5M15 11h6"/></svg>평면도</button>
+            <button type="button" role="tab" data-ov="lanes" aria-selected="false">
+              <svg viewBox="0 0 24 24"><rect x="3" y="4" width="5" height="16" rx="1.5"/><rect x="10" y="4" width="5" height="11" rx="1.5"/><rect x="17" y="4" width="4" height="7" rx="1.5"/></svg>상태 레인</button>
+          </div>
+          <span class="spacer"></span>
+          <button type="button" id="office-done" class="pill on" aria-pressed="true">
+            <svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>완료 포함</button>
+          <span class="muted" id="office-updated"></span>
+          <button type="button" id="office-refresh" class="btn ghost small">새로고침</button>
+        </div>
+
+        <div id="office-body"></div>
+        <p class="footnote">발송 시각이 <span id="office-late"></span>분 지나도록 메일이 나가지 않으면 '지연'으로 표시합니다. 카드를 누르면 그 에이전트의 대시보드로 이동합니다. 30초마다 자동으로 갱신됩니다.</p>
       </section>
 
       <!-- 실행 기록 -->
@@ -363,6 +399,7 @@
     </main>
   </div>
   <script src="incidents.js"></script>
+  <script src="office.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

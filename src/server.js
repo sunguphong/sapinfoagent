@@ -137,6 +137,45 @@ async function sendTestMail(agent, to) {
   return { id, to: target.split(",").map((s) => s.trim()).filter(Boolean), file: latest, agent: agent.id };
 }
 
+// ---------- 에이전트 오피스: 모든 에이전트의 오늘 근무 상태 ----------
+// 상태: working(실행 중) · sent(오늘 발송 완료) · error(오늘 실행 오류, 미발송) · late(발송 시각 20분 지나도록 미발송)
+//      · waiting(발송 시각 전) · off(쉬는 날 — 증시는 일요일, briefing.yml 의 월~토 예약·watchdog.ps1 과 맞춤)
+const LATE_MIN = 20;
+const localYmd = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+const isOffDay = (agent, d = new Date()) => agent.id === "stock" && d.getDay() === 0;
+function officeAgent(agent, now = new Date()) {
+  const runs = readRuns(agent), today = localYmd(now);
+  const todays = runs.filter((r) => r.date === today);
+  const sent = todays.filter((r) => r.mailId && r.status === "success").slice(-1)[0] || null;
+  const lastRun = runs.filter((r) => r.status !== "running").slice(-1)[0] || null;
+  const running = runningRun(agent) || null;
+  const [h, m] = String(agent.schedule || "07:00").split(":").map(Number);
+  const due = new Date(now); due.setHours(h, m, 0, 0);
+  const todayErr = todays.filter((r) => r.status === "error").slice(-1)[0] || null;
+  let status;
+  if (running) status = "working";
+  else if (sent) status = "sent";
+  else if (isOffDay(agent, now)) status = "off";
+  else if (todayErr) status = "error";
+  else if (now - due > LATE_MIN * 60 * 1000) status = "late";
+  else status = "waiting";
+  // 최근 7일 발송 여부 (오늘 포함, 오래된 날부터)
+  const week = Array.from({ length: 7 }, (_, i) => {
+    const d = new Date(now); d.setDate(d.getDate() - (6 - i));
+    const ymd = localYmd(d);
+    return { date: ymd, sent: runs.some((r) => r.date === ymd && r.mailId && r.status === "success"), off: isOffDay(agent, d) };
+  });
+  return {
+    ...pubAgent(agent), status, due: due.toISOString(), next: nextScheduled(agent.schedule),
+    running: running && { id: running.id, source: running.source, mode: running.mode, startedAt: running.startedAt },
+    sent: sent && { id: sent.id, source: sent.source, mailSentAt: sent.mailSentAt, picked: sent.picked, fetched: sent.fetched, base: sent.base, feedErrors: sent.feedErrors || [] },
+    lastRun: lastRun && { id: lastRun.id, status: lastRun.status, source: lastRun.source, startedAt: lastRun.startedAt, finishedAt: lastRun.finishedAt, error: lastRun.error || null },
+    todayError: todayErr && { id: todayErr.id, error: todayErr.error || null, at: todayErr.finishedAt || todayErr.startedAt },
+    todayRuns: todays.length, week,
+    recipients: (agent.mailTo || process.env.MAIL_TO || "").split(",").map((s) => s.trim()).filter(Boolean).length,
+  };
+}
+
 function nextScheduled(time = "06:55") {
   const [h, m] = time.split(":").map(Number);
   const d = new Date(); d.setHours(h, m, 0, 0);
@@ -264,6 +303,7 @@ const server = http.createServer(async (req, res) => {
     }
     // ---------- API ----------
     if (p === "/api/agents") return json(res, 200, listAgents().map(pubAgent));
+    if (p === "/api/office") return json(res, 200, { agents: listAgents().map((a) => officeAgent(a)), lateMinutes: LATE_MIN, now: new Date().toISOString() });
     if (p === "/api/status") {
       const runs = readRuns(agent);
       const mailTo = (agent.mailTo || process.env.MAIL_TO || "").split(",").map((s) => s.trim()).filter(Boolean);

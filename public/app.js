@@ -1,5 +1,5 @@
 // sapinfoagent 관리 웹 프론트엔드 (의존성 없음)
-// 대시보드·실행 기록·발송 메일은 사이드바에서 고른 에이전트(AGENT) 기준으로 보이고, 환경설정·장애 기록은 공통이다.
+// 대시보드·실행 기록·발송 메일은 사이드바에서 고른 에이전트(AGENT) 기준으로 보이고, 에이전트 오피스·환경설정·장애 기록은 공통이다.
 const $ = (s, el = document) => el.querySelector(s);
 const $$ = (s, el = document) => Array.from(el.querySelectorAll(s));
 const api = async (url, opt) => { const r = await fetch(url, opt); const ct = r.headers.get("content-type") || ""; return ct.includes("json") ? r.json() : r.text(); };
@@ -77,13 +77,16 @@ async function loadAgents() {
   const sel = $("#agent-select");
   sel.innerHTML = AGENTS.map((a) => `<option value="${esc(a.id)}">${esc(a.name)}</option>`).join("");
   sel.value = AGENT;
-  sel.addEventListener("change", () => {
-    AGENT = sel.value; try { localStorage.setItem("agent", AGENT); } catch {}
-    applyAgentLabels();
-    $("#run-log-panel").classList.add("hidden"); $("#run-result").classList.add("hidden"); watchingRunId = null;
-    if ((location.hash || "").startsWith("#mails/")) location.hash = "#mails"; else route();
-  });
+  sel.addEventListener("change", () => selectAgent(sel.value));
   applyAgentLabels();
+}
+// 에이전트를 바꾸고 화면을 다시 그린다. goto 를 주면 그 화면으로 이동 (예: 에이전트 오피스 카드 → "#dashboard")
+function selectAgent(id, goto) {
+  AGENT = id; $("#agent-select").value = id; try { localStorage.setItem("agent", AGENT); } catch {}
+  applyAgentLabels();
+  $("#run-log-panel").classList.add("hidden"); $("#run-result").classList.add("hidden"); watchingRunId = null;
+  if (goto && location.hash !== goto) location.hash = goto;
+  else if ((location.hash || "").startsWith("#mails/")) location.hash = "#mails"; else route();
 }
 function applyAgentLabels() {
   const a = agentObj();
@@ -102,8 +105,9 @@ function showView(name) {
   if (name === "mails") loadMails();
   if (name === "settings") loadSettings();
   if (name === "incidents") loadIncidents();
+  if (name === "office") loadOffice();
 }
-function route() { const h = (location.hash || "#dashboard").slice(1).split("/"); if (h[0] === "mails" && h[1]) pendingMail = h[1]; showView(["dashboard", "runs", "mails", "incidents", "settings"].includes(h[0]) ? h[0] : "dashboard"); }
+function route() { const h = (location.hash || "#dashboard").slice(1).split("/"); if (h[0] === "mails" && h[1]) pendingMail = h[1]; showView(["dashboard", "office", "runs", "mails", "incidents", "settings"].includes(h[0]) ? h[0] : "dashboard"); }
 window.addEventListener("hashchange", route);
 
 // ---------- 대시보드 (오늘자 판) ----------
