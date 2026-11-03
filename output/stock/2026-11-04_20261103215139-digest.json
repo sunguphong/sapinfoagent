@@ -1,0 +1,212 @@
+{
+  "overview": "■ 전날 미국 증시\n3일(현지시간) 뉴욕증시는 중간선거 당일 혼조로 마감했습니다. 나스닥은 0.83%(207포인트) 올라 3거래일 연속 하락을 끊었고, 다우는 애플 약세 여파로 0.38% 내렸습니다. S&P500 등락률은 수집된 기사에서 확인되지 않았습니다. 엔비디아·AMD 등 반도체주가 저가 매수세로 반등하며 필라델피아 반도체지수(SOX)가 2.63% 뛰었고, AMD는 데이터센터 매출이 두 배 가까이 늘면서 실적 발표 후 7% 급등했습니다. 반면 애플은 고평가 논란 속에 하락했습니다. 강한 고용지표와 선거 여론조사 영향으로 미 국채금리가 오르며 10년물이 다시 5% 선에 다가섰고, 달러와 유가 흐름은 기사에서 따로 확인되지 않았습니다.\n\n■ 오늘 국내 증시 전망\n전날 코스피는 외국인이 1조5000억원 규모를 순매도하면서 210포인트(약 3%) 급락해 5640선으로 밀렸습니다. 오늘은 미국 반도체지수 2.6% 반등과 AMD 호실적 덕분에 반도체 중심의 기술적 반등을 시도할 가능성이 우세합니다. 다만 미 10년물 금리가 5%에 근접해 외국인 수급 부담이 이어질 수 있고, 장중 미국 중간선거 결과가 잇따라 발표돼 변동성이 커질 수 있어 반등 폭은 제한적일 수 있습니다. 주목할 업종은 삼성전자·SK하이닉스 등 반도체와 AI 서버 밸류체인이고, 애플 약세에 따른 부품주 부담과 스텔란티스 급락에 따른 자동차주 심리도 함께 살펴야 합니다. 환율과 야간선물의 구체적 수치는 수집된 기사에 없어 개장 전 별도로 확인하시길 권합니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "[뉴욕마감] 반도체주 저가 매수에 나스닥 0.83% 상승…애플 약세에 다우 하락",
+          "summary": "중간선거 당일 뉴욕증시는 혼조로 마감했습니다. 반도체주에 저가 매수세가 들어오며 나스닥이 0.83% 올랐지만, 애플 하락 탓에 다우는 0.38% 내렸습니다.",
+          "why": "미국 기술주와 반도체가 반등하면서 전날 급락한 코스피 반도체 대형주의 반등 시도에 우호적인 환경이 만들어졌습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[뉴욕마감] 반도체주 저가 매수에 나스닥 0.83%↑…애플 약세에 다우 하락 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ROUZ1elNOSjhGQUF6Z1ZCWkNvcElBVWdkLWNqZ3hwRkRoclYyVDRVVTNxeFBOTGp3VDJOaEF1UU9LWTV2WEtlOFdrNGR2Y1BueWt4aUZwazZ6di1hRTAwZ3Q1cG5Mblk?oc=5",
+            "published": "2026-11-03T21:37:27.000Z",
+            "snippet": "[뉴욕마감] 반도체주 저가 매수에 나스닥 0.83%↑…애플 약세에 다우 하락 뉴스1"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "나스닥 3일 연속 하락 마감, 필라델피아 반도체지수 2.6% 상승…반도체주 강한 반등",
+          "summary": "나스닥이 3거래일 연속 하락을 마무리했고, 필라델피아 반도체지수(SOX)는 2.6% 올라 반도체 업종 전반이 강하게 반등했습니다. 비상장 기업인 SpaceX의 가치 평가도 3.6% 올랐습니다.",
+          "why": "SOX 반등은 SK하이닉스·삼성전자 등 국내 메모리주와 반도체 소부장 업종의 투자심리 개선으로 이어질 가능성이 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Nasdaq Snaps Three-Day Losing Streak, SOX Rises 2.6%; Chip Stocks Rebound Strongly, SpaceX Gains 3.6% - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhZMGF1dDlUN1lTMjZtMFlNNmZveEtiQmZqUU9YVnQ0SS1KTlg5UHcwQXE3WnRiQmJVYUV1OTk3T2ZIYUdqV2tobzgtM3AzUFRhdjRrdEh3RDNaYUtRQU9CRHJZR1A1VHpFS2hSLTdkdF9KNmVFcHN5Unc3cktfc2VYcW1NRjRpQm9SczYtdmt1WTlEY3I1UkNrdzVxN2UtczhyTG9LM3IzRDhuSEZDanY3ZHhTelFrbHRRb2VVVWNHU3lG?oc=5",
+            "published": "2026-11-03T21:26:03.000Z",
+            "snippet": "Nasdaq Snaps Three-Day Losing Streak, SOX Rises 2.6%; Chip Stocks Rebound Strongly, SpaceX Gains 3.6% TradingKey"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "애플 주가 하락, 메타 회사채 조달 비용 상승",
+          "summary": "애플 주가가 하락해 다우지수를 끌어내렸습니다. 메타는 AI 투자 확대에 따른 차입 부담으로 회사채 조달 비용이 오르고 있다는 분석이 나왔습니다.",
+          "why": "애플 약세는 LG이노텍 등 국내 애플 부품주에 부담이 될 수 있고, 빅테크 자금조달 비용 상승은 AI 설비투자 지속성 논란으로 번질 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Apple Shares Slip, Meta Debt Costs Rise - WSJ",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGhjbGhSUVc1TVpmNDVMOFNtMUgzUldVeFFkc0cwNlc4emk1R3M1TWZJSEs3VGdUYmVZM3loemdPd1RKM1NZYjB3VWRWUm1adWppSXhCM2YyYlF5RnpEMFRlYkQ5LV9NcUk1Q2R3ZEhPRndPZ2tkVVZyQm5mQWdIUDdKMmh3aEJFbUE?oc=5",
+            "published": "2026-11-03T21:21:00.000Z",
+            "snippet": "Apple Shares Slip, Meta Debt Costs Rise WSJ"
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "애플 주가 '극단적 고평가' 상태…애널리스트들 매출 성장 둔화 전망",
+          "summary": "일부 애널리스트는 애플 주가가 극단적인 고평가 구간에 있다고 지적했습니다. 앞으로 매출 성장률이 둔화될 것으로 보고, 이것이 전날 주가 약세의 배경으로 거론됐습니다.",
+          "why": "애플 밸류에이션 부담이 이어지면 국내 카메라 모듈·디스플레이 등 아이폰 공급망 종목의 상승 탄력은 제한될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Apple Stock at ‘Extreme Overvaluation’: Analysts See Slowing Revenue Growth - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2NIYlpFbU4td2paT0lQVzY2U3p4OTBGeWt5YW9URmxzTWFhNnZOU2Z5TGVJTWR4cElMU2ZKSXpyYzdVOUNBdE9zekF0eHpEX09wdmIxc2ZBdTFkR3B0WURaT29CQWNfS3lxREN4a0JoYjI2Rlpsc2RGTUo2VVVCNnV0d0dfWlVHa2x3MGFZcHNzVDB0NXlXWk1ZY09MSjNWSVMtbS1ndnRSVVh5N292V0tvU21yOEtVRk8ybjd0ZEhpQ2RaQnFId2hFQWxueEQ3RDdTY3NqOTRKeE5mc0lzRWFn?oc=5",
+            "published": "2026-11-03T18:58:07.000Z",
+            "snippet": "Apple Stock at ‘Extreme Overvaluation’: Analysts See Slowing Revenue Growth Benzinga"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 36,
+          "title_ko": "강한 고용지표·중간선거 여론조사 영향에 미 국채금리 상승…10년물 다시 5% 넘보나",
+          "summary": "예상보다 강한 고용지표와 중간선거 여론조사 결과가 겹치면서 미 국채금리가 올랐습니다. 10년물 금리는 다시 5% 선 돌파를 시도하고 있습니다.",
+          "why": "미 장기금리가 5%에 근접하면 달러 강세와 외국인 자금 유출 압력이 커져 코스피 성장주와 바이오 등 금리 민감 업종에 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaWJqbzZnRWM1QTRFa280UklKb1A5NVpTQ2lPTFZ6WGNXR25WcktSU203QWNiMXRMNHRDMy1iNUVEaXNNSnRJeTEtRXZtYmtYZWl4TVRGN3VXa05MTzYxX0d6a09DZTk4cnhfTUJlLTJCdHk0dUw1UUhYVUVIWUNwTTRtSnhiUlBDU0Fja3BxMkhhZVhBdGprRERlNzR2QWlpR2RzRW8wckpvMF94R0N6SExac3Y2STRtUmVvSXdLNlBNZmxlVUozWTYwbU9BaHRLTDRCQTVWUFJGbHFsSk5HVnlIZkNLODhMdldTVWp2UkFDQdIBiAJBVV95cUxQV3JxVjFfNWEwYkVCQ2FpdVZiQ1FRTUtxbVhTQ3JaRmVLSWlRbEsxb2M2WlRrVHl3eWhRbXljNmtIV1JOWS1wQklaSC1HaGhVUTF0QUV2VEpaRU5xdzN6V3d5NGNFZU53RW5YX2JRakVhUDNWQ2gzOG5KUXBxWXVPX0xLYUM0RkRBcHd5SXFiVXFveDN5YV9Qd1BPYlFsa0JGbGc5aHEzcFlKZTExZG40MnRKRVFPejFacjB5X2ZHb2hmWWppeDJ0dEN1SnFvdGJFNXhUYUFSUWpXUkNHNVdqY1B1Ul9jUzVGUUM1a3lBU1ZrZmNoTzhhWEkzN2xRQlV3R3JyNzU1Q0U?oc=5",
+            "published": "2026-11-03T20:31:00.000Z",
+            "snippet": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again The Economic Times"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 증시 전망",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "코스피 210포인트 폭락해 5600선으로 후퇴…외국인 1조5000억원 '매도 폭탄'",
+          "summary": "전날 코스피는 외국인이 약 1조5000억원을 순매도하면서 210포인트(약 3%) 급락해 5640선에서 마감했습니다. 기관도 매도에 동참해 낙폭이 커졌습니다.",
+          "why": "급락 이후 미국 반도체 반등이 맞물려 오늘은 기술적 반등 가능성이 우세하지만, 외국인 매도가 이어지는지가 반등 강도를 가를 핵심 변수입니다.",
+          "article": {
+            "source": "Google News 외국인 수급·환율 (KR)",
+            "title": "코스피 210포인트 폭락, 5600선으로 후퇴…외국인 1조5000억 '매도 폭탄' - 지이코노미",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fbENOZGFuT2kxdmh2TGtkNHpVVVFvbW4wT1JYbnBDU054SU93bTVsWHJVOXhEajNsWDl3U2xlQUk1MXJNUFhOU0RjT0o1YXNELU5tTDBnUnlsbVBsbnFHTjh2S2EtQkk?oc=5",
+            "published": "2026-11-03T19:45:46.000Z",
+            "snippet": "코스피 210포인트 폭락, 5600선으로 후퇴…외국인 1조5000억 '매도 폭탄' 지이코노미"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "코스피 오른다면서 \"주식은 팔라\"는 증권가…내년 하반기 경계감 커져",
+          "summary": "증권가는 코스피의 추가 상승 여지를 인정하면서도 비중 축소를 권하는 등 엇갈린 신호를 내고 있습니다. 내년 하반기 이후 경기와 실적 둔화에 대한 경계감이 커지고 있다는 분석입니다.",
+          "why": "중장기 고점 논란이 남아 있어 단기 반등이 나와도 차익실현 매물이 빠르게 출회될 수 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "코스피 오른다면서 “주식은 팔라”는 증권가⋯내년 하반기 경계감↑ - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ENEdrU1pJaVZmblJSUUhJYnRUYU1KcFAxQnVfdm83ZXFpSldqSG55bk42Y1dncTEwMWhuZk9peFBLYW1yRm0tU1VRQ3l1dGlmaVRSQQ?oc=5",
+            "published": "2026-11-03T21:00:00.000Z",
+            "snippet": "코스피 오른다면서 “주식은 팔라”는 증권가⋯내년 하반기 경계감↑ 이투데이"
+          }
+        },
+        {
+          "index": 48,
+          "title_ko": "엇갈린 내년 코스피 전망…NH '상고하저' vs 한국투자 '상저하고'",
+          "summary": "NH투자증권은 내년 코스피가 상반기에 강하고 하반기에 약한 '상고하저' 흐름을, 한국투자증권은 반대로 '상저하고' 흐름을 예상했습니다. 증권사 간 경기와 금리 경로에 대한 시각차가 큽니다.",
+          "why": "전망이 엇갈리는 만큼 당분간 지수는 방향성보다 수급과 대외 변수에 따라 크게 흔들릴 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "엇갈린 내년 코스피 전망…NH '상고하저' vs 한투 '상저하고' - 뉴스드림",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42M1o3REJLRVZzYzIwcmg4VndaNWpjVVBCRzBCLV8tRFN0YmxtN0cycWhaS2Z1cWYybVpnODg0bThqQVBzbEUzR01RXzBaMHRoNkxKWWlyVFlTSVQ0SExaa0RINEtFMXpSUFRr0gFuQVVfeXFMTVVNR1BvU2JLY2ZaMDB5X1RxWUMtNHNmUXZDbWs2eGR1al9PeVgwRTdfcGsxM2hERFU2YU5rUXVxRmtXcUg1ZmJ2T2pjRy1aZHl5SGIxbDhTV1EzTlBZWHBacTZnN092RTdCQ0JOUGc?oc=5",
+            "published": "2026-11-03T06:55:21.000Z",
+            "snippet": "엇갈린 내년 코스피 전망…NH '상고하저' vs 한투 '상저하고' 뉴스드림"
+          }
+        },
+        {
+          "index": 46,
+          "title_ko": "\"코스피 8500 간다\"…증권가, 내년 상반기 반등에 베팅",
+          "summary": "일부 증권사는 현재 5600선인 코스피가 내년 상반기 8500까지 반등할 수 있다고 전망했습니다. 반도체 실적 개선과 주주환원 정책 기대가 근거로 제시됐습니다.",
+          "why": "중장기 낙관론은 급락 구간에서 저가 매수 심리를 지지해 하방을 제한하는 요인이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "\"코스피 8500 간다\"…증권가, 내년 상반기 반등 베팅 - 서울경제TV",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tVU9tU2xoLV9ENjhqNEY0YlR1RXl6X2FzX2c2allYeW1FajRmZThoSnRPcHphUUJMWjJ5ZzVobEFFUVJ4Unl6OTNNVDBzdWRJVkFwdU1DUG52Wkk3bjE4VTZiakI?oc=5",
+            "published": "2026-11-03T08:56:50.000Z",
+            "snippet": "\"코스피 8500 간다\"…증권가, 내년 상반기 반등 베팅 서울경제TV"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "AMD, 데이터센터 매출 두 배 가까이 늘며 실적 발표 후 주가 7% 급등",
+          "summary": "AMD는 데이터센터 매출이 전년 대비 두 배 가까이 늘어난 실적을 발표했습니다. 다음 분기 매출 전망도 시장 예상을 웃돌면서 주가가 7% 급등했습니다.",
+          "why": "AI 데이터센터 수요가 견조하다는 점이 확인돼 HBM을 공급하는 SK하이닉스·삼성전자 등 국내 메모리주에 긍정적인 재료가 될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5",
+            "published": "2026-11-03T21:17:55.000Z",
+            "snippet": "AMD stock jumps 7% on earnings as data center revenue nearly doubles CNBC"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "일본 키옥시아도 실적 둔화 우려 커졌지만…증권가 \"삼성전자·SK하이닉스 역사적 저평가\"",
+          "summary": "일본 낸드 업체 키옥시아의 실적 둔화 우려가 커지면서 메모리 업황에 대한 경계가 나오고 있습니다. 그러나 국내 증권가는 삼성전자와 SK하이닉스 주가가 역사적 저평가 구간에 있다고 평가했습니다.",
+          "why": "업황 우려와 저평가 논리가 맞서고 있어 국내 반도체주는 미국 반도체지수 반등에 연동된 단기 회복 시도가 나올 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "日 키옥시아도 실적둔화 우려 커졌지만…증권가 \"삼전·닉스 역사적 저평가\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRM3NWS2pvOW4wMzd2SFJ5SmtmZDlEVFN3eWdVSC1iRUZrdWhkMkVhZ3NPN1FleDVNTXBYdXVNTG5PWlFvUjRnSzBTZEZISW93eWM5aVRZeVhOdDJIdzY2WtIBeEFVX3lxTE1EQlRnckZDMG9lbWlaZzNFa1dON0FRTzZHMnRyRTFheUdHUWpta21kRkpFbkpJTFp0M01WMVRjRTc3ZktTWEJDNVUweHFZX2s1Zlc0QmJ1V3pzQ1FwLTV2ak1WRHliZFVFZmVkaklVVUF0b29GTmhFVw?oc=5",
+            "published": "2026-11-03T21:00:00.000Z",
+            "snippet": "日 키옥시아도 실적둔화 우려 커졌지만…증권가 \"삼전·닉스 역사적 저평가\" 뉴시스"
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "SpaceX-테슬라 합병 시 머스크 보상안: 의결권 확보, 1조 달러 보상은 없어",
+          "summary": "SpaceX와 테슬라가 합병할 경우 일론 머스크는 약 56%의 의결권을 확보하게 되지만, 1조 달러 규모의 성과 보상은 받지 못하는 구조로 분석됐습니다. 합병 논의가 테슬라 지배구조의 주요 변수로 떠올랐습니다.",
+          "why": "테슬라를 둘러싼 지배구조 이슈는 LG에너지솔루션 등 국내 2차전지 공급망 종목의 투자심리에 변동성 요인이 될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​ - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenlkU0tVOVBzcm1oVTFKMjNPUVlJY25RNjBfUXo5OGFPeWg2S01zM0lTa3ZXa216UjhPTVlXdzU1RXU4aWtJVnZ4cmJQX19xV1M1NG5HbWFLYm9ReUp0VUFBMThuS1JHMzJRZGxLZnNmNVlCb0lOQ2tfamowMU9TRnRLZ2l1X1I0Qkk5YWotZ1pIeXVyNHp0MEZ3V2h4ZVpmX2lXMlRqbHlTaU1VQUd1N1NKa3lNa25hdXZuSlBTNUZLVDJfUU1CTE1n?oc=5",
+            "published": "2026-11-03T20:34:40.000Z",
+            "snippet": "Musk’s pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday​ Reuters"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "스텔란티스, 뉴욕증시서 5% 넘게 하락 마감",
+          "summary": "글로벌 완성차 업체 스텔란티스 주가가 뉴욕증시에서 5% 넘게 하락했습니다. 완성차 업종 전반의 실적과 수요 우려가 반영된 것으로 풀이됩니다.",
+          "why": "글로벌 완성차주 약세는 현대차·기아 등 국내 자동차와 부품주의 투자심리에 부담으로 작용할 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "스텔란티스, 뉴욕 증시서 5% 넘게 하락 마감 : 기업주식정보 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kZGl0QTVOYktaWkRoZGExdlJOZFFYYjlocHI1ZURSV1k1Q2RtMFd6UzV4WmtYQTdvbG5uUzRtek1oMjlQdVpiZGJDOA?oc=5",
+            "published": "2026-11-03T21:21:00.000Z",
+            "snippet": "스텔란티스, 뉴욕 증시서 5% 넘게 하락 마감 : 기업주식정보 재경일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "오늘의 일정·이벤트",
+      "items": [
+        {
+          "index": 47,
+          "title_ko": "코스피 개장 시간에 미국 중간선거 결과 잇따라 발표…증권가 관전 포인트는",
+          "summary": "미국 중간선거 개표 결과가 한국 시각으로 오늘 코스피 장중에 잇따라 나올 예정입니다. 증권가는 상·하원 다수당 구도에 따른 재정·관세·산업 정책 변화를 핵심 관전 포인트로 꼽았습니다.",
+          "why": "선거 결과에 따라 2차전지·신재생·방산 등 미국 정책 민감 업종과 환율이 장중 크게 출렁일 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "코스피 개장 때 美 선거결과 우르르…증권가 관전포인트는 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IU3d2WFVZam5YSGtGa2FQWmhDcHBoZl9sWmxRdlV4d3poTWl6a21RWFV5MTdoeENFMUZaalVONnRSa19yeXBkMzFLTDBRTm5mNzhudjlzSzVOd3p5SkY1eF9YQWpUYjdE0gFuQVVfeXFMTmFXV1hZTlhQRW12ZzVkNWlaaGd0TkcyTGR5SWhtT2R5Qkllb0lLVUJEdmtIaUttUkRyTEhFX2ZQcXNfdjR6a19QaUlfVGFqUDI1c3hLeEhGZ3NwbEtrT2tUQUhsZklHNGN0SV9yWVE?oc=5",
+            "published": "2026-11-03T07:16:01.000Z",
+            "snippet": "코스피 개장 때 美 선거결과 우르르…증권가 관전포인트는 - 머니투데이 머니투데이"
+          }
+        }
+      ]
+    }
+  ]
+}
