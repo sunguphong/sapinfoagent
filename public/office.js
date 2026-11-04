@@ -10,7 +10,8 @@ const OFFICE_STATUS = {
   off: { label: "휴무", cls: "neutral", order: 5 },
 };
 const OFFICE_DONE = new Set(["sent", "off"]);   // '완료 포함'을 끄면 숨기는 상태
-const OFFICE_MONO = { sap: "SAP", realestate: "부동", stock: "증시", skincare: "피부", "sapmm-jobs": "MM", ces: "CES", smallbiz: "소상" };
+const OFFICE_MONO = { sap: "SAP", realestate: "부동", stock: "증시", skincare: "피부", "sapmm-jobs": "MM", ces: "CES", smallbiz: "소상", supervisor: "총괄" };
+const isChief = (a) => a.kind === "supervisor";   // 총괄 에이전트: 매일 다른 에이전트를 점검해 보고 메일을 보냄
 let officeData = null, officeView = "cards", officeDone = true, officeTimer = null;
 try { officeView = localStorage.getItem("officeView") || "cards"; officeDone = localStorage.getItem("officeDone") !== "0"; } catch {}
 
@@ -26,21 +27,22 @@ async function loadOffice() {
 // 에이전트 한 명의 지금 상태를 한 줄로
 function officeLine(a) {
   if (a.status === "working") return `${SRC[a.running.source] || a.running.source} 실행 · ${ago(a.running.startedAt)} 시작`;
+  if (a.status === "sent" && isChief(a)) return `${fmtT(a.sent.mailSentAt)} 점검 보고 · ${a.sent.checked ?? "?"}명 점검 · ${a.sent.issues ? `확인 필요 ${a.sent.issues}건` : "이상 없음"}`;
   if (a.status === "sent") return `${fmtT(a.sent.mailSentAt)} 발송 · ${a.sent.picked ?? "?"}건 선별 · ${SRC[a.sent.source] || a.sent.source || ""}`;
   if (a.status === "error") return `${fmtT(a.todayError.at)} 오류 · ${a.todayError.error || "로그 확인"}`;
   if (a.status === "late") return `${a.schedule} 예정 · ${ago(a.due).replace(" 전", "")} 지남, 아직 미발송`;
   if (a.status === "off") return "오늘은 쉬는 날";
-  return `${a.schedule} 발송 예정 · ${until(a.due)}`;
+  return `${a.schedule} ${isChief(a) ? "점검" : "발송"} 예정 · ${until(a.due)}`;
 }
 
 function officeCard(a) {
   const s = OFFICE_STATUS[a.status];
   const warns = a.sent?.feedErrors?.length ? `<div class="oc-warn" title="${esc(a.sent.feedErrors.join("\n"))}">수집 경고 ${a.sent.feedErrors.length}건</div>` : "";
   return `
-    <button type="button" class="oc st-${a.status}" data-agent="${esc(a.id)}" title="${esc(a.name)} 대시보드 열기">
+    <button type="button" class="oc st-${a.status}${isChief(a) ? " chief" : ""}" data-agent="${esc(a.id)}" title="${esc(a.name)} 대시보드 열기">
       <div class="oc-top">
         <span class="oc-avatar">${esc(OFFICE_MONO[a.id] || a.name.slice(0, 2))}<i class="oc-light"></i></span>
-        <span class="oc-name">${esc(a.name)}<span class="oc-time">매일 ${esc(a.schedule)}</span></span>
+        <span class="oc-name">${esc(a.name)}<span class="oc-time">${isChief(a) ? `매일 ${esc(a.schedule)} 전체 점검 · 보고 메일` : `매일 ${esc(a.schedule)}`}</span></span>
         <span class="ostat ${s.cls}">${s.label}</span>
       </div>
       <div class="oc-line">${esc(officeLine(a))}</div>
@@ -55,15 +57,16 @@ function officeCard(a) {
 // 평면도: 발송 시각이 같은 에이전트끼리 한 방을 쓴다
 function officeFloor(list) {
   const rooms = new Map();
-  for (const a of list.slice().sort((x, y) => x.schedule.localeCompare(y.schedule))) {
-    if (!rooms.has(a.schedule)) rooms.set(a.schedule, []);
-    rooms.get(a.schedule).push(a);
+  for (const a of list.slice().sort((x, y) => isChief(y) - isChief(x) || x.schedule.localeCompare(y.schedule))) {
+    const room = isChief(a) ? `총괄실 · ${a.schedule} 점검` : `${a.schedule} 발송실`;   // 총괄 에이전트는 따로 방을 쓴다
+    if (!rooms.has(room)) rooms.set(room, []);
+    rooms.get(room).push(a);
   }
   return `<div class="floor">${Array.from(rooms.entries()).map(([time, agents]) => `
-    <div class="room">
-      <div class="room-name">${esc(time)} 발송실 <span class="muted">${agents.length}석</span></div>
+    <div class="room${time.startsWith("총괄") ? " chief" : ""}">
+      <div class="room-name">${esc(time)} <span class="muted">${agents.length}석</span></div>
       <div class="desks">${agents.map((a) => `
-        <button type="button" class="desk st-${a.status}" data-agent="${esc(a.id)}" title="${esc(a.name)} · ${esc(OFFICE_STATUS[a.status].label)}">
+        <button type="button" class="desk st-${a.status}${isChief(a) ? " chief" : ""}" data-agent="${esc(a.id)}" title="${esc(a.name)} · ${esc(OFFICE_STATUS[a.status].label)}">
           <span class="desk-mon"><span class="oc-avatar sm">${esc(OFFICE_MONO[a.id] || a.name.slice(0, 2))}<i class="oc-light"></i></span></span>
           <span class="desk-name">${esc(a.name)}</span>
           <span class="ostat ${OFFICE_STATUS[a.status].cls}">${OFFICE_STATUS[a.status].label}</span>
@@ -106,7 +109,7 @@ function renderOffice() {
   $("#office-late").textContent = officeData.lateMinutes;
 
   const list = all.filter((a) => officeDone || !OFFICE_DONE.has(a.status))
-    .sort((x, y) => OFFICE_STATUS[x.status].order - OFFICE_STATUS[y.status].order || x.schedule.localeCompare(y.schedule));
+    .sort((x, y) => isChief(y) - isChief(x) || OFFICE_STATUS[x.status].order - OFFICE_STATUS[y.status].order || x.schedule.localeCompare(y.schedule));
   const body = $("#office-body");
   const view = !list.length
     ? `<div class="office-empty">오늘 할 일이 남은 에이전트가 없습니다. '완료 포함'을 켜면 발송을 마친 에이전트도 함께 보입니다.</div>`

@@ -1,12 +1,12 @@
 import nodemailer from "nodemailer";
 
-function esc(s = "") {
+export function esc(s = "") {
   return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
 // 메일 클라이언트는 CSS 변수·웹폰트·반투명 효과를 지원하지 않으므로 인라인 스타일만 쓴다.
 // 관리 웹("Midnight Atelier")과 같은 톤: 차콜 헤더 + 샴페인 골드 마스트헤드, 아이보리 바탕의 카드.
-const C = {
+export const C = {
   page: "#f4f3ef", card: "#ffffff", line: "#e5e2da", lineSoft: "#eeebe4",
   ink: "#17191f", text: "#2b2f36", text2: "#5c6270", text3: "#8a8f99",
   gold: "#c8a55c", goldDeep: "#86682a", goldSoft: "#f6efdf", goldLine: "#e6d5a8",
@@ -18,7 +18,7 @@ const ACCENTS = {
   blue: { panel: "#dde8f6", panelLine: "#bccfe8", card: "#eaf1fb", line: "#c4d6ee", deep: "#2c5487", accent: "#4a78b5", soft: "#d4e2f5", softLine: "#b3c9e6" },
   green: { panel: "#dcf0e3", panelLine: "#b5dcc4", card: "#ebf7f0", line: "#c0e2cd", deep: "#1f6b45", accent: "#3f9a6c", soft: "#d1ebdb", softLine: "#acd7be" },
 };
-const FONT = "'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif";
+export const FONT ="'Pretendard', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif";
 
 // digest(요약 JSON) → 메일 HTML. 제목·안내문은 에이전트 설정(mailTitle, note)에서 받는다.
 // 채용공고 카드의 회사 정보 줄 (article.companyInfo 가 있을 때만)

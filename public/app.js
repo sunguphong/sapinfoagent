@@ -350,7 +350,7 @@ async function loadSettings() {
   $("#set-tunnel-state").textContent = s.tunnel?.status === "connected" ? `현재 공개 주소: ${s.tunnel.url}` : "현재 외부 공개 터널이 연결되어 있지 않습니다.";
   const sched = $("#set-schedule-list");
   sched.innerHTML = `<table><thead><tr><th>에이전트</th><th>발송 시각</th><th>작업 스케줄러 이름</th><th>수집 소스</th><th>설정 파일</th></tr></thead><tbody>${(s.agents || []).map((a) => `
-    <tr><td class="wrap"><b>${esc(a.name)}</b><div class="muted">${esc(a.description)}</div></td><td class="t">매일 ${esc(a.schedule)}</td><td>${esc(a.task)}</td><td class="wrap">${a.feeds.length}개 (${a.feeds.map((f) => esc(f.name) + (f.keep ? ` <span class="muted">우선 ${f.keep}건</span>` : "")).join(", ")})</td><td><code>agents/${esc(a.id)}.json</code></td></tr>`).join("")}</tbody></table>`;
+    <tr><td class="wrap"><b>${esc(a.name)}</b><div class="muted">${esc(a.description)}</div></td><td class="t">매일 ${esc(a.schedule)}</td><td>${esc(a.task)}</td><td class="wrap">${a.kind === "supervisor" ? "수집 없음 · 다른 에이전트의 실행 기록(ci-state)을 점검" : `${a.feeds.length}개 (${a.feeds.map((f) => esc(f.name) + (f.keep ? ` <span class="muted">우선 ${f.keep}건</span>` : "")).join(", ")})`}</td><td><code>agents/${esc(a.id)}.json</code></td></tr>`).join("")}</tbody></table>`;
   labelTable(sched);
   $("#recip-test").textContent = `저장된 수신자에게 테스트 메일 (${agentObj().name})`;
   ["#recip-msg", "#smtp-msg", "#collect-msg", "#web-msg"].forEach((id) => $(id).classList.add("hidden"));

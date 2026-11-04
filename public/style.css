@@ -473,6 +473,12 @@ tbody tr.inc-ongoing { background: var(--err-bg); }
 .oc-week i { width: 9px; height: 9px; border-radius: 3px; background: var(--surface-3); }
 .oc-week i.on { background: var(--ok); }
 .oc-week i.off { background: transparent; border: 1px dashed var(--border-strong); }
+/* 총괄 에이전트: 맨 앞 한 줄 전체, 골드 테두리로 다른 에이전트와 구분 */
+.oc.chief { grid-column: 1 / -1; border-color: var(--accent-line); background: linear-gradient(135deg, var(--accent-soft), var(--surface) 60%); }
+.oc.chief .oc-avatar, .desk.chief .oc-avatar { color: var(--accent); background: var(--surface-solid); border: 1.5px solid var(--accent); }
+.room.chief { grid-column: 1 / -1; min-height: 0; background-color: var(--accent-soft); }
+.room.chief .room-name { color: var(--accent); }
+.desk.chief { width: 160px; border-color: var(--accent-line); }
 
 /* 평면도 보기 */
 .floor { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 0; border: 2px solid var(--border-strong); border-radius: var(--radius-l); overflow: hidden; background: var(--surface); }

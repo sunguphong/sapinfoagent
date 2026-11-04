@@ -7,6 +7,7 @@ import { addCompanyInfo } from "./jobs.js";
 import { loadHistory, addToHistory, attachHistory, saveHistory } from "./job-history.js";
 import { summarize } from "./summarize.js";
 import { renderHtml, sendMail } from "./mail.js";
+import { runSupervisor } from "./supervisor.js";
 import { ROOT, DEFAULT_AGENT, loadAgent, agentPaths } from "./agents.js";
 
 const envPath = path.join(ROOT, ".env");
@@ -59,6 +60,21 @@ async function main() {
 
   saveRun({ startedAt: today.toISOString(), date: stamp, source: SOURCE, mode, status: "running", log: path.basename(runLogPath), base });
   log(`run ${RUN_ID} start (agent=${AGENT_ID} "${agent.name}", source=${SOURCE}, mode=${mode})`);
+
+  // 총괄 에이전트: 수집·요약 대신 다른 에이전트의 오늘 실행 결과를 점검해 보고 메일을 만든다
+  if (agent.kind === "supervisor") {
+    const rep = await runSupervisor(agent, { log });
+    writeFileSync(path.join(OUT_DIR, `${base}-digest.json`), JSON.stringify(rep.digest, null, 2));
+    const htmlPath = path.join(OUT_DIR, `${base}.html`);
+    writeFileSync(htmlPath, rep.html);
+    log("html saved:", htmlPath);
+    saveRun({ checked: rep.checked, issues: rep.issues, picked: rep.issues, html: path.basename(htmlPath) });
+    if (DRY || COLLECT_ONLY) { log("dry-run: mail not sent"); return {}; }
+    const subject = `${agent.subjectPrefix} ${dateLabel} · ${rep.issues ? `확인 필요 ${rep.issues}건` : "이상 없음"} (발송 ${rep.sentN}/${rep.duty})`;
+    const id = await sendMail({ subject, html: rep.html, fromName: agent.fromName, to: mailTo });
+    log("mail sent:", id, "->", mailTo);
+    return { mailId: id, mailTo, mailSentAt: new Date().toISOString() };
+  }
 
   log(`collecting from ${agent.feeds.length} feeds...`);
   const { articles, errors, totalFetched, usedHours } = await collect({ feeds: agent.feeds, lookbackHours, maxArticles });

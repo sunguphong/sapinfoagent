@@ -8,6 +8,7 @@ import path from "node:path";
 import { sendMail } from "./mail.js";
 import { syncCi } from "./ci-sync.js";
 import { ROOT, DEFAULT_AGENT, loadAgent, listAgents, agentPaths, saveAgentMailTo } from "./agents.js";
+import { LATE_MIN, localYmd, isOffDay, dueAt } from "./status.js";
 
 const envPath = path.join(ROOT, ".env");
 if (existsSync(envPath)) process.loadEnvFile(envPath);
@@ -22,7 +23,7 @@ const readRuns = (agent) => { try { return JSON.parse(readFileSync(agentPaths(ag
 const json = (res, code, obj) => { res.writeHead(code, { "Content-Type": MIME[".json"], "Cache-Control": "no-store" }); res.end(JSON.stringify(obj)); };
 const readBody = (req) => new Promise((ok) => { let b = ""; req.on("data", (c) => (b += c)); req.on("end", () => { try { ok(JSON.parse(b || "{}")); } catch { ok({}); } }); });
 // 화면에 내려보내는 에이전트 요약 (프롬프트·피드 URL 등 상세는 제외)
-const pubAgent = (a) => ({ id: a.id, name: a.name, description: a.description || "", schedule: a.schedule, task: a.task, subjectPrefix: a.subjectPrefix, mailTitle: a.mailTitle, feeds: a.feeds.map((f) => ({ name: f.name, keep: f.keep || 0 })), mailTo: a.mailTo || process.env.MAIL_TO || "" });
+const pubAgent = (a) => ({ id: a.id, kind: a.kind || "briefing", name: a.name, description: a.description || "", schedule: a.schedule, task: a.task, subjectPrefix: a.subjectPrefix, mailTitle: a.mailTitle, feeds: a.feeds.map((f) => ({ name: f.name, keep: f.keep || 0 })), mailTo: a.mailTo || process.env.MAIL_TO || "" });
 
 // 실행 중 판정: 최근 20분 내 status=running 인 기록이 있으면 실행 중
 function runningRun(agent) {
@@ -140,17 +141,13 @@ async function sendTestMail(agent, to) {
 // ---------- 에이전트 오피스: 모든 에이전트의 오늘 근무 상태 ----------
 // 상태: working(실행 중) · sent(오늘 발송 완료) · error(오늘 실행 오류, 미발송) · late(발송 시각 20분 지나도록 미발송)
 //      · waiting(발송 시각 전) · off(쉬는 날 — 증시는 일요일, briefing.yml 의 월~토 예약·watchdog.ps1 과 맞춤)
-const LATE_MIN = 20;
-const localYmd = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-const isOffDay = (agent, d = new Date()) => agent.id === "stock" && d.getDay() === 0;
 function officeAgent(agent, now = new Date()) {
   const runs = readRuns(agent), today = localYmd(now);
   const todays = runs.filter((r) => r.date === today);
   const sent = todays.filter((r) => r.mailId && r.status === "success").slice(-1)[0] || null;
   const lastRun = runs.filter((r) => r.status !== "running").slice(-1)[0] || null;
   const running = runningRun(agent) || null;
-  const [h, m] = String(agent.schedule || "07:00").split(":").map(Number);
-  const due = new Date(now); due.setHours(h, m, 0, 0);
+  const due = dueAt(agent, now);
   const todayErr = todays.filter((r) => r.status === "error").slice(-1)[0] || null;
   let status;
   if (running) status = "working";
@@ -168,7 +165,7 @@ function officeAgent(agent, now = new Date()) {
   return {
     ...pubAgent(agent), status, due: due.toISOString(), next: nextScheduled(agent.schedule),
     running: running && { id: running.id, source: running.source, mode: running.mode, startedAt: running.startedAt },
-    sent: sent && { id: sent.id, source: sent.source, mailSentAt: sent.mailSentAt, picked: sent.picked, fetched: sent.fetched, base: sent.base, feedErrors: sent.feedErrors || [] },
+    sent: sent && { id: sent.id, source: sent.source, mailSentAt: sent.mailSentAt, picked: sent.picked, fetched: sent.fetched, checked: sent.checked, issues: sent.issues, base: sent.base, feedErrors: sent.feedErrors || [] },
     lastRun: lastRun && { id: lastRun.id, status: lastRun.status, source: lastRun.source, startedAt: lastRun.startedAt, finishedAt: lastRun.finishedAt, error: lastRun.error || null },
     todayError: todayErr && { id: todayErr.id, error: todayErr.error || null, at: todayErr.finishedAt || todayErr.startedAt },
     todayRuns: todays.length, week,

@@ -1,0 +1,15 @@
+{
+  "name": "총괄 에이전트",
+  "kind": "supervisor",
+  "order": 99,
+  "description": "매일 08:00 모든 에이전트의 오늘 실행 결과(발송 여부·지연·오류·수집 이상)를 점검해 보고 메일로 보냄",
+  "schedule": "08:00",
+  "task": "SAP Info Agent - Supervisor",
+  "subjectPrefix": "[총괄 점검]",
+  "mailTitle": "🧭 에이전트 일일 점검 보고",
+  "fromName": "총괄 Info Agent",
+  "mailTo": "upsan77@gmail.com",
+  "waitMinutes": 30,
+  "webUrl": "https://repaying-showing-gooey.ngrok-free.dev",
+  "feeds": []
+}

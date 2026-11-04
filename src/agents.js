@@ -14,7 +14,9 @@ export function loadAgent(id = DEFAULT_AGENT) {
   const file = path.join(AGENTS_DIR, `${id}.json`);
   if (!existsSync(file)) throw new Error(`에이전트 설정이 없습니다: agents/${id}.json`);
   const cfg = JSON.parse(readFileSync(file, "utf8"));
-  if (!Array.isArray(cfg.feeds) || !cfg.feeds.length) throw new Error(`agents/${id}.json 에 feeds 가 없습니다`);
+  // 총괄 에이전트(kind: "supervisor")는 수집하지 않고 다른 에이전트의 실행 결과를 점검한다 (src/supervisor.js)
+  if (cfg.kind === "supervisor") cfg.feeds = [];
+  else if (!Array.isArray(cfg.feeds) || !cfg.feeds.length) throw new Error(`agents/${id}.json 에 feeds 가 없습니다`);
   return { id, ...cfg };
 }
 
