@@ -1,0 +1,21 @@
+[
+  {
+    "id": "20261104104001",
+    "agent": "supervisor",
+    "startedAt": "2026-11-04T10:40:01.063Z",
+    "date": "2026-11-04",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261104104001.log",
+    "base": "2026-11-04_20261104104001",
+    "checked": 7,
+    "issues": 1,
+    "picked": 1,
+    "html": "2026-11-04_20261104104001.html",
+    "mailId": "<eebaf60e-6d8c-53bd-09e1-8715be6bd79c@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-04T10:40:04.177Z",
+    "finishedAt": "2026-11-04T10:40:04.177Z"
+  }
+]
