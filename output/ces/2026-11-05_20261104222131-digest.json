@@ -1,0 +1,116 @@
+{
+  "overview": "CES 2027 개막(2027년 1월 초, 라스베이거스)을 약 두 달 앞둔 시점으로, 참가 기업들의 전시 계획과 사전 공개 소식이 하나둘 나오고 있습니다. 오늘 가장 많이 보도된 소식은 엔비디아가 CES 2027에서 'RTX 5080 24GB'를 공개할 것이라는 유출 정보로, 단종된 RTX 5090을 대체하는 제품이 될 것이라는 관측이 나왔습니다. 국내에서는 삼성전자가 2년 연속 윈(Wynn) 호텔에 단독 전시관을 꾸린다는 소식이 전해지면서 차세대 로봇 공개 여부에 관심이 쏠립니다. 이 밖에 엣지 AI용 반도체 냉각, 수면 헬스케어 웨어러블, AI 사이버보안 투자 등 CES 2027의 주요 기술 흐름을 미리 보여주는 발표가 이어졌습니다.",
+  "categories": [
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "신뢰도 높은 유출자, CES 2027 엔비디아 지포스 RTX 50 신제품 계획 정리",
+          "summary": "엔비디아가 CES 2027에서 'GeForce RTX 5080 24GB'를 공개할 것이라는 유출 정보가 여러 매체를 통해 보도됐습니다. 이 제품은 단종된 RTX 5090의 자리를 대신할 것으로 보이며, 가격은 1,500달러 수준으로 거론됩니다. 다만 파트너사들이 아직 설계 키트를 받지 못해 실제 출시는 늦어질 수 있고, CES에서는 발표만 하고 실제 판매는 뒤로 미루는 '페이퍼 런칭'에 그칠 수 있다는 관측도 나옵니다.",
+          "why": "메모리 용량을 늘린 고급 GPU가 나오면 국내 PC·게이밍 시장의 가격과 수요는 물론, 그래픽 메모리를 공급하는 삼성전자·SK하이닉스에도 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Reliable leaker clarifies Nvidia's new GeForce RTX 50 GPU plan for CES 2027 - Notebookcheck",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0pRaDNLcDZvMjZJTEZNeURTVHFnbWljUzZ3N05sNnBtMkQtdVdhMW0xOVdWSXpnVXpReUFnRDJvSng3RUtaMFFCRHVHTk5YSWpfRHlVZnRqZ2xxYXZqTkcyZHYxMFRVV1dZbW1CWVYzWV9ld1pybWhaZW5fLXk1cWxlR3d6ZXlqQU9Wejh5dnBEekRwbFVjbk9kSUxEbUZfVlNPd1plUnQ5U0h1LTVRY0h5ZTNVTmxFLUxRaQ?oc=5",
+            "published": "2026-11-04T12:00:00.000Z",
+            "snippet": "Reliable leaker clarifies Nvidia's new GeForce RTX 50 GPU plan for CES 2027 Notebookcheck"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "삼성전자, 2년 연속 CES 단독 전시관 운영…차세대 로봇 공개 여부 주목",
+          "summary": "삼성전자가 CES 2026에 이어 CES 2027에서도 라스베이거스 윈(Wynn) 호텔에 단독 전시관을 운영합니다. 업계에서는 이 자리에서 삼성의 로봇 사업 성과와 차세대 로봇이 공개될지에 관심을 보이고 있습니다.",
+          "why": "삼성이 컨벤션센터 대신 호텔 단독 전시를 이어가는 것은 대중 관람보다 고객사·파트너 대상 비즈니스 미팅에 무게를 두는 전략으로, 로봇·AI 가전 분야에서 국내 업계의 전시 방향을 가늠해 볼 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성전자, 2년 연속 CES 단독전시관 연다…차세대 로봇 공개 여부 주목 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mRkpaR1ZZVjlNOE5jOXhLcFdXUDVtVVBJUVhDVW9jN2VrY2NsLTVRcVU3QVd4RXZMajJGV3NaZkZGWFpsVE5yVlh5THM3QWFKbEx6TGNRWXZOWmlsYVBUNjhqN1JDZkUwc1NoRlhXR2hjUl9vMk10UdIBeEFVX3lxTE5mRkpaR1ZZVjlNOE5jOXhLcFdXUDVtVVBJUVhDVW9jN2VrY2NsLTVRcVU3QVd4RXZMajJGV3NaZkZGWFpsVE5yVlh5THM3QWFKbEx6TGNRWXZOWmlsYVBUNjhqN1JDZkUwc1NoRlhXR2hjUl9vMk10UQ?oc=5",
+            "published": "2026-11-04T03:10:15.000Z",
+            "snippet": "삼성전자, 2년 연속 CES 단독전시관 연다…차세대 로봇 공개 여부 주목 뉴시스"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "현대차그룹, 모베드로 로봇 생태계 확대…국내 기업 3곳과 협력",
+          "summary": "현대차그룹이 CES 2022에서 처음 공개한 소형 모빌리티 로봇 플랫폼 '모베드(MobED)'를 중심으로 국내 기업 3곳과 협력해 로봇 생태계를 넓힙니다. CES에서 선보인 콘셉트가 실제 사업 협력 단계로 이어지고 있는 사례입니다.",
+          "why": "CES 출품작이 국내 협력사와의 사업화로 이어지면서 국내 로봇 부품·솔루션 기업에도 새로운 사업 기회가 생길 수 있습니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "현대차그룹, 모베드로 로봇 생태계 확대…국내 기업 3곳과 협력 - 서울경제TV",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kaUJfdVRUaWNQc0ZZOFlsTnE3dVdyWWpIRGxxOUZ6anNoTENaYUZxWC1sQUxxTUxQaUlHUjFlUGstVWdraXZtYm1QY2dZSlF1RmlqTGxJSndHZTR3NUNXX2RWbUo?oc=5",
+            "published": "2026-11-04T05:55:29.000Z",
+            "snippet": "현대차그룹, 모베드로 로봇 생태계 확대…국내 기업 3곳과 협력 서울경제TV"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신제품·기술 트렌드",
+      "items": [
+        {
+          "index": 45,
+          "title_ko": "xMEMS, CES 2027서 고체 냉각·오디오 기술로 엣지 AI 고도화 선보인다",
+          "summary": "MEMS 반도체 기업 xMEMS가 CES 2027에서 팬이 필요 없는 고체 방식 냉각 칩과 오디오 솔루션을 선보일 계획입니다. 스마트폰, 웨어러블 같은 소형 기기에서 엣지 AI를 구동할 때 생기는 발열 문제를 해결하는 것이 목표입니다.",
+          "why": "온디바이스 AI 기기가 얇아질수록 발열 관리가 중요해지는 만큼, 국내 스마트폰·웨어러블 제조사의 부품 선택에도 참고가 될 만한 기술입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "xMEMS Advances Edge AI with Solid-State Cooling and Audio at CES 2027 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQelFXWFhWRHlBcUhQS0h2UHZMT3ljbElPZl9VRDdRN3dta2xMMlJnS1dpRUZ2cnhLYk14VG9lZFNDZnNBZUtVOG5yQ2dVR3BLVENvZDhiUnYya2szbURTalZ3bnljeGt2d1FtOWc0M2lLTEQwU1lvdXd5eGRJQTc1SkZTSWFTTlh0QW5aNWRwQzNub3dTN2tr?oc=5",
+            "published": "2026-11-03T11:00:00.000Z",
+            "snippet": "xMEMS Advances Edge AI with Solid-State Cooling and Audio at CES 2027 Yahoo Finance"
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "왕텅의 ISHO, 스마트 링·침대 온도 조절 시스템 출시…CES 2027 전시 예정",
+          "summary": "중국 브랜드 ISHO가 수면 데이터를 측정하는 스마트 링과 이에 연동되는 침대 온도 조절 시스템을 출시했습니다. ISHO는 이 제품들을 CES 2027에서 전시할 계획입니다.",
+          "why": "수면 헬스케어 웨어러블 분야에서 중국 기업의 공세가 거세지면서, 갤럭시 링 등 국내 제품과의 경쟁도 한층 치열해질 전망입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Wang Teng's ISHO Launches Smart Ring and Bed Temperature System, Plans CES 2027 Showcase - Pandaily",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjZEdHpLR3BEMkxjSjZaNU1Cb0FUc1BlNVFEcjc5REktaDRlT0RybWVHTHJNa1JwN3dPR3ljQ2stbGl5aEpLUUZSQXpHeG04bkFQNEkweXRhOE5LcGFhSjhDLW9FcTJKSHppazNPM0NRMFYyOU9DOG9EWkpkRklJTw?oc=5",
+            "published": "2026-11-03T10:08:01.000Z",
+            "snippet": "Wang Teng's ISHO Launches Smart Ring and Bed Temperature System, Plans CES 2027 Showcase Pandaily"
+          }
+        },
+        {
+          "index": 49,
+          "title_ko": "[CES 2027 투자] AI 사이버보안, 새로운 글로벌 투자 시장으로 부상",
+          "summary": "CES 2027을 앞두고 AI 기반 사이버보안이 새로운 글로벌 투자 분야로 떠오르고 있다는 분석이 나왔습니다. AI 기기와 서비스가 늘어나면서 이를 지키는 보안 기술의 수요와 투자 관심도 함께 커지고 있다는 내용입니다.",
+          "why": "CES 현장에서 해외 투자자를 만나려는 국내 보안 스타트업에게 AI 보안이 주요 투자 테마가 될 수 있다는 신호입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[CES 2027 Investment] AI Cybersecurity Emerges as a New Global Investment Market - 데일리뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYkxZWjF6ZXdZTVluVG43cklXY2hfUnNSR2x2eVBrZGl5WWFOZzdTVTd1SzEtU0l3bkZVZE42eHlwTjBfeGxMT2ZFVGZOMmVBTXE1bWFaRHFKN19GbnVtUXdhVmRkNmhSNVJoS0dCM2tHdkxlRElvc1c2WkV4X2RuT21idlMtRFFyUnloUVQzOUVneUQ0QVlwb29NZ1d6b08wc2c?oc=5",
+            "published": "2026-11-03T09:01:37.000Z",
+            "snippet": "[CES 2027 Investment] AI Cybersecurity Emerges as a New Global Investment Market 데일리뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 21,
+          "title_ko": "CES에서 유럽까지 글로벌 무대 넓히는 AI 골프클럽 '지그립'",
+          "summary": "CES에서 AI 골프클럽을 선보였던 국내 스타트업 지그립이 이를 발판으로 유럽 시장까지 활동 범위를 넓히고 있습니다. CES 참가가 해외 판로 개척으로 이어진 사례로 소개됐습니다.",
+          "why": "CES 참가가 실제 해외 진출로 이어질 수 있음을 보여주는 사례로, CES 2027 참가를 준비하는 국내 스타트업에게 참고가 됩니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES에서 유럽까지, 글로벌 무대를 넓히다 AI 골프클럽 지그립 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFeGZuVFNjN1JCeF9aTmhNNHRfeFM3bWhScjNnbU5pa1NzdVRDcTczeTN0Vm9qQkxzOTZzNFN5UFhRcEhiOU9LdVpQVXBZZGlnT3B3?oc=5",
+            "published": "2026-11-04T07:26:38.000Z",
+            "snippet": "CES에서 유럽까지, 글로벌 무대를 넓히다 AI 골프클럽 지그립 매일경제"
+          }
+        }
+      ]
+    }
+  ]
+}
