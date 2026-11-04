@@ -1,0 +1,80 @@
+{
+  "overview": "■ 오늘 챙길 지원 혜택: 화성시·경기도에서 새로 신청할 수 있는 지원은 없습니다. 정부 지원은 조건이 맞는 경우에만 해당합니다: 티메프 피해 중소기업 특별만기연장(마감일 미기재), 코로나 피해 소상공인 장기연체채권 일괄매입(일정 미정), 희망리턴패키지 폐업 소상공인 재취업 심화교육(마감일 미기재)\n■ 정책 흐름: 경기도의회 경제노동위원회가 경기신용보증재단을 현장 점검하고 소상공인 보증 지원 확대를 논의했습니다. 내년 경기신보 보증 한도나 예산이 늘어날 수 있으니 연말·연초 공고를 눈여겨볼 시기입니다. 정부는 코로나 시기 연체 채무 정리와 티메프 피해 기업 만기연장 같은 채무 부담 완화 대책을 이어가고 있습니다.",
+  "categories": [
+    {
+      "name": "신청 가능한 지원사업",
+      "items": [
+        {
+          "index": 35,
+          "title_ko": "[정부] 중기부, 티메프 피해 중소기업 특별만기연장 시행",
+          "summary": "중소벤처기업부가 티메프(티몬·위메프) 사태로 피해를 입은 중소기업의 대출 만기를 특별히 연장해 주는 조치를 시행합니다. 지원 대상 요건, 연장 기간, 신청 기관은 확인된 내용에 없어 원문 확인이 필요합니다. 마감일도 공고 원문을 확인해야 합니다.",
+          "why": "대상 여부 확인 필요 — 티몬·위메프에서 상품권·시술권을 판매했다가 정산금을 받지 못한 경우에만 해당하니, 해당되면 중기부 보도자료 원문에서 신청처를 확인하세요.",
+          "article": {
+            "source": "중소벤처기업부 보도자료 (공식)",
+            "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행",
+            "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1072285",
+            "published": "2026-11-04T16:21:53+09:00",
+            "snippet": ""
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "[정부] 금융위, 코로나 피해 소상공인 1억 원 미만 장기연체채권 일괄매입 추진",
+          "summary": "금융위원회가 코로나19로 피해를 입은 소상공인의 1억 원 미만 장기연체채권을 일괄 매입해 채무 부담을 덜어주는 방안을 추진합니다. 대상은 2023년 6월 이전부터 연체된 채권입니다. 시행 시기와 신청 방법은 아직 확정되지 않아 원문 확인이 필요합니다.",
+          "why": "대상 여부 확인 필요 — 2023년 6월 이전부터 1억 원 미만 대출을 연체 중인 경우에만 해당하니, 해당되면 신용회복위원회·새출발기금 안내를 지켜보세요.",
+          "article": {
+            "source": "Google News 소상공인 정책자금·지원금 (KR)",
+            "title": "금융위, 코로나 피해 소상공인 1억원 미만 장기연체채권 일괄매입 추진…2023년 6월 이전 연체 대상 - https://www.thedailyeconomy.kr/",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yNjlUTmJXZENhNlVheE9YNmJjMWlXcTZ3NWF4R25seEFwUERYS1h1OGJLR3htbEZMMUVMeDg4bEVwTkVDNXhKT1h2S2VLZGVZRUVVemhEV3pWa0o5WF9mdGFWcUhFdWlZODRuMFU1UEk?oc=5",
+            "published": "2026-11-04T10:25:49.000Z",
+            "snippet": "금융위, 코로나 피해 소상공인 1억원 미만 장기연체채권 일괄매입 추진…2023년 6월 이전 연체 대상 https://www.thedailyeconomy.kr/"
+          }
+        },
+        {
+          "index": 49,
+          "title_ko": "[정부] 희망리턴패키지 폐업 소상공인 재취업 심화교육생 모집(지오코칭 운영)",
+          "summary": "소상공인시장진흥공단의 희망리턴패키지 사업 중 하나로, 폐업했거나 폐업 예정인 소상공인을 대상으로 진로 재설계와 구직 준비 심화교육생을 모집합니다. 교육은 지오코칭이 운영합니다. 마감일과 신청 방법은 기사에 없어 원문 확인이 필요합니다.",
+          "why": "대상 여부 확인 필요 — 폐업했거나 폐업을 고민 중인 사장님만 대상이고, 영업을 계속한다면 해당되지 않습니다.",
+          "article": {
+            "source": "Google News 소상공인 지원사업 신청·공고 (KR)",
+            "title": "지오코칭, 폐업 소상공인 재취업 지원…희망리턴패키지 심화교육 모집 - 로이슈",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40MDBTYXhMeVJGXzExOHhFQkxxX2lhX3I3bWczaFR6R0ZMRWd5LS1tNzFUamhaR1JRdHByaVBael9aZDJwQXZNdjhDSnN6QXhuVEoza1BuaUxtS21JTUtSQmdsdFhwaTBoaEltNEhteWtNUGg3d29ydkZn?oc=5",
+            "published": "2026-11-04T05:59:46.000Z",
+            "snippet": "지오코칭, 폐업 소상공인 재취업 지원…희망리턴패키지 심화교육 모집 로이슈"
+          }
+        }
+      ]
+    },
+    {
+      "name": "소상공인 정책 동향",
+      "items": [
+        {
+          "index": 38,
+          "title_ko": "경기도의회 경제노동위원회, 경기신용보증재단 현장 방문해 소상공인 보증 지원 확대 논의",
+          "summary": "경기도의회 경제노동위원회가 경기신용보증재단을 찾아 소상공인 보증 지원 현황을 점검했습니다. 금융 지원 확대 방안도 함께 논의했습니다. 새 지원책이 확정된 것은 아니며, 내년 예산과 보증 사업에 반영될지 지켜봐야 합니다.",
+          "why": "동탄 사장님도 경기신보 보증 이용 대상이니, 내년 초 경기신보 특례보증 공고(경기신보 앱 '이지원')를 확인하세요.",
+          "article": {
+            "source": "Google News 화성시·동탄 소상공인 (KR)",
+            "title": "경기도의회 경제노동위원회, 경기신용보증재단 현장방문... 소상공인 지원 최일선 현장 소통 나서 - 경기뉴스원",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnT2VtNG9SUC12eWlZYjFkY3hOQUdXS29VeUZJRUE2c1VEdHVCU1RKc2hFT2hVYnNOckdta2Z1VmVTV3ZGbTFxbTlRZmtKdURHdDNtZDB3MDAyV0hHZFgyaEVYUQ?oc=5",
+            "published": "2026-11-04T07:12:23.000Z",
+            "snippet": "경기도의회 경제노동위원회, 경기신용보증재단 현장방문... 소상공인 지원 최일선 현장 소통 나서 경기뉴스원"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "여주시, 11월 소상공인 원스톱 지원센터 운영…노무·세무·창업 상담 제공",
+          "summary": "여주시 소상공인지원센터가 11월 한 달간 노무·세무·창업 상담을 한곳에서 받을 수 있는 원스톱 지원센터를 운영합니다. 여주시 소상공인 대상 사업이라 화성시 사장님은 이용할 수 없습니다.",
+          "why": "여주시 전용이라 대상이 아닙니다. 다만 화성시 소상공인지원센터나 경기도시장상권진흥원 상담도 비슷하게 무료로 이용할 수 있으니, 세무·노무 고민이 있으면 문의해 보세요.",
+          "article": {
+            "source": "Google News 경기도·경기신보 소상공인 (KR)",
+            "title": "여주시, 소상공인 원스톱 지원센터 11월 운영…노무·세무·창업 상담 제공 - 한국사회복지저널",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OdGY2eW52RGtHY1paYVFMZzExU0M1OHIyRWFyOGJWLTlHdVZCYldRM0Y3S2x3MFNMTFAyU205V1RfeWk4REtRNDkzX2FXdnAwMG5aMFhPX1FTT3dDRHlISkdnRE81NGMyYVZEZw?oc=5",
+            "published": "2026-11-04T09:41:20.000Z",
+            "snippet": "여주시, 소상공인 원스톱 지원센터 11월 운영…노무·세무·창업 상담 제공 한국사회복지저널"
+          }
+        }
+      ]
+    }
+  ]
+}
