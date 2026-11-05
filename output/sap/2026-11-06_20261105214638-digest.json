@@ -1,0 +1,220 @@
+{
+  "overview": "SAP Connect 2026과 TechEd 이후 SAP의 '자율형 기업(autonomous enterprise)' 전략과 Business AI Platform·Joule 강화 소식이 이어지고 있으며, 고객 커뮤니티에서는 AI 정확도·비용 투명성·외부 AI 에이전트 개방성에 대한 검증 요구가 커지고 있습니다. SAP가 시스템 간 양방향 데이터 흐름을 개방하겠다고 밝힌 점도 데이터 아키텍처 측면에서 주목할 만합니다. 기술 측면에서는 SAP Job Scheduling 서비스의 Destination Jobs 신규 도입, Business Data Cloud 전환 실무 사례, S/4HANA Cloud Private Edition 운영 가이드 등 실무형 콘텐츠가 다수 공유되었습니다. 한편 SAP Business One은 출시 30주년을 맞았고, ComfortDelGro의 SAP 기반 통합 플랫폼 구축 사례도 소개되었습니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "SAP, 에이전틱 AI 도입 확산 위해 Business AI Platform과 Joule 강화",
+          "summary": "SAP가 에이전틱 AI 도입을 가속하기 위해 Business AI Platform과 Joule의 기능을 강화한다고 발표했습니다. SAP Connect 2026 전후로 발표된 AI 전략의 연장선에 있는 소식입니다.",
+          "why": "Joule과 AI 에이전트를 고객 프로젝트에 적용하려는 컨설턴트에게 SAP AI 로드맵의 최신 방향을 파악할 수 있는 핵심 자료입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Beefs up Business AI Platform and Joule to Drive Agentic AI Adoption - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSWJDSjBXMzhkTF94a3pDcFZPM2NCeVNZTVhjWFoyS2RLSnJJT05JS0FORUFlbEZ3bnMycnRBUnZYejh6Ny1za09wRjdKRVpjSy1lbE5aSzh6S1JsYlo1Unpta2dHTHZLMlBCdjBpNmp1ZjM3S2luYkxoTVRoMnIwdmJfRU95blRHc2xOa1RwRHRPZnhnZ1JSSm84XzhEM0IyVGJCSnZHWlYzQ2FTNVE?oc=5",
+            "published": "2026-11-02T11:55:09.000Z",
+            "snippet": "SAP Beefs up Business AI Platform and Joule to Drive Agentic AI Adoption SAP News Center"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "SAP는 외부 AI 에이전트 차단…Salesforce·ServiceNow와는 다른 행보",
+          "summary": "SAP가 외부 AI 에이전트의 자사 시스템 접근을 제한하는 반면, Salesforce와 ServiceNow는 이를 허용하고 있다는 비교 분석 기사입니다. 엔터프라이즈 소프트웨어 업계의 AI 에이전트 개방성 정책 차이를 조명합니다.",
+          "why": "타사 AI 에이전트와 SAP를 연동하는 아키텍처를 설계할 때 제약 조건과 라이선스·정책 리스크를 미리 검토해야 함을 시사합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP blocks external AI agents. Salesforce and ServiceNow don’t. - Techzine Global",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTBpeDRCT3R4UVFFSnNpR2VyVFBZVmhkUC1HYnNHdXZCMXNuU0ctX2NpNjlpS040bTR5U010OUdQdUliV2JuWldueEZsZXg5cjRwcHRTYV8wdXJfWUk2SWt6TUx4UDZPQmlldHpSS2lXMVVyZ2NsbGluVENsRUE1RDZXY2Z0NFBDT3NMS19jbzZkc1d4RU5Rd1dWLXJtYlh5TktFY2psLXJramhXZGhBbw?oc=5",
+            "published": "2026-11-03T20:22:21.000Z",
+            "snippet": "SAP blocks external AI agents. Salesforce and ServiceNow don’t. Techzine Global"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "SAP의 AI 전략, 까다로운 기준과 마주하다: 정확도 80%로는 부족하다",
+          "summary": "SAP의 AI 비전이 실제 업무 현장에서 요구하는 높은 정확도 기준을 충족해야 한다는 지적을 다룬 기사입니다. 업무 프로세스 자동화에서는 80% 수준의 정확도로는 신뢰를 얻기 어렵다는 관점이 제시됩니다.",
+          "why": "AI 기능 도입 시 고객 기대치 관리와 정확도 검증·사람 검토 프로세스 설계가 필수임을 상기시켜 줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP's AI Pitch Meets a Hard Benchmark: 80% Accuracy Won't Cut It - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT3ltM0IyRm44MWV5TWtDcG9tQXRMZFVndmZHRG5zTUhQeHdHbWxlN2NYdm9PY0kxbm80TVdSS2R4bmt5LWhJWjQ3c1pkNjVYQ0tSZDhFTVJtcE9abVAyN3ZXMXBoNUduVUFrUHpPYlVzcEI0dXVuT3lmLUUwMWpBLVlBNGtnOXNDZ0RXWFA4R1NpOE84cW50NnpXajNlZmNydzNYaTVqU2JaOE9aWTY4enozQUgzRXRvZm0zc3E3TTBva1hLZU9yLXUzMG5sZ2s?oc=5",
+            "published": "2026-11-05T13:51:19.000Z",
+            "snippet": "SAP's AI Pitch Meets a Hard Benchmark: 80% Accuracy Won't Cut It ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "SAP, 저렴한 AI 모델 도입과 사용자들의 비용 명확성 요구 사이에서 균형 모색",
+          "summary": "SAP가 더 저렴한 AI 모델을 활용하는 한편, 사용자들은 AI 사용 비용 구조에 대한 명확한 설명을 요구하고 있다는 내용입니다. AI 기능의 과금 방식이 고객 도입의 주요 변수로 떠오르고 있습니다.",
+          "why": "AI 기능 제안 시 고객이 가장 먼저 묻는 비용·과금 구조에 대해 대비할 필요가 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Balances Cheaper AI Models Against User Demands for Cost Clarity - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2Z4MnQtUDFWOEMyWWRmTEtkNjNaWkxZVmNadUVHc3d2RktkZG9uTFVjMGJybUxYZ09TcmtDbE9IeC1aZGswSDFGUHZQZ0RSX1RMTEZvNTR0cGhEem1qRS0weDFqb0tpRTVtMzV0cy1ySUZ3YVNJek9McmZfd21CWHNHWDYxUWdaZ000WWYxWU5fTWpVUFQ2SE5BR1B2eXBpZHViQkNjMjQ5clU1azFPY3pwel85c2VuakZOREtZU2tXdVE3bUZRSUlBcVBySHlqbXFwOXNMbw?oc=5",
+            "published": "2026-11-02T14:02:26.000Z",
+            "snippet": "SAP Balances Cheaper AI Models Against User Demands for Cost Clarity ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "'SAP Certified built with SAP Business AI Platform' 인증 표기 신규 도입",
+          "summary": "SAP Integration and Certification Center(SAP ICC)가 SAP의 AI 전략과 기술적으로 정합성을 갖춘 파트너 솔루션에 부여하는 새로운 인증 표기를 발표했습니다. 파트너 솔루션이 SAP Business AI Platform 기반으로 구축되었음을 공식적으로 인정받는 제도입니다.",
+          "why": "파트너사나 애드온 개발사라면 AI 솔루션의 신뢰도와 마케팅 경쟁력을 높일 수 있는 인증 경로로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Introducing SAP Certified built with SAP Business AI Platform",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-sap-certified-built-with-sap-business-ai-platform/ba-p/14516499",
+            "published": "2026-11-05T08:18:05.000Z",
+            "snippet": "The SAP Integration and Certification Center (SAP ICC) is pleased to introduce the SAP Certified built with SAP Business AI Platform font treatment, a new recognition for partner solutions that demonstrate technical alignment with SAP's AI strategy."
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "SAP, 양방향 데이터 흐름 개방 약속",
+          "summary": "SAP가 자사 시스템과 외부 시스템 간 데이터를 양방향으로 주고받을 수 있도록 데이터 공유를 개방하겠다고 밝혔습니다. 국내 매체에서도 SAP가 시스템 전반에 개방형 데이터 공유를 도입한다고 보도했습니다(관련 기사 [19]).",
+          "why": "SAP 데이터를 외부 데이터 플랫폼·분석 도구와 연계하는 고객 아키텍처 설계에 직접적인 영향을 줄 수 있는 변화입니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP promises to open out data flows in both directions - The Register",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWlR1YTQyeVVSOGVILU9wSXp1T0YwTTdfaURta0F2UkpDS2pYb0o0NFlRcUFiMkh4d1R2azl3eWZaTVF6OFFxZk5vc1dwTUgwVnFWRHBwUkFkWUx0SGhfSEtsanI1VkxSWFpVaklfNjV6VFpiaW40eV9vajJJTmR0YnM0NndoUkcxUFFXc2wwZDhoVi1SOHhFSVZMUjgtWTEyblRKLTh5UzNhR290MUNZ?oc=5",
+            "published": "2026-11-05T10:15:00.000Z",
+            "snippet": "SAP promises to open out data flows in both directions The Register"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "SAP Connect 2026 (1부): Joule Work·SAP Pay부터 TechWolf, 우주정거장까지 '자율형 기업' 본격 가동",
+          "summary": "SAP Connect 2026에서 발표된 Joule Work, SAP Pay, TechWolf 관련 소식 등 자율형 기업 구현을 위한 주요 발표를 정리한 기사입니다. SAP Business AI를 우주정거장 환경에 적용하는 사례도 함께 소개되었습니다.",
+          "why": "SAP Connect 2026의 신제품·신기능 발표를 한눈에 파악해 고객 제안과 로드맵 설명에 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Connect 2026, Part 1 of 2: SAP puts the autonomous enterprise to work, from Joule Work and SAP Pay to TechWolf and a space station - iTWire",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNlI3VXc2WXQzSHM2eEI1U3hqUVZIQ3FOQ2RrcG85RlRGUmVsbGNQeGRaVjNkRFNlOGdRazVOSFJfTWRDM043NkJVLUNYbWJlTjQ4RUZVLUs5STdWZkxLUVVyb3dWOVFBZnExSEIwUm9FNWFvN2d3UVhPa3BOYUh3WExRblQ2MkU4OEZBdncydXJZUGlIUlNIdnlLYVloQlFpbWFVd1BuRWhONzBzMFZtTlcwaF9NbjROdk1COU9TS083WG9MOURjeWUyN05CdS14RHBSNW1GZGZKUEg3c3l6VEZTNTdENHJvVWh5N25FS3V2QXFMbjc0Si05ZTA0eEdxU0E?oc=5",
+            "published": "2026-11-04T21:39:02.000Z",
+            "snippet": "SAP Connect 2026, Part 1 of 2: SAP puts the autonomous enterprise to work, from Joule Work and SAP Pay to TechWolf and a space station iTWire"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "SAP Connect 2026 (2부): SAP의 자율형 기업은 Workday 주장처럼 '차갑고 영혼 없는' 것인가?",
+          "summary": "Workday가 SAP의 자율형 기업 비전을 '차갑고 영혼 없다'고 비판한 데 대해 그 타당성을 검토한 분석 기사입니다. HR 영역을 중심으로 양사의 AI 접근 방식 차이를 비교합니다.",
+          "why": "SuccessFactors와 Workday 간 경쟁 구도에서 고객 질문에 대응할 논리를 마련하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Connect 2026, Part 2 of 2: is SAP's autonomous enterprise really \"cold and soulless\", as Workday claims? - iTWire",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa0hDZzE1bjR2T3BOQ2FUTzh5RVZLMlFuWFJ1SkdCazZjejZ1MDNIVm0zMUFtRERvd3NrbmlKODhDQWFzUWZ1TXQwUHE4SnBWY2hwb044aGNzRjNWZmtscGZPcEVxQks1R2FjejRvNVhMU19jd2FVS09LU2M2Q0E5N01hNkstTWRycDc4MTdiTC1aNHhrMlA3TjNqMEtORXA2U2E3WDFTa0ZuMEZ4bW9keDlNaWhYZFpydlZrQWdLTFU2YVlwLXE2UEY2WTRuM2JsaWtaZkl0UXB2dw?oc=5",
+            "published": "2026-11-04T21:39:02.000Z",
+            "snippet": "SAP Connect 2026, Part 2 of 2: is SAP's autonomous enterprise really \"cold and soulless\", as Workday claims? iTWire"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "SAP Business Data Cloud 실무 적용기: Datasphere 리와이어 프로젝트에서 얻은 교훈",
+          "summary": "SAP BTP 상의 기존 SAP Datasphere 테넌트를 SAP Business Data Cloud(BDC)로 전환(리와이어)한 프로젝트 경험을 공유한 글입니다. BDC의 아키텍처와 Data Product 개념, 전환 과정의 실무 교훈을 정리했습니다.",
+          "why": "Datasphere 고객의 BDC 전환을 지원해야 하는 컨설턴트에게 실전 가이드로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Business Data Cloud in Practice: What We Learned from a Datasphere Rewire Delivery",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-business-data-cloud-in-practice-what-we-learned-from-a-datasphere/ba-p/14516671",
+            "published": "2026-11-05T02:32:27.000Z",
+            "snippet": "SAP Business Data Cloud (BDC) is reshaping how businesses manage and use data for analytics and AI. In this article, we explore the key concepts behind BDC, including its architecture and Data Products, and share lessons from rewiring existing SAP Datasphere tenants on SAP BTP to BDC. Whether you’re new to BDC or supporting customers through the transition, this guide offers a practical starting p"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "SAP Business One, 고객과 함께 성장한 30년",
+          "summary": "SAP Business One이 출시 30주년을 맞았습니다. 현재 매일 120만 명의 사용자가 이 솔루션을 사용하고 있으며, 고객과 함께 지속적으로 발전하고 있다고 SAP는 밝혔습니다.",
+          "why": "중견·중소기업 및 해외 법인 대상 ERP 제안 시 Business One의 시장 기반과 발전 방향을 참고할 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP Business One: 30 Years of Growing Together",
+            "link": "https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/",
+            "published": "2026-11-05T12:15:00.000Z",
+            "snippet": "Thirty years later, the solution continues to evolve alongside its customers and the 1.2 million users working with it every day."
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "ASUG Tech Connect 리뷰: 벤더들의 AI 발표 이후, 이제 SAP 고객이 목소리를 낼 차례",
+          "summary": "ASUG Tech Connect 행사를 돌아보며, 벤더들이 AI를 대대적으로 홍보한 데 이어 SAP 고객들이 실제 도입 관점에서 어떤 평가와 요구를 내놓았는지 다룬 기사입니다.",
+          "why": "AI 도입을 바라보는 고객 측의 현실적인 우려와 기대를 파악하는 데 유용합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "The ASUG Tech Connect review - vendors had their AI moment. Now SAP customers have their say. - Diginomica",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVkZQNG5yWjFVYmM3bkk2MjFrTG1iZjI4ZzlVcnNhOFc3Y0tyOTN6SFFHc0x6Q2RjTHRqNGtEbVh0TjJkRm1nald6NlNOTGc5cnAxbkJkeC1TX1VlbnZ4NWlvLUpJM0pDUFVENFNxaUxESXNsbURZYlkyNzdtZ2dibTRNZ2t6LU5BV0tqWFVzeGdwN1RxMTN4MEJCZTFnTWVJRTR4SjZ1SjlwNFBH?oc=5",
+            "published": "2026-11-05T17:33:45.000Z",
+            "snippet": "The ASUG Tech Connect review - vendors had their AI moment. Now SAP customers have their say. Diginomica"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "Precisely·ASUG 공동 조사: AI 도입 가속 속 SAP 현대화 탄력, 마이그레이션 과제는 심화",
+          "summary": "Precisely와 ASUG가 공동 조사 결과를 발표했습니다. SAP 현대화 움직임이 AI 도입과 함께 가속되는 반면 마이그레이션 관련 과제는 더 커지고 있다는 내용이며, 2027년 SAP 자동화 트렌드로 AI·마이그레이션·BTP가 꼽혔습니다(관련 기사 [25], [26]).",
+          "why": "S/4HANA 전환과 자동화 프로젝트를 기획할 때 고객 설득과 리스크 관리의 근거 자료로 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWVRvak9aUHRVb2JQa3AtY0hqSjJaT2lSVjVQdV90cHJ2WGtzaFlNdWxnX3FkSWZ2TVZ2eDdmdmJQY0x6NEpjVUx5R185ZHlhWW5ReXIwcThRT3NfS180dTJ1ZWFYSndpNnd5YjMzLUM1T19ybVRoM25EcWg1Rk90RkFIZlpWc0Vwc09pOHJFSnVTc2djVW9GdDVfTWJkS1QtZHBEN0p6aVZtdmJTbFJ5YV9zVnVqMzFIZldfc2NnVTh0T0dNTjhMdHpELW9JU1dTNTRXSTc1bFdjWmxjZF9QS0dHbld3NHpMRjBPZkh0Q05VbnRmS0o0UmUyRGRLMnJoWWF4cFY0YzZNQ1BSOUJIOEt6QWFaS2hX?oc=5",
+            "published": "2026-11-04T14:00:00.000Z",
+            "snippet": "New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify PR Newswire"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "ComfortDelGro, 통합 SAP 코어 기반으로 'OneCDG' 비전 추진",
+          "summary": "싱가포르 운송기업 ComfortDelGro가 SAP 기반 통합 코어 시스템을 구축하며 그룹 통합 플랫폼 'OneCDG' 비전을 진척시키고 있습니다. SAP News Center가 소개한 고객 사례입니다.",
+          "why": "다국적 그룹사의 통합 ERP 코어 구축 사례로, 아시아 지역 유사 프로젝트의 참고 레퍼런스가 됩니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "ComfortDelGro drives OneCDG vision forward with integrated SAP core - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2NGZEx6Qlc4TV9uMnoyU0h5OEZ0Q0daczdHWkRNQU1fZTFTdDg3NUt6bGRERWRqNHhTUWFNNmpVVVRSMjZITlUtVmNRRklWYzJTci15UGFSeVVTVnZLNWZBUkl2TXpsYlllUHRMb211YTFiLWpjTjdmb3oyNG9TWVFDZEpkdDVwcmcyMWl0V2Q5UnBtSzhHcEtzcHNLVXhidG1R?oc=5",
+            "published": "2026-11-05T05:02:37.000Z",
+            "snippet": "ComfortDelGro drives OneCDG vision forward with integrated SAP core SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "Destination Jobs: 애플리케이션 외부까지 작업 예약 범위 확장",
+          "summary": "SAP Job Scheduling 서비스에 새로운 작업 유형인 Destination Jobs가 도입됩니다. 이를 통해 인터넷상의 어떤 애플리케이션이든 예약 작업으로 호출할 수 있으며, 다른 Cloud Foundry 환경의 OAuth 보호 엔드포인트를 호출하는 방법도 별도 글로 소개되었습니다(관련 기사 [14]).",
+          "why": "BTP 기반 배치·연동 작업을 설계할 때 별도 중계 앱 없이 외부 시스템 호출을 예약할 수 있어 구현이 간소해집니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Destination Jobs: Schedule Beyond Your Application",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/destination-jobs-schedule-beyond-your-application/ba-p/14516737",
+            "published": "2026-11-05T08:50:09.000Z",
+            "snippet": "SAP Job Scheduling service is introducing a new job type – Destination Jobs – use them to call application anywhere on the internet."
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "S/4HANA Cloud Private Edition 운영 가이드: OS 파일·폴더 작업과 OS 패치를 서비스 요청(SR)으로 처리하는 방법",
+          "summary": "S/4HANA Cloud Private Edition에서는 고객의 OS SSH 접근이 허용되지 않으므로, 파일·폴더 작업은 'Manage OS Files and Folders' SR 템플릿으로 요청해야 합니다. 함께 공개된 글에서는 미적용 OS 패치 확인과 SR을 통한 패치 적용 절차를 설명하며, Pacemaker 사용 시스템은 Assisted Service Request를 이용해야 한다고 안내합니다(관련 기사 [21]).",
+          "why": "RISE with SAP 환경의 Basis 운영 시 직접 작업이 불가능한 영역을 어떤 절차로 처리하는지 알 수 있는 실무 가이드입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "S/4HANA Cloud Private Edition (011) - OSレベルのファイル/フォルダ操作をSRで依頼する方法",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/s-4hana-cloud-private-edition-011-os%E3%83%AC%E3%83%99%E3%83%AB%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E6%93%8D%E4%BD%9C%E3%82%92sr%E3%81%A7%E4%BE%9D%E9%A0%BC%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/ba-p/14516766",
+            "published": "2026-11-05T08:17:06.000Z",
+            "snippet": "SAP S/4HANA Cloud Private Editionでは、お客様からOSへのSSHアクセスは許可されておらず、OSレベルでファイル/フォルダを直接操作することはできません。ファイル/フォルダ関連の操作を実施したい場合は、下記のService Request(以下、SR)をご利用ください。SRテンプレート: Manage OS Files and Foldersなお、トランスポートファイル関連の操作依頼は下記のSRテンプレートをご利用願います。SRテンプレート: Copy and Delete SAP Transport Co-files and Data files本記事では、現時点で提供されているSRテンプレート「Manage OS Files and Folders」の5つのオペレーションを例に、SR依頼の方法をご紹介します。Create files or folders"
+          }
+        }
+      ]
+    }
+  ]
+}
