@@ -1,0 +1,194 @@
+{
+  "overview": "■ 전날 미국 증시\n5일(현지) 뉴욕증시는 민주당의 중간선거 압승(2008년 이후 최대 승리)으로 AI 규제가 강화될 수 있다는 우려가 커지면서 3대 지수가 모두 폭락했습니다. 다우지수는 1,834포인트(약 -3.4%), S&P500은 -4.36%, 나스닥은 -5.52% 하락했고, 나스닥은 19개월 만의 최대 일일 낙폭을 기록하며 조정 국면(고점 대비 -10% 이상)에 들어섰습니다. 필라델피아 반도체지수가 -12.25% 폭락했고 마이크론(-17%), TSMC(-11%), 엔비디아(-9%), 테슬라(-10%대) 등 AI·반도체·인프라주가 하락을 주도했으며, 하루 전의 '선거 랠리'는 모두 사라졌습니다. 민주당 주요 인사들이 '전국 데이터센터 건설 유예'를 요구하고 나선 것이 투매의 직접적인 계기가 됐습니다. 국채금리 흐름은 성장 둔화 우려를 반영했고, 달러와 국채시장도 크게 출렁였으며, AI 거품 우려는 신용시장으로까지 번지고 있습니다(유가 관련 내용은 기사에 없음).\n\n■ 오늘 국내 증시 전망\n오늘 코스피·코스닥은 하락 우세가 예상되며, 미국 반도체지수 -12% 충격이 그대로 반영돼 코스피가 -4% 안팎의 큰 폭 하락으로 출발할 가능성이 높다는 전망이 나옵니다. 전날 코스피는 장중 7%p 가까이 오르내린 끝에 5,683.80에 마감했고 외국인이 2조5천억 원을 순매도했습니다. 외국인 매도 압력이 오늘도 이어질 가능성이 크고, 위험회피 심리로 원·달러 환율에도 상승 압력이 커질 수 있습니다. 삼성전자·SK하이닉스 등 반도체 대형주와 테슬라 급락의 영향을 받을 2차전지가 하락 압력의 중심이 될 전망입니다. 다만 증권가에서는 AI 성장 흐름은 유효하다며 조정을 거친 뒤 반등할 것이라는 시각도 있습니다. 장중 변동성이 매우 클 수 있으니 무리한 추격 매매는 피하는 것이 좋겠습니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 5,
+          "title_ko": "나스닥, AI 규제 우려에 19개월 만의 최대 일일 낙폭",
+          "summary": "나스닥은 5.52%, S&P500은 4.36% 급락했고 다우지수는 1,834포인트(약 3.4%) 하락 마감했습니다. 나스닥은 조정 국면에 진입했으며, 중간선거 결과로 나왔던 전날의 랠리 상승분을 모두 반납했습니다.",
+          "why": "미국 기술주 폭락은 시가총액 비중이 큰 국내 반도체·IT 대형주에 직접적인 하락 압력으로 작용해 코스피의 갭하락 가능성을 높입니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5",
+            "published": "2026-11-05T21:30:09.000Z",
+            "snippet": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations Reuters"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "민주당 주요 인사들, 중간선거 압승 후 AI 인프라 확장 제동 촉구…'전국 데이터센터 건설 유예 즉각 시행'",
+          "summary": "중간선거에서 당선된 민주당 인사들과 진보 성향 의원들이 AI와 데이터센터에 대한 규제 강화를 요구하고 나섰습니다. 데이터센터 신규 건설을 전국적으로 유예하자는 주장까지 나오면서 AI 투자 사이클이 꺾일 수 있다는 우려가 커졌습니다.",
+          "why": "데이터센터 투자가 줄어들면 HBM·서버용 메모리 수요가 위축될 수 있다는 우려로 SK하이닉스·삼성전자, 전력기기주의 투자심리가 약해질 수 있습니다.",
+          "article": {
+            "source": "CNBC Markets",
+            "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+            "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+            "published": "2026-11-05T20:17:16.000Z",
+            "snippet": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections."
+          }
+        },
+        {
+          "index": 43,
+          "title_ko": "중간선거 결과가 경제·시장·AI 붐에 미칠 영향",
+          "summary": "민주당의 압승으로 규제, 재정, 산업정책의 방향이 바뀔 수 있다는 분석입니다. 특히 그동안 시장을 이끌어 온 AI 붐이 정책 변수에 노출됐다는 점이 핵심 불확실성으로 꼽힙니다.",
+          "why": "미국 정책 불확실성이 커지면 대미 수출 비중이 큰 반도체·자동차·2차전지 업종의 밸류에이션 부담이 커질 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "How the midterm election results could affect the economy, markets and AI boom - ABC11 News",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkEyVXp5ODlHVjNTY2ZEQlJtbEMyQXBGai1QbHUzYVU3aWROOU1wNVlxSloxQ3NlcTFldThRcl80QXBrSlY2VTNYeGI3czVNRDc2NjM1Z3Z4QVJoemZoeDVka282LWFfeE1IcDFYZzUzU3RCTTBNM1g5d1V2REN1c1pIWURIYm1QejNoTjJlVjFtZVpmbVE4OXZSRlkwWjDSAaQBQVVfeXFMT3lpV3dGbXlDRHAtQjJfeTUtUXI2UVlRWG1rWl9wUTNjdmlDbjFEeUdVaGVYdVU4cWF4M2Z3dkVPZFhiMUNwRW5rQXI0ZXRDTDYyNXZwa29xY2ZvWHhBUy1ZVTRBUmszckc3MDYyQlVHekg3Ti1TSnlHMVJjbHowbTF1VmI2N251OUFLYWJ2UEtuaFd6MHdOUFUxRUNsSWZwdGVWdVA?oc=5",
+            "published": "2026-11-05T19:53:45.000Z",
+            "snippet": "How the midterm election results could affect the economy, markets and AI boom ABC11 News"
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "AI 거품 우려, 신용시장으로 확산…국채금리는 성장 둔화 경고",
+          "summary": "AI 버블에 대한 우려가 주식시장을 넘어 회사채 등 신용시장으로 번지고 있습니다. 국채금리 흐름은 경기 성장 둔화 우려를 반영하고 있다는 분석입니다.",
+          "why": "신용 경계감이 커지면 글로벌 위험자산 회피 심리가 강해져 신흥국인 한국 증시에서 외국인 자금이 빠져나갈 가능성이 높아집니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "AI bubble concerns spread to credit markets as Treasury yields signal growth worries - www.tokenpost.com",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTTJ4djIzMXd2QTBlRmg3QzNWWVotVWctQVVvajc1VWlDY0VBWjI5NHRXNXA2SkxwdGxoYVRKZmtMOTRtS1ZwOVh5cTRMUFhuZ0l4aDFjVFlUZw?oc=5",
+            "published": "2026-11-05T20:40:35.000Z",
+            "snippet": "AI bubble concerns spread to credit markets as Treasury yields signal growth worries www.tokenpost.com"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "美 '블루 쓰나미'에 달러·국채도 출렁…월가 자금 흐름 바뀌나",
+          "summary": "민주당 압승 이후 주식뿐 아니라 달러와 국채시장도 크게 변동했습니다. 정책 방향이 바뀔 것이라는 예상 속에 월가 자금이 이동할 수 있다는 관측이 나옵니다.",
+          "why": "달러 변동성이 커지면 원·달러 환율이 불안정해지고, 이는 외국인 수급과 수출주 주가에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 외국인 수급·환율 (KR)",
+            "title": "美 ‘블루 쓰나미’에 달러·국채도 출렁…월가 돈의 흐름 바뀌나 - 직썰",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Uci1zVWJLWm5nTDhybFktU05aT0ZrTlhfTzJLZVV2OEplMXlLLTg5YUEwN25RTUFpM3g5MUJGLWZ4eGJXNmRkdkRpYTNsMEowbGRzNERCd2liQmdCS2VHdWU3LTZZa1Zl0gFsQVVfeXFMT3h0QU11WlBNN2tNVm45RVBwc0k3NzNyWVU5ZlRCSmZwNzlfNnBtMUF6WTktWkRqbkZQSVU2akNuMlh0M1lzYmRJVEJwVGt4YVZvTHVvTlVtbE9IWEJMQ1FVUHgtUXdOSjlDNkg3?oc=5",
+            "published": "2026-11-05T21:00:00.000Z",
+            "snippet": "美 ‘블루 쓰나미’에 달러·국채도 출렁…월가 돈의 흐름 바뀌나 직썰"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 증시 전망",
+      "items": [
+        {
+          "index": 20,
+          "title_ko": "[11월 6일(금) 한국장 전망] 미 증시 급락으로 코스피 -4% 안팎 충격 출발 예상",
+          "summary": "나스닥 -5.52%, 필라델피아 반도체지수 -12.25% 폭락을 반영해 오늘 코스피는 -4% 안팎의 큰 폭 하락으로 출발할 가능성이 높다는 전망입니다. 반도체 대형주를 중심으로 하락 압력이 집중될 것으로 예상됩니다.",
+          "why": "하락 우세 출발이 예상되며, 반도체 비중이 높은 코스피가 코스닥보다 더 큰 충격을 받을 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[11.6(금) 한국장 전망] 미 증시 급락·코스피 -4% 내외 충격 출발 예상 - 주달",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aYUVwbGdJVE1SeW1Sd0NEQURheHRNLS10SFBfU3ZPWC1wUjhJbUhVWDBicGRELXBGdFBKcjg2aC00TEJRdThTaUlHWUNWWFBoWmhTRE5pbE80cFZNOEttZEdObk1yV2lMNFVmSC1BVGlqLUpCckRydA?oc=5",
+            "published": "2026-11-05T21:10:27.000Z",
+            "snippet": "[11.6(금) 한국장 전망] 미 증시 급락·코스피 -4% 내외 충격 출발 예상 주달"
+          }
+        },
+        {
+          "index": 46,
+          "title_ko": "코스피, 장중 7%p 출렁인 끝에 5,683.80 마감…외국인 2조5천억 원 순매도",
+          "summary": "전날 코스피는 미국 중간선거 결과를 두고 장중 7%p 가까운 변동폭을 보인 끝에 5,683.80에 마감했습니다. 외국인은 2조5천억 원 규모를 순매도했습니다.",
+          "why": "이미 대규모 외국인 매도가 나온 상황에서 미국 증시 폭락이 더해져 오늘도 외국인 순매도가 이어질 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "코스피 장중 7%p 출렁 끝 5,683.80 마감…외국인 2.5조 순매도 - ISSUE ON (이슈온)",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wcjRZbDFtRXA2b2o1SVdReHNzZFE3R3BaUFFmRGJUYUVRQTZKaU5SRS1fYnZpajN1NHlNT1RKNmdfV3JKWl9wS3p4cDZxVWVKODZVZTNaZTg1djY4RzVjNlB0QUk3WHpzZGNv?oc=5",
+            "published": "2026-11-05T09:10:03.000Z",
+            "snippet": "코스피 장중 7%p 출렁 끝 5,683.80 마감…외국인 2.5조 순매도 ISSUE ON (이슈온)"
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "美 '블루 쓰나미'에 흔들린 코스피…'8,700 vs 5,200' 엇갈린 전망",
+          "summary": "증권가에서는 코스피 전망이 상단 8,700에서 하단 5,200까지 크게 엇갈리고 있습니다. AI 사이클이 이어질 것이라는 낙관론과 정책 리스크가 커졌다는 비관론이 맞서고 있습니다.",
+          "why": "전망 범위가 이처럼 넓다는 것은 그만큼 불확실성이 크다는 뜻으로, 당분간 지수 변동성이 높게 유지될 가능성을 시사합니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "美 '블루쓰나미’에 흔들린 코스피…'8700 VS 5200' 엇갈린 전망 - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWpCZ1RxLUFZMkR1dHRSUXQwV2c4V2JPcHhUOEk4dGQ0SmNtS3c0bW9rRG04YWJIWk9qcDZ5LXU5dVBSdVZIaVpXa3ZSQmZXaEp1TDV1Qnd0OTJ1MWRiSnpid3Vlc2VaZ2YxMWRzcDc2RFRFS2MyOGtPeEQzaXoydw?oc=5",
+            "published": "2026-11-05T08:15:27.000Z",
+            "snippet": "美 '블루쓰나미’에 흔들린 코스피…'8700 VS 5200' 엇갈린 전망 이데일리"
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "\"더 떨어질까 겁나는데\"…반도체주 급락에 증권가 '의외의' 전망",
+          "summary": "반도체주가 급락하며 투자자들의 불안이 커진 가운데, 증권가에서는 펀더멘털 대비 과도한 하락이라며 저가 매수 기회가 될 수 있다는 시각도 제시됐습니다.",
+          "why": "삼성전자·SK하이닉스는 단기 하락 압력이 크지만, 중장기 실적 기대가 하락폭을 일부 제한할 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "\"더 떨어질까 겁나는데\"…반도체주 급락에 증권가 '깜짝' 전망 [분석+] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tTXhFS0wtbzZnTVBuVXQwSjFmbVRiOGRHbElsVGpwVGVMbVo3ZXltTDBvbEhYSFExZ2tNZ2JGY0JteVFuX2lPZ09MRWhjZE43WFVJOG9Oc19Xdw?oc=5",
+            "published": "2026-11-05T13:00:06.000Z",
+            "snippet": "\"더 떨어질까 겁나는데\"…반도체주 급락에 증권가 '깜짝' 전망 [분석+] 한국경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 16,
+          "title_ko": "나스닥 5% 넘게 하락, 필라델피아 반도체지수 12% 폭락…마이크론 -17%, 엔비디아 -9%",
+          "summary": "반도체와 AI 인프라 관련주에 매도가 쏟아지며 필라델피아 반도체지수가 12% 넘게 폭락했습니다. 메모리 대표주 마이크론이 17%, 엔비디아가 9% 하락했습니다.",
+          "why": "마이크론 급락은 같은 메모리 업종인 SK하이닉스·삼성전자에, 엔비디아 약세는 HBM 공급망과 반도체 장비·소부장주에 하락 압력으로 작용할 가능성이 높습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Nasdaq Drops Over 5%, Philadelphia Semiconductor Index Plunges 12% as Chip and AI Infrastructure Stocks Are Sold Off; Micron Falls 17%, Nvidia Drops 9% - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2N4VDFDeTFCeF9XdjRHTzNqOVMxWmtoVE5PRXJKVzZwUUFWWTJWaElTVk1fZ2JyX1ZaTHB2RWwyS1hPSk8yemhibUI3MDRCUXVaei1GQ012Y2VDV1ktbm1UVTFxRTVUZExLUnQyS1diaWpRdEhkSVp4WUprajJmc2kxVXJWdWdTQlV1bkNZUWYtRlpLTzdyYjVxVGMtZGQ0VnR4WFU2UUxGeTl3X0VwUDBhQ2MtZWhvQjFQTDBNaG9aOVk5TmxhLV9YWEtETzN3?oc=5",
+            "published": "2026-11-05T21:14:15.000Z",
+            "snippet": "Nasdaq Drops Over 5%, Philadelphia Semiconductor Index Plunges 12% as Chip and AI Infrastructure Stocks Are Sold Off; Micron Falls 17%, Nvidia Drops 9% TradingKey"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "대만 TSMC, 뉴욕증시서 11% 급락 마감",
+          "summary": "TSMC의 미국 주식예탁증서(ADR)가 AI 규제 우려 속에 11% 급락했습니다. AI 반도체 위탁생산 수요가 둔화할 수 있다는 우려가 반영된 것으로 풀이됩니다.",
+          "why": "TSMC 약세는 오늘 대만 증시와 함께 삼성전자 파운드리, 국내 후공정·장비주에 부정적인 신호가 될 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "대만 TSMC 뉴욕 증시서 11% 급락 마감 : 기업주식정보 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sVlUxaUxEY2pOaFlCN2RkSnJwaW1ISmNObE5MTXl4bHJQV3VhRkxLWlNrYnBGcnhORmY2ak1QSlRZYVhTWnI0aTZyOA?oc=5",
+            "published": "2026-11-05T21:39:00.000Z",
+            "snippet": "대만 TSMC 뉴욕 증시서 11% 급락 마감 : 기업주식정보 재경일보"
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "스페이스X·테슬라, 중간선거 결과로 데이터센터·합병 전망 불투명해지며 낙폭 확대",
+          "summary": "민주당 압승으로 데이터센터 확장 계획과 스페이스X·테슬라 간 합병 가능성에 의문이 제기되면서 두 회사 주가가 크게 떨어졌습니다. 테슬라는 10%대 급락으로 마감했고, 두 회사 시가총액은 합쳐서 4,110억 달러가 증발했습니다.",
+          "why": "테슬라 급락은 LG에너지솔루션 등 2차전지 셀·소재주와 전기차 부품주의 투자심리를 약하게 만들 가능성이 큽니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5",
+            "published": "2026-11-05T19:53:31.000Z",
+            "snippet": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook Reuters"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "'블루웨이브'에 꺾인 반도체주…\"AI 성장 유효, 조정 거친 뒤 반등할 것\"",
+          "summary": "민주당 압승으로 반도체주가 급락했지만, AI 수요라는 구조적 성장 흐름은 여전히 유효하다는 분석이 나왔습니다. 단기 조정을 거친 뒤 반등할 수 있다는 의견입니다.",
+          "why": "국내 반도체주는 단기 변동성이 크겠지만, 과도한 하락이 진정되면 반등할 여지가 있다는 근거로 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "'블루웨이브'에 꺾인 반도체주…\"AI 성장 유효, 조정 거쳐 반등할 것\" - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuZ3FRd2IwVHkxV1ltREpCNnRtOFJYLXVyc0UyU1FYSUl4WUJkeGN0bXpnUnVlOHljX2JEV0xWX0Q0UThzQXhZc0tmVjJMV2tWTGt2OVdHS1FEOTlwMHQ0?oc=5",
+            "published": "2026-11-05T21:00:00.000Z",
+            "snippet": "'블루웨이브'에 꺾인 반도체주…\"AI 성장 유효, 조정 거쳐 반등할 것\" 뉴스1"
+          }
+        }
+      ]
+    }
+  ]
+}
