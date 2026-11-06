@@ -1,0 +1,173 @@
+{
+  "overview": "현재는 CES 2027 개막을 약 두 달 앞둔 준비 단계로, 참가 기업들의 전시 계획과 기조연설 일정이 하나둘 공개되고 있습니다. 가장 큰 소식은 레노버가 라스베이거스 스피어(Sphere)에서 CES 2027 기조연설을 연다는 발표이며, AMD·인텔의 차세대 PC 칩 관련 정보도 CES 시즌을 앞두고 잇따라 나오고 있습니다. 국내에서는 삼성의 로봇 사업이 주목받습니다. '휴보 아버지'로 불리는 오준호 박사가 다시 CES에 가기로 하면서 삼성의 로봇 공개 가능성이 거론되고 있습니다. 기업마다 AI·로봇 등 신기술을 준비하는 속도가 다르다는 분석도 나왔습니다. 이 밖에 지난 CES에 나온 휴머노이드·HDR 기술의 후속 소식과 CES 2027을 겨냥한 스타트업의 투자 유치 소식도 이어지고 있습니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "레노버, CES 2027 기조연설을 라스베이거스 스피어에서 개최",
+          "summary": "레노버가 CES 2027 기조연설 무대로 라스베이거스의 초대형 구형 공연장 스피어(Sphere)를 확정했습니다. 대형 PC 제조사가 행사 대표 무대를 맡으면서 AI PC와 차세대 기기 전략이 CES 2027의 주요 화두가 될 것으로 보입니다.",
+          "why": "PC·AI 기기 시장에서 레노버와 경쟁하는 삼성·LG 등 국내 업체에게는 CES 2027의 AI PC 경쟁 구도를 미리 가늠할 수 있는 신호입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Lenovo To Host CES 2027 Keynote At Sphere - CES | Twice",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkJZOWVYMXE1UENwMzhjT1ZibVViTkt4UnRpdFZGY2JYVV8xU3FLOHV1STlpdzgxN2tXNGp5c1d4cXJnMURyakprZVBzR2lMbi1MMlJiM01jTkwwVUZsMDlvM0tPU01DX1RRRE10NzZmRU1UU0cxcHVEQlZwd3oxTTJB?oc=5",
+            "published": "2026-11-06T15:52:49.000Z",
+            "snippet": "Lenovo To Host CES 2027 Keynote At Sphere CES | Twice"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "사운드가이즈·안드로이드 어소리티, 'CES 2027 베스트 오브 쇼' 어워드 접수 시작",
+          "summary": "IT 전문 매체 사운드가이즈(SoundGuys)와 안드로이드 어소리티(Android Authority)가 CES 2027 현장 제품을 대상으로 하는 '베스트 오브 쇼' 어워드의 참가 접수를 시작했습니다. 오디오·모바일 분야 제품이 주요 심사 대상입니다.",
+          "why": "CES에 오디오·모바일 신제품을 내놓는 국내 기업과 스타트업에게는 해외 인지도를 높일 수 있는 추가 수상 기회입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Enter the SoundGuys and Android Authority Best of Show at CES 2027 Awards! - SoundGuys",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uWWVhNUlGVS1xRndNdjdFVFA2NFQ2dGY1TTFldGVVSnRTWmN2MzB4b3dUTjQ3MUpXU0d5ZllaaGE0Q1pvMzhkOWZUUmhiTnlJQlRnX1JHd0E?oc=5",
+            "published": "2026-11-05T21:34:00.000Z",
+            "snippet": "Enter the SoundGuys and Android Authority Best of Show at CES 2027 Awards! SoundGuys"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 46,
+          "title_ko": "삼성, 로봇 승부수 임박했나…'휴보 아버지' 다시 CES행",
+          "summary": "'휴보 아버지'로 불리는 오준호 박사(레인보우로보틱스 창업자)가 다시 CES 참석에 나서면서, 삼성전자가 CES 2027에서 로봇 관련 전략이나 제품을 공개할 가능성에 관심이 쏠리고 있습니다. 삼성은 레인보우로보틱스를 계열사로 편입한 뒤 휴머노이드 등 미래 로봇 사업을 강화해 왔습니다.",
+          "why": "삼성이 CES에서 로봇 비전을 구체화하면 국내 로봇 부품·소프트웨어 생태계 전반에 투자와 협력 기회가 늘어날 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성 로봇 승부수 임박했나…‘휴보 아버지’ 다시 CES행 - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVBTYXA5aGVpM0N2dFJydW9tWWw5VWVhaUNfUjAwSXRCZF9TOHBlMEdjM2ZTM19IZ0lNWVNRRGJna0VBQ1FrMDl6a2F6ajNDaHp6emUtYVVkQ0Q1ZzgyNlAzRHgtT1R6NUh5V1JLdUg4ZVhNNDBoVExwcFNkZnNEYw?oc=5",
+            "published": "2026-11-05T07:50:05.000Z",
+            "snippet": "삼성 로봇 승부수 임박했나…‘휴보 아버지’ 다시 CES행 이데일리"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "[취재후일담] 두 달 앞둔 CES…새 기술을 향한 기업들의 엇갈린 속도",
+          "summary": "CES 2027 개막을 두 달가량 앞두고 국내 주요 기업들의 준비 상황을 짚은 기사입니다. AI·로봇 등 신기술을 전면에 내세우는 기업이 있는 반면 신중한 행보를 보이는 기업도 있어, 기업마다 기술 전환 속도에 차이가 드러나고 있다고 전했습니다.",
+          "why": "국내 대기업들이 CES에서 어떤 기술을 앞세울지에 따라 내년 국내 전자·IT 업계의 투자 방향을 미리 읽을 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[취재후일담] 두달 앞둔 CES…새 기술 향한 기업들 다른 속도 - 아시아투데이",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4dGo5d243ak0weW83TFFWNG1RZUc0V0tpVkQxY3d2N3J6NFBwUFI4bE1NaFZ4QUNvZmlrczBWNEUwdGY2SHlIczRxWE5RYTBMbEVmSERLLUgzbnA1T0pubWhCdWtuNmF0aXpCdGNR?oc=5",
+            "published": "2026-11-06T05:15:50.000Z",
+            "snippet": "[취재후일담] 두달 앞둔 CES…새 기술 향한 기업들 다른 속도 아시아투데이"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "\"어묵이 CES 가고 우주도 꿈꾼다\"…삼진어묵 혁신의 출발점은 '고객'",
+          "summary": "부산의 어묵 기업 삼진어묵이 CES에 진출한 경험과 우주 식품까지 바라보는 혁신 전략을 소개했습니다. 기술 혁신의 출발점을 고객 경험에서 찾았다는 점을 강조했습니다.",
+          "why": "전통 식품기업도 CES를 브랜드 혁신과 해외 진출의 무대로 활용하고 있음을 보여주는 사례로, 비(非)IT 기업의 CES 참가가 늘어나는 흐름과 맞닿아 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "“어묵이 CES 가고 우주도 꿈꾼다”…삼진어묵 혁신의 출발점은 '고객' - 청년의사",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1UV9nWVB3UExwZDZnLWZVWGZuQ0JOU1VxYWcySm5FbTFRVEtESFFlMzVHLXBCLUZmLTUxeTZiMDZRMDdGaG1lclozNHFJZEZvQmpteGRsbXJ0N3Y3dkM2dnJFdUZfU3Q4cTRpQTZfdw?oc=5",
+            "published": "2026-11-05T21:20:57.000Z",
+            "snippet": "“어묵이 CES 가고 우주도 꿈꾼다”…삼진어묵 혁신의 출발점은 '고객' 청년의사"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신제품·기술 트렌드",
+      "items": [
+        {
+          "index": 22,
+          "title_ko": "AMD 젠6 '메두사 포인트', 레노버 첫 OEM 테스트서 2.0GHz로 라이젠 9 9950X3D 앞서",
+          "summary": "AMD의 차세대 젠6(Zen 6) 기반 모바일 프로세서 '메두사 포인트(Medusa Point)'가 레노버의 OEM 시제품 테스트에서 2.0GHz라는 낮은 클럭으로도 데스크톱 최상위 칩 라이젠 9 9950X3D를 앞선 결과가 유출됐습니다. CES 2027을 전후해 노트북 신제품에 탑재될 가능성이 거론됩니다.",
+          "why": "차세대 AI PC 성능 경쟁이 본격화되면서 메모리·디스플레이 등 국내 PC 부품 공급망에도 수요가 늘어날 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "AMD Zen 6 Medusa Point Beats Ryzen 9 9950X3D at 2.0 GHz in First Lenovo OEM Test - Tech Times",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWENKWGhCWGdHUV9mX2M2V0MzWUZZbjUwNmpUSktuZG52azhoYktpVGpsNlpjMGJSYm5icDViR21RTzE5T2Z5c3o0N05kbEtoSGpmN3Z2b1pvMnFJQTNtTWNHOEhRRXNPSnU1cDRvNkxnWVE0eHYwdXdnUkhoM2ZxQlFPWnR6QmkydTREdFZHaGVBY3MwdjBVVGVUWjBhWUQ2S2N2NmtrUjg2TlF0NEoxUWIyVWpWaUFPNGxiTVA1OXpBYWQyeXV3?oc=5",
+            "published": "2026-11-05T23:34:37.000Z",
+            "snippet": "AMD Zen 6 Medusa Point Beats Ryzen 9 9950X3D at 2.0 GHz in First Lenovo OEM Test Tech Times"
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "인텔 노바레이크, 90℃ 이상에서 최대 클럭 5.1GHz로 엄격히 제한",
+          "summary": "인텔의 차세대 데스크톱 프로세서 노바레이크-S(Nova Lake-S)가 칩 온도가 90℃에 도달하면 최대 동작 클럭을 5.1GHz로 제한하는 것으로 알려졌습니다. 최근 세대에서 불거진 안정성 문제를 의식해 성능보다 안전성을 우선한 조치로 풀이됩니다.",
+          "why": "AMD와 인텔의 차세대 칩 경쟁이 CES 시즌 PC 신제품 구도를 좌우할 전망이어서, 국내 PC·노트북 구매자는 출시 일정과 실제 성능 차이를 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Intel Nova Lake sacrifices performance for safety with strict max frequency lock above 90 C - Notebookcheck",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSHozWnF2b2s4RXpqSzllclZmY2ppQlZhY0VfZXZRUVlmTS1kc0pHNG9MbEthcndoYndhR2JSWnBlekhiekd2MWFtb29VQTNxMUpDemNSNm8wRHNZRVNqNHp3a2NHUFh6OExxdGdhbHBEUjVOV2p1S0RXLVdQc3ZCVnZhYk82ZF9lUnp1bDlyclFIUTRRMDNVT3Z6Sk1SWkVBZ19EUUYyczVvcUFLUF84RmhnaV9hZWE4T21XX3puSUdldy00bDlsNUY2MnNQS0x0Q3c?oc=5",
+            "published": "2026-11-05T08:29:00.000Z",
+            "snippet": "Intel Nova Lake sacrifices performance for safety with strict max frequency lock above 90 C Notebookcheck"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "삼성, 'HDR10+ 어드밴스드'를 클라우드 게이밍으로 확대",
+          "summary": "삼성전자가 차세대 HDR 영상 규격 'HDR10+ 어드밴스드'의 적용 범위를 클라우드 게이밍까지 넓혔습니다. TV 화질 기술을 게임 스트리밍으로 확장해 게이밍 TV 생태계를 강화하려는 행보입니다.",
+          "why": "돌비 비전과 경쟁하는 삼성 주도 HDR 규격이 게임 분야로 넓어지면, 국내 TV 소비자의 게이밍 화질 경험과 표준 경쟁 구도에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Samsung expands HDR10+ Advanced to cloud gaming - Inside CI",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzZmR0NIbWl2bGkyWXIyWExyc3lCVmtMR190Yk5TeUU2ZGhvdEhmWlFNUnM0RWJxVHVHYi1Qa0xJYXo4czZRMkIxRVRwZnVrUGx3VTV6ZjRQZmQ5Y3lPQmpwZUJJZlJ6UmptWF9RM2xfNUhrWXdIMDB1TVVueU5MdFAwSkE1MGx5VDVlSUJUTXlqV0UxcGc?oc=5",
+            "published": "2026-11-06T09:51:39.000Z",
+            "snippet": "Samsung expands HDR10+ Advanced to cloud gaming Inside CI"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "[지멘스] 보이지 않는 산업용 AI를 '만질 수 있게'…CES 2026 지멘스 전시 설계법",
+          "summary": "지멘스가 CES 2026에서 눈에 보이지 않는 산업용 AI와 디지털 트윈 기술을 관람객이 직접 체험할 수 있도록 전시를 구성한 방식을 분석한 기사입니다. B2B 기술을 대중에게 직관적으로 전달하는 전시 전략이 핵심입니다.",
+          "why": "CES 2027에서 산업용 AI·제조 솔루션을 알리려는 국내 B2B 기업에게 참고할 만한 전시 사례입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[Siemens]보이지 않는 산업용 AI를 ‘만질 수 있게’… CES 2026 지멘스 전시의 설계법 - https://aimkt.biz/",
+            "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOEVWaUJ3c2ZRSlBRU0RncUlld3BUeFA0amhwT0w3cjNQNnRiZHNiV05EWHpoSElwejZDTUVSU1FzQ180S0gta0xXT0x4RF9RbzVENzB4bXdYT0FFbGx1MjZqM1ZXTlJaVFRmLUh4aUQ0NkpNR3gyRnJuMUxTTlZNeDFUNUtCQkZCdG9pY0x3by1oZ2JmVHhXdWRZUHI1N1hSOFdveEh2TlZyZXRKYnJvOFI5dXZoTzJuNWJBaGp3Vy14RG5OcG5RZzdoSk9MSFJvaHFtU25aWlZjMDk3TDVkSWJQbDhxUmNhZGtjdlFxU0NtcFB0SWJJVHYzcjZCaHV0Ni1kcGxZcHd3cTZhUFFWY01pMl9GbUlaNzZlaEJlWnJQUzg?oc=5",
+            "published": "2026-11-05T23:47:23.000Z",
+            "snippet": "[Siemens]보이지 않는 산업용 AI를 ‘만질 수 있게’… CES 2026 지멘스 전시의 설계법 https://aimkt.biz/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 35,
+          "title_ko": "벨로시티 AI, CES 2027 맞춘 AI 근력 코치·웨어러블 출시 앞두고 약 200만 달러 투자 유치",
+          "summary": "스타트업 벨로시티 AI(Velocity AI)가 약 200만 달러(약 27억 원)의 투자를 유치했습니다. 이 회사는 CES 2027에 맞춰 새 웨어러블 기기와 AI 기반 근력 운동 코치 서비스를 선보일 계획입니다.",
+          "why": "AI 헬스케어 웨어러블이 CES 2027의 주요 스타트업 분야로 떠오르고 있어, 비슷한 분야의 국내 스타트업에게는 경쟁 동향을 살필 기회입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Velocity AI Raises Nearly $2 Million Ahead of Launch of New Wearable and AI Strength Coach Timed for CES 2027 - Outdoor Sportswire",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY1hxWlJLblVYN3N0U1NiV0lhZGJIT2ozRmZ0ZVl4VlJZMlV6VzNqQUNSeVBwbWUzTk9BYm9tMlZUcU9kM3VBLV90bjNRNndaQ0VYaFN0NnlVSnJhRjZqdEVMa2piVHVNeVZZeGRHMlVTak5lTExjR1lhLThKVWRxcjJhdy14QWZaMjdDRmZGVVRaYU80RGc3aG1UTVBnQ2dJbzhFZzZJUW1ray1FRURfN1hxMENWVHFCa0xyWEo2R1VlSnFQUHUxbXA1VWlRSlVwZXIyeE9qclpLWE0?oc=5",
+            "published": "2026-11-05T13:09:31.000Z",
+            "snippet": "Velocity AI Raises Nearly $2 Million Ahead of Launch of New Wearable and AI Strength Coach Timed for CES 2027 Outdoor Sportswire"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 29,
+          "title_ko": "리얼보틱스, 외로움 해소용 1만 2천 달러 데스크형 휴머노이드 공개",
+          "summary": "CES에서 휴머노이드 로봇을 선보여 주목받았던 리얼보틱스(Realbotix)가 외로움 해소를 내세운 약 1만 2천 달러(약 1,600만 원)의 데스크형 휴머노이드를 공개했습니다. 기존 제품 'Echo'는 'Series 1'로 이름을 바꿨으며, 제작 전 5,975달러를 먼저 청구하고 별도 비전 애드온이 없으면 클라우드 AI에 의존하는 구조라는 지적도 나왔습니다.",
+          "why": "반려·돌봄용 AI 로봇 시장이 실제 상용화 단계로 넘어가고 있어, 고령화가 빠른 한국에서 돌봄 로봇 수요와 가격 수준을 가늠하는 참고 사례가 됩니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "Realbotix Unveils $12,000 Desk Humanoids to Fight Loneliness - Android Headlines",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTduZjVqeHRvbk55UkUtc2Z0dXFMM2k1aVczT2dSUTNEY1dsRnZJQ0VLUGp3RU5UY3ZIWFZVMmZ4VlVVNGFydkw0Wm5QVUxvWE1LN1A4cjdPR21qdHZoZGZfNUxGYkctS0hXa29TNHFCaEJyVXpQdHBOOFJlUlZlNHpVTnF2MXFxLTN3Nnpn?oc=5",
+            "published": "2026-11-05T18:34:17.000Z",
+            "snippet": "Realbotix Unveils $12,000 Desk Humanoids to Fight Loneliness Android Headlines"
+          }
+        }
+      ]
+    }
+  ]
+}
