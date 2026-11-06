@@ -1,0 +1,225 @@
+{
+  "overview": "■ 전날 미국 증시\n금요일(현지 시각) 뉴욕증시는 혼조로 마감했습니다. 나스닥은 1.09%(264포인트) 올랐고 다우는 0.46% 내렸으며, S&P500 등락률은 수집된 기사에서 확인되지 않았습니다. 전날 미국 선거의 '블루 쓰나미' 결과를 계기로 나스닥이 5.5% 폭락한 '검은 목요일'과 조정 국면 진입이 있었고, 금요일에는 엔비디아(7%대)·TSMC(6%대) 등 AI 반도체와 데이터센터주에 저가 매수세가 들어왔습니다. 다만 10월 비농업 고용이 16만5천 명 증가하고 실업률이 4.1%로 내리면서 연준의 12월 금리 인상 기대가 커졌고, 국채금리는 오르고 국채 가격은 밀렸습니다. 달러와 유가의 구체적 흐름은 수집된 기사에서 확인되지 않았습니다. 주간 기준으로는 선거 주간 내내 기술주 중심의 큰 손실이 이어진 가운데 코어위브 회사채 금리가 16%를 넘는 등 AI 부채시장 스트레스도 부각됐습니다.\n\n■ 다음 주(월요일) 국내 증시 전망\n코스피는 한 주 동안 11.7% 급락해 5000선을 내줬고, 금요일에는 개장 3분 만에 매매가 멈추는 충격을 겪었습니다. 월요일에는 금요일 밤 미국 반도체주 반등을 반영해 반도체 중심의 기술적 반등 가능성이 있습니다. 하지만 연준의 금리 인상 우려와 미국 국채금리 상승이 외국인 수급과 원·달러 환율에 부담을 줄 수 있어, 전체적으로는 '보합 속 변동성 확대' 쪽에 무게가 실립니다. 야간선물과 환율 수치는 기사에서 확인되지 않았으므로 월요일 개장 전에 직접 점검해야 합니다. 증권가는 이번 급락을 AI 성장성 훼손보다 수급 충격으로 보고 반도체 전망을 유지하고 있으며, 다음 주에는 미국 물가지표(CPI)와 외국인 수급이 5000선 회복의 관건입니다. 그 다음 주에는 엔비디아 실적(11월 17일)과 Anthropic IPO가 반도체·AI 관련주의 방향성을 가를 변수로 꼽힙니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "[뉴욕마감] 기술주 반등에 나스닥 1.09% 상승…저가 매수세 유입",
+          "summary": "금요일 뉴욕증시는 나스닥이 1.09%(264포인트) 오르고 다우가 0.46% 내리는 혼조로 마감했습니다. 전날 '블루 쓰나미' 선거 결과로 폭락했던 AI·반도체 등 기술주에 저가 매수가 몰렸고, 경기민감·전통 업종은 약세였습니다.",
+          "why": "나스닥 기술주 반등은 월요일 삼성전자·SK하이닉스 등 국내 반도체주 투자심리 회복에 우호적이지만, 다우 약세와 금리 부담 때문에 반등 폭은 제한적일 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[뉴욕마감] 기술주 반등에 나스닥 1.09%↑…저가 매수세 유입 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuUzBkMG9RaTBMWmctMklDdUU0THJJQkxOcTl1Zm5WNjNPYUNCRGJxbXJhVmUyQWYwRktOTjc2dmtzRkJTclVWWjhuZ1BMTlgzbEg2djFLbWY?oc=5",
+            "published": "2026-11-06T21:34:39.000Z",
+            "snippet": "[뉴욕마감] 기술주 반등에 나스닥 1.09%↑…저가 매수세 유입 뉴스1"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "나스닥 조정 국면 진입…과거 사례로 본 이후 흐름",
+          "summary": "목요일 나스닥이 5.5% 급락하면서 고점 대비 10% 이상 떨어진 조정 국면에 들어섰습니다. CNBC는 과거 조정 이후 회복 사례를 들어 중장기적으로는 반등한 경우가 많았다고 분석했습니다.",
+          "why": "나스닥 조정 국면은 국내 기술주와 코스닥 성장주의 변동성을 키울 수 있어, 단기 반등이 나와도 추세 전환을 확인하기 전까지는 신중한 시각이 우세합니다.",
+          "article": {
+            "source": "CNBC Markets",
+            "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+            "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+            "published": "2026-11-06T20:42:28.000Z",
+            "snippet": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows."
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "미국 10월 고용 16만5천 명 증가…실업률 4.1%로 하락",
+          "summary": "미국 10월 비농업 고용이 16만5천 명 늘고 실업률은 4.1%로 내려 노동시장이 예상보다 견조했습니다. 경기 둔화 우려는 줄었지만 물가 압력과 긴축 지속 가능성이 함께 부각됐습니다.",
+          "why": "강한 고용 지표는 연준 긴축 우려를 키워 달러 강세와 원화 약세 압력으로 이어질 수 있고, 외국인 순매도 부담 요인이 될 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Jobs Report Live Updates: U.S Adds 165,000 Jobs in October, Unemployment Falls to 4.1% - The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWtWUC0wbVZ5Um5oQUpudDNtcUZWLXV0SWJDRFRpSVBTRDhJTHUtT20xV3hPR3FwV2NRUERjVVFMeWgtMFhVV2QyNEVJcndzSEJ2Wmo3dkMzb2FWWkV4OXk0R292RnhOUENMbi1rX2d3NE4xV2RJcDIzWmJrbERwdkpabWo4QnhGb0E?oc=5",
+            "published": "2026-11-06T21:11:05.000Z",
+            "snippet": "Jobs Report Live Updates: U.S Adds 165,000 Jobs in October, Unemployment Falls to 4.1% The New York Times"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "강한 고용에 미 국채 약세…연준 금리 인상 베팅 확대",
+          "summary": "고용 지표 발표 뒤 연준의 추가 금리 인상 기대가 커지면서 미국 국채 가격이 떨어지고 금리는 올랐습니다. 금리 상승은 기술주 밸류에이션에 부담 요인으로 작용했습니다.",
+          "why": "미국 금리 상승은 국내 성장주·바이오주 밸류에이션에 부담이 되고 원·달러 환율 상승 요인이 될 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5",
+            "published": "2026-11-06T20:36:10.000Z",
+            "snippet": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets Bloomberg.com"
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "고용 지표 이후 연준, 12월 금리 인상 기조 유지 전망",
+          "summary": "로이터는 견조한 고용 지표를 근거로 연준이 12월 금리 인상 계획을 고수할 것으로 시장이 보고 있다고 전했습니다. 인플레이션이 여전히 높은 가운데 금리 인하 기대는 더 멀어졌습니다.",
+          "why": "연준의 추가 인상 가능성은 외국인 자금 유출 우려를 키워 코스피 반등 탄력을 제한할 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Fed seen sticking to December rate hike after jobs data - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+            "published": "2026-11-06T16:04:55.000Z",
+            "snippet": "Fed seen sticking to December rate hike after jobs data Reuters"
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "AI의 '신용카드' 비용 상승…코어위브 회사채 금리 16% 돌파",
+          "summary": "AI 데이터센터 업체 코어위브의 회사채 금리가 16%를 넘어서며 AI 관련 부채시장의 스트레스가 드러났습니다. 데이터센터 투자 둔화 우려가 커지면서 AI 인프라 기업의 자금조달 비용이 오르고 있습니다.",
+          "why": "AI 데이터센터 투자 둔화 우려는 SK하이닉스·삼성전자의 HBM 수요 전망과 전력기기·데이터센터 관련주에 잠재적 부담 요인입니다.",
+          "article": {
+            "source": "CNBC Markets",
+            "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+            "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+            "published": "2026-11-06T17:09:53.000Z",
+            "snippet": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next."
+          }
+        }
+      ]
+    },
+    {
+      "name": "다음 주 국내 증시 전망",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "[주간증시전망] 코스피 일주일 새 11.7% 급락…5000선 사수, 미국 물가·외국인 수급에 달렸다",
+          "summary": "코스피는 한 주 동안 11.7% 급락하며 5000선이 무너졌습니다. 증권가는 다음 주 5000선 회복 여부가 미국 물가지표 결과와 외국인 수급에 달렸다고 진단했습니다. 미국 금리 인상 우려가 이어지면 하방 압력이 지속될 수 있지만, 낙폭 과대에 따른 기술적 반등 가능성도 제기됩니다.",
+          "why": "다음 주 국내 증시는 미국 CPI와 외국인 순매수 전환 여부에 따라 반도체 대형주 중심으로 방향이 갈릴 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[주간증시전망] 코스피 일주일 새 11.7% 급락⋯5000선 사수, 美 물가·외국인 수급에 달렸다 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Zd2dIcmM4Zk9UeWlNNEZFQkVPUXdFamVvMGRjbTM5aTdjMktvZVNTV3YtTXVqRVZlS3FqQVB2ODJ0MGozNHgzTTJ3d1RiQ2FubUJ6NA?oc=5",
+            "published": "2026-11-06T21:00:00.000Z",
+            "snippet": "[주간증시전망] 코스피 일주일 새 11.7% 급락⋯5000선 사수, 美 물가·외국인 수급에 달렸다 이투데이"
+          }
+        },
+        {
+          "index": 49,
+          "title_ko": "개장 3분 만에 멈춰선 코스피…9·11에 버금가는 충격",
+          "summary": "금요일 코스피는 개장 3분 만에 급락으로 매매가 일시 정지되는 사태를 겪었으며, 시장에서는 9·11 테러 당시에 버금가는 충격으로 평가했습니다. 전날 미국 나스닥 5.5% 폭락이 직접적인 원인이 됐습니다.",
+          "why": "투매 이후 금요일 밤 미국 기술주가 반등한 만큼 월요일에는 낙폭 일부를 되돌릴 가능성이 있지만, 높아진 변동성에는 계속 유의해야 합니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "개장 3분만에 멈춰선 코스피 … 9·11 버금가는 충격 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6aWhEZTRqSlhZVUVlYzVuOVBObUNQLUhLWjNsUDN0QmU4REpMcS03UWZXMnpzOTRDNWtzeFpQdzRHckdNWlpGQ01lY25melBZNXc?oc=5",
+            "published": "2026-11-06T08:39:39.000Z",
+            "snippet": "개장 3분만에 멈춰선 코스피 … 9·11 버금가는 충격 매일경제"
+          }
+        },
+        {
+          "index": 48,
+          "title_ko": "증권가 \"코스피 급락은 AI 성장 훼손보다 수급 충격\"…반도체 전망은 유지",
+          "summary": "증권가는 이번 코스피 급락을 AI 산업의 성장성 훼손보다 외국인·기관의 수급 충격에 따른 것으로 분석했습니다. 반도체 업종에 대한 중장기 긍정 전망은 그대로 유지했습니다.",
+          "why": "반도체 펀더멘털 전망이 유지되면서 수급이 안정되면 삼성전자·SK하이닉스 중심의 반등 가능성이 열려 있다는 해석이 가능합니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "증권가, 코스피 급락에 “AI 성장 훼손보다 수급 충격”…반도체 전망은 유지 - 한국면세뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWk1zakRHak1RQ2xCa090ZkhJdVphNjdxQ3JEazNaQzlRQy1LZUxNclRlaWl0MVFESVpjWnltZVJDdV9paUt4cWppVGM3cG8yUjZmWHg3THZ1V19pOU9OT05TbGJ3cXBuMEE?oc=5",
+            "published": "2026-11-06T09:17:45.000Z",
+            "snippet": "증권가, 코스피 급락에 “AI 성장 훼손보다 수급 충격”…반도체 전망은 유지 한국면세뉴스"
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "5000선 깨졌는데도 \"코스피 1만 간다\"…노무라가 꼽은 상승 동력 4가지",
+          "summary": "노무라증권은 코스피가 5000선을 내준 상황에서도 3개월 8000, 장기 1만 목표를 유지했습니다. 반도체 실적, 기업가치 제고(밸류업) 정책 등 구조적 상승 동력을 근거로 들었습니다.",
+          "why": "외국계 증권사의 낙관적 시각은 투자심리 안정에 도움이 될 수 있지만, 단기 방향성은 대외 금리·수급 변수의 영향이 더 클 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "5000피 깨졌는데 여전히 “코스피 1만 간다”…노무라가 꼽은 ‘상승 동력’ 4가지 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VQ01qWGdfWmlYQmtCTE94anh3STVBTks5RTk0SjBFeVVCUVFqS25oMUN6aXVMcGVqOVc5cEp6U3hnVlQwNHB1YlJTOFl5MFNaOEHSAVNBVV95cUxOaE45a0o0OFRBMFBULTd4bjIzSnJSNURiU2JtNE52R3gyaW5teGU5R050anhROVoxZExSRjQzWGs0QVdkN1REQXNtMFNSYW9JTVlwaw?oc=5",
+            "published": "2026-11-06T10:14:48.000Z",
+            "snippet": "5000피 깨졌는데 여전히 “코스피 1만 간다”…노무라가 꼽은 ‘상승 동력’ 4가지 서울경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 40,
+          "title_ko": "엔비디아, 약 2년 만의 최대 하루 폭락 뒤 7% 넘게 반등…심리 반전 배경은",
+          "summary": "엔비디아는 목요일 약 2년 만의 최대 일일 낙폭을 기록한 뒤 금요일 7% 이상 반등했습니다. 과매도 인식과 11월 17일 실적 발표를 앞둔 기대감이 저가 매수를 이끌었습니다.",
+          "why": "엔비디아 반등은 HBM 공급사인 SK하이닉스와 삼성전자 등 국내 반도체주의 월요일 반등 시도에 우호적인 신호입니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal? - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQV3JvQXp6dDdlakUwMHhUMEl5RVlXcEVLTXRWQm5WcldnbTRzTzVMU25lWGQtT1BRWFhwNm1MNHVDWmhZOVI5S1pHSVkxQVdJc2pLUXZqYVh3OHEyUmI2VFY1M21lTEJxWWJqcFVreEFZcDkwNVplODZCY0ZlSDlqSEx1REJTbWgzYkthYUg4WjBzZUVzcnFDNVVwQ0NPd0RMbzVENVlxUWN0U2NZVVBjZVh5UUVLYjhkSF9sYUFJNzI1NzJlOVJreE5rbFlpQ0ZYNkt1cHdfd3F2QlRjZ0EzT3ZGNks4SVp2VkROTEc1Y3BjMDVHTDU2MThzZmJQMURHak5LRXNCak5tdzFCczFn0gGUAkFVX3lxTE1YQVY4ZHhVbE1OcUl6V1pjbmlxV1paN1VpTjBvdm1faGtEZUdmRUxLMG5HVFpsUXJvc3NLUE9wbW5nSzFWNG52YWxwdEY1T21lMzEwcU1xcTlRVFg4a0FvYk1IRVV3UEY4TXRPUzZLZk5lSkZFNWhMcUdON0p3UkZHeDZEYzlkcVp4MzJwVHBoRncxLUQ3ZDhwQ0hadGItWmVob1lPOFZYZWdLajFOaERfeTZLTl9BRjBkU3RvbkZFT00wX0VSWkR0RzBVc1BxVGFmNHI0RUlDeDJqbkJBRDZYQjV3b1pmeDNYVkdvZ2VZdWhQNm9UOWI0dE5aNktIcmdUXzQ0WnVCc25XTlpsaHhET09YcA?oc=5",
+            "published": "2026-11-06T16:07:30.000Z",
+            "snippet": "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal? Livemint"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "대만 TSMC, 뉴욕증시서 6%대 급등…374달러선 마감",
+          "summary": "TSMC ADR이 뉴욕증시에서 6%대 급등해 374달러선에서 마감했습니다. AI 반도체 투매 하루 만에 파운드리 대장주로 저가 매수세가 유입됐습니다.",
+          "why": "TSMC 강세는 삼성전자 파운드리와 국내 반도체 소부장(소재·부품·장비)주에 긍정적인 심리 신호로 작용할 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "대만 TSMC 뉴욕 증시서 6%대 급등 374달러선 마감 : 기업주식정보 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WSUNGY3JYZ0xJX2lsdWItWFlzeGV5OWZCTFpJS3ZrQ01Zbk41Z1kxYWJicU5qN2ZLZDlZUnNuOGx1MzlXVGhKOVdDdw?oc=5",
+            "published": "2026-11-06T21:33:00.000Z",
+            "snippet": "대만 TSMC 뉴욕 증시서 6%대 급등 374달러선 마감 : 기업주식정보 재경일보"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "결국 깨진 삼성전자 '20만원'…증권가 \"역사적 저평가 구간\"",
+          "summary": "삼성전자 주가가 코스피 급락 속에 20만 원선을 내줬습니다. 증권가는 현재 주가 수준을 밸류에이션상 역사적 저평가 구간으로 평가했습니다.",
+          "why": "삼성전자는 코스피 시가총액 비중이 커서, 20만 원선 회복 여부가 다음 주 지수 반등 강도를 좌우할 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "결국 깨진 삼성전자 '20만원'…증권가 \"역사적 저평가 구간\"[종목현미경] - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMQ0JUN0h4VFB0YXVuaVNqcl9yNUhVUjl1VXROOGVpSWlmWHNoUUlEQXd2dGxDR0ZwTTRQMldhLTdEYTNZY2JHZUlhbHJTa2pISmNRVjdWczJIV3duWXJn?oc=5",
+            "published": "2026-11-06T21:00:00.000Z",
+            "snippet": "결국 깨진 삼성전자 '20만원'…증권가 \"역사적 저평가 구간\"[종목현미경] 뉴스1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "다음 주 일정·이벤트",
+      "items": [
+        {
+          "index": 43,
+          "title_ko": "다음 주 전망: 미국 물가·영국 GDP·정치 변화가 시장 시험대",
+          "summary": "다음 주에는 미국 소비자물가(CPI) 등 인플레이션 지표와 영국 GDP 발표가 예정돼 있습니다. 미국 선거 이후의 정치 지형 변화도 시장 변동성 요인으로 꼽힙니다.",
+          "why": "미국 물가가 예상보다 높게 나오면 연준의 금리 인상 우려가 커져 코스피 5000선 회복이 지연될 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Week ahead: US inflation, UK GDP and political shifts put markets to the test - Equiti Global",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUZoaWU2bmNXOUpFT0NVMDJRdTVXZC1BRlplYnJ3Tk1lQXY0UHNmMHVUUWViZld2ZmxiUTFXb1JVMVFpR2VwNlFZVEJ0aDBKRnYtemUzVzlTTjdIV3NUZDNfX3NMci1yVE9VaWg3NzlWYy10U2Jya09kb0UzbEFQQ0lYZFZXTGhpTWhXaV95dnZRRzdVbU5RcmFn?oc=5",
+            "published": "2026-11-06T15:53:58.000Z",
+            "snippet": "Week ahead: US inflation, UK GDP and political shifts put markets to the test Equiti Global"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "증시 전망: 엔비디아 실적, Anthropic IPO, 연준 금리 결정",
+          "summary": "배런스는 향후 시장의 핵심 변수로 엔비디아 실적(11월 17일), Anthropic 기업공개(IPO), 연준 금리 결정을 꼽았습니다. 이 이벤트들이 AI 투자 심리 회복 여부를 가늠하는 시험대가 될 것으로 내다봤습니다.",
+          "why": "엔비디아 실적과 Anthropic IPO 흥행 여부는 SK하이닉스·삼성전자 등 국내 AI 반도체 관련주의 중기 방향성을 결정할 주요 변수입니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Stock Market Outlook: Nvidia Earnings, Anthropic’s IPO, and the Fed Rate Decision - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
+            "published": "2026-11-06T19:57:00.000Z",
+            "snippet": "Stock Market Outlook: Nvidia Earnings, Anthropic’s IPO, and the Fed Rate Decision Barron's"
+          }
+        }
+      ]
+    }
+  ]
+}
