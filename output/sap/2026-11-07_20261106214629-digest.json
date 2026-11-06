@@ -1,0 +1,251 @@
+{
+  "overview": "SAP가 ERP Private Edition 전환 옵션을 2035년까지 연장한다는 소식이 나와, S/4HANA 전환 일정을 짜는 고객사의 계획에 영향을 줄 전망입니다. 개발 도구 쪽에서는 SAP Fiori tools 2611 릴리스가 AI 스킬과 GitHub Copilot 플러그인을 추가했고, ABAP Cloud Developer Trial은 11월 17일부터 배포가 중단됩니다. AI 분야에서는 Joule Work, Snowflake와의 제로 카피 연동, 외부 AI 에이전트 접근 정책이 함께 주목받고 있습니다. 동시에 AI 도입 속도를 조직이 따라가지 못한다는 조사 결과도 나왔습니다. 국내에서는 SAP Business One 30주년을 맞아 파트너 생태계를 강조하는 소식이 전해졌습니다.",
+  "categories": [
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "SAP, ERP Private Edition 전환 옵션을 2035년까지 연장",
+          "summary": "ERP Today 보도에 따르면 SAP가 ERP Private Edition 전환 옵션의 적용 기한을 2035년까지 늘렸습니다. 세부 조건은 원문 기사에서 확인해야 합니다.",
+          "why": "ECC·S/4HANA 전환 로드맵과 계약 전략을 세우는 고객사와 컨설턴트에게 일정 판단의 핵심 근거가 됩니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP Extends ERP Private Edition Transition Option to 2035 - ERP Today",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFB1Sk4yclNhWTJvaHdaZVdsZXNJcER1YmpUZnRrbHBOSjhVTEl6NmQ5NXVPUG0zVDFDeEVYd1lTT2tWeC02XzZuSDhyZjJlcXBVVThtZEkzQmxjUXViaThZaE9VMzVOYzJhcXlhbEFFZXhrNUhabTRqMElTNUJlZkZ3?oc=5",
+            "published": "2026-11-06T21:06:32.000Z",
+            "snippet": "SAP Extends ERP Private Edition Transition Option to 2035 ERP Today"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "SAP Fiori tools 2611 업데이트: AI 스킬, 풀스택 ABAP, 앱에서 ABAP으로의 탐색 기능",
+          "summary": "2611 릴리스에는 AI 스킬 추가와 GitHub Copilot용 플러그인이 포함됐습니다. 같은 IDE 안에서 Fiori 앱과 그 뒤의 ABAP 소스를 바로 오가는 기능도 처음 들어갔습니다. App Info 페이지 개선, 확장 프로그램 배포 방식 변경, Project Accelerator 업데이트도 함께 담겼습니다.",
+          "why": "Fiori·ABAP 개발자의 개발 생산성과 AI 기반 개발 방식에 바로 영향을 주는 업데이트입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Fiori Tools 2611 Update: AI Skills, Full-Stack ABAP, and App-to-ABAP Navigation",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-fiori-tools-2611-update-ai-skills-full-stack-abap-and-app-to-abap/ba-p/14517903",
+            "published": "2026-11-06T15:58:17.000Z",
+            "snippet": "The 2611 release of SAP Fiori tools keeps pushing on AI-driven development: more skills, a plugin for GitHub Copilot, and the first direct link between your SAP Fiori app and the ABAP sources behind it within the same IDE. There are also improvements to the App Info page, a change to how we ship the extensions, and an update on the Project Accelerator."
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "ABAP Cloud Developer Trial 제공 중단",
+          "summary": "11월 17일부터 ABAP Cloud Developer Trial을 Docker Hub에서 내려받을 수 없게 됩니다. 'SAP ABAP Platform 2025 developer edition on SAP HANA' Cloud Appliance 템플릿으로도 새 어플라이언스를 만들 수 없습니다. 기존 트라이얼 이용자에 대한 안내도 함께 공지됐습니다.",
+          "why": "ABAP Cloud 학습이나 PoC에 트라이얼 환경을 쓰던 개발자는 중단 전에 필요한 환경을 확보하거나 대안을 찾아야 합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Discontinuation of the ABAP Cloud Developer Trial",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/discontinuation-of-the-abap-cloud-developer-trial/ba-p/14517552",
+            "published": "2026-11-06T09:55:48.000Z",
+            "snippet": "Many developers used the ABAP Cloud Developer Trial to explore ABAP Cloud, experiment, learn, and build.Starting November 17, the ABAP Cloud Developer Trial will no longer be available for download from Docker Hub, and the corresponding Cloud Appliance Template SAP ABAP Platform 2025 developer edition on SAP HANA will no longer be available for creating appliances.Existing ABAP Cloud Developer Tri"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "SAP Incentive Management 스타터 에디션 출시",
+          "summary": "SAP News Center를 통해 SAP Incentive Management의 스타터 에디션 출시가 발표됐습니다. 영업 보상 관리 솔루션을 비교적 가볍게 도입할 수 있는 선택지로 보입니다.",
+          "why": "영업 인센티브 관리 솔루션 도입을 검토하는 고객에게 새로운 도입 옵션이 생겼습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "New SAP Incentive Management, Starter Edition, Now Available - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOelF6WllnbVZNVjQtRnlKQ09zN2czbkJlNXRCRnlCWjU2U0FSbk1PcjIzTHRXWjQ1X0ZTaDdjVXk1UWxTd1YtTWpZTzJBQVM5Xy1MOUFaUnpBWkI5OUJCZEl6YXlxTWdJYzY1dHV5U1l1VFpiWDdzMkxmYmF3THc3eU1KQ2JDcHVJNW4tVg?oc=5",
+            "published": "2026-11-04T12:21:14.000Z",
+            "snippet": "New SAP Incentive Management, Starter Edition, Now Available SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "SAP TechEd 2026 베를린에서 주목받은 Joule Work 모바일 앱과 신규 기능 두 가지",
+          "summary": "SAP는 AI 시대에 맞춰 Joule Work를 사용자 경험의 주 출발점으로 재설계했습니다. 하이브리드·모바일 근무가 늘면서 Joule Work 모바일 앱에 대한 관심이 커지고 있습니다. 지난주 베를린에서 열린 SAP TechEd 2026에서 이런 흐름이 뚜렷하게 드러났으며, 글에서는 새로 추가된 앱 기능 두 가지를 소개합니다.",
+          "why": "SAP 사용자 경험의 중심이 Joule 기반으로 바뀌고 있어 UX 설계와 변화 관리 전략에 반영해야 합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Joule Work mobile app at SAP TechEd 2026 in Berlin, and two nice new app enhancements.",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/joule-work-mobile-app-at-sap-teched-2026-in-berlin-and-two-nice-new-app/ba-p/14517489",
+            "published": "2026-11-06T14:33:47.000Z",
+            "snippet": "As AI is changing the way how we work, SAP has redesigned the experience for SAP´s users with Joule Work as the main starting point. As most users work in a hybrid if not mobile work environment, the Joule Work mobile app gets more and more attention. This got obvious at SAP TechEd 2026, that took place last week in Berlin."
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "SAP와 Snowflake, 제로 카피 연동으로 엔터프라이즈 AI의 새 시대 연다",
+          "summary": "Snowflake가 SAP와의 제로 카피(Zero-Copy) 데이터 연동을 발표했습니다. 데이터를 복제하지 않고 SAP 데이터를 Snowflake에서 활용해 엔터프라이즈 AI를 구현하는 것이 핵심입니다.",
+          "why": "SAP Business Data Cloud와 외부 데이터 플랫폼을 연계하는 데이터 아키텍처 설계에 중요한 선택지가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP and Snowflake Unleash a New Era of Enterprise AI with Zero-Copy Integration - Snowflake",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2tBVXQwNWR6YmJXY1BQTlZVVHIxYjRpNWlIWnA0SkxpbDEwZElFd2RRSzhaR3NvSk50U2plRGdqdmtvYktlR3VWcnhmdUJaRzhPeERJZ1oxMjd6cnpoMFFTTzM4U1AyaTA0NmpwM2RrcmZyU202bzM2dUE2OTYzdXVvVTNnLVFrNVp1WQ?oc=5",
+            "published": "2026-11-04T03:50:55.000Z",
+            "snippet": "SAP and Snowflake Unleash a New Era of Enterprise AI with Zero-Copy Integration Snowflake"
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "SAP는 외부 AI 에이전트를 막고, Salesforce와 ServiceNow는 허용한다",
+          "summary": "Techzine Global은 SAP가 외부 AI 에이전트의 시스템 접근을 제한하는 정책을 펴는 반면, Salesforce와 ServiceNow는 상대적으로 개방적인 접근을 취한다고 비교했습니다.",
+          "why": "서드파티 AI 에이전트를 SAP와 연동하려는 프로젝트라면 SAP의 접근 정책과 라이선스 제약을 미리 검토해야 합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP blocks external AI agents. Salesforce and ServiceNow don’t. - Techzine Global",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTBpeDRCT3R4UVFFSnNpR2VyVFBZVmhkUC1HYnNHdXZCMXNuU0ctX2NpNjlpS040bTR5U010OUdQdUliV2JuWldueEZsZXg5cjRwcHRTYV8wdXJfWUk2SWt6TUx4UDZPQmlldHpSS2lXMVVyZ2NsbGluVENsRUE1RDZXY2Z0NFBDT3NMS19jbzZkc1d4RU5Rd1dWLXJtYlh5TktFY2psLXJramhXZGhBbw?oc=5",
+            "published": "2026-11-03T20:22:21.000Z",
+            "snippet": "SAP blocks external AI agents. Salesforce and ServiceNow don’t. Techzine Global"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "SAP의 LLM 토큰 최적화: 개발자와 현업 사용자를 위한 실전 가이드",
+          "summary": "AI 도구는 처리한 텍스트 양만큼 비용이 듭니다. 긴 채팅 세션, 모호한 프롬프트, 필요 이상으로 붙여넣은 파일 전체 같은 습관이 결과 품질은 그대로인 채 비용만 키웁니다. 이 가이드는 SAP 개발자와 현업 사용자가 이런 낭비를 줄일 수 있는 습관과 도구를 개선 전후 예시와 함께 제시합니다.",
+          "why": "Joule이나 생성형 AI 활용이 늘수록 토큰 비용 관리가 실무 운영의 과제가 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "LLM Token Optimization at SAP: A Practical Guide for Developers and Business Users",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/llm-token-optimization-at-sap-a-practical-guide-for-developers-and-business/ba-p/14517397",
+            "published": "2026-11-06T09:47:18.000Z",
+            "snippet": "AI tools charge for every word they process — and most of the cost comes from habits that are easy to fix. Long chat sessions, vague prompts, and pasting entire files when the model only needs ten lines can silently multiply your bill without improving the output. This guide gives SAP developers and business users a concrete set of habits and tools to reduce that waste, with before-and-after examp"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "새 조사 결과: AI 발전 속도를 조직의 적응 속도가 따라가지 못하고 있다",
+          "summary": "Economist Enterprise가 재무, HR, 공급망 리더를 대상으로 글로벌 설문을 진행했습니다. 그 결과 AI가 조직의 적응 속도보다 빠르게 발전하고 있다는 인식이 직군을 가리지 않고 공통적으로 나타났습니다.",
+          "why": "AI 도입 프로젝트에서 기술 구현만큼 조직 변화 관리가 중요하다는 근거로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "New Research Finds AI Is Moving Faster Than Organizations Can Adapt",
+            "link": "https://news.sap.com/2026/11/new-economist-enterprise-research-ai-moving-faster-than-organizations-can-adapt/",
+            "published": "2026-11-06T13:15:00.000Z",
+            "snippet": "A new Economist Enterprise global survey of finance, HR, and supply chain leaders reveals a shared reality."
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "Precisely·ASUG 공동 조사: AI 도입 가속 속 SAP 현대화 탄력, 마이그레이션 과제는 심화",
+          "summary": "Precisely와 미국 SAP 사용자 그룹(ASUG)이 공동 조사 결과를 발표했습니다. AI 도입이 빨라지면서 SAP 현대화 움직임에 힘이 붙고 있지만, 마이그레이션 과정의 어려움도 함께 커지고 있다는 내용입니다.",
+          "why": "고객사의 S/4HANA 전환과 AI 도입 우선순위를 가늠하는 시장 참고 자료가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWVRvak9aUHRVb2JQa3AtY0hqSjJaT2lSVjVQdV90cHJ2WGtzaFlNdWxnX3FkSWZ2TVZ2eDdmdmJQY0x6NEpjVUx5R185ZHlhWW5ReXIwcThRT3NfS180dTJ1ZWFYSndpNnd5YjMzLUM1T19ybVRoM25EcWg1Rk90RkFIZlpWc0Vwc09pOHJFSnVTc2djVW9GdDVfTWJkS1QtZHBEN0p6aVZtdmJTbFJ5YV9zVnVqMzFIZldfc2NnVTh0T0dNTjhMdHpELW9JU1dTNTRXSTc1bFdjWmxjZF9QS0dHbld3NHpMRjBPZkh0Q05VbnRmS0o0UmUyRGRLMnJoWWF4cFY0YzZNQ1BSOUJIOEt6QWFaS2hX?oc=5",
+            "published": "2026-11-04T14:00:00.000Z",
+            "snippet": "New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify PR Newswire"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "Siemens·GS1·SAP, 유럽 비즈니스 지갑(European Business Wallet)의 가능성 입증",
+          "summary": "SAP, Siemens, GS1이 2026년 8월 개념 검증(PoC)을 마쳤습니다. 유럽 비즈니스 지갑을 활용해 공급업체 신원과 신뢰를 디지털로 검증하는 방식입니다. 수작업 서류 확인, 분절된 컴플라이언스 절차, 사기 위험을 줄여 조달과 파트너 온보딩 부담을 덜 수 있음을 보여줬습니다.",
+          "why": "SAP Ariba와 조달 프로세스의 공급업체 온보딩·컴플라이언스 방식이 디지털 신원 기반으로 바뀔 가능성을 보여줍니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Siemens, GS1 and SAP Demonstrate the Power of the European Business Wallet",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/siemens-gs1-and-sap-demonstrate-the-power-of-the-european-business-wallet/ba-p/14517995",
+            "published": "2026-11-06T19:50:41.000Z",
+            "snippet": "A New Era for Supplier TrustIn today's complex global supply chains, knowing who you are doing business with has never been more critical or more difficult. Manual document checks, siloed compliance processes, and the ever-present risk of fraud have long burdened procurement and partner onboarding teams. That is now changing.In the Proof of Concept (PoC) completed in August 2026, SAP, Siemens, and"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "ifm의 디지털 제조 여정에서 제조업체가 배울 점",
+          "summary": "독일 센서 제조업체 ifm의 사례를 통해 제조업의 디지털 전환 경험을 소개합니다. 표준화가 더 이상 IT 목표에 그치지 않고 비즈니스 전략이 됐다는 점을 강조합니다.",
+          "why": "제조업 고객의 S/4HANA·디지털 매뉴팩처링 프로젝트에서 프로세스 표준화를 설득할 사례로 쓸 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "What Manufacturers Can Learn from ifm’s Digital Manufacturing Journey",
+            "link": "https://news.sap.com/2026/11/what-manufacturers-can-learn-from-ifm/",
+            "published": "2026-11-06T12:15:00.000Z",
+            "snippet": "For manufacturers evaluating their own transformation journey, standardization is no longer just an IT objective but a business strategy."
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "30년 동행 SAP Business One, AI 시대에도 파트너와 함께 간다",
+          "summary": "SAP 뉴스센터에 따르면 SAP Business One이 출시 30년을 맞았습니다. AI 시대에도 파트너 생태계와 함께 중소·중견기업 시장을 공략하겠다는 방향을 밝혔습니다.",
+          "why": "국내 중소·중견기업 ERP 시장에서 SAP Business One 파트너와 컨설턴트의 사업 기회를 가늠할 수 있습니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "30년 동행 SAP Business One, AI 시대에도 파트너와 함께 간다 - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOQ1MyeVRURmVsVElJak81SzlPajdsaUFHUnhvUEZqRldvTEN5UVlaUkhnd0czRi1LNnZLZjRVMnNEdjdDeTcySjZFdF81TWN3Z3Rad2ZzOVNGWV9iSE53dXR1d01pSUQyem5FR3N3QnlCeDlQc2dvM0ltYjFHdUFzZHAweGhUbDI5WV81d3B2Y2Z2bk0zdzhwcjc0bmlyNU1sR0ZvcXh1UjRqem1PZGs1cGFPdGNuUnZMTzdPM0VPcHdTVlNRZkdFWmZieU92TXh4bG1MTjNvZXFzd2pOanBrNUV2eWtBWW55UzBsY0RnbTVHNHdmZU5IS2xEbVNIYUdZRTk3QzlwTWNTajloWW0zRUFibHA3Qk10bVlRWjZPbDJpVFlv?oc=5",
+            "published": "2026-11-06T02:09:38.000Z",
+            "snippet": "30년 동행 SAP Business One, AI 시대에도 파트너와 함께 간다 SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "더 똑똑한 컴플라이언스 관리: Cloud ALM 구성·보안 분석에 '예외(Exemptions)' 기능 도입",
+          "summary": "대규모 SAP 환경에서는 소프트웨어 버전 한계, 진행 중인 구축 프로젝트, 공식 승인된 위험, 벤더 일정 등으로 모든 시스템이 모든 보안 점검을 늘 통과하기 어렵습니다. SAP Cloud ALM의 구성·보안 분석에 예외 기능이 추가되면서, 이런 정당한 미준수 상황을 기간을 정해 공식적으로 관리할 수 있게 됐습니다.",
+          "why": "보안 컴플라이언스 보고에서 실제 위험과 승인된 예외를 구분해 관리할 수 있어 Basis·보안 담당자의 운영 부담이 줄어듭니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Smarter Compliance Management: Introducing Exemptions in Cloud ALM Configuration & Security Analysis",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/smarter-compliance-management-introducing-exemptions-in-cloud-alm/ba-p/14517549",
+            "published": "2026-11-06T10:23:17.000Z",
+            "snippet": "The Reality of Enterprise ComplianceIn any large SAP landscape, achieving 100% compliance on every security check, on every system, always, is rarely realistic. Software version limitations, ongoing implementation projects, formally accepted risks, and vendor timelines all create situations where a system legitimately cannot meet a requirement within a given timeframe. In many organisations, Secur"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "SAP Cloud ALM 문서 관리: 자주 묻는 질문과 명확한 답변",
+          "summary": "SAP Cloud ALM for Implementation의 문서 처리를 Q&A 형식으로 정리한 실무 가이드입니다. 문서 생성, 템플릿, 승인, 버전 관리, 외부 파일, API 등을 다룹니다.",
+          "why": "Cloud ALM으로 구축 프로젝트 산출물을 관리하는 PM과 컨설턴트에게 바로 쓸 수 있는 참고 자료입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Document Management in SAP Cloud ALM: Common Questions, Clear Answers",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/document-management-in-sap-cloud-alm-common-questions-clear-answers/ba-p/14517788",
+            "published": "2026-11-06T14:51:07.000Z",
+            "snippet": "A practical Q&A guide covering everything customers and partners need to know about document handling in SAP Cloud ALM for Implementation — creation, templates, approval, versioning, external files, API, and more."
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "Ariba Invoicing/CIM: Entra ID 2단계 인증 아이덴티티 페더레이션 오류 해결법",
+          "summary": "SAP Cloud Identity Services에서 CIM 애플리케이션의 IdP를 Microsoft Entra ID로 바꾼 뒤 문제가 생겼습니다. Microsoft 로그인은 성공했지만 Ariba Invoicing 모듈에 접근할 때 오류가 발생한 것입니다. 글에서는 이 문제의 원인과 해결 방법을 단계별로 정리합니다.",
+          "why": "Ariba와 Entra ID SSO를 연동하는 프로젝트에서 같은 문제를 빠르게 해결하는 데 도움이 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Ariba Invoicing / CIM: 2-Factor Authentication (Entra-ID) Identity Federation Fix",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/ariba-invoicing-cim-2-factor-authentication-entra-id-identity-federation/ba-p/14517658",
+            "published": "2026-11-06T11:47:07.000Z",
+            "snippet": "1. Problem DescriptionAfter switching the CIM application in SAP Cloud Identity Services (CIS) to use Microsoft Entra ID (formerly Azure Active Directory) as the identity provider, users reported error messages when trying to access the Ariba Invoicing module. Authentication via the Microsoft login page succeeded, but the application subsequently failed with errors.Error ScenarioUser authenticates"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "Scalable Delivery와 Multi-Off Delivery, 어떤 방식을 택할까",
+          "summary": "Scalable Delivery와 Multi-Off Delivery는 파트너가 확장 기능을 제공할 때 고를 수 있는 두 가지 방식입니다. 글에서는 둘 중 하나를 선택할 때 따져봐야 할 질문과 사실을 정리합니다.",
+          "why": "SAP 파트너사가 확장 솔루션의 배포·제공 모델을 결정할 때 판단 기준으로 쓸 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Scalable and Multi-Off – Find your way",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/scalable-and-multi-off-find-your-way/ba-p/14517700",
+            "published": "2026-11-06T12:50:38.000Z",
+            "snippet": "Scalable Delivery and Multi-Off Delivery are two options for partners to offer extensions. If you need help deciding for one or the other, you should consider some questions and facts."
+          }
+        }
+      ]
+    }
+  ]
+}
