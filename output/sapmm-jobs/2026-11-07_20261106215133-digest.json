@@ -1,0 +1,275 @@
+{
+  "overview": "오늘 MM이 포함되었거나 포함 가능성이 있는 신규 공고는 7건입니다. 제이투이의 MM 모듈 운영(SM, 6년 이상), 글로벌 패션기업의 SD·MM·PP·FI·CO 모듈별 운영(3~12년), 스카우트플랜의 S/4HANA 구축(SD/MM 등)이 MM을 명시했고, 이 중 두 건은 11월 13일 마감이라 일정이 촉박합니다. 나머지는 메가존클라우드의 SAP Public Cloud PM/컨설턴트(직원 2,700명 규모)와 로이컨설팅·에스에프인촌·프로써치코리아(헤드헌팅)의 모듈 컨설턴트 공고로, 모듈이 명시되지 않아 MM 포함 여부를 확인해야 합니다. 요구 경력은 3~6년 이상의 중간 연차가 중심이며, 운영(SM)과 구축·PI 컨설팅이 비슷한 비중으로 나왔습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "동대문역사문화공원역 인근(서울 중구)에서 근무하는 SAP MM 모듈 운영(SM) 포지션입니다. 경력 6년 이상을 요구하며 즉시 지원할 수 있습니다. 공고에 마감일은 나와 있지 않습니다.",
+          "why": "MM 단독 운영 포지션이라 직무가 정확히 맞고, 경력 6년 이상·서울 중구 근무·즉시 지원 가능입니다(직원 120명의 중소 SI).",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50318829",
+            "published": "2026-11-06T04:33:10.510Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "닥터파인드 · 글로벌 패션기업 SAP ERP 모듈별 운영(SD·MM·PP·FI·CO) 주임~과장급",
+          "summary": "헤드헌팅사 닥터파인드가 글로벌 패션기업의 SAP ERP 운영 인력을 SD·MM·PP·FI·CO 모듈별로 모집합니다. 근무지는 서울 마포구이고 경력 3~12년, 대졸 이상, 정규직입니다. 마감은 11월 13일(금)입니다.",
+          "why": "MM 모듈 운영을 명시한 주임~과장급 정규직이며, 11/13 마감까지 일주일도 남지 않았습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP 운영 모듈별(SD MM PP FI CO) 주임 과장급 글로벌 패션",
+            "company": "닥터파인드",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508104",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: 닥터파인드 / 조건: 서울 마포구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/13(금) / 분야: 의류무역 , 해외영업 , 무역거래 , 수출입 , 해외영업관리 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%8B%A5%ED%84%B0%ED%8C%8C%EC%9D%B8%EB%93%9C"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "구축·S/4HANA 프로젝트",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "스카우트플랜 · SAP S/4HANA 구축 컨설턴트(SD/MM, PP, FI/CO)",
+          "summary": "SAP ERP(S/4HANA) 구축을 담당할 SD/MM, PP, FI/CO 모듈 인력을 뽑는 헤드헌팅 공고이며, 분야 태그에 패션이 있습니다. 근무지는 서울 강남구이고 경력 3~12년, 대졸 이상, 정규직입니다. 마감은 11월 29일(일)입니다.",
+          "why": "S/4HANA 구축 경험을 쌓을 수 있는 SD/MM 포지션이며 경력 3~12년, 강남 근무, 11/29 마감입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP(S/4HANA) 구축(SD/MM, PP, FI/CO)",
+            "company": "(주)스카우트플랜",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55507977",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: (주)스카우트플랜 / 조건: 서울 강남구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/29(일) / 분야: ABAP , Spring , ERP , 패션",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8%ED%94%8C%EB%9E%9C"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 41,
+          "title_ko": "프로써치코리아 · 글로벌 컨설팅사 SAP 모듈 컨설턴트",
+          "summary": "글로벌 컨설팅사의 SAP 모듈 컨설턴트를 찾는 헤드헌팅 공고로, SAP ERP 기반 프로세스 혁신(PI) 컨설팅과 ERP 구축 컨설팅을 맡습니다. 근무지는 서울이고 경력 5~15년이며 상시 모집입니다. 모집 모듈은 명시되어 있지 않습니다.",
+          "why": "PI·구축 컨설팅 중심이며 경력 5~15년·상시 채용이지만, MM 포함 여부는 문의해서 확인해야 합니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "[글로벌컨설팅사] SAP 모듈 컨설턴",
+            "company": "(주)프로써치코리아",
+            "link": "https://career.rememberapp.co.kr/job/posting/352994",
+            "published": "2026-11-05T15:00:00.000Z",
+            "snippet": "회사: (주)프로써치코리아 / 경력: 5~15년 / 지역: 서울특별시 전체 / 상시 / • SAP ERP 기반 프로세스 혁신(PI) 컨설팅 • SAP ERP 구축 컨설팅",
+            "jobHistory": {
+              "count": 4,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%84%EB%A1%9C%EC%8D%A8%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 38,
+          "title_ko": "메가존클라우드 · SAP Public Cloud PM/컨설턴트",
+          "summary": "SAP Public Cloud 프로젝트의 PM과 컨설턴트를 모집합니다. 근무지는 경기 과천시이고 경력 2년 이상, 대졸 이상, 정규직이며 상시 채용입니다. 담당 모듈은 공고에 나와 있지 않습니다.",
+          "why": "경력 2년 이상부터 지원할 수 있고 직원 2,700명 규모의 클라우드 기업이지만, MM 모듈 담당 여부는 확인이 필요합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP Public Cloud PM / 컨설턴트 모집",
+            "company": "메가존클라우드(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55505591",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: 메가존클라우드(주) / 조건: 경기 과천시 경력2년↑ 대졸↑ 정규직 / 마감: 상시채용 / 분야: SAP , IT컨설팅 , PM(프로젝트매니저) , 경영컨설팅 , SI개발 외 / 회사정보: 사원수 2,700명 / 매출액 1조 7496억 / 영업이익 -",
+            "companyInfo": {
+              "title": "메가존클라우드㈜",
+              "employees": "2,700명",
+              "revenue": "1조 7496억",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/32611021"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%A9%94%EA%B0%80%EC%A1%B4%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C(%EC%A3%BC)"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "로이컨설팅 · SAP 모듈 컨설턴트",
+          "summary": "로이컨설팅이 SAP 모듈 컨설턴트 경력직을 채용합니다. 근무지는 서울 송파구이고 경력 3~10년, 대졸 이상, 정규직이며 채용 시 마감됩니다. 구체적인 모집 모듈은 명시되어 있지 않습니다.",
+          "why": "경력 3~10년 정규직이며 채용 시 조기 마감될 수 있으니, MM 포지션이 있는지 빨리 확인하는 것이 좋습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "로이컨설팅(주) SAP 모듈 컨설턴트 경력 채용 공고입니다",
+            "company": "로이컨설팅(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55504635",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: 로이컨설팅(주) / 조건: 서울 송파구 경력 3~10년 대졸↑ 정규직 / 마감: 채용시 / 분야: SAP , IT컨설팅 , SAP",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%A1%9C%EC%9D%B4%EC%BB%A8%EC%84%A4%ED%8C%85(%EC%A3%BC)"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "에스에프인촌 · 글로벌 컨설팅펌 ERP(SAP) 컨설턴트",
+          "summary": "헤드헌팅사 에스에프인촌이 글로벌 컨설팅펌의 ERP(SAP) 컨설턴트 경력직을 모집합니다. 근무지는 서울 강남구이고 경력 5년 이상, 대졸 이상, 정규직입니다. 마감은 12월 6일(일)이며 모집 모듈은 명시되어 있지 않습니다.",
+          "why": "경력 5년 이상, 강남 근무, 12/6 마감이라 여유가 있지만 모듈 범위는 확인해야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[글로벌 컨설팅펌] ERP (SAP) 컨설턴트 경력인재 채용",
+            "company": "에스에프인촌(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503314",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: 에스에프인촌(주) / 조건: 서울 강남구 경력5년↑ 대졸↑ 정규직 / 마감: ~ 12/06(일) / 분야: 컨설턴트 , 컨설팅",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%97%90%EC%8A%A4%EC%97%90%ED%94%84%EC%9D%B8%EC%B4%8C(%EC%A3%BC)"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 69,
+          "title_ko": "프로써치코리아 · 글로벌 회계·경영컨설팅 SAP ERP 컨설턴트(전 모듈)",
+          "summary": "세계적인 회계·경영컨설팅사의 SAP ERP 전 모듈 컨설턴트로, ERP 기반 프로세스 혁신 컨설팅과 ERP 구축 컨설팅을 맡습니다. 근무지는 서울 용산구이고 경력 3~10년입니다. 마감은 11월 8일입니다.",
+          "why": "MM을 포함한 전 모듈 모집인데 마감이 내일(11/8)이라 지원하려면 서둘러야 합니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "[세계적 회계·경영컨설팅] 컨설팅 SAP ERP 컨설턴트 (5년이상)",
+            "company": "(주)프로써치코리아",
+            "link": "https://career.rememberapp.co.kr/job/posting/252151",
+            "published": "2026-11-02T02:30:00.000Z",
+            "snippet": "회사: (주)프로써치코리아 / 경력: 3~10년 / 지역: 서울특별시 용산구 / 마감: 2026-11-08 / [모집 분야] - SAP ERP 전 모듈 [담당업무] - ERP 기반 프로세스 혁신 컨설팅 - ERP 구축 컨설팅",
+            "jobHistory": {
+              "count": 4,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%84%EB%A1%9C%EC%8D%A8%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 57,
+          "title_ko": "현대오토에버 · SAP ERP 운영(SD, MM, PM)",
+          "summary": "MM 담당은 현대차·기아 본사와 해외법인의 생산자재 영역 개발·개선 요청에 대응하고, 프로세스를 설계해 개발조직(GDC)에 전달한 뒤 개발 결과를 검수합니다. 근무지는 서울 강남구이고 경력 3년 이상이며, 마감은 11월 26일입니다. 같은 포지션이 잡코리아·LinkedIn·원티드에도 올라와 있습니다.",
+          "why": "MM 생산자재 운영을 명시한 대기업(직원 6,444명) 포지션으로, 경력 3년 이상·11/26 마감입니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "SAP ERP 운영 (SD, MM, PM)",
+            "company": "현대오토에버(주)",
+            "link": "https://career.rememberapp.co.kr/job/posting/310292",
+            "published": "2026-11-03T15:00:00.000Z",
+            "snippet": "회사: 현대오토에버(주) / 경력: 3~년 / 지역: 서울특별시 강남구 / 마감: 2026-11-26 / [SD] - 그룹사 글로벌 법인 SAP 운영 (SD) : 법인 프로세스 개선사항 대응 및 설계 : SAP 개발 Spec 작성 : SAP 개발 사항 테스트 및 배포 [MM] - 현대차/기아 본사 및 해외법인의 생산자재 영역 개발/개선 사항 대응 - 프로세스 설계 및 개발조직(GDC; Global Development Center) 전달 - 개발내용 검수 및  / 회사정보: 사원수 6,444명 / 매출액 3조 2,500억원 (2025년) / 영업이익 2,155억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "현대오토에버㈜",
+              "employees": "6,444명",
+              "revenue": "3조 2,500억원 (2025년)",
+              "operatingProfit": "2,155억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/19481"
+            },
+            "jobHistory": {
+              "count": 7,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%ED%98%84%EB%8C%80%EC%98%A4%ED%86%A0%EC%97%90%EB%B2%84(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 82,
+          "title_ko": "한국네트웍스 · 그룹사 SAP 시스템 운영(SD 또는 MM 모듈)",
+          "summary": "한국앤컴퍼니그룹 그룹사의 SAP 시스템 운영·유지보수와 구축 프로젝트를 수행하며, SD 또는 MM 모듈을 담당합니다. 근무지는 경기 성남시 분당구이고 경력 7~15년이며 상시 모집입니다.",
+          "why": "그룹사 인하우스 MM 운영과 구축을 함께 하는 자리로, 경력 7년 이상·분당 근무입니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "그룹사 SAP 시스템 운영(SD 또는 MM 모듈)",
+            "company": "(주)한국네트웍스",
+            "link": "https://career.rememberapp.co.kr/job/posting/349966",
+            "published": "2026-10-25T15:00:00.000Z",
+            "snippet": "회사: (주)한국네트웍스 / 경력: 7~15년 / 지역: 경기도 성남시 분당구 / 상시 / • 그룹사(한국앤컴퍼니) SAP 시스템 운영 및 유지보수 (SD 또는 MM모듈) • 그룹사(한국앤컴퍼니) SAP 시스템 구축 프로젝트 수행",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%95%9C%EA%B5%AD%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 66,
+          "title_ko": "CJ올리브네트웍스 · SAP PP 운영/개발(MM 포함)",
+          "summary": "SAP MM·PP 모듈의 비즈니스 요구사항을 분석·설계·구현하고, SCM 모듈 운영과 월 결산·개선 업무를 지원합니다. 근무지는 서울이고 경력 5~15년(원티드 기준 7~15년), 정규직이며 마감은 12월 31일입니다.",
+          "why": "공고명은 PP지만 업무에 MM이 포함되어 있고, 대기업 계열 정규직에 12/31 마감이라 여유가 있습니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "SAP PP 운영/개발",
+            "company": "CJ올리브네트웍스(주)",
+            "link": "https://career.rememberapp.co.kr/job/posting/337740",
+            "published": "2026-11-02T15:00:00.000Z",
+            "snippet": "회사: CJ올리브네트웍스(주) / 경력: 5~15년 / 지역: 서울특별시 전체 / 마감: 2026-12-31 / ◼ SAP MM, PP 각 모듈 비즈니스 요구사항 분석 및 설계, 구현 • SCM 모듈 운영과 월 결산 및 고객 요청사항 개선 업무 지원 • 요구 분석 및 설계 및 기능 구현 • 고객 과제 및 대규모 개선 필요 시 자체적으로 혹은 외부 발주 통해 프로젝트 수행 • 타 모듈과 협업을 통해 고객의 시스템 업무 편의성 제공 ◼ 안정적 시스템 운영을 위해 정기적 ",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=CJ%EC%98%AC%EB%A6%AC%EB%B8%8C%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 73,
+          "title_ko": "핀커스코리아 · SAP ERP SCM 모듈 운영 및 개발",
+          "summary": "SAP ERP SCM 모듈의 운영과 개발을 담당하며, ABAP이 분야 태그에 포함되어 있습니다. 근무지는 서울 강남구이고 경력 5년 이상, 학력 무관, 정규직입니다. 마감은 11월 17일(화)입니다.",
+          "why": "SCM 영역 운영·개발 포지션으로 경력 5년 이상·11/17 마감이며, MM 담당 범위는 확인이 필요합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP SCM 모듈운영 및 개발",
+            "company": "(주)핀커스코리아",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55460474",
+            "published": "2026-11-02T00:00:00.000Z",
+            "snippet": "회사: (주)핀커스코리아 / 조건: 서울 강남구 경력5년↑ 학력무관 정규직 / 마감: ~ 11/17(화) / 분야: ABAP , SAP , IT컨설팅 , SI개발 , 컨설턴트 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%95%80%EC%BB%A4%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    }
+  ]
+}
