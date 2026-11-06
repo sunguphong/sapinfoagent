@@ -1,0 +1,7 @@
+2026-11-06T21:51:34.352Z run 20261106215134 start (agent=realestate "부동산 브리핑", source=github, mode=send)
+2026-11-06T21:51:34.353Z collecting from 8 feeds...
+2026-11-06T21:51:34.820Z fetched 406, selected 45 (last 24h), feed errors: 0
+2026-11-06T21:51:34.821Z summarizing with claude (opus)...
+2026-11-06T21:52:31.389Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/realestate/2026-11-07_20261106215134.html
+2026-11-06T21:52:34.017Z mail sent: <434d4f20-922e-54b1-8e0e-4b853dbddf83@gmail.com>, <7fb6c96f-bd0c-8905-f66c-274f8dc1e465@gmail.com> -> upsan77@gmail.com,zheng0107@daum.net
+2026-11-06T21:52:34.017Z done
