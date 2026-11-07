@@ -1,0 +1,233 @@
+{
+  "overview": "오늘 새로 올라온 공고는 2건이며, 이 중 SAP MM이 포함된 공고는 석세스코리아컨설팅의 SAP SM 모듈 운영(FI·CO·SD·PP·MM) 1건입니다. 경력 5년 이상, 정규직이며 11/13(금)에 마감합니다. 나머지 신규 공고인 비전파트너스의 전력그룹사 SAP ERP 개발자 모집은 MM 모듈이 명시되지 않아 제외했습니다. 계속 모집 중인 공고는 대부분 3~6년 이상 경력을 요구하는 운영(SM) 포지션입니다. 순수 MM 운영 공고인 제이투이와 현대차·기아 생산자재 영역을 맡는 현대오토에버가 눈에 띄고, S/4HANA 구축 공고는 스카우트플랜 1건입니다. 동국 계열사 소식으로는 미국의 후판 상계관세 확정(동국제강 1.89%), 동국제강 CFO의 차입금 1.6조원 관리 과제와 동국씨엠 적자, 장세주 회장 측의 동국홀딩스 지분 확대, 포항·인천 공장의 스크랩 구매가 인하와 입고 제한이 새로 나왔습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영(FI·CO·SD·PP·MM) 담당자",
+          "summary": "FI·CO·SD·PP·MM 모듈 운영을 맡을 SAP SM 담당자를 뽑는 공고입니다. 근무지는 서울 마포구이며 경력 5년 이상, 대졸 이상, 정규직입니다. 마감은 11/13(금)입니다.",
+          "why": "MM이 포함된 유일한 신규 공고이고 경력 5년 이상 정규직이며, 마감(11/13)까지 1주일도 남지 않아 서둘러 지원해야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55512313",
+            "published": "2026-11-07T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: ~ 11/13(금) / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 47,
+          "title_ko": "닥터파인드 · 글로벌 패션기업 SAP ERP 모듈별(SD·MM·PP·FI·CO) 운영 주임~과장급",
+          "summary": "글로벌 패션기업에서 SD·MM·PP·FI·CO 모듈별 SAP ERP 운영 인력(주임~과장급)을 뽑는 공고입니다. 근무지는 서울 마포구이며 경력 3~12년, 대졸 이상, 정규직입니다. 마감은 11/13(금)입니다.",
+          "why": "마감이 11/13로 임박했고, 주임~과장급 MM 운영 포지션입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP 운영 모듈별(SD MM PP FI CO) 주임 과장급 글로벌 패션",
+            "company": "닥터파인드",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508104",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: 닥터파인드 / 조건: 서울 마포구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/13(금) / 분야: 의류무역 , 해외영업 , 무역거래 , 수출입 , 해외영업관리 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%8B%A5%ED%84%B0%ED%8C%8C%EC%9D%B8%EB%93%9C"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 41,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "SAP MM 모듈 단독 운영(SM) 포지션으로, 근무지는 서울 중구(동대문역사문화공원역 인근)입니다. 경력 6년 이상을 요구하며 즉시 지원할 수 있습니다.",
+          "why": "MM 단일 모듈 운영 공고라 직무 적합도가 높습니다. 경력 6년 이상이 필요하고 마감일은 공고에 표시되지 않았습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50318829",
+            "published": "2026-11-06T04:33:10.510Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 87,
+          "title_ko": "현대오토에버 · SAP ERP 운영(SD·MM·PM)",
+          "summary": "MM 담당은 현대차·기아 본사와 해외법인의 생산자재 영역 개발·개선 요청에 대응합니다. 프로세스를 설계해 개발조직(GDC)에 전달하고 개발 결과를 검수합니다. 근무지는 서울 강남구, 경력 3년 이상이며 마감은 11/26입니다(잡코리아·원티드·링크드인에도 같은 공고 게시).",
+          "why": "대기업 계열로 회사 규모가 크고, 경력 3년 이상부터 지원할 수 있으며 마감은 11/26입니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "SAP ERP 운영 (SD, MM, PM)",
+            "company": "현대오토에버(주)",
+            "link": "https://career.rememberapp.co.kr/job/posting/310292",
+            "published": "2026-11-03T15:00:00.000Z",
+            "snippet": "회사: 현대오토에버(주) / 경력: 3~년 / 지역: 서울특별시 강남구 / 마감: 2026-11-26 / [SD] - 그룹사 글로벌 법인 SAP 운영 (SD) : 법인 프로세스 개선사항 대응 및 설계 : SAP 개발 Spec 작성 : SAP 개발 사항 테스트 및 배포 [MM] - 현대차/기아 본사 및 해외법인의 생산자재 영역 개발/개선 사항 대응 - 프로세스 설계 및 개발조직(GDC; Global Development Center) 전달 - 개발내용 검수 및  / 회사정보: 사원수 6,444명 / 매출액 3조 2,500억원 (2025년) / 영업이익 2,155억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "현대오토에버㈜",
+              "employees": "6,444명",
+              "revenue": "3조 2,500억원 (2025년)",
+              "operatingProfit": "2,155억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/19481"
+            },
+            "jobHistory": {
+              "count": 7,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%ED%98%84%EB%8C%80%EC%98%A4%ED%86%A0%EC%97%90%EB%B2%84(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 48,
+          "title_ko": "스카우트플랜 · SAP ERP(S/4HANA) 구축(SD/MM·PP·FI/CO)",
+          "summary": "패션 분야 SAP S/4HANA 구축 프로젝트에서 SD/MM 등 모듈 인력을 뽑는 공고입니다. 근무지는 서울 강남구이며 경력 3~12년, 대졸 이상, 정규직입니다. 마감은 11/29(일)입니다.",
+          "why": "이번 목록에서 MM이 포함된 유일한 S/4HANA 구축 공고이며, 마감은 11/29입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP(S/4HANA) 구축(SD/MM, PP, FI/CO)",
+            "company": "(주)스카우트플랜",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55507977",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: (주)스카우트플랜 / 조건: 서울 강남구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/29(일) / 분야: ABAP , Spring , ERP , 패션",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8%ED%94%8C%EB%9E%9C"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 106,
+          "title_ko": "CJ올리브네트웍스 · SAP PP 운영/개발(MM·PP)",
+          "summary": "SAP MM·PP 모듈의 비즈니스 요구사항을 분석·설계·구현하고, SCM 모듈 운영과 월 결산, 고객 요청 개선을 지원하는 업무입니다. 근무지는 서울이며 리멤버 기준 경력 5~15년(원티드 기준 7~15년), 정규직입니다. 마감은 12/31입니다.",
+          "why": "포지션명은 PP지만 MM 업무가 함께 포함되어 있고, 마감(12/31)까지 여유가 있습니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "SAP PP 운영/개발",
+            "company": "CJ올리브네트웍스(주)",
+            "link": "https://career.rememberapp.co.kr/job/posting/337740",
+            "published": "2026-11-02T15:00:00.000Z",
+            "snippet": "회사: CJ올리브네트웍스(주) / 경력: 5~15년 / 지역: 서울특별시 전체 / 마감: 2026-12-31 / ◼ SAP MM, PP 각 모듈 비즈니스 요구사항 분석 및 설계, 구현 • SCM 모듈 운영과 월 결산 및 고객 요청사항 개선 업무 지원 • 요구 분석 및 설계 및 기능 구현 • 고객 과제 및 대규모 개선 필요 시 자체적으로 혹은 외부 발주 통해 프로젝트 수행 • 타 모듈과 협업을 통해 고객의 시스템 업무 편의성 제공 ◼ 안정적 시스템 운영을 위해 정기적 ",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=CJ%EC%98%AC%EB%A6%AC%EB%B8%8C%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "[동국제강] 美, 한국산 후판 상계관세 최종 확정…동국제강 1.89%",
+          "summary": "미국이 한국산 후판에 대한 상계관세율을 최종 확정했습니다. 동국제강은 1.89%, 현대제철은 1.39%가 적용됩니다.",
+          "why": "후판 대미 수출에 비용 부담이 확정된 것으로, 통상 리스크가 실적에 미칠 영향을 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "美, 한국산 후판 상계관세 최종 확정…동국제강 1.89%·현대제철 1.39% - 철강금속신문",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GTWFjdFBiUXk4bGlyRUZtbVd1TEJCTjByUkotcnZLZ1hoellmandXVXJfSkJkUHctX3Zod2RtZGlJRDlEcF9tbzE5RGY4QTl5UnFxMXAyU0dIN0l5dHF6ZGR4UGNyWEVxd2c?oc=5",
+            "published": "2026-11-06T07:59:02.000Z",
+            "snippet": "美, 한국산 후판 상계관세 최종 확정…동국제강 1.89%·현대제철 1.39% 철강금속신문",
+            "isNew": true
+          }
+        },
+        {
+          "index": 38,
+          "title_ko": "[동국제강] 차입금 1.6조 물려받은 권주혁 CFO…차입 관리·주주환원 저울질",
+          "summary": "동국제강 권주혁 CFO가 1.6조원 규모의 차입금을 넘겨받은 상황을 다룬 기사입니다. 차입 관리와 주주환원 사이에서 균형을 잡아야 하는 과제를 짚었습니다.",
+          "why": "재무 건전성 관리가 핵심 과제로 떠오르면서 투자와 비용 집행이 보수적으로 바뀔 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "차입금 1.6조 물려받은 동국제강 권주혁…차입 관리·주주환원 ‘저울질’ [나는 CFO다] - 금융신문",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1seHJ6dWxHODJVQkM0anU4dWNHZWtkTWJrcGRHa055ejZac3FmSzJ6QTdpWHZVZE9oNlNzaFZOZFZhaXhEWTBDQ0NCUFhrT1pwMWNWY3dFZzZLTjRnSmNiVWhUTm1iTTMtV3NEdlhWbDZrSDBrMG1CSmtmY1o?oc=5",
+            "published": "2026-11-06T06:09:11.000Z",
+            "snippet": "차입금 1.6조 물려받은 동국제강 권주혁…차입 관리·주주환원 ‘저울질’ [나는 CFO다] 금융신문",
+            "isNew": true
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "[동국제강] 페럼타워 되찾은 지 1년여…그룹 차입금 늘고 동국씨엠 적자",
+          "summary": "동국제강그룹이 페럼타워를 되찾은 지 1년여가 지났습니다. 그사이 그룹 차입금이 늘었고 동국씨엠은 적자를 기록하고 있다는 내용입니다.",
+          "why": "그룹 재무 부담이 커지고 동국씨엠 수익성이 나빠지고 있음을 보여주는 신호입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "페럼타워 되찾은 지 1년여··· 동국제강그룹, 차입금 늘고 동국씨엠 적자 - 그린포스트코리아",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Jc1pyVXFGZVJlRlExNkNQaTVqS1Jhb3pCdjhhS2JJVmVhLUwweDRmcElacE5HXzlZWWtHSUdKTzFQRXI1MkRsTmdRVm9UdFFwSVFLN2xrYlExMHJ0a3lvMXZoVXdwQ3dpbHVOZUJ6OWZISURna0HSAXpBVV95cUxQRTBsOUY4Y2hwM204WllHLWJacl81WDA3ay1Ucy1uR3h0NnB4V3k1QS1VVzRoZ051cFQ2TmY3NHNIUDBwYi1EMFl2SWo3eHBXdjNLdGYtR29idHZqUTNueVZCWHhDeWdRQ2QyZlBNS0xyc1ZDbEU5V0w3dw?oc=5",
+            "published": "2026-11-06T01:20:35.000Z",
+            "snippet": "페럼타워 되찾은 지 1년여··· 동국제강그룹, 차입금 늘고 동국씨엠 적자 그린포스트코리아",
+            "isNew": true
+          }
+        },
+        {
+          "index": 109,
+          "title_ko": "[동국홀딩스] 장세주 회장 등 특수관계인 지분 64.60%로 확대",
+          "summary": "장세주 회장 등의 동국홀딩스 지분율이 64.60%로 늘었습니다.",
+          "why": "지주사에 대한 오너 일가의 지배력이 한층 강화됐습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "장세주 회장 등, 동국홀딩스 지분 64.60%로 확대 - 데이터투자",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSm1hY1RQRlowakE0Q0QzeV80VUcxeVN4ME4zT1k2ZUstV0w3ZG5vYXZzcTBqMFdWTS1LX2ZHS2lvNHVBTzloaWIxX3lQazFGcW5WNUdLd255YW5nNnp2MEl4NW9rdXFHSmktMlFjblZGR3M?oc=5",
+            "published": "2026-11-02T06:59:11.000Z",
+            "snippet": "장세주 회장 등, 동국홀딩스 지분 64.60%로 확대 데이터투자",
+            "isNew": true
+          }
+        },
+        {
+          "index": 46,
+          "title_ko": "[동국제강] 형강 패키지로 규격 한계 극복…첨단 산업시설 정조준",
+          "summary": "동국제강이 형강 패키지 상품으로 기존 규격의 한계를 넘어서려 하고 있습니다. 첨단 산업시설 수요를 겨냥한 전략입니다.",
+          "why": "철근 불황 속에서 봉형강 사업의 새 수요처를 확보하려는 움직임입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 형강 패키지로 규격 한계 넘는다…첨단 산업시설 정조준 - 민주신문",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqZG51TGFqVjFxNi1CUVFocXVKZ2Z4c2dLeUtLRzlmdVd2OFllYUFVLUFMdDRhNy1IRzZmejlzM2hOQ0V0RTRaQmR1RFA0aFJYaU45T0REZnBJQXVzNzNtdW1HRDRIS1nSAWtBVV95cUxOLVN0a1l3NWRUUWhqcThYTDExX3ZmWEdzMTM4VEFTemtzUTZrNGFfRFlubmxVekZxSW9ZelBnUVNTUHpCb3VISTRGTkswdGc3UHI0QlkyazFELVktTTNRR1dXcWpZa0V6WlgzNA?oc=5",
+            "published": "2026-11-06T01:06:32.000Z",
+            "snippet": "동국제강, 형강 패키지로 규격 한계 넘는다…첨단 산업시설 정조준 민주신문",
+            "isNew": true
+          }
+        },
+        {
+          "index": 73,
+          "title_ko": "[동국제강] 포항 10일 스크랩 구매가격 인하…인천은 일부 품목 입고 제한",
+          "summary": "동국제강 포항공장이 10일부터 스크랩 구매가격을 내립니다. 인천공장은 일부 품목의 입고를 제한한다고 밝혔습니다(스틸데일리 별도 기사).",
+          "why": "원료(스크랩) 구매 조건을 조정하는 것은 감산과 원가 관리 기조를 반영한 것으로, 구매·자재 관점에서도 주목할 만한 동향입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강 포항 10일 스크랩 구매가격 인하 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DY1hOSl9IdURYV3h1bkdqZUFXV2l6eUlxUjZ5bkZoMUY0cGZFY0dvajRtNTBLQnduSWNMOEo1WjNYMHBRcy1tSDVxc1l1QXI5aWlteTFON3ktSTNWRy1TdWhmVWVqdmJNVnotTDdSVm7SAXRBVV95cUxNSWVDMVNCSXhUeTVXbHp0V19TMlVoSl92S2JXeWE5N3Y1cFAxT2Jsc3pKZ1E5ZENMbkFjNjJZZXZyTTQ1QzFHV1VQNExHV052LTNxUnlMNDRMS09uTGZ0b3ZoTmUteXUxbS1HTmpTMjNSSV9teQ?oc=5",
+            "published": "2026-11-04T05:15:00.000Z",
+            "snippet": "동국제강 포항 10일 스크랩 구매가격 인하 스틸데일리",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
