@@ -1,0 +1,85 @@
+{
+  "overview": "CES 2027은 2027년 1월 6일 라스베이거스에서 개막하며, 오늘 기준 개막까지 59일(D-59) 남았습니다. 이번 주에는 공식 일정이 확정되면서, 엔터테인먼트 테크 프로그램이 본 전시보다 하루 앞선 1월 5일에 시작된다는 점이 알려졌습니다. 레노버가 라스베이거스 대형 공연장 스피어(Sphere)에서 기조연설을 진행한다는 소식도 나왔습니다. 국내에서는 개막을 두 달 앞두고 기업마다 신기술 준비 속도가 다르다는 분석이 나왔습니다. 지난 CES 2026에서 주목받은 휴머노이드 로봇 아틀라스와 지멘스 전시 사례 같은 후속 소식도 이어졌습니다. 혁신상 발표나 사전 공개 제품 소식은 아직 많지 않아 관련 기사만 추려 정리했습니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "CES 2027, 1월 6일 개막… 엔터테인먼트 테크는 하루 앞서 시작",
+          "summary": "CES 2027은 2027년 1월 6일 미국 라스베이거스에서 공식 개막합니다. 엔터테인먼트·콘텐츠 기술 관련 프로그램은 이보다 하루 이른 1월 5일부터 진행됩니다. 미디어·엔터테인먼트 분야 참가자는 본 전시 전날부터 일정을 잡아야 합니다.",
+          "why": "현장 참관이나 출장을 준비하는 국내 미디어·콘텐츠·가전 업계 관계자는 1월 5일부터 일정을 계획할 필요가 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES 2027, 6일 개막… 엔터테인먼트 테크는 하루 앞서 시작 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84QngtTVVsbHp2RzRRSmNPbGVKODQ3MWZPdkZwVHJINE9LSFYyeU8wTnF6d0Z3NENWZUdxd3FDYUtlWGY5YXI2MDlFOXdHV19kb1FBTThnWFBBaExkY0hEVUd3?oc=5",
+            "published": "2026-11-07T00:09:35.000Z",
+            "snippet": "CES 2027, 6일 개막… 엔터테인먼트 테크는 하루 앞서 시작 K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "레노버, CES 2027 기조연설을 스피어(Sphere)에서 개최",
+          "summary": "레노버가 CES 2027 기조연설 무대로 라스베이거스의 초대형 구형 공연장 스피어를 선택했습니다. CES 공식 매체 Twice가 이 소식을 전했습니다. AI PC와 디바이스 전략이 핵심 메시지가 될 것으로 보입니다.",
+          "why": "글로벌 PC 1위 업체의 기조연설 방향은 국내 PC·메모리·디스플레이 부품 업계의 내년 수요 전망에 참고가 됩니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Lenovo To Host CES 2027 Keynote At Sphere - CES | Twice",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkJZOWVYMXE1UENwMzhjT1ZibVViTkt4UnRpdFZGY2JYVV8xU3FLOHV1STlpdzgxN2tXNGp5c1d4cXJnMURyakprZVBzR2lMbi1MMlJiM01jTkwwVUZsMDlvM0tPU01DX1RRRE10NzZmRU1UU0cxcHVEQlZwd3oxTTJB?oc=5",
+            "published": "2026-11-06T15:52:49.000Z",
+            "snippet": "Lenovo To Host CES 2027 Keynote At Sphere CES | Twice"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "[취재후일담] 두 달 앞둔 CES… 새 기술을 향한 기업들의 엇갈린 속도",
+          "summary": "CES 2027 개막을 약 두 달 앞둔 시점에서 국내 기업들의 준비 상황을 짚은 취재 후기입니다. 기업마다 신기술 공개 전략과 준비 속도에 차이가 있다는 점을 다뤘습니다.",
+          "why": "국내 주요 기업이 CES 2027에서 어떤 기술을 얼마나 적극적으로 내세울지 미리 가늠해 볼 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[취재후일담] 두달 앞둔 CES…새 기술 향한 기업들 다른 속도 - 아시아투데이",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4dGo5d243ak0weW83TFFWNG1RZUc0V0tpVkQxY3d2N3J6NFBwUFI4bE1NaFZ4QUNvZmlrczBWNEUwdGY2SHlIczRxWE5RYTBMbEVmSERLLUgzbnA1T0pubWhCdWtuNmF0aXpCdGNR?oc=5",
+            "published": "2026-11-06T05:15:50.000Z",
+            "snippet": "[취재후일담] 두달 앞둔 CES…새 기술 향한 기업들 다른 속도 아시아투데이"
+          }
+        },
+        {
+          "index": 38,
+          "title_ko": "\"손흥민 세리머니까지 척척\"… 휴머노이드 로봇 아틀라스, 월드컵 심판에게 공 전달",
+          "summary": "현대차그룹 계열 보스턴다이내믹스의 휴머노이드 로봇 아틀라스가 월드컵 관련 행사에서 심판에게 공을 건넸습니다. 손흥민 선수의 골 세리머니까지 따라 하며 관심을 모았습니다. 아틀라스는 지난 CES 2026에서 주목받은 로봇으로, 이번 소식은 그 후속 행보입니다.",
+          "why": "현대차그룹이 휴머노이드 로봇을 대중 행사에 적극 노출하고 있어, CES 2027에서 로봇 사업의 진전된 모습을 보여줄지 주목됩니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "“손흥민 세리머니까지 척척”…아틀라스, 월드컵 심판에 공 건넸다 - 쿠키뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyd0VSZzh3Q0RzbmZNbFZWNThQNjNQMS0wN3VMOTdLVHVYcVBVWHJMTzdYWDhjNklONFVxTGluOVdfbFcyRnE1dTRPOWI0TXNzc1Q3TGNUWWNZVXE0UDNfRDdSOA?oc=5",
+            "published": "2026-11-06T00:02:56.000Z",
+            "snippet": "“손흥민 세리머니까지 척척”…아틀라스, 월드컵 심판에 공 건넸다 쿠키뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "보이지 않는 산업용 AI를 '만질 수 있게'… CES 2026 지멘스 전시 설계 방식",
+          "summary": "지난 CES 2026에서 지멘스가 산업용 AI를 관람객이 직접 체감할 수 있도록 전시를 어떻게 구성했는지 분석한 기사입니다. 눈에 보이지 않는 B2B 기술을 체험형 전시로 풀어낸 전략을 다뤘습니다.",
+          "why": "CES 2027 참가를 준비하는 국내 B2B·제조 AI 기업이 전시 기획에 참고할 만한 사례입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[Siemens]보이지 않는 산업용 AI를 ‘만질 수 있게’… CES 2026 지멘스 전시의 설계법 - https://aimkt.biz/",
+            "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOEVWaUJ3c2ZRSlBRU0RncUlld3BUeFA0amhwT0w3cjNQNnRiZHNiV05EWHpoSElwejZDTUVSU1FzQ180S0gta0xXT0x4RF9RbzVENzB4bXdYT0FFbGx1MjZqM1ZXTlJaVFRmLUh4aUQ0NkpNR3gyRnJuMUxTTlZNeDFUNUtCQkZCdG9pY0x3by1oZ2JmVHhXdWRZUHI1N1hSOFdveEh2TlZyZXRKYnJvOFI5dXZoTzJuNWJBaGp3Vy14RG5OcG5RZzdoSk9MSFJvaHFtU25aWlZjMDk3TDVkSWJQbDhxUmNhZGtjdlFxU0NtcFB0SWJJVHYzcjZCaHV0Ni1kcGxZcHd3cTZhUFFWY01pMl9GbUlaNzZlaEJlWnJQUzg?oc=5",
+            "published": "2026-11-05T23:47:23.000Z",
+            "snippet": "[Siemens]보이지 않는 산업용 AI를 ‘만질 수 있게’… CES 2026 지멘스 전시의 설계법 https://aimkt.biz/"
+          }
+        }
+      ]
+    }
+  ]
+}
