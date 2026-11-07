@@ -1,0 +1,14 @@
+2026-11-07T22:51:31.990Z run 20261107225131 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-07T22:51:31.991Z waiting 509s until 08:00
+2026-11-07T23:00:01.714Z sap: sent
+2026-11-07T23:00:01.714Z realestate: sent
+2026-11-07T23:00:01.714Z stock: off
+2026-11-07T23:00:01.714Z skincare: sent
+2026-11-07T23:00:01.715Z sapmm-jobs: sent
+2026-11-07T23:00:01.715Z ces: sent
+2026-11-07T23:00:01.715Z smallbiz: sent
+2026-11-07T23:00:01.715Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 06:31 수집 · 35건
+2026-11-07T23:00:01.715Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-07T23:00:01.717Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-08_20261107225131.html
+2026-11-07T23:00:03.472Z mail sent: <35c2d61f-3f5b-887f-4583-7ffd6abb0691@gmail.com> -> upsan77@gmail.com
+2026-11-07T23:00:03.472Z done
