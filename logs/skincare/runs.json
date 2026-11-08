@@ -355,5 +355,26 @@
     "mailTo": "zheng0107@daum.net",
     "mailSentAt": "2026-11-07T22:52:16.675Z",
     "finishedAt": "2026-11-07T22:52:16.675Z"
+  },
+  {
+    "id": "20261108225130",
+    "agent": "skincare",
+    "startedAt": "2026-11-08T22:51:30.166Z",
+    "date": "2026-11-09",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261108225130.log",
+    "base": "2026-11-09_20261108225130",
+    "fetched": 124,
+    "selected": 25,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 12,
+    "html": "2026-11-09_20261108225130.html",
+    "mailId": "<9a05d980-29ba-79c8-7541-bec63ebaf1f8@gmail.com>",
+    "mailTo": "zheng0107@daum.net",
+    "mailSentAt": "2026-11-08T22:52:05.732Z",
+    "finishedAt": "2026-11-08T22:52:05.732Z"
   }
 ]
