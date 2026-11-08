@@ -1,0 +1,7 @@
+2026-11-08T21:51:38.719Z run 20261108215138 start (agent=smallbiz "소상공인 지원 브리핑", source=github, mode=send)
+2026-11-08T21:51:38.720Z collecting from 14 feeds...
+2026-11-08T21:51:46.001Z fetched 337, selected 60 (last 24h), feed errors: 0
+2026-11-08T21:51:46.002Z summarizing with claude (opus)...
+2026-11-08T21:52:09.519Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/smallbiz/2026-11-09_20261108215138.html
+2026-11-08T21:52:12.379Z mail sent: <d4ca6ad4-8265-876e-4fee-d70c4b43c7ad@gmail.com>, <fce26447-264c-8429-f937-27873bf41049@gmail.com> -> upsan77@gmail.com,zheng0107@daum.net
+2026-11-08T21:52:12.380Z done
