@@ -1,0 +1,370 @@
+{
+  "overview": "서울 아파트 매물이 7개월 만에 8만 건을 넘었습니다. 세금 부담 속에 석 달 새 매물이 30% 넘게 늘었지만, 강남권 매도 우위 속에 지역별 집값 흐름은 엇갈리고 있습니다. 전세 시장에서는 집주인과 세입자 모두 전세를 꺼리고 월세화가 빨라지는 가운데, 서초구 대규모 입주에도 서울 전셋값은 오르고 있습니다. 서울 집값 부담과 대출 규제로 실수요가 경기 지역과 서울 외곽으로 옮겨 가면서, 수도권 상승세를 이끄는 곳이 서울에서 경기 남부 '반도체 벨트'로 바뀌는 모습입니다. 동탄은 집값 상승세가 수도권 상위권으로 주목받고 있고, 17년을 기다린 동탄 트램이 우선시공분 공사에 들어갔습니다.",
+  "categories": [
+    {
+      "name": "정책·규제",
+      "items": [
+        {
+          "index": 10,
+          "title_ko": "\"외손뼉 안 울려\" vs \"민간개발 죄악시\"…정부·서울시 부동산 정책 평행선",
+          "summary": "주택 공급 방식을 놓고 정부와 서울시가 서로 책임을 떠넘기며 대립하고 있습니다. 정부는 서울시의 협조 부족을 지적하고, 서울시는 정부가 민간 개발을 지나치게 억누른다고 반박합니다.",
+          "why": "중앙정부와 서울시의 엇박자는 서울 공급 일정과 재건축·재개발 속도에 직접 영향을 줍니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "\"외손뼉 안 울려\" vs \"민간개발 죄악시\" 정부·서울시 '부동산 평행선' - 더팩트",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTMXQ5elpPbXc4ZVozZnlHWWNlNExldHd3c21JT2hnVnppUHcxUm9zWXFqTVVuZVpJZGF2TUZNd29NLVIza29WVGxJTVAxanhG0gFQQVVfeXFMUFMxdDl6Wk9tdzhlWjNmeUdZY2U0TGV0d3dzbUlPaGdWemlQdzFSb3NZcWpNVW5lWklkYXZNRk13b00tUjNrb1ZUbElNUDFqeEY?oc=5",
+            "published": "2026-11-08T15:00:00.000Z",
+            "snippet": "\"외손뼉 안 울려\" vs \"민간개발 죄악시\" 정부·서울시 '부동산 평행선' 더팩트"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "[사설] 전세난 키운 비거주 차별, 바로잡아야",
+          "summary": "실거주 요건 강화 등 비거주 소유자를 불리하게 대하는 규제가 전세 물량을 줄여 전세난을 키웠다는 사설입니다. 임대 공급자 역할을 하는 비거주 집주인에 대한 규제를 손봐야 한다고 주장합니다.",
+          "why": "실거주 의무 관련 규제가 바뀌면 전세 공급량과 세입자의 주거 비용이 크게 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "[사설]전세난 키운 비거주 차별 바로잡아야 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yNzVzTkliVW1vTkVpZnRYTUxyZFRBMFV5NklNazBWaVRUdDY3OHFhMnhfTE9fU1hiWlFJZ3hWT1NZMjBrT2dVc3dxQ2IwNEVYcjJYR0VrdGZZMXJ3SmluU0VuUWYtTzhEWDdWQlJ5bVjSAXBBVV95cUxNcjc1c05JYlVtb05FaWZ0WE1McmRUQTBVeTZJTWswVmlUVHQ2NzhxYTJ4X0xPX1NYYlpRSWd4Vk9TWTIwa09nVXN3cUNiMDRFWHIyWEdFa3RmWTFyd0ppblNFblFmLU84RFg3VkJSeW1Y?oc=5",
+            "published": "2026-11-08T19:00:00.000Z",
+            "snippet": "[사설]전세난 키운 비거주 차별 바로잡아야 - 머니투데이 머니투데이"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "정부 지정 '귀하신 몸'? 무주택자는 웁니다",
+          "summary": "정부 규제로 특정 주택이나 지역의 희소성이 오히려 커지면서, 무주택자의 내 집 마련 문턱이 높아졌다는 지적입니다.",
+          "why": "규제가 의도와 달리 무주택 실수요자에게 부담이 될 수 있다는 점을 보여 줍니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "정부 지정 ‘귀하신 몸’? 무주택자는 웁니다 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUc5ZklKUFRvTlJOTHVWX0c2YzhxdGd3RmVWdjl5bWxaWWhKZ3JCX3VOenM2WnZmT2FjX01kSl9EcDM3bEhWbDl4UDNhQ3B1Y1c0YUhtSHFFb1BrZGJBZmoxdnFNZVVDXzZJWnB5Zm56SGY4anFaRllhREpoVVlrZ0VHNWU?oc=5",
+            "published": "2026-11-08T09:31:02.000Z",
+            "snippet": "정부 지정 ‘귀하신 몸’? 무주택자는 웁니다 조선일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "서울 아파트 매물 8만 건 쌓여…강남권 매도 우위 속 집값은 엇갈려",
+          "summary": "서울 아파트 매물이 7개월 만에 8만 건을 넘었고, 세금 부담 때문에 석 달 새 약 33% 늘었다는 집계도 나왔습니다. 강남권에서는 팔려는 사람이 더 많은 매도 우위가 나타나지만, 지역별 집값 흐름은 엇갈립니다.",
+          "why": "매물이 쌓이면 매수자의 협상력이 커질 수 있어, 서울 매수 시점을 가늠하는 핵심 지표입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트 매물 8만건 쌓였다…강남권 매도 우위 속 집값은 엇갈려 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eVF3N2xBbHA4a0hCbU1uVG1La1c4dkNIQlhSeUlqTkU2c21CY2otRnl1d3B4OWRfTmNnVUlyT0ZmcEJKYmEzZUF2cDhCRW13azAycmVSVnAxY0U?oc=5",
+            "published": "2026-11-08T20:10:00.000Z",
+            "snippet": "서울 아파트 매물 8만건 쌓였다…강남권 매도 우위 속 집값은 엇갈려 뉴스1"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "서울 아파트 84㎡와 59㎡ 가격차 1억7천만 원…1년 새 30% 줄어",
+          "summary": "서울 아파트 전용 84㎡와 59㎡의 평균 가격 차이가 약 1억7천만 원으로, 1년 전보다 30% 가까이 줄었습니다. 대출 규제와 1~2인 가구 증가로 소형 평형 수요가 늘어난 영향으로 풀이됩니다.",
+          "why": "평형 간 가격차가 줄면 소형 대신 중형으로 갈아타는 비용이 상대적으로 낮아져 평형 선택에 참고가 됩니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓ - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2cVRraFV0aEZ3bmFhQnJmcHZwZ0Y3blpTRlBNV0lPNDFqS1Y1U1lUWnVJYXdSVl9GVFh6VUMzUTM2bk82d3cyTUZSOUFybkk5X3BocWNpUlh2RXfSAWBBVV95cUxPWlIwb1hGU1BDRE1tczZYVGZkYldjWE9mOURMS1dJZWJsY0tocEl0M1ctcVBsdDB2dk9fdVZzOXB0RkpZUVI0NjJHTVFtTTQ3TnJQNU96OVpQWlAtdjU4YlA?oc=5",
+            "published": "2026-11-08T21:01:01.000Z",
+            "snippet": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓ 연합뉴스"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "[단독] '넘사벽' 서울 집값에…경기 아파트로 '생존 매수' 행렬",
+          "summary": "서울 집값이 크게 오르자 실수요자들이 경기도 아파트로 눈을 돌려 매수에 나서고 있습니다. 서울 진입이 어려워진 수요가 경기 지역 거래를 떠받치는 모습입니다.",
+          "why": "수요가 경기도로 옮겨 가면서 교통 여건이 좋은 경기 지역의 가격이 오를 수 있음을 보여 줍니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "[단독] ‘넘사벽’ 서울 집값에… 경기 아파트로 ‘생존 매수’ 행렬 - 세계일보",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhbkFqMUpmM045OVRoMHBqa0VXbnNjQWs1d2ZNSkxZcE5NLVY3MTQ5XzM4cnVrdkZEXzJzN2hmTmJBdF9oN0hnQkdqRDVYYjBK0gFUQVVfeXFMTnNMU2NtS09oQ1hRNmNHYWc1Ymdqc1pscW9tX0ZleG5FMmh0UHUzSG9IQUgzVEJnTzFFeGQwMnZfWU1Qc2N0Z1lCajFlalRfRExiTjFC?oc=5",
+            "published": "2026-11-08T09:01:18.000Z",
+            "snippet": "[단독] ‘넘사벽’ 서울 집값에… 경기 아파트로 ‘생존 매수’ 행렬 세계일보"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "용인 기흥 집값 0.6% 급등…질주하는 경기 남부",
+          "summary": "용인 기흥구 아파트값이 한 주 새 0.6% 오르는 등 경기 남부의 상승세가 두드러집니다. 반도체 산업 단지 개발 기대감이 상승을 이끄는 것으로 보입니다.",
+          "why": "반도체 벨트 주변 지역의 가격 모멘텀을 판단하는 데 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "용인 기흥 집값 0.6% '껑충'…내달리는 경기 남부 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZ0xkUUtzd0hNdkZnUS1kTVgybW1UWlNFOHVKSGtQM243QUw4NkFNSnlxc0xrSksyeWVsdHFCU3F2V0R1ZDBRaGxqV0VBLVYzUEVydC1vZklHZw?oc=5",
+            "published": "2026-11-08T08:39:03.000Z",
+            "snippet": "용인 기흥 집값 0.6% '껑충'…내달리는 경기 남부 한국경제"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "\"비규제에 교통 편리\" 부천, 서울 대체 주거지로 부상",
+          "summary": "규제지역에서 벗어나 있고 서울 접근성이 좋은 부천이 서울을 대신할 주거지로 주목받고 있습니다. 대출 조건이 상대적으로 유리하다는 점이 수요를 끌어들이고 있습니다.",
+          "why": "규제지역 여부에 따라 대출 한도가 달라지므로, 서울 인접 비규제 지역은 실수요자의 대안이 됩니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "\"비규제에 교통 편해\" 부천, 서울 대체 주거지 부상 - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdGozRVdBOW9GcHhNTjNUdkQyZnM0Tk4tYzVFUmxnVW5GOGJYX3BjWW1jTUFCNU1Kb3NPM0ZxYWhyTUNod2lLQ1I0dmt2S21pLWd5cG9uZG9Jdw?oc=5",
+            "published": "2026-11-08T09:38:39.000Z",
+            "snippet": "\"비규제에 교통 편해\" 부천, 서울 대체 주거지 부상 파이낸셜뉴스"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "[현장의 시선] 침묵 속의 반등, 대구 부동산 시장을 다시 읽다",
+          "summary": "오랜 침체를 겪은 대구 부동산 시장에 조용한 반등 신호가 나타나고 있다는 현장 분석입니다. 미분양과 거래 흐름의 변화를 다시 살펴볼 필요가 있다고 짚습니다.",
+          "why": "지방 대표 침체 지역의 바닥 여부를 가늠하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "[현장의 시선] 침묵 속의 반등, 대구 부동산 시장을 다시 읽는다 - 대구신문",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13NWgtY0RwODBVM1Q5UlZsNlhTZl9ya21jREZHMk1faGY2MW92ZlFocXBaRkNBMEUzNWc1QXJrMkRzR3NCYkI3UFhMcHk1eWZ5cl96YWFnbkRDTGpteGlFM3YtejhyYTZhTThr?oc=5",
+            "published": "2026-11-08T11:58:00.000Z",
+            "snippet": "[현장의 시선] 침묵 속의 반등, 대구 부동산 시장을 다시 읽는다 대구신문"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "불황에 경매는 늘고 매각은 부진…전북 경제 '경고등'",
+          "summary": "전북 지역에서 경기 불황으로 법원 경매 물건은 늘었지만, 낙찰로 이어지는 비율은 낮게 나타났습니다. 지역 경제 침체가 부동산 시장에 그대로 반영되고 있다는 분석입니다.",
+          "why": "수도권과 지방 시장의 양극화가 심해지고 있음을 보여 주는 지표입니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "불황에 경매 늘고 매각은 부진, 전북 경제 ‘경고등’ - 전북도민일보",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZ1ptTmJnZlk0eHRubktxdzFqd3dzcTVnMVd2bU5VaU1FTGNLU0FNUzhSdXM0N0l6RDJHZEVfamNKU09maTg3aTNEbXhmQ1lRNlRjNEZKWlUzalU4ZEFXdnc3eTVTby13NEE?oc=5",
+            "published": "2026-11-08T08:40:00.000Z",
+            "snippet": "불황에 경매 늘고 매각은 부진, 전북 경제 ‘경고등’ 전북도민일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "전월세",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "\"요즘 누가 전세 해요\"…집주인도 세입자도 전세에 등 돌린 이유",
+          "summary": "집주인은 월세 수익을 선호하고, 세입자는 전세사기 우려와 대출 규제 때문에 전세를 꺼리면서 전세 비중이 줄고 있습니다. 전세의 빈자리를 월세가 채우면서 세입자의 주거비 부담이 커지고 있다는 지적도 함께 나옵니다.",
+          "why": "월세화가 빨라지면 내 집 마련 전까지의 주거비와 자금 모으는 계획이 달라집니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"전세요? 요즘 누가 해요\"…집주인도 세입자도 등 돌린 이유 [시장톡] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yazZRQVF6SXMxSXN5eTJOTWloU2RHSTZmZHRiUUhlRnRmNEROMTlwUFRUeEtrSzJSNWpxckhxZENkOTlyaVZ5aXhCQ3paRnY4czF3RkRtOXZyQQ?oc=5",
+            "published": "2026-11-08T21:30:01.000Z",
+            "snippet": "\"전세요? 요즘 누가 해요\"…집주인도 세입자도 등 돌린 이유 [시장톡] 한국경제"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "넘치는 전세 수요에…서초 5000가구 입주에도 서울 전셋값 상승",
+          "summary": "서초구에 약 5000가구가 새로 입주하는데도 전세 수요가 많아 서울 전셋값이 계속 오르고 있습니다. 대규모 입주 물량조차 전세 수요를 다 받아내지 못하는 상황입니다.",
+          "why": "전셋값 상승은 갭투자 여건과 무주택 세입자의 매수 전환 압력에 모두 영향을 줍니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "넘치는 전세 수요에…서초 5000가구 입주에도 서울 전셋값 상승 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5RW1hZ1R4bVZ0VmxMUkwtbXQ0enFMck51bUpaLUJrVnhWSHd2YzQya2FiUXdCdnBqTmVVMkU5Y3FWTTR5TVRsMlZMNVhlOExBYkhpRTJ1dm8xNFU?oc=5",
+            "published": "2026-11-08T21:05:00.000Z",
+            "snippet": "넘치는 전세 수요에…서초 5000가구 입주에도 서울 전셋값 상승 뉴스1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "분양·청약",
+      "items": [
+        {
+          "index": 21,
+          "title_ko": "공급 가뭄이던 서울…두 달간 12곳에서 3800가구 분양",
+          "summary": "연말까지 두 달 동안 서울 12개 단지에서 약 3750~3800가구가 분양될 예정입니다. 반포 등 일부 단지는 시세차익 기대가 커서 청약 경쟁이 치열할 것으로 예상됩니다.",
+          "why": "모처럼 서울 분양이 몰리는 만큼, 청약을 준비하는 무주택자에게 중요한 기회입니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "공급 메말랐던 서울…두달간 12곳서 3800가구 쏟아진다 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1TUZuTUFNLXZ0YTNMYWpYeXk2SUZpRDQ5Q2dVNjlPb084TlM5ZUIwNmRuRE9yZlM1LU5abWdDR09tM3hUVEI5TnpxcnB5NEFjZVHSAVNBVV95cUxPNEZRcFJ3b1ByR3lEbUV3aE5JR05SSk5rdUlSdTJ3azUyWGx6c3ltV1p1WHJaZnZlR1dJbHB6aVNURF91M283Mnl5Z0lIeDVlYmhKTQ?oc=5",
+            "published": "2026-11-08T09:18:51.000Z",
+            "snippet": "공급 메말랐던 서울…두달간 12곳서 3800가구 쏟아진다 서울경제"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "올해 대전 아파트 청약 수요, 어디로 몰렸나",
+          "summary": "올해 대전 아파트 청약 결과를 분석한 기사로, 입지와 브랜드에 따라 단지별 청약 성적이 크게 갈렸습니다.",
+          "why": "지방 광역시에서도 청약 수요가 일부 단지에만 쏠린다는 점을 보여 줍니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "올해 대전 아파트 청약수요 어디로 쏠렸나? - 중도일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zR3hzNWh6TGRRZ256bGJJSmQ3c213cUs5eENGZHlLMHRmc2ZZenhkeTE1clYzUFBJZ2tDeUFjTC1kYVFxLS1SOU5weDJWSmNJTko0NXkzcl94V3dUVktWelBiT0k?oc=5",
+            "published": "2026-11-08T10:01:11.000Z",
+            "snippet": "올해 대전 아파트 청약수요 어디로 쏠렸나? 중도일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "금융·대출",
+      "items": [
+        {
+          "index": 22,
+          "title_ko": "대출 규제·금리 부담에 생애 첫 주택 매수 주춤…청년은 외곽으로",
+          "summary": "대출 규제와 금리 부담이 겹치면서 생애 처음 집을 사는 사람이 줄었습니다. 특히 청년층은 서울 외곽이나 경기 지역으로 옮겨 가는 경향을 보입니다.",
+          "why": "첫 집 마련 수요자는 대출 한도와 금리를 고려해 매수 지역을 다시 따져 봐야 합니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "대출규제·금리부담에 생애 첫집 매수 주춤…청년은 외곽 이동 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3c2ZRbE5STmJ3b3U4TngyRGQxcmFGbHhoam1wNXgzYm5ld3hFUXdSRFZpX1kzYUNRV3I3RkpEUTBNRDg0b0ZOUGFjLUVqdEJzTFHSAVNBVV95cUxPUmEzb1NYQ1lFbXQ4eWZDQjhRaXhHNVdacGQzV1FoRVFwSlBzSnJiTVFyRmNsM21NaHlYb2NsYW9ybEZtRUlTZTZrOEhnQ1pqbXgxQQ?oc=5",
+            "published": "2026-11-08T09:17:15.000Z",
+            "snippet": "대출규제·금리부담에 생애 첫집 매수 주춤…청년은 외곽 이동 서울경제"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "\"집값보다 현금 흐름 봐야\"…부동산 전문가가 짚은 영끌족의 함정",
+          "summary": "무리하게 대출을 끌어모아 집을 사는 '영끌' 매수의 위험을 짚은 기사입니다. 전문가는 집값 상승 기대보다 매달 원리금을 감당할 수 있는지를 먼저 따져야 한다고 조언합니다.",
+          "why": "금리 부담이 이어지는 시기에는 대출 상환 능력이 매수 판단의 핵심 기준입니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "\"집값보다 현금 흐름 봐야\"…부동산 전문가가 짚은 영끌족의 함정 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZVGZWMEwtMWxaUVphdWZ3ZjlrZVJ3bzYxWEhFaTdCS3dqeHI4SWF2UEwxenYyeU9ySjZFUGY5N1RsQjFTWVFoODRodkpGQ0NxWDFtZERnQzllQlU2Rnp3etIBeEFVX3lxTE01Y0VnRk9qTXJZR1d2X1VScGpqSU9BN1h3LVFReVN2Mk1Bd1RUdmdmUDQ2SExIQkhGVWpZM0J6bmtLTlR0eDM1MVYtd21XRENBTk9RZVZxeU1mMEh6cTg0NGZJSGkwWnJockg3NkhmR2M2dHBabTlyVg?oc=5",
+            "published": "2026-11-08T10:39:00.000Z",
+            "snippet": "\"집값보다 현금 흐름 봐야\"…부동산 전문가가 짚은 영끌족의 함정 뉴시스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "'반도체 벨트' 경기도, 아파트값 상승률 8주째 서울 제쳐",
+          "summary": "경기도 아파트값 상승률이 8주 연속 서울을 웃돌았고, 전국 상승률 상위 10곳을 경기 남부가 모두 차지했습니다. 수도권 상승세를 이끄는 지역이 서울에서 화성·용인 등 반도체 벨트 일대로 옮겨 가는 흐름입니다. 여러 언론사(중부일보, 조선일보, 인천일보, 자유일보 등)가 같은 내용을 보도했습니다.",
+          "why": "동탄이 속한 경기 남부의 가격 모멘텀이 이어지고 있어, 동탄 실수요자와 투자자 모두 눈여겨볼 흐름입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "‘반도체 벨트’ 경기도, 아파트값 상승률 8주째 서울 제쳐 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzVubXpEUWFOdWhoMEtidzRuV0Vwb2Fadjhhb0hTZ2FzMlNRZnZEMVZuSG1vNUVxSW80ejQ1Uzc2bjdZVUJXY01oLUtYMmxheVBSbVUtU21sZnoxNC1XNVhXXzBUZFBIWURQWHNSaUdSMHNCMmxTTkh5Q041Y1hRdmxvMkdTMUprRWxMVTdlcVVZc0RGX0ZHZNIBrAFBVV95cUxNWWl5dVJNLXp1TFkzbXRDUzE2bHUySk1wSXlFS0twV0JhNVgtbEZKVGl6QXZLaGd5dmNnc1BRWjc3a2VRNnJmdmpweURVUjk1d0s3YnpKX2RyS2J1MWpRQ2hSNUd0VHFnQWNHdUl6cUI5LWNRUEotdmd5QUxOanpTS2xETlVZcHB4YXlBMEFmYmxKUmpROU1mMWZCdHQwZ3dNUTFybm9Ec2FqcW5u?oc=5",
+            "published": "2026-11-08T06:47:00.000Z",
+            "snippet": "‘반도체 벨트’ 경기도, 아파트값 상승률 8주째 서울 제쳐 Chosunbiz"
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "강남 대신 성북·동탄이 뛴다…바뀐 수도권 집값 상승 지도",
+          "summary": "최근 수도권 집값 상승을 강남 대신 서울 성북과 동탄 등이 이끌고 있다는 분석입니다. 동탄은 수도권 주요 상승 지역으로 꼽혔습니다.",
+          "why": "동탄의 상승세가 수도권 안에서도 두드러진다는 점은 매수 시점 판단에 참고가 됩니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "강남 대신 성북·동탄이 뛴다…수도권 집값 상승지도 바뀌었다 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iSFROdWdodUtlNWQybk1Ja0ItR0p3LXRyN2ZGazl4Q2hXM2tpWmcyZkRPNHdpTkVYTDlTRDI0ZlRyVHoyVnVibmI1VzRhYVZhQzhQdWxuTkNoZ9IBWEFVX3lxTE5lUUJiWXpCSHZ5NDM5VGZxcXNBNkhTVFloOHZmMHhZSHhoeFNqSWxNaXlJdzM5SjY4YTk1YWs1NTFlLVh5d1ROVVBDbF9TOUJSSEg5aC1zOGo?oc=5",
+            "published": "2026-11-08T05:20:00.000Z",
+            "snippet": "강남 대신 성북·동탄이 뛴다…수도권 집값 상승지도 바뀌었다 아주경제"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "수도권 아파트값 상승률 10위권에 비규제 지역 3곳…'반도체 벨트' 주변으로 확산",
+          "summary": "수도권 아파트값 상승률 상위 10곳 가운데 3곳이 규제지역이 아닌 곳이었습니다. 상승세가 반도체 벨트 주변 지역으로 퍼지고 있다는 분석입니다.",
+          "why": "동탄 주변 지역까지 상승세가 번지면, 동탄과 비교하며 선택할 수 있는 대안 지역도 함께 살펴볼 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "수도권 아파트값 상승률 10위권에 비규제 3곳…‘반도체 벨트’ 인근 확산 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmVll5czBwSjhNY3h0ZE5KTXZHa3JnX1lxdy0waEhqSDJ4bTlWUXFnS001eG1iTC12Tk9ybjhpb0FzREp1aEo1V2xfb21nUEMxOTNSQmY5RXJVQ1ZmMkoxNkZfbTM2YlFw?oc=5",
+            "published": "2026-11-08T10:23:00.000Z",
+            "snippet": "수도권 아파트값 상승률 10위권에 비규제 3곳…‘반도체 벨트’ 인근 확산 한겨레"
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "화성 동탄역신안인스빌리베라 1차, 가을 음악회 개최",
+          "summary": "동탄역 인근 동탄역신안인스빌리베라 1차 단지가 입주민을 위한 가을 음악회를 열었습니다.",
+          "why": "단지 커뮤니티 활동은 동탄에서 거주지를 고를 때 생활 만족도를 가늠하는 참고 정보입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "화성 동탄역신안인스빌리베라 1차, 가을 음악회 개최 - 기호일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMTA1ZXZKdGVTdlhXXzR0UkFvU2hPU2l1Q2pHUy15Q2RWR0lzVGxLb1g2dTBTQjM4Tm84VFJNZUtuMFJsa3dLYTBWVHl6NjN6UWxzVmpsWUw1QU4xdFZqLVVtSTJvbk93SnNKeUlGaw?oc=5",
+            "published": "2026-11-08T03:12:24.000Z",
+            "snippet": "화성 동탄역신안인스빌리베라 1차, 가을 음악회 개최 기호일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 트램",
+      "items": [
+        {
+          "index": 40,
+          "title_ko": "신미숙 경기도의원, 동탄트램 우선시공 착수 환영",
+          "summary": "신미숙 경기도의원이 동탄트램 우선시공분 착수를 환영했습니다. 경기도가 경기 남부 광역교통망 구축을 주도해야 한다고 강조했습니다(성남포커스도 같은 내용을 보도).",
+          "why": "도 차원의 지속적인 지원 여부가 동탄트램 공사 속도와 개통 시기를 좌우합니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "신미숙 경기도의원, 동탄트램 우선시공 착수 환영 - 화성신문",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9SNGJ2ajZxUmlPeEhfd0N0X2hNRWNDY2VNMG9kaVR5RnVGRzI3Z2Q4VVN5RWtKeVo5cW95dGFINGZOUQ?oc=5",
+            "published": "2026-11-06T00:33:00.000Z",
+            "snippet": "신미숙 경기도의원, 동탄트램 우선시공 착수 환영 화성신문"
+          }
+        },
+        {
+          "index": 43,
+          "title_ko": "동탄트램 우선시공분 착수…\"17년 기다림 끝에 첫 삽\"",
+          "summary": "17년 동안 지연됐던 동탄트램(동탄도시철도)이 우선시공 구간부터 공사에 들어갔습니다. 지역의 오랜 숙원 사업이 본격적인 첫걸음을 뗐다는 평가입니다.",
+          "why": "트램 착공은 동탄 내부 교통 편의를 높여, 역세권에서 먼 단지의 가치에도 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "동탄 트램 우선시공분 착수…\"17년 기다림 끝에 첫 삽\" - 철도경제신문",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIVkFuN3VYUzU5WUZNMDd5clJIUF96eXdqaGQxTFc4bE5SamNNb05nbUJrNEVpbDR3YnUzcWRWcnJSWnFvcXBscHFuOEpueEdEMkwtSU0xMWQteE9kQVVLSVl4TFhjd0RUSUJn?oc=5",
+            "published": "2026-11-04T09:28:35.000Z",
+            "snippet": "동탄 트램 우선시공분 착수…\"17년 기다림 끝에 첫 삽\" 철도경제신문"
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "경기도의회, 17년 기다린 동탄트램…남은 과제는 '적기 개통'",
+          "summary": "동탄트램 착공을 계기로 경기도의회에서 남은 과제가 제기됐습니다. 공사가 지연되지 않고 제때 개통하는 것이 가장 중요하다는 지적입니다.",
+          "why": "개통이 늦어지면 교통 개선 효과도 늦어지므로, 동탄 거주·매수 계획에 일정 변수가 됩니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "경기도의회, 17년 기다린 동탄트램…남은 과제는 적기 개통 - 서울경제TV",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vMFRoVkZUTFJFZVFtQV9zOXlnTDhGemdkYkVvQjE2TUFGLUoxSXZMNHRNeU1mVmRfUjR6eVppWVA4OTNDaGNoRV9SMzllRHFDdlBQaGFQRnZ4M2w4bGJ3cmtQNWs?oc=5",
+            "published": "2026-11-04T09:30:04.000Z",
+            "snippet": "경기도의회, 17년 기다린 동탄트램…남은 과제는 적기 개통 서울경제TV"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "[의정부 민선 9기 공약 대해부③] GTX-C 4조 9272억 원 착공…8호선 연장 승부수",
+          "summary": "총사업비 4조 9272억 원 규모의 GTX-C 노선 착공과 지하철 8호선 연장이 의정부시 민선 9기의 핵심 교통 공약으로 다뤄졌습니다. 의정부 교통 여건이 크게 바뀔 것이라는 기대가 담겼습니다.",
+          "why": "GTX-C 사업이 진행되는 상황은 동탄 쪽 연장 논의를 포함해 노선 전체 일정에 영향을 줍니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "[의정부 민선 9기 공약 대해부③] GTX-C 4조 9272억 착공…8호선 연장 승부수 - 뉴스타운",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02MHowa3RDcDRJaVZQb2VmTlVLRzJmLW9YTm5YQ3JET0p1VmxhLU9KM2dlT1ZsR0VMZHhLMTNNZFBKdFVCLW9FWXZRNTkxX1FCUi1jczFsUXVycm95NkpBLTdSVWJhWVlJNkJCZUNR?oc=5",
+            "published": "2026-11-06T12:54:22.000Z",
+            "snippet": "[의정부 민선 9기 공약 대해부③] GTX-C 4조 9272억 착공…8호선 연장 승부수 뉴스타운"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "박형덕 동두천시장, 산업단지·GTX·관광에 집중…일자리·정착 여건 바뀔까",
+          "summary": "박형덕 동두천시장이 산업단지 조성, GTX 연결, 관광 활성화를 핵심 시정 과제로 내세웠습니다. GTX-C 북부 연장으로 일자리와 정주 여건을 개선하겠다는 구상입니다.",
+          "why": "GTX-C 연장 논의가 이어지는지 확인할 수 있어, 노선 주변 부동산 흐름을 보는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "박형덕 동두천시장, 산단·GTX·관광에 집중…일자리·정착 여건 바꿀까 - 경기북부탑뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUlF4R0pBNzRzYkI1OVFlemM3MGVUaU9LMGVDUzk4LWd2Tmx5dHcxUFk4N1JwT0pDOHdNZkNuRi12RVFqclBTY2gxSmJnYzBKZEJkNEktMzN1VVpOa3NZbXZoLTRESnJyM0VtWA?oc=5",
+            "published": "2026-11-08T05:02:58.000Z",
+            "snippet": "박형덕 동두천시장, 산단·GTX·관광에 집중…일자리·정착 여건 바꿀까 경기북부탑뉴스"
+          }
+        }
+      ]
+    }
+  ]
+}
