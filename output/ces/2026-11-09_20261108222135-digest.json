@@ -1,0 +1,80 @@
+{
+  "overview": "오늘은 CES 2027 개막(2027년 1월 6일)을 58일 앞둔 시점(D-58)으로, 본 행사 준비 소식이 이어지고 있습니다. 엔터테인먼트 테크 프로그램이 본 전시보다 하루 먼저 시작되고, 1월 7일에는 UNLV에서 엔터테크 서밋이 열리는 등 콘텐츠·미디어 분야 프로그램이 강화되는 흐름입니다. 모빌리티 전시 공간은 35만 제곱피트 이상으로 역대 최대 규모가 예고돼, 자동차·전장 기술이 이번 CES의 핵심 축이 될 전망입니다. 해외 부품 기업들의 참가 발표와 국내 참관단 모집도 시작돼 기업들의 사전 준비가 본격화되고 있습니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 21,
+          "title_ko": "CES 2027, 1월 6일 개막… 엔터테인먼트 테크는 하루 앞서 시작",
+          "summary": "CES 2027 본 전시는 2027년 1월 6일 미국 라스베이거스에서 개막합니다. 엔터테인먼트 테크 관련 프로그램은 이보다 하루 앞서 시작하는 일정으로 운영됩니다.",
+          "why": "콘텐츠·미디어·디스플레이 분야 국내 기업이나 참관객은 본 전시 전날부터 일정을 잡아야 주요 프로그램을 놓치지 않을 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES 2027, 6일 개막… 엔터테인먼트 테크는 하루 앞서 시작 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84QngtTVVsbHp2RzRRSmNPbGVKODQ3MWZPdkZwVHJINE9LSFYyeU8wTnF6d0Z3NENWZUdxd3FDYUtlWGY5YXI2MDlFOXdHV19kb1FBTThnWFBBaExkY0hEVUd3?oc=5",
+            "published": "2026-11-07T00:09:35.000Z",
+            "snippet": "CES 2027, 6일 개막… 엔터테인먼트 테크는 하루 앞서 시작 K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "CES 2027 엔터테크 서밋, 1월 7일 UNLV에서 개막",
+          "summary": "CES 2027 기간 중 엔터테인먼트와 기술의 융합을 다루는 엔터테크 서밋이 2027년 1월 7일 네바다대학교 라스베이거스 캠퍼스(UNLV)에서 열립니다. 본 전시장 밖에서 진행되는 부대 행사입니다.",
+          "why": "K-콘텐츠와 엔터테크 기업에는 현지 미디어·플랫폼 관계자와 교류할 수 있는 별도 네트워킹 기회가 됩니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES 2027 엔터테크 서밋, 1월 7일 UNLV서 개막 - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTTh1UFVCVHd1a0llRkdHWGZWc1dDOURZMWcwSk5JN0JlSnk3QThENUk5WlU3U093bGZXYUxueEFPQUxNcXhrQkRKalJsUjVvUkxlLXFtZ3piOGxXdnk3aGdR?oc=5",
+            "published": "2026-11-08T17:29:50.000Z",
+            "snippet": "CES 2027 엔터테크 서밋, 1월 7일 UNLV서 개막 K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "CES 2027, 35만 제곱피트 넘는 역대 최대 모빌리티 전시 공간 확보",
+          "summary": "CES 2027의 자동차·모빌리티 기술 전시 공간이 35만 제곱피트(약 3만 2,500㎡)를 넘어 역대 최대 규모가 될 예정입니다. 모빌리티가 CES의 핵심 전시 분야로 자리 잡고 있음을 보여줍니다.",
+          "why": "현대차그룹과 삼성·LG의 전장 사업, 국내 자율주행 스타트업에는 글로벌 완성차·부품 업체와 경쟁하고 협력할 무대가 더 커진다는 뜻입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES® 2027 Sets Largest Mobility Footprint Ever With More Than 350,000 Square Feet of Vehicle Tech - 에이빙",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVjQ4bzVKR0tFTVV6dkdnNlZFNklSb0tuZHRFXy1VQW1IaEhyaFZPbm1Gcko4WlhlajdlWXYxdnMyTmpLOGJWTnJ2UEtRMmMyYmJRb3ZUY0xMWVlsUVN5SUJOOXhKOUHSAWtBVV95cUxNNGNlbnpWQUk2dm1RU3JUREhUeWZvNDQ0UkR5VWxKNDRvU2F1eTE2dkdnZldBeDh5WXpGVGNVcEFaTkxEWk5McURkNklZV0pHaS16UktKV3dlUnllRGFHbWVPMjlFUVlCcGZrUQ?oc=5",
+            "published": "2026-11-08T14:25:42.000Z",
+            "snippet": "CES® 2027 Sets Largest Mobility Footprint Ever With More Than 350,000 Square Feet of Vehicle Tech 에이빙"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "동아일보 DBR, 'CES 2027 인사이트 투어' 참관단 모집",
+          "summary": "동아일보 DBR이 CES 2027 현장을 둘러보는 인사이트 투어 참관단을 모집합니다. 국내 직장인과 기업 관계자를 대상으로 한 현장 참관 프로그램입니다.",
+          "why": "CES 현장 참관을 계획하는 국내 직장인과 기업 실무자가 참고할 만한 단체 참관 선택지입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[DBR/알립니다]‘CES 2027 인사이트 투어’ 참관단 모집 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xMlV0dkxLYnozTF8xcDNCc2htUHphY1RsajJsbkxhV083R25COENTdWFKci1vMDJibFNBRUNJQmNBOVZ3ZEVDSzB0WlBVMkpyaV9RODhFdmtfbElTRWlYRUc4b2FNeVVKYm93cDVyajBDVXpsOWfSAWZBVV95cUxPbFl2cWRpZ1ZkaDJXaHM3N3pTUzMzaUludUNGZFo3U1RGOHNzdEs3QU9zcjFwSEpnWXNOVG51ZWJRUG9KbGJtLTBXQnVIeDlCVjNadWptUmxINHE4T0tnNUNXRE5uSEE?oc=5",
+            "published": "2026-11-08T15:30:00.000Z",
+            "snippet": "[DBR/알립니다]‘CES 2027 인사이트 투어’ 참관단 모집 동아일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 10,
+          "title_ko": "미네베아미쓰미, 'CES 2027' 참가 발표",
+          "summary": "일본의 정밀 부품·전자 부품 기업 미네베아미쓰미가 CES 2027에 참가해 전시한다고 밝혔습니다. 일본 부품 기업들의 CES 참가 발표가 이어지고 있습니다.",
+          "why": "센서·모터 등 부품 분야에서 국내 업체와 경쟁하는 일본 기업의 기술 방향을 CES 현장에서 확인할 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "MinebeaMitsumi to Exhibit at \"CES 2027\" - Mynewsdesk",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcUI5N1BHY2NKR1pKenlSNlRKVE5TeUlGbWt3NDJfajB1cVFoQ2ZGbjBTYWMwZEdQTHptQzJuek5ORlFhNHczNjhzZ2tRWlJiLTNDcW9sdVpUajZPc3R2S2Nyb2tWek8tajZ2QmRPanBIRlVmc2h3eU01Ul9yMGs0SUwxMXMwaXJiQk9XVUtGUE81VlJCRm5EQ2xuOFpfTU1VOFl5YkJPb3VhUU1LUTFxV1VUa3pud2xFYndZTTVKTTg3OWpOaUFUZjFMbUhFQ0VfNlF3aDdCSjV3M2tqUldVMkl2NWRSUHBoeGQ1TWZ3UlNUZjVKcFFlVDlqbm1HbEp0VE9OMGZncm8tTzQ?oc=5",
+            "published": "2026-11-08T07:56:27.000Z",
+            "snippet": "MinebeaMitsumi to Exhibit at \"CES 2027\" Mynewsdesk"
+          }
+        }
+      ]
+    }
+  ]
+}
