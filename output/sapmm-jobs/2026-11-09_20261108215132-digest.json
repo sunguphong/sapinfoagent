@@ -1,0 +1,139 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 채용공고는 없고, 기존 공고만 계속 모집 중입니다. 이 가운데 석세스코리아컨설팅의 SM 통합 운영(FI·CO·SD·PP·MM)과 닥터파인드의 글로벌 패션기업 모듈별 운영 포지션은 11/13(금)에 마감되어 서둘러 확인해야 합니다. 대기업 쪽에서는 현대오토에버가 현대차·기아 생산자재 영역을 맡을 SD·MM·PM 운영 인력을 11/26까지 모집하고, 스카우트플랜은 S/4HANA 구축(SD/MM) 공고를 11/29까지 받습니다. 요구 경력은 대체로 3~12년이며, 운영(SM) 공고가 다수이고 S/4HANA 구축 공고가 일부 섞여 있습니다. 동국 계열사 관련 새 소식으로는 철강업계 3분기 실적이 엇갈려 수익성은 개선됐지만 업황 회복은 아직이라는 기사가 있습니다.",
+  "categories": [
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영(FI·CO·SD·PP·MM) 담당자",
+          "summary": "FI·CO·SD·PP·MM 모듈을 운영(SM)할 담당자를 뽑는 공고입니다. 근무지는 서울 마포구이고, 경력 5년 이상·대졸 이상의 정규직이며 마감은 11/13(금)입니다.",
+          "why": "마감이 11/13(금)로 임박했고, 경력 5년 이상 정규직 MM 포함 운영 포지션입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55512313",
+            "published": "2026-11-07T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: ~ 11/13(금) / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "닥터파인드 · 글로벌 패션기업 SAP ERP 모듈별 운영(SD·MM·PP·FI·CO) 주임·과장급",
+          "summary": "글로벌 패션기업에서 SAP ERP를 모듈별(SD·MM·PP·FI·CO)로 운영할 주임·과장급 인력을 모집합니다. 근무지는 서울 마포구이고, 경력 3~12년·대졸 이상의 정규직이며 마감은 11/13(금)입니다.",
+          "why": "주임·과장급(경력 3~12년) 정규직 패션업 MM 운영 포지션으로, 11/13(금) 마감이 임박했습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP 운영 모듈별(SD MM PP FI CO) 주임 과장급 글로벌 패션",
+            "company": "닥터파인드",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508104",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: 닥터파인드 / 조건: 서울 마포구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/13(금) / 분야: 의류무역 , 해외영업 , 무역거래 , 수출입 , 해외영업관리 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%8B%A5%ED%84%B0%ED%8C%8C%EC%9D%B8%EB%93%9C"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 85,
+          "title_ko": "현대오토에버 · SAP ERP 운영(SD·MM·PM)",
+          "summary": "MM 담당자는 현대차·기아 본사와 해외법인의 생산자재 영역 개발·개선 요청에 대응하고, 프로세스를 설계해 개발조직(GDC)에 전달한 뒤 개발 결과를 검수합니다. 근무지는 서울 강남구이고 경력 3년 이상이며 마감은 2026-11-26입니다. 같은 포지션이 잡코리아에도 올라와 있습니다.",
+          "why": "직원 6천여 명 규모 대기업에서 완성차 생산자재 MM 운영을 맡는 자리로, 경력 3년 이상이면 11/26까지 지원할 수 있습니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "SAP ERP 운영 (SD, MM, PM)",
+            "company": "현대오토에버(주)",
+            "link": "https://career.rememberapp.co.kr/job/posting/310292",
+            "published": "2026-11-03T15:00:00.000Z",
+            "snippet": "회사: 현대오토에버(주) / 경력: 3~년 / 지역: 서울특별시 강남구 / 마감: 2026-11-26 / [SD] - 그룹사 글로벌 법인 SAP 운영 (SD) : 법인 프로세스 개선사항 대응 및 설계 : SAP 개발 Spec 작성 : SAP 개발 사항 테스트 및 배포 [MM] - 현대차/기아 본사 및 해외법인의 생산자재 영역 개발/개선 사항 대응 - 프로세스 설계 및 개발조직(GDC; Global Development Center) 전달 - 개발내용 검수 및  / 회사정보: 사원수 6,444명 / 매출액 3조 2,500억원 (2025년) / 영업이익 2,155억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "현대오토에버㈜",
+              "employees": "6,444명",
+              "revenue": "3조 2,500억원 (2025년)",
+              "operatingProfit": "2,155억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/19481"
+            },
+            "jobHistory": {
+              "count": 7,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%ED%98%84%EB%8C%80%EC%98%A4%ED%86%A0%EC%97%90%EB%B2%84(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 48,
+          "title_ko": "스카우트플랜 · SAP ERP(S/4HANA) 구축 컨설턴트(SD/MM, PP, FI/CO)",
+          "summary": "S/4HANA 기반 SAP ERP 구축에 참여할 SD/MM, PP, FI/CO 모듈 인력을 모집합니다. 근무지는 서울 강남구이고, 경력 3~12년·대졸 이상의 정규직이며 마감은 11/29(일)입니다. 공고 분야에 ABAP과 패션이 함께 표기돼 있습니다.",
+          "why": "S/4HANA 구축 경험을 쌓을 수 있는 정규직 SD/MM 포지션으로, 경력 3~12년이 대상이고 11/29(일)에 마감됩니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP(S/4HANA) 구축(SD/MM, PP, FI/CO)",
+            "company": "(주)스카우트플랜",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55507977",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: (주)스카우트플랜 / 조건: 서울 강남구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/29(일) / 분야: ABAP , Spring , ERP , 패션",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8%ED%94%8C%EB%9E%9C"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 41,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "동대문역사문화공원역 인근(서울 중구)에서 근무하는 SAP MM 모듈 운영(SM) 인력을 모집합니다. 경력 6년 이상이 대상이고, 즉시 지원할 수 있으며 마감일은 표기돼 있지 않습니다.",
+          "why": "MM 단독 운영 포지션으로 경력 6년 이상이 요구되며, 직원 120명 규모의 SI 업체입니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50318829",
+            "published": "2026-11-06T04:33:10.510Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 71,
+          "title_ko": "[동국제강] 철강업계 3분기 실적 엇갈려…수익성 개선에도 업황 회복은 '아직'",
+          "summary": "동국제강을 포함한 철강업계의 3분기 실적이 회사별로 엇갈렸다는 기사입니다. 수익성은 일부 개선됐지만 업황이 본격적으로 회복되기까지는 아직 시간이 필요하다는 진단입니다.",
+          "why": "철강업계 전반의 수익성은 나아지고 있지만 업황 회복이 지연되고 있어, 동국 계열사의 IT 투자와 운영 기조에도 신중한 흐름이 이어질 수 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "철강업계, 3분기 실적 엇갈려…수익성 개선에도 업황 회복은 '아직' - 더퍼블릭",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmN2lmaFVLY2JYMHVKSXMzaTNsUmFXMmJFWm1jYUZIS1hNWUktdFVpUy01alVvR1dNVWhhTHNUTy1nd0Q1MjBxdmlORzNnWW9LMDZSdldoaE5LeFlZaGZIM3RQMDd1VjZZTkpz0gFvQVVfeXFMTnhTRUNzZ3pmV3NUZVRnSkhpN3lWNWR1RjVmZ2RPOGtlcVVjOGcyZ3I0ZzBiNXZBTnVLZklIUFJ3dTQ1NHVJYjNSRUR3aThmNzJxQXoxS1BNVkxEZGFXMFRsQmU4NEc3ZEVIdXZjN1BZ?oc=5",
+            "published": "2026-11-04T07:49:35.000Z",
+            "snippet": "철강업계, 3분기 실적 엇갈려…수익성 개선에도 업황 회복은 '아직' 더퍼블릭",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
