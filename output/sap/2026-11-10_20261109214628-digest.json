@@ -1,0 +1,220 @@
+{
+  "overview": "SAP가 Gartner Magic Quadrant 클라우드 ERP 부문(제품 중심·서비스 중심 기업)에서 5년 연속 리더로 선정되며 클라우드 ERP 시장에서의 입지를 다시 확인했습니다. ASUG Tech Connect와 SAP TechEd 이후 Joule, AI 에이전트, '자율 기업(autonomous enterprise)' 비전이 업계 논의의 중심에 섰고, ADT for VS Code 1.2와 Claude Code를 연계한 ABAP 개발 방식처럼 실무 도구의 변화도 빨라지고 있습니다. BlackLine의 R2R AI 로드맵, Snowflake와의 제로카피 통합, Mygo Consulting의 Approyo 인수 등 파트너 생태계의 움직임도 활발합니다.",
+  "categories": [
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "SAP, 2026 Gartner 매직 쿼드런트 클라우드 ERP 부문 리더 선정(제품 중심·서비스 중심 기업)",
+          "summary": "SAP가 2026 Gartner Magic Quadrant의 '제품 중심 기업용 클라우드 ERP'와 '서비스 중심 기업용 클라우드 ERP' 두 부문에서 모두 리더로 선정됐습니다. 두 부문 모두 5년 연속 리더 선정입니다.",
+          "why": "고객사에 S/4HANA Cloud 전환을 제안하거나 솔루션을 비교·검토할 때 객관적인 근거 자료로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises",
+            "link": "https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-product-centric-enterprises/",
+            "published": "2026-11-09T12:15:00.000Z",
+            "snippet": "This is the fifth consecutive year SAP is a Leader."
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "SAP Activate Road Map Viewer 신규 기능 'Customize Your Journey' 소개",
+          "summary": "SAP Activate Road Map Viewer에서 프로젝트 범위에 맞게 로드맵을 직접 구성할 수 있는 'Customize Your Journey' 기능을 소개하는 실무 가이드입니다. ERP만으로 시작하는 프로젝트와 HR·지출 관리까지 함께 도입하는 프로젝트, 또 배포 웨이브마다 달라지는 범위를 각각 반영할 수 있습니다.",
+          "why": "구축 PM과 컨설턴트가 프로젝트 범위에 딱 맞는 Activate 태스크와 산출물 계획을 더 빠르게 세울 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Introducing “Customize Your Journey”: Your Project, Your Route",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-customize-your-journey-your-project-your-route/ba-p/14519113",
+            "published": "2026-11-09T18:50:36.000Z",
+            "snippet": "A practical guide to customizing your journey in SAP Activate Road Map ViewerEvery implementation has its own itinerary. Some teams start with ERP. Others bring HR and spend management along for the ride. And the next deployment wave may have a very different packing list from the first."
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "Siemens·GS1·SAP, 유럽 비즈니스 지갑(European Business Wallet)으로 공급업체 신뢰 검증 시연",
+          "summary": "SAP, Siemens, GS1이 2026년 8월 완료한 개념 검증(PoC)에서 유럽 비즈니스 지갑을 활용해 거래 상대방의 신원을 디지털로 검증하는 방식을 시연했습니다. 수작업 서류 확인, 분절된 컴플라이언스 프로세스, 사기 위험을 줄이는 것이 목표입니다.",
+          "why": "구매·공급업체 온보딩 프로세스에 디지털 신원 검증이 도입되는 흐름이어서 SAP Ariba·Business Network 관련 업무에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Siemens, GS1 and SAP Demonstrate the Power of the European Business Wallet",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/siemens-gs1-and-sap-demonstrate-the-power-of-the-european-business-wallet/ba-p/14517995",
+            "published": "2026-11-09T09:25:07.000Z",
+            "snippet": "A New Era for Supplier TrustIn today's complex global supply chains, knowing who you are doing business with has never been more critical or more difficult. Manual document checks, siloed compliance processes, and the ever-present risk of fraud have long burdened procurement and partner onboarding teams. That is now changing.In the Proof of Concept (PoC) completed in August 2026, SAP, Siemens, and"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 15,
+          "title_ko": "터미널에서 ABAP 개발하기: Claude Code와 ADT 1.2 시작 가이드",
+          "summary": "ADT for VS Code 1.2에는 ABAP 오브젝트 조회·편집, 리포지토리 검색, 런타임 피드 접근을 지원하는 MCP 도구가 업데이트되어 포함됐습니다. 이 글은 Claude Code CLI를 연결해 콘솔 클래스를 만들고, 서비스 바인딩까지 게시된 Books RAP 애플리케이션 전체를 생성하는 과정을 보여줍니다.",
+          "why": "AI 코딩 에이전트로 ABAP·RAP 개발 생산성을 높이려는 개발자에게 바로 따라 해볼 수 있는 사례입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "ABAP from the terminal: Getting started with Claude Code and ADT 1.2",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/abap-from-the-terminal-getting-started-with-claude-code-and-adt-1-2/ba-p/14518472",
+            "published": "2026-11-09T06:46:27.000Z",
+            "snippet": "ADT for VS Code 1.2 brings updated MCP tools for reading and editing ABAP objects, searching the repository, and accessing runtime feeds. This article shows how to connect Claude Code CLI, create a console class, and generate a complete Books RAP application with a published service binding."
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "말잔치에서 실습으로: TechEd 에디션 AI 역량 강화 가이드",
+          "summary": "SAP TechEd에서 많이 나온 'Joule for Consultants' 관련 질문에 답하는 글로, 제품별 차이와 가격·활성화 방법을 정리했습니다. Business AI Platform 상호운용성 워크숍, 참조 아키텍처 같은 온디맨드 학습 자료와 무료 Joule Studio 인증, 예정된 라이브 세션도 소개합니다.",
+          "why": "컨설턴트가 Joule 도입 조건을 파악하고 무료 인증으로 AI 역량을 쌓는 데 직접 도움이 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "From Hype to Hands-On: Level Up Your AI Skills TechEd Edition",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-hype-to-hands-on-level-up-your-ai-skills-teched-edition/ba-p/14518789",
+            "published": "2026-11-09T13:38:18.000Z",
+            "snippet": "This blog answers your top questions on SAP Joule for Consultants straight from SAP TechEd: from product differences to pricing and activation. Read on to explore on demand learning resources on interoperability workshops across the SAP Business AI Platform to reference architectures from SAP TechEd, a free Joule Studio certification, and upcoming live sessions."
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "SAP와 Snowflake, 제로카피 통합으로 엔터프라이즈 AI의 새 시대 연다",
+          "summary": "SAP와 Snowflake가 데이터를 복사하지 않고 연동하는 제로카피 통합을 발표했습니다. SAP 데이터를 Snowflake 환경에서 엔터프라이즈 AI에 활용하는 것을 겨냥한 협력입니다.",
+          "why": "SAP Business Data Cloud와 외부 데이터 플랫폼을 함께 쓰는 고객의 데이터 아키텍처 설계에 영향을 줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP and Snowflake Unleash a New Era of Enterprise AI with Zero-Copy Integration - Snowflake",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2tBVXQwNWR6YmJXY1BQTlZVVHIxYjRpNWlIWnA0SkxpbDEwZElFd2RRSzhaR3NvSk50U2plRGdqdmtvYktlR3VWcnhmdUJaRzhPeERJZ1oxMjd6cnpoMFFTTzM4U1AyaTA0NmpwM2RrcmZyU202bzM2dUE2OTYzdXVvVTNnLVFrNVp1WQ?oc=5",
+            "published": "2026-11-04T03:50:55.000Z",
+            "snippet": "SAP and Snowflake Unleash a New Era of Enterprise AI with Zero-Copy Integration Snowflake"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "SAP TechEd 2026: SAP, 개발자들에게 \"자율 기업을 직접 만들 수 있다\"",
+          "summary": "SAP TechEd 2026에서 SAP는 개발자가 자율 기업(autonomous enterprise)을 구현하는 주체라는 메시지를 강조했습니다. 같은 시기 보도에서는 TechEd를 계기로 Joule과 Business AI 플랫폼이 확장됐다고 전했습니다.",
+          "why": "향후 SAP 개발 도구와 AI 에이전트 로드맵의 방향을 파악하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP TechEd in 2026:SAP tells developers “You can build the autonomous enterprise” - Cyprus Shipping News",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2tWM1I1bmFsUUhTZG5PYVdKT2J0NlNQRVowQUdlV1FReHNXSFluREZ1aHZFWEFjc09LZU51cF9YbGNHYmFVNGEyTWx5ekJiV0VKZ1RDZ0pzVmlySjRFX0ZtQUZNU1ZOOVI3T3hsRXQ4VHBTNTJXWVpKOXViVElaNjFhY2hnQkRzT0s3VjZCdm1KNG02N1dOOUZHejVxbDVuSlRZdVh5RElub0RSbmpHemNlNHhwVWR2SFFOS2NB?oc=5",
+            "published": "2026-11-04T03:47:29.000Z",
+            "snippet": "SAP TechEd in 2026:SAP tells developers “You can build the autonomous enterprise” Cyprus Shipping News"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 5,
+          "title_ko": "BlackLine, SAP 파트너십에 맞춘 AI 로드맵 발표: R2R(기록-보고) 영역의 AI 표준 지향",
+          "summary": "BlackLine이 SAP와의 파트너십에 맞춰 재무 결산(Record-to-Report)용 AI 로드맵을 발표했습니다. 관련 보도에 따르면 재무팀이 여러 시스템에 걸쳐 결산을 마감하도록 돕는 AI 도구 세 가지가 계획돼 있습니다.",
+          "why": "SAP 재무 결산 프로젝트에서 BlackLine 연계 범위와 자동화 수준이 넓어질 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "BlackLine Announces AI Roadmap in Alignment with SAP Partnership to Deliver AI-Powered Gold Standard for Record-to-Report - The Manila Times",
+            "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQmpXWmRtS3BkVzRWS2haT3o0MjVlOXZsbDA5SWNuUXRwMHlFN2dsQzRSa3JYY1YtUHF2dGVuXzBhTHBraUhvR2d6YkI3eVNlalV6c3ozcDdYbzBISjRMU21HMnNjT25qMkhpVTR1YzFfcGx3MVlYbUMweWFWenlKc3JiVUF5cURjNmlXdjJ5ckZJWlF4NW1kbXRsVnRGeHphcVh3LTNrTmlxLXZyUEd5eUg1RnpaMUc4WWcyNlVhVUg4WEs2SE1TR00yOUVuM0k1Z0FpUkNSelh6N3gyY01uREFrekQyVHB0R2ticGd1UFVHakdENTJKc3FOSjNjNVBjbGMzNTRuQWtsSVY0OXVkcFl1eHpmRXh1cF9TVFVuLW3SAaYCQVVfeXFMTWNwbk5oMzViVTFxaVJLRG00dFpzWkNwY0dwMW1UWXdSelBnempOVkZrUGE4ZUtSZ21mZ1hSY1NBNEtoQTBCS2dDcnp6RUFuOUF3QzJyX2w0R2hWTUEwWm9pZUZ3Z3ZCZXhCTHJWd0JGSWJJOWpubV84cGk0d1pvTkpidEtrMGF0T1dSSEZrSGVHN29qVlQ5N0dLX3gxaUxraXBFQnZYcXRDMXMzU3hTX3VoNjFBMHgzYldfcHpYVkVscG8yRzU4b0ctNEZEUG1ZUzMybkpSMWhnNEZKVXo5dGdqUVc0aGpwMm9DUkxYcVJUaEk2c3BiSVg4MU14MFNwNFFwQTJ2QnhJUGtqaDNTcnF5SExDY2dDNjFWd1h6bmJpTWVkdWdR?oc=5",
+            "published": "2026-11-09T14:18:46.000Z",
+            "snippet": "BlackLine Announces AI Roadmap in Alignment with SAP Partnership to Deliver AI-Powered Gold Standard for Record-to-Report The Manila Times"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "Mygo Consulting, Approyo 인수로 SAP 클라우드·매니지드 서비스 역량 확대",
+          "summary": "SAP 컨설팅 기업 Mygo Consulting이 Approyo를 인수했습니다. SAP 클라우드와 매니지드 서비스 역량을 강화하려는 목적입니다.",
+          "why": "SAP 서비스 파트너 업계에서 클라우드 운영 역량을 둘러싼 통합이 계속되고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Mygo Consulting Acquires Approyo to Expand SAP Cloud and Managed Services Capabilities - citybiz",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDFubEtYNUpnSjVOLTdGYncxUnM4b2IxanVxVldpR2lFUHJSU2NWMEhoeHV2a0pwc0NvV3dVOTVhOGNhUVlUbTE3RWJJRnRpZmhHdkh1cmRHUGxodHZ1emszRGp0UlBKRjJUZFFuTFF0WkV0ZUgwT29DaWFlZ3hEak5DM2wtVl80X3VBa2lpZVBlZkpOdVFwby1GME93dWpqOGFKMmlZU1ptMDRycktOVktwR0h4UW9yY2V1WWcybkFBQWs?oc=5",
+            "published": "2026-11-09T16:24:10.000Z",
+            "snippet": "Mygo Consulting Acquires Approyo to Expand SAP Cloud and Managed Services Capabilities citybiz"
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "네덜란드 국방부, SAP Sovereign Cloud 채택: 유럽 국방 대비 태세의 이정표",
+          "summary": "네덜란드 국방부가 SAP Sovereign Cloud를 선택했습니다. SAP는 이를 유럽 국방 대비 태세 측면에서 중요한 이정표로 평가했습니다.",
+          "why": "공공·국방처럼 데이터 주권 요건이 엄격한 산업에서 소버린 클라우드 수요가 커지고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjRKN0laai1rTzQ3Vi1aMldBbUc2WDAxY1NNWHplcjdOWE5TR0xxd284SVFKNXBxYklEZDViTk5YQll6M2hYMnZYa3ZoZ2VIZ3VPWmlGNjk4QmhCRmlzWmpmVkJHQVJpbC1ZSkdSUEtjcVUzeEJaNFJhZmh1LXFQWDd0TEdKQm5NTVlV?oc=5",
+            "published": "2026-11-04T08:06:56.000Z",
+            "snippet": "Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness SAP News Center"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "Precisely·ASUG 공동 조사: AI 도입 가속 속 SAP 현대화 탄력, 마이그레이션 과제도 심화",
+          "summary": "Precisely와 ASUG의 공동 조사 결과, AI 도입이 빨라지면서 SAP 현대화 움직임에 탄력이 붙은 것으로 나타났습니다. 동시에 마이그레이션 과정의 어려움은 더 커지고 있다고 분석했습니다.",
+          "why": "S/4HANA 전환 프로젝트에서 데이터 품질과 마이그레이션 리스크 관리가 여전히 핵심 과제임을 확인시켜 줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWVRvak9aUHRVb2JQa3AtY0hqSjJaT2lSVjVQdV90cHJ2WGtzaFlNdWxnX3FkSWZ2TVZ2eDdmdmJQY0x6NEpjVUx5R185ZHlhWW5ReXIwcThRT3NfS180dTJ1ZWFYSndpNnd5YjMzLUM1T19ybVRoM25EcWg1Rk90RkFIZlpWc0Vwc09pOHJFSnVTc2djVW9GdDVfTWJkS1QtZHBEN0p6aVZtdmJTbFJ5YV9zVnVqMzFIZldfc2NnVTh0T0dNTjhMdHpELW9JU1dTNTRXSTc1bFdjWmxjZF9QS0dHbld3NHpMRjBPZkh0Q05VbnRmS0o0UmUyRGRLMnJoWWF4cFY0YzZNQ1BSOUJIOEt6QWFaS2hX?oc=5",
+            "published": "2026-11-04T14:00:00.000Z",
+            "snippet": "New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify PR Newswire"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "SAP 인도 대표 마니시 프라사드 인터뷰: \"인도의 어떤 성장 동력을 건드려도 SAP가 있다\"",
+          "summary": "SAP 인도 법인 사장 겸 MD 마니시 프라사드가 인도가 SAP의 글로벌 전략에서 중요한 시장이 되고 있는 이유를 설명했습니다.",
+          "why": "아시아 지역 SAP 투자와 인력 수요 흐름을 이해하는 데 참고가 됩니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”",
+            "link": "https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/",
+            "published": "2026-11-09T05:15:00.000Z",
+            "snippet": "SAP India President and MD Manish Prasad makes the case for why India is becoming a strategically important market in SAP's global story."
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "ASUG Tech Connect 2026에서 본 자율 기업으로 가는 길",
+          "summary": "11월 2~4일 미국 텍사스주 포트워스에서 열린 ASUG Tech Connect 2026은 키노트, 강연, 실습 세션, 전시장 전반에서 AI에 초점을 맞췄습니다. Joule Work와 AI 에이전트가 주목받았고, 행사 후기들은 AI의 비즈니스 가치를 보여주는 데 무게가 실렸다고 평가했습니다. Diginomica는 벤더가 AI를 내세웠다면 이제는 고객이 평가할 차례라고 짚었습니다.",
+          "why": "SAP 고객이 AI에 무엇을 기대하고 무엇을 우려하는지 파악해 제안 전략에 반영할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Making our way to the autonomous enterprise at ASUG Tech Connect 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/making-our-way-to-the-autonomous-enterprise-at-asug-tech-connect-2026/ba-p/14519076",
+            "published": "2026-11-09T18:29:54.000Z",
+            "snippet": "Joule Work. Robo-dogs. Agents. Cowboy hats. There was something for everyone at ASUG Tech Connect 2026 (November 2 – 4) in Fort Worth, Texas. SAP, our customers, and our partners are all innovating and contributing to the vision for the autonomous enterprise and it is clear that the way we will be using SAP in the future is changing. But, as we heard in sessions, AI-focused community conversations"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "호주, 아시아태평양 지역 SAP 애플리케이션 보안 선도",
+          "summary": "ERP Today는 아시아태평양 지역에서 호주가 SAP 애플리케이션 보안 분야를 이끌고 있다고 보도했습니다.",
+          "why": "SAP 보안 거버넌스 수준을 국가별로 비교해 보고 국내 고객의 보안 강화 방향을 잡는 데 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Australia Leads APAC on SAP Application Security - ERP Today",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1RkVYczEzZ2t5MkhXd0dzZ1ZpcHBLS2J5VGc1MFVzUTNLRThnWWVoZEpNU3JKSEdmOHY4ck9keXNJRWdMMFpBUXA4OUpsNXpibS1HOVM4LXJydnltcGVoS1VfSnQxOGNhTDBUa293ZDNneDU1OXc?oc=5",
+            "published": "2026-11-06T21:19:01.000Z",
+            "snippet": "Australia Leads APAC on SAP Application Security ERP Today"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "2027년 SAP 자동화 전망: 성숙도가 높아지는 가운데 AI 본격 등장",
+          "summary": "Enterprise Times는 SAP 자동화의 성숙도가 빠르게 높아지고 있으며, 2027년에는 AI가 자동화 영역에 본격적으로 들어올 것으로 전망했습니다.",
+          "why": "테스트·운영 자동화 투자 계획을 세울 때 AI 접목 방향을 검토하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Automation in 2027: AI Enters the Picture as Maturity Accelerates - - Enterprise Times",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUl0ZDVMd0ZMZ01zSzVSY2t3YzBsY3BYVUJERE96azhpSnp0YmJHVkhqLUJmNUFtdWU5UmNlY3RRWlpXb1B0RGZWeXN0UEJuckxGbURmbDBubldhaGtHQ2swdlhZS09CY0JSR3ZNLUhjQlNDajhBd3IyeTVyNVVwTnp6dWNVQUN4ekcwS2RxYldlQ0ZrYURZenFtUmlxMlhScnpJeXRFSFdqQVNYN0NUZURKMXA?oc=5",
+            "published": "2026-11-04T16:38:31.000Z",
+            "snippet": "SAP Automation in 2027: AI Enters the Picture as Maturity Accelerates - Enterprise Times"
+          }
+        }
+      ]
+    }
+  ]
+}
