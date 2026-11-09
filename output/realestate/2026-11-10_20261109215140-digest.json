@@ -1,0 +1,339 @@
+{
+  "overview": "정부·여당이 종합부동산세 공제액 상향과 비거주 1주택 과세 강화 등 부동산 세제 개편을 놓고 논의 중이고, 여야 입장차가 커 전세시장 불안 우려도 함께 나오고 있습니다. 서울은 아파트 매물이 석 달 새 30% 가까이 늘어 8만 건을 넘었지만 거래는 줄고 집값은 버티는 '매물↑ 거래↓' 현상이 이어지고 있습니다. 서울 전세난은 광명 등 경기 인접 지역 전셋값 상승으로 번지고 있으며, 2030 세대 사이에서는 추가 대출 규제설에 대한 불안이 커지고 있습니다. 동탄에서는 국민평형 17억 원대 '아크메르 동탄'이 2순위까지 받고도 547가구가 미달됐고, 동탄 트램은 착공에 들어갔습니다.",
+  "categories": [
+    {
+      "name": "정책·규제",
+      "items": [
+        {
+          "index": 4,
+          "title_ko": "종부세 공제 12억 vs 14억…매도 관망 늘 수 있지만 시장 영향은 제한적",
+          "summary": "여당이 1주택자 종합부동산세 기본공제를 현행 12억 원에서 14억 원으로 올리자고 요구하면서 공제 상향 논의가 본격화됐습니다. 대상은 공시가격 12억~14억 원대 1주택 보유자이며, 시행 시기는 아직 정해지지 않았습니다. 전문가들은 강남 등 고가 주택 보유자가 매도를 미루고 지켜볼 수는 있지만 시장 전체에 주는 영향은 크지 않을 것으로 봅니다.",
+          "why": "공시가 12억 원 안팎 주택 보유자라면 보유세 부담과 매도 시점을 판단하는 데 직접 영향을 줍니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "종부세 공제 12억 vs 14억…매도 관망 가능성에도 시장 영향 제한적 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbFVsc0d5REhNZWFpbmJjTnlHc3hwWHFXUWkzSnlJYjZveE9XOUlFY3l0RjJaV3BOd2d0cldBMHUwYWdDOTBlUmlHWV8wUzJkVy05d3VqR0ZzeDg?oc=5",
+            "published": "2026-11-09T20:05:00.000Z",
+            "snippet": "종부세 공제 12억 vs 14억…매도 관망 가능성에도 시장 영향 제한적 뉴스1"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "\"세 부담 높이는 개편안, 전세시장 불안 키울 수도\"",
+          "summary": "정부의 부동산 세제 개편안이 비거주 1주택자에게 불이익을 주는 등 보유 부담을 높이는 쪽으로 논의되면서, 전세 공급이 줄어 시장이 불안해질 수 있다는 지적이 나옵니다. 거주하지 않는 집을 전세로 내놓던 1주택자가 매도하거나 직접 들어가 살면 전세 매물이 줄어들 수 있다는 분석입니다. 구체적인 시행 시기와 적용 대상은 국회 논의 과정에서 확정될 예정입니다.",
+          "why": "직장 등의 이유로 자가에 살지 않는 1주택자와 전세 세입자 모두 세 부담과 전세 수급 변화에 대비해야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "“稅 부담 높이는 개편안, 전세시장 불안 키울수도” - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yQ3E2cE00QmF3QkVadEwyd2lqRW1wRGx5ck9JcXM5M0ZLY3h5RndRVnlFZ1h0OFNSTjFmYW52dkdqV1FTaUJJazgtMjc0NHhTcHpmTTBzVElYUncxWmhDODh5TTJmaVB1aUoxdVVDLUFCZHNXdHfSAWZBVV95cUxPelFSYzVVWi1hUUVNZFp3dTl2QWdLTWp6NERERE56VkpFNWFpQkF6WWd5U0lMV3ZZTmNYUXlmenJQTDhKTUVpSS1Gc3lLdDRUeTBQSDhTN013YlptaFpVY0FkSmdGRFE?oc=5",
+            "published": "2026-11-09T20:39:06.000Z",
+            "snippet": "“稅 부담 높이는 개편안, 전세시장 불안 키울수도” 동아일보"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "\"공정과세\" vs \"탁상행정\"…여야, 부동산 세제 개정안 놓고 팽팽한 입장차",
+          "summary": "국회에서 부동산 세제와 가업상속공제 개정안을 두고 여당은 '공정과세', 야당은 '탁상행정'이라며 맞서고 있습니다. 여야 합의가 쉽지 않아 개정안의 최종 내용과 시행 시기가 달라질 가능성이 있습니다.",
+          "why": "세제 개편의 최종 내용이 정해지기 전까지 매수·매도 결정 시 불확실성을 감안해야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"공정과세\" vs \"탁상행정\" 여야, 부동산세제·가업상속공제 개정안 팽팽한 입장차 - 한국세정신문",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZX3lkbC1BeW9MWDFGcmY1aDRibERFRUc1VFEyZ2tOMURNTXdnR0N4UmFjY3NrQ2RrMW1sWVczUHV1UDBjTDVoVE9vbmt1NVNZVFFFZndkZ2tmY2xlQmpVVlNGR0g?oc=5",
+            "published": "2026-11-09T11:29:05.000Z",
+            "snippet": "\"공정과세\" vs \"탁상행정\" 여야, 부동산세제·가업상속공제 개정안 팽팽한 입장차 한국세정신문"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "민주당 수도권 의원들 \"중산층·서민 주거안정 최우선\"…부동산 정책 전환 모색",
+          "summary": "민주당 수도권 지역 의원들이 중산층과 서민의 주거 안정을 최우선에 둔 부동산 정책 전환을 요구하고 나섰습니다. 수도권 실수요자 부담을 줄이는 방향으로 당 정책 기조가 조정될지 주목됩니다.",
+          "why": "여당 내 정책 기조 변화는 앞으로 대출·세제·공급 정책 방향을 가늠하는 신호가 됩니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "민주당 수도권 의원들 “중산층·서민 주거안정 최우선”… 부동산 정책 전환 모색 - 경기연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSYjUyOFNHSHRhMlVFQVdySDgzSG1WTDVKTHdQLTZmVUg4OE42b1hCYl9MbEZveDlydHRESjhZcURWTDNiSkxYWXcxaWgybXJnRTVjaFBhOFZqbEdtbFhuVmtWNmtXdnRL0gFoQVVfeXFMUFJiNTI4U0dIdGEyVUVBV3JIODNIbVZMNUpMd1AtNmZVSDg4TjZvWEJiX0xsRm94OXJ0dERKOFlxRFZMM2JKTFhZdzFpaDJtcmdFNWNoUGE4VmpsR21sWG5Wa1Y2a1d2dEs?oc=5",
+            "published": "2026-11-09T13:04:03.000Z",
+            "snippet": "민주당 수도권 의원들 “중산층·서민 주거안정 최우선”… 부동산 정책 전환 모색 경기연합뉴스"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "\"2억 없어 집 내놔요\"…재건축초과이익환수제 앞두고 공급에도 발목 잡힐라",
+          "summary": "재건축초과이익환수제(재초환) 부과를 앞두고 억 단위 부담금을 낼 여력이 없는 조합원들이 집을 매물로 내놓는 사례가 나오고 있습니다. 정부의 '공급 총력전' 기조에도 재초환이 재건축 사업 속도를 늦출 수 있다는 우려가 제기됩니다.",
+          "why": "재건축 단지 보유자나 매수 검토자라면 부담금 규모와 사업 지연 가능성을 반드시 따져봐야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"2억 없어 집 내놔요\"… 재초환에 '닥공'도 발목 잡힐라 [재초환 앞두고 논란] - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSDAxenAxVVRfZUY2RXlWalFkV2tHVGFPOWVNdFduMmdzSmp2T1VmaXgxU2xPLTJuLWx2bURxN2hpTDZrVWpXOFh6dl8xRTNZeThnbEdlV0dsQQ?oc=5",
+            "published": "2026-11-09T09:26:41.000Z",
+            "snippet": "\"2억 없어 집 내놔요\"… 재초환에 '닥공'도 발목 잡힐라 [재초환 앞두고 논란] 파이낸셜뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "금융·대출",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "\"부인해도 결국 현실로\"…2030 불안감 키우는 대출 규제설",
+          "summary": "정부가 부인해도 결국 대출 규제가 현실화됐던 경험이 반복되면서, 추가 대출 규제설이 2030 세대의 불안을 키우고 있습니다. 규제 전에 서둘러 집을 사려는 심리가 시장 변동성을 키울 수 있다는 지적입니다.",
+          "why": "대출 의존도가 높은 청년층 실수요자라면 규제 루머에 휩쓸린 조급한 매수를 경계해야 합니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "“부인해도 결국 현실로”… 2030 불안감 부채질하는 대출 규제설 - 뉴스투데이",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkQXJhbUdKdTB4WGgtV0JvTUFVQ1l1b18zZ0g4N2M1dmx6Mk8wblIwY1BUUF9VZ3c5ZWVKTG9LRDZrRnpJRDZwczE0LWpnR01KanIydWIwLWhXYVA5b0E?oc=5",
+            "published": "2026-11-09T21:30:27.000Z",
+            "snippet": "“부인해도 결국 현실로”… 2030 불안감 부채질하는 대출 규제설 뉴스투데이"
+          }
+        }
+      ]
+    },
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 25,
+          "title_ko": "'매물은 늘고 거래는 줄고' 이상 현상…매수·매도자 힘겨루기 속 꺾이지 않는 집값",
+          "summary": "매물은 쌓이는데 거래는 줄어드는 가운데에도 집값이 쉽게 떨어지지 않는 현상이 이어지고 있습니다. 매도자는 호가를 유지하고 매수자는 관망하면서 양측의 힘겨루기가 계속되는 모습입니다.",
+          "why": "가격 조정을 기다리는 매수자라면 거래량과 호가 흐름을 함께 지켜보며 협상 여지를 살펴야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "'매물↑ 거래↓' 이상현상…매수·매도자 힘겨루기 속 꺾이지 않는 집값 - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNlJ4NWpZNDdGWmc4cUFjNzdxYm9Za190eDBVVk01RXN3T0Vpbl9GWHdVMnlNWDdva0NCUk1oMkdHMTZJRUY4NXlnWTk5dXNlemRWdEFMM0c3NHBxMEtPYmVmOEtYRDFzaUxSUkRuX0otZWY4SjkyS2t0c3pqTDI1SA?oc=5",
+            "published": "2026-11-09T09:29:57.000Z",
+            "snippet": "'매물↑ 거래↓' 이상현상…매수·매도자 힘겨루기 속 꺾이지 않는 집값 이데일리"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "서울 아파트 매물 8만 건 넘어…석 달 새 29.6% 증가",
+          "summary": "서울 아파트 매물이 8만 건을 넘어 최근 석 달 동안 29.6% 늘었습니다. 세제 개편 논의와 대출 규제 등의 영향으로 매도 물량이 쌓이는 것으로 보입니다.",
+          "why": "매물 증가는 매수자 협상력이 커질 수 있다는 신호여서 서울 내 집 마련 시점을 판단하는 참고 지표가 됩니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트 매물 8만건 넘어…석 달 새 29.6% 증가 - 한국사회복지저널",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56dDlSdmpXeVVDb1lKc3E0MjFKWWdqeUFqaGNCWVR5LW96cmotd01CT1dGYzdsWENJa2RsZUNuSjBIN05BT3dsZE10M09vLU9QdDdqd2hDNThuaGRodTZfTmxNQzBpU196akJ3?oc=5",
+            "published": "2026-11-09T11:27:05.000Z",
+            "snippet": "서울 아파트 매물 8만건 넘어…석 달 새 29.6% 증가 한국사회복지저널"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "서울 전세난에 '준서울' 광명까지 들썩…경기 전셋값 상승률 1위",
+          "summary": "서울 전세난이 이어지면서 서울과 맞닿은 광명시 전셋값이 경기도에서 가장 많이 올랐습니다. 서울에서 밀려난 전세 수요가 인접 경기 지역으로 옮겨 가는 흐름입니다.",
+          "why": "서울 인접 지역 세입자는 재계약 때 전셋값 상승에 대비하고 대안 지역을 미리 살펴볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 전세난에 '준서울' 광명까지 들썩…경기 전셋값 상승률 1위 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ldExRX1k2VkpVRHY5akVhclV1clFpUm8ySmJzTFRaMVpQVUJEejItSDl1cEFLckxvMzE0UDhqZkZMVGo1c291NzQtY0FpbWhGR1dIUmtqV3dNQTA?oc=5",
+            "published": "2026-11-09T20:20:00.000Z",
+            "snippet": "서울 전세난에 '준서울' 광명까지 들썩…경기 전셋값 상승률 1위 뉴스1"
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "아파트 매수자 54%가 30~40대…초·중학교 가까운 단지 인기",
+          "summary": "최근 아파트 매수자의 54%가 30~40대로 집계돼 이 세대가 주택 시장의 핵심 수요층으로 자리 잡았습니다. 이들은 단지를 고를 때 가격보다 초·중학교 통학 거리를 가장 중요하게 보는 것으로 나타났습니다.",
+          "why": "학교와 가까운 이른바 '초품아' 단지는 실수요가 탄탄해 거주 만족도와 환금성 측면 모두에서 유리합니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "아파트 매수자 54%가 30~40대…초·중학교 가까운 단지 인기 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zWHBXTzhNQ3lic2xUZUVvV2xub3NqRjIwSlh6czhiVGZneWZ2V0p2ci1wMnhUdTRkR3p2TWN0WTlKSDFwSlltQW1VUTEwTkhKVGI1LUZYeGt1UQ?oc=5",
+            "published": "2026-11-09T08:31:11.000Z",
+            "snippet": "아파트 매수자 54%가 30~40대…초·중학교 가까운 단지 인기 한국경제"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "안산 아파트 거래량, 6년 전의 37% 수준…경기도는 64%",
+          "summary": "안산시 아파트 거래량이 6년 전의 37% 수준까지 줄어 경기도 평균(64%)보다 훨씬 크게 감소했습니다. 경기도 안에서도 지역별 거래 위축 정도가 크게 엇갈리고 있습니다.",
+          "why": "거래가 크게 줄어든 지역은 매도 시 환금성이 떨어질 수 있어 매수 전 거래량 추이를 확인해야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "안산 아파트 거래 6년 전의 37%…경기도는 64% - 경기연합신문",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OSXRlWEdkMUM0ZUdFNl9Fd2p4dVd2cHNBQVhVLW1zdXB3cWRMMnJveWhwUkZaNTVlalRzdU5MMEJ5VnI5aGZQZFg2dURTaFVQaTFvUXFpQjUzQk9IMUFSZHdFZjNRdw?oc=5",
+            "published": "2026-11-09T17:24:06.000Z",
+            "snippet": "안산 아파트 거래 6년 전의 37%…경기도는 64% 경기연합신문"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "강원 아파트값 0.03% 하락…올해 누적 0.29% 하락",
+          "summary": "강원 지역 아파트값이 한 주 동안 0.03% 내려 올해 누적 하락률이 0.29%가 됐습니다. 수도권과 달리 지방 일부 지역은 약세가 이어지고 있습니다.",
+          "why": "수도권과 지방의 집값 흐름이 갈리고 있어 지역별로 다른 접근이 필요합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "강원 아파트값 0.03% 하락…누적 0.29%↓ - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BNDlBaXN3ck43WG9OdE5scmhtWk9ObE1LUlNQS1FTRHVyWmVFdmF4OGdPeXlPTXF3Y0xYQVF6VmRDbG1rSnpSNnVWNDhOZFFBdGhOU0VuaXFYRnA5NnY5czFnRnR5VmJwcEtoMkpn?oc=5",
+            "published": "2026-11-09T13:15:00.000Z",
+            "snippet": "강원 아파트값 0.03% 하락…누적 0.29%↓ KBS 뉴스"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "충북 아파트값은 오르는데…경매 시장은 침체",
+          "summary": "충북 지역 아파트 매매가격은 오름세를 보이지만, 경매 시장은 낙찰률과 낙찰가율이 낮아 침체된 모습입니다. 일반 매매와 경매 시장의 온도 차가 나타나고 있습니다.",
+          "why": "경매로 내 집 마련을 노리는 수요자라면 시세 대비 저가 매수 기회를 살펴볼 수 있는 시점입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "충북 아파트 가격 상승...경매는 침체 - 충청매일",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUE40RFhZYW0wNnROclNqTFhYV0xvWHlaNzFwYnpxVkpMYm5RSllJeFkzMW9jZlIzNXNKSG1CaE9SRjdXMFBabzBwU0tSV3d2dE9aVHRlQk5mR0FEenZCMzNyT0tQVVcyeEE?oc=5",
+            "published": "2026-11-09T09:55:14.000Z",
+            "snippet": "충북 아파트 가격 상승...경매는 침체 충청매일"
+          }
+        }
+      ]
+    },
+    {
+      "name": "분양·청약",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "'반값 아파트' 고덕강일3단지 청약에 2만5000명 넘게 몰려",
+          "summary": "토지는 임대하고 건물만 분양하는 이른바 '반값 아파트' 고덕강일3단지 청약에 2만5000명 이상이 신청했습니다. 시세보다 크게 낮은 분양가에 무주택 실수요자가 대거 몰렸습니다.",
+          "why": "공공 주도의 저렴한 분양 물량은 무주택자에게 현실적인 내 집 마련 경로이므로 비슷한 공급 일정을 챙겨볼 만합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "‘반값 아파트’ 고덕강일3단지 청약에 2만5000명 넘게 몰려 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1VUVjBlazdNa0NzeDA0UzFQZlRZSDBJZkFFdld0bzNuazNkREIwVmx6Q0VNd1FJZUVtR0FCQmZDa19naGNJYTJEb19mYURNbFAwcUlnellVQ0RtdGhaUDQyaGt3NnczV2s2S1lfbldsSHpHMHlETll1ajlWdnJaZk1kYWdSY3lJ?oc=5",
+            "published": "2026-11-09T15:37:00.000Z",
+            "snippet": "‘반값 아파트’ 고덕강일3단지 청약에 2만5000명 넘게 몰려 조선일보"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "특별공급 경쟁률, 광교 센트레빌 71대 1·갈매역 신안인스빌 9대 1·한화포레나 지제역 0.14대 1",
+          "summary": "같은 시기 수도권 분양 단지들의 특별공급 결과가 크게 엇갈렸습니다. 광교 자연앤 센트레빌은 71대 1의 높은 경쟁률을 기록한 반면, 평택 한화포레나 지제역은 0.14대 1로 대거 미달됐습니다.",
+          "why": "입지에 따라 청약 성적이 극명하게 갈리는 만큼, 청약 전략을 세울 때 지역별 수요 차이를 꼭 고려해야 합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "[특공] 광교 센트레빌 71대 1..갈매역 신안인스빌 9대 1..한화포레나 지제역 0.14대 1 - 스트레이트뉴스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xYUliUnNmTTZVZW05dDR1T3pBbkdKTm92NDlrdjFia25HSUZkSFFBaTl6RWZHSmpUUEFDaWZxR3pxZ3lwLVBwcUN1RkNsTUVEUDdrSVFWdGtQNTVVdnJZSDlMbHJhNktjWXFYalFEMUFjOTQ?oc=5",
+            "published": "2026-11-09T17:29:01.000Z",
+            "snippet": "[특공] 광교 센트레빌 71대 1..갈매역 신안인스빌 9대 1..한화포레나 지제역 0.14대 1 스트레이트뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 41,
+          "title_ko": "국평 17억 '아크메르 동탄', 2순위까지 받고도 547가구 미달…같은 반송동 84㎡ 중위가격은 9.68억",
+          "summary": "화성시 동탄구 반송동에 공급된 아크메르 동탄은 전용 84㎡ 분양가가 17억 원대에 달해 2순위 청약까지 진행했지만 547가구가 미달됐습니다. 같은 반송동 84㎡ 아파트 중위가격이 9억6800만 원 수준이어서 분양가가 주변 시세보다 크게 높다는 평가입니다.",
+          "why": "동탄에서도 주변 시세와 동떨어진 고분양가 단지는 외면받는다는 점에서 분양가 적정성을 꼼꼼히 따져야 합니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "경기 화성시 동탄구(東灘區) · 국평 17억 아크메르 동탄, 2순위까지 받고도 547가구 미달 — 같은 반송동 84㎡ 중위 가격은 9.68억 - 네이버 프리미엄콘텐츠",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fNklDTTRLUjJ4WW5SQlRBZUgxOEw0ajZVamlHYk0wR2ozM0NhTmZfVUgwTzAwdlNoNTRYd00yVFhkZ0FyOWEwNEFzc0gybkM3aURfXy1TQnh2YktIQ0FqRWNNVjNnN3lLSmlFVWE5MU1GaThKcTRZR1liTV8?oc=5",
+            "published": "2026-11-09T00:24:00.000Z",
+            "snippet": "경기 화성시 동탄구(東灘區) · 국평 17억 아크메르 동탄, 2순위까지 받고도 547가구 미달 — 같은 반송동 84㎡ 중위 가격은 9.68억 네이버 프리미엄콘텐츠"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "화성 동탄역신안인스빌 리베라 1차, 제4회 가을음악회·푸드 페스타 성황리 개최",
+          "summary": "동탄역신안인스빌 리베라 1차 단지가 주민 화합을 위한 제4회 가을음악회와 푸드 페스타를 열어 많은 주민이 참여했습니다. 입주민 주도의 공동체 행사가 해마다 이어지고 있습니다.",
+          "why": "활발한 주민 공동체 활동은 단지의 거주 만족도와 평판에 긍정적인 요소입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "화성 동탄역신안인스빌 리베라 1차, 제4회 가을음악회·푸드 페스타 성황 - 경인방송 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WM2hUU0JIWkU0TzZocllxX3JvZk84ZFJoVG1ERENqaG5pZXZycXpraWkzSGc4dUlFX3dIdktRaE1raXJldTZ1LXZzbkZraDFWUWRacVQxVzR3c0JyeEpvVzdTMHrSAWhBVV95cUxORXJ3V3ZrbDhmRDZUZ3Y3dGQwYldHb3FqbXpieDNMcWdiSTM3a1UwWXQ4eG5UOUt3Z3dYeENZOC14SXZUaUVrcFhKYnZKSlVlVHJDYUZlUEJuSFh6UE5sREZscGpyaGxzdA?oc=5",
+            "published": "2026-11-09T04:41:26.000Z",
+            "snippet": "화성 동탄역신안인스빌 리베라 1차, 제4회 가을음악회·푸드 페스타 성황 경인방송 뉴스"
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "\"2월엔 정말 문 여나요\"…동탄 대형 웨딩홀 두 차례 개장 연기에 예비 신혼부부들 발 동동",
+          "summary": "동탄의 한 대형 웨딩홀이 두 차례나 개장을 미루면서 이미 예약한 예비 신혼부부들이 불편을 겪고 있습니다. 내년 2월 개장도 확실하지 않다는 불안이 커지고 있습니다.",
+          "why": "신도시 생활 인프라가 예정보다 늦게 갖춰질 수 있다는 점은 동탄 거주 여건을 판단할 때 참고할 만합니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "“2월엔 정말 오픈하나요”…동탄 대형 웨딩홀 두 차례 개장 연기에 예비 신혼부부들 ‘발 동동’ - 중부일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sYWpQc0JtaFZyTVdpMUVieGVRdHMwRUxJOVNZbXZrd3BZaXpMY2E3ZXcwRUIxU1p6RTZVUVMtdE1adnJSbzNYOEVGZjhTdkxtSGZLSnhBV2tNTEUyZmx1YkFsNkJnUWlRZm9BMDVpaw?oc=5",
+            "published": "2026-11-08T05:24:00.000Z",
+            "snippet": "“2월엔 정말 오픈하나요”…동탄 대형 웨딩홀 두 차례 개장 연기에 예비 신혼부부들 ‘발 동동’ 중부일보"
+          }
+        },
+        {
+          "index": 38,
+          "title_ko": "경부고속도로 동탄터널 인근서 5중 추돌…33명 경상",
+          "summary": "경부고속도로 동탄터널 부근에서 차량 5대가 잇따라 부딪혀 33명이 가벼운 부상을 입었습니다. 사고 여파로 일대에 교통 정체가 빚어졌습니다.",
+          "why": "경부고속도로 동탄 구간을 출퇴근에 이용하는 주민이라면 교통 안전과 혼잡 상황에 유의해야 합니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "경부고속도로 동탄터널 인근서 5중 추돌…33명 경상 - 중부일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YUDRXZVk1M3hWVWM5QXRlOHdrYUQxYjZjQjlGUGJFSWRBZHdxaHppc0cyMkVDa2ZYbUExWTlRTGR0N3Z3bmN4RUtUSHJ5SHVkbS1jQmNmOXFlM3FQRng0U0Z1d0xobjhBVHh4SlhxQQ?oc=5",
+            "published": "2026-11-09T03:26:00.000Z",
+            "snippet": "경부고속도로 동탄터널 인근서 5중 추돌…33명 경상 중부일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 트램",
+      "items": [
+        {
+          "index": 44,
+          "title_ko": "동탄 트램 첫 삽…주민 숙원 이번엔 풀리나",
+          "summary": "오랫동안 지연돼 온 동탄 도시철도(트램) 사업이 착공에 들어갔습니다. 여러 차례 일정이 미뤄졌던 만큼 이번에는 계획대로 개통까지 이어질지 주민들의 관심이 큽니다.",
+          "why": "트램이 개통되면 동탄 내부 교통과 동탄역 접근성이 좋아져 노선 주변 단지의 주거 가치에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "동탄 트램 첫 삽, 주민 숙원 이번엔 풀어지나! - 화성신문",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LQUlBb3hnaTZGeWlRZ3g1U1Bzc2JockFWOVIzVWJSNTBIWDhXTUQzUGpHRGZOVVh0dWV4NFBUOW9EQQ?oc=5",
+            "published": "2026-11-06T05:38:00.000Z",
+            "snippet": "동탄 트램 첫 삽, 주민 숙원 이번엔 풀어지나! 화성신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "정덕영 양주시장, 홍지선 국토부 장관에 GTX-C 양주역 정차 요구",
+          "summary": "정덕영 양주시장이 홍지선 국토교통부 장관에게 GTX-C 노선의 양주역 정차를 공식 요청했습니다. 노선 북부 구간의 정차역 확대를 둘러싼 지자체 요구가 이어지고 있습니다.",
+          "why": "정차역 추가 여부는 해당 지역 집값과 노선 전체 소요 시간에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "정덕영 양주시장, 홍지선 국토장관에 GTX-C노선 양주역 정차 요구 - 수원일보",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44S2N5a0Y3QndiNDVjZzNqMnVMaU96TkpLZDdONzl5MFFzNHgtaWJKeHROcWgyOXNLSk9KRy03RnBHRXRFSFFuNVNGYmx4RWlIeDN0UlE5SVJ2cE1DSWtPN1h2enNCQQ?oc=5",
+            "published": "2026-11-09T08:38:57.000Z",
+            "snippet": "정덕영 양주시장, 홍지선 국토장관에 GTX-C노선 양주역 정차 요구 수원일보"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "시흥시, 서남권 철도 확충 건의…신천~신림선·GTX-C 연장 요구",
+          "summary": "시흥시가 서남권 철도망 확충을 위해 신천~신림선 신설과 GTX-C 노선 연장을 정부에 건의했습니다. GTX-C 연장을 원하는 지자체가 남부권에서도 늘어나고 있습니다.",
+          "why": "GTX-C 연장 논의가 확대되면 노선 운영 계획과 수혜 지역 범위가 바뀔 수 있어 관련 지역 수요자는 눈여겨볼 만합니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "시흥시, 서남권 철도 확충 건의…신천~신림선·GTX-C 연장 - 뉴스타운",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KckZiMTdPNUJNdU0xLWpqTk5DV2pIT2Zmbnk2NEJqN0gxNUJsVlFpSTlPUnRxVG0yeVRWN0k1UHVJb1ZqVXBaVEp2aFNoS2Frb0hVNWZ4S055UWs2VktmNzE1UjBnaktsSXBKRklB?oc=5",
+            "published": "2026-11-09T14:07:07.000Z",
+            "snippet": "시흥시, 서남권 철도 확충 건의…신천~신림선·GTX-C 연장 뉴스타운"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "GH, 인덕원 상수도관 통합 이설…도로 차단 기간 404일에서 169일로 단축",
+          "summary": "경기주택도시공사(GH)가 인덕원사거리 일대 상수도관 이설 공사를 하나로 묶어 진행하기로 하면서 도로 차단 기간을 404일에서 169일로 235일 줄였습니다. GTX-C 정차역이 들어설 인덕원 일대의 공사로 인한 교통 불편이 줄어들 전망입니다.",
+          "why": "인덕원 일대 주민과 출퇴근자는 공사 기간 단축으로 교통 불편이 줄어드는 효과를 기대할 수 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "GH, 인덕원 상수도관 통합 이설…도로 차단 404일→169일 - 이뉴스투데이",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfVUlmMHEyR3l3bFVjT3dIM051WXZGUkVZTXVMVG01TFpNRDYtN0RxSWVEcUpQYVlFbDF5NktBZUtTODFfY1F3d1h4ZEs1dDlGaXVHdzRaLWJMb3FSTXNrbENjLV9tTmdKWk5yRm5TVFTSAXRBVV95cUxQUUtWN3JIalZhUGdKSkV5c0R1YktwZU9rOV9KT2lZQ05fVWMycTQtUVhkdnhlOFI5TTMyUEFRLWFyenRLS1JCNFRPY0hMREROT0xuWlJNZjlyUFNLaUhhYU9VY3NwbVljeVdCc09yWUlfOTUzRA?oc=5",
+            "published": "2026-11-09T08:58:23.000Z",
+            "snippet": "GH, 인덕원 상수도관 통합 이설…도로 차단 404일→169일 이뉴스투데이"
+          }
+        }
+      ]
+    }
+  ]
+}
