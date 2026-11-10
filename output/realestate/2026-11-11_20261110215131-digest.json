@@ -1,0 +1,300 @@
+{
+  "overview": "서울 아파트값은 강남권 하락에도 91주 연속 오르며 역대 최장 상승 기록을 이어가고 있습니다. 다만 서울 아파트 매물이 석 달 새 33% 늘어 8만 건을 넘었고, 주가 급락까지 겹치면서 매매시장은 숨 고르기에 들어선 모습입니다. 반면 전월세 물건은 줄어 임차인 부담이 커지는 가운데, 여당에서는 종부세 등 세제 완화론이, 시장에서는 대출 축소·규제 확대설이 함께 나오고 있습니다. 정부는 위장전입·위장미혼 등 부정청약 의심 사례 354건을 적발했습니다. 동탄은 삼성전자 수요에 힘입어 올해 집값이 21% 올랐고, 17년간 지연되던 동탄 트램이 착수 단계에 들어섰습니다.",
+  "categories": [
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 32,
+          "title_ko": "강남 집값 하락에도 서울은 91주째 상승…부동산 해법은?",
+          "summary": "강남권 집값은 내리고 있지만 서울 전체 아파트값은 91주 연속 올라 역대 최장 상승 기록을 이어가고 있습니다. 강남이 주춤하는 사이 그 외 서울·수도권 지역이 오르는 흐름이 방송 토론에서 다뤄졌습니다.",
+          "why": "상승세가 핵심지에서 주변 지역으로 옮겨가고 있어, 수도권 외곽 실수요자는 매수 시점을 따져볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "강남 집값 하락에도 서울은 91주째 상승…부동산 해법은? (100분 토론) - iMBC 연예",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtNEU1Y1o0ekZ3TW9JRV9wTnVpMUlnTTI3ZVFNUEpob0R5RGdNQnd6OHc2SFNmTmdMYm5YblFNVWc3VmZpSFFZRnpmS25pZk15V091dFg1bXF0ekwxMUpiNA?oc=5",
+            "published": "2026-11-10T08:02:00.000Z",
+            "snippet": "강남 집값 하락에도 서울은 91주째 상승…부동산 해법은? (100분 토론) iMBC 연예"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "서울 아파트 매물 8만 건 돌파…석 달 새 33% 급증",
+          "summary": "서울 아파트 매물이 8만 건을 넘어 최근 3개월 동안 약 33% 늘었습니다. 매도 물량이 쌓이면서 매수자가 협상에서 유리해질 수 있는 환경이 만들어지고 있습니다.",
+          "why": "매물이 늘면 가격 협상 여지가 생기므로 매수 대기자에게 중요한 신호입니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "서울 아파트 매물 8만건 돌파…석 달 새 33% 급증 : 부동산 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fc0FseDlTMnMtQjdaVzNXTjJKSWxvcEIwM3d1TDM5QS1reGFaaDNEODU5Vm52VXZ2RXVURkpFRjVOazNKM3owRlNRZw?oc=5",
+            "published": "2026-11-10T10:28:34.000Z",
+            "snippet": "서울 아파트 매물 8만건 돌파…석 달 새 33% 급증 : 부동산 재경일보"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "팔 집은 쌓이고 세 들 집은 줄고…서울 매매·전월세 ‘엇박자’",
+          "summary": "서울에서는 매매 매물이 늘어나는 반면 전월세 매물은 줄어드는 상반된 흐름이 나타나고 있습니다. 매매시장은 숨 고르기에 들어갔지만 임대차 시장은 공급이 부족해 불안이 커지고 있습니다.",
+          "why": "전월세 물건이 줄어들면 임차인의 갱신·이사 비용 부담이 커질 수 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "팔 집은 쌓이고 세 들 집은 줄고… 서울 매매·전월세 ‘엇박자’ - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmp6TlE5ZEt2emd5STZidXJfUnc0QWtTdDd5aVNtOWNOMzI3cGJmREthXzRGeU9QVVlORzVZaS0yLTlBZlVodmFfZGFpUkZfdEN2dXZxak5XSEkxZnVmMWRIUTBwYmQ0ZGFLczF0SGVIc181YV9peHZXRHl1Qkh5V1pVNFV4RXRHekhoX2FBSmJQd0g0REZtVNIBrAFBVV95cUxNcE5lbTJFaXEzcENaY1JNcmluQzRkcmhWdmExZ29QU2pvWFZOR0lUVEsyblhoeU5KVkUtZmdnY0c4QVVDU0dYQmhaTUhQSUxVMVR1dEhET1Rha3Fpc0NSMWVHak9UZmw0Z01mTHl3bjRKazA5TlhfSGNCVy1Yb1FkeVE4UG9QelpZak5PNXdaRTRncUpIRW1aejJmS0VtTmNvRng5YkhtOVNBQVdE?oc=5",
+            "published": "2026-11-10T21:00:00.000Z",
+            "snippet": "팔 집은 쌓이고 세 들 집은 줄고… 서울 매매·전월세 ‘엇박자’ Chosunbiz"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "‘주식 팔아 집 샀는데…’ 주가 폭락에 부동산 시장도 얼어붙었다",
+          "summary": "최근 주가가 급락하면서 주식 자금으로 집을 사려던 수요가 위축되고 부동산 거래 심리도 얼어붙고 있습니다. 자산시장 전반의 불안이 주택시장으로 번지는 모습입니다.",
+          "why": "금융자산을 활용해 집을 사려던 사람에게는 자금 계획을 다시 점검해야 할 시점입니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "‘주식 털어 집 샀는데…’ 주가 폭락에 부동산 시장도 얼어붙었다 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUx6cjBTeF84cWdmb1dNVWFqN3BGNlhOMGgtWl9YX1UtUzU5S19FVlZvVC1tRnRoc2xHbm95ZlhFaG1MVHQxXzRkUFlmSDFjVG1zd1VrbDY4ZEJVTV9JS3lMY2dQYjBDeXFqMzJTNDZWLUJnNVJlaFhtSExPYjRmMVJXd2JGY3I5?oc=5",
+            "published": "2026-11-10T18:00:00.000Z",
+            "snippet": "‘주식 털어 집 샀는데…’ 주가 폭락에 부동산 시장도 얼어붙었다 조선일보"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "제주 아파트값 50개월째 하락…4년여 만에 12.9% 떨어져",
+          "summary": "제주 아파트값이 50개월 연속 하락해 고점 대비 약 12.9% 내렸습니다. 수도권과 달리 지방은 장기 침체가 이어지면서 지역 간 양극화가 뚜렷해지고 있습니다.",
+          "why": "지방 부동산에 투자하거나 거주할 계획이 있다면 장기 하락 추세를 고려해야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "제주 아파트값 50개월째 내리막… 4년여 만에 12.9% 떨어졌다 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2dfRm1xODhkTnN3T2tLYnlNNzRWeDVtUUpDOFY4NXdTV3BqbzNCUnczNW9LSWlscVRGMUowU3IzYjRWeFBSbVZpLTNPWTNDNHFTTUs0aWhwTkZ6R0RDT2p4SjVqWGpicHUtLUZlOWpRTkdGX2xuZm5MdGtMUWpFTkJSX0F2V2FyYXpvYXYyUlhBUTNERmZSZ9IBrAFBVV95cUxNU1R1LUdqRTEzcDJpbHkxT2JaRFNQaDRXOFdNRG5DUG9kSkJ6cjZJM0NZUFZkR1l4RFhqYU4tcGg5dThmbkdkR0ROSFFDaUtzMm9ER28zRHFqSml2Y3hocVZTYkxPR3E4TVkyNVJNZFZ4NlZYSGJXNmxGRlpteXRmQllUaE1zQmFPV3VyUEtOU1FJaVFZa2cwbmp6YnUyOXJkVVcwZVpVZW1MWkd3?oc=5",
+            "published": "2026-11-10T10:25:00.000Z",
+            "snippet": "제주 아파트값 50개월째 내리막… 4년여 만에 12.9% 떨어졌다 Chosunbiz"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "아파트 입주 전망은 소폭 개선…분양 기대는 하락",
+          "summary": "아파트 입주 전망 지수는 조금 나아졌지만 분양 경기 기대감은 낮아졌습니다. 기존 단지 입주 여건은 회복 기미를 보이는 반면 신규 분양시장 심리는 위축된 상태입니다.",
+          "why": "분양 심리가 약해지면 청약 경쟁률과 분양 조건에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "아파트 입주 전망 소폭 개선…분양 기대는 하락 - 제민일보",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51eG1IREtTeENCV29YVkpWSXM3UFgtRUt5aFh1TDdKSkc4eXZsSzNOY2tkd3VoaXJ6Zi1McDIyelZMVUxiREgwdWxvZnZZN19sOHp1ZEdZSUNKY2pmLVpKaEV1Mm05NTg?oc=5",
+            "published": "2026-11-10T08:29:58.000Z",
+            "snippet": "아파트 입주 전망 소폭 개선…분양 기대는 하락 제민일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "정책·규제",
+      "items": [
+        {
+          "index": 3,
+          "title_ko": "종부세부터 장기보유특별공제·공정시장가액비율까지…여당발 부동산 규제 완화론 주목",
+          "summary": "여당에서 종합부동산세, 양도세 장기보유특별공제, 공정시장가액비율 등 보유·거래 세제를 완화하자는 논의가 나오고 있습니다. 일부 보도에 따르면 1주택자 종부세 공제를 14억 원 수준으로 높이는 방안이 거론되지만, 대상과 시행 시기는 아직 정해지지 않은 논의 단계입니다. 전세 매물 감소와 월세 상승 속에서 실효성에 대한 비판도 함께 나옵니다.",
+          "why": "고가 1주택자의 보유세와 매도 시점 판단에 직접 영향을 줄 수 있는 사안입니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "종부세에서 장특공·공정비율까지…여당發 부동산 규제 완화론 주목 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zSzgwTjJYd2R0MHZGZkpwSU1uRnMwZjA2S255SVQwWkhxYjN2VHA0WVB0SFVoc1Z4c2N4cGJmVzI4NFpST2k1YUk2cG42MGVKbWtadjJ2VmVGY3Vu?oc=5",
+            "published": "2026-11-10T21:00:00.000Z",
+            "snippet": "종부세에서 장특공·공정비율까지…여당發 부동산 규제 완화론 주목 뉴스핌"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "이형일 “부동산 세제 개편의 핵심은 거주 중심 주택시장 정착”",
+          "summary": "이형일 기획재정부 1차관은 부동산 세제 개편의 방향을 실거주 중심의 주택시장을 자리 잡게 하는 데 두겠다고 밝혔습니다. 구체적인 세목, 대상, 시행 시기는 아직 공개되지 않았습니다.",
+          "why": "실거주 여부에 따라 세제 혜택이 달라질 수 있어 다주택·비거주 보유자는 주의가 필요합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "이형일 \"부동산세제 개편 핵심은 거주 중심 주택시장 정착\" - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9reU5yMk8zdVU1ZUVXeV92eEc5ck9ER08wNmdCbzJ2RldGd1dVeUtCaDlOc3E0QUFQdHRBVnpKcDExeERfZ0c5cEtCbFI4eE9TR2xMUg?oc=5",
+            "published": "2026-11-10T09:41:23.000Z",
+            "snippet": "이형일 \"부동산세제 개편 핵심은 거주 중심 주택시장 정착\" 뉴스1"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "정부 부인에도 끊이지 않는 부동산 규제설…대출 축소·규제 확대 왜?",
+          "summary": "정부가 부인하고 있음에도 대출 한도 축소, 규제지역 확대 등 추가 규제설이 계속 돌고 있습니다. 확정된 시행 시기나 대상은 없으며, 시장 과열 우려가 이런 관측의 배경으로 꼽힙니다.",
+          "why": "대출 규제가 바뀌면 매수 가능 금액이 달라지므로 실수요자는 정책 발표를 지켜봐야 합니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "정부 부인에도 끊이지 않는 부동산 규제설…대출 축소·규제 확대 왜? - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ocDRtVnBOeGU4UjVwaEpiemJzVGV2WjN6N1JLZkZRQzdJZ01LQVRINkExeEZWRzFSeG9OQTZIS3VrMFdqUzFZN0lXVjFkLVBiOGVaZlpOUHlveHdT?oc=5",
+            "published": "2026-11-10T21:00:00.000Z",
+            "snippet": "정부 부인에도 끊이지 않는 부동산 규제설…대출 축소·규제 확대 왜? 뉴스핌"
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "토지거래허가제에 뿔난 직장맘 “어린이집 문 닫았다”",
+          "summary": "토지거래허가구역 규제 때문에 가정어린이집 운영에 차질을 빚은 사례가 보도됐습니다. 실거주 의무 등 허가 요건이 생활형 이용에까지 부작용을 낳고 있다는 지적입니다.",
+          "why": "토지거래허가구역 안에서 주택을 사거나 활용하려면 실거주·이용 제한을 미리 확인해야 합니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "[단독] 토허제에 뿔난 직장맘 \"어린이집 문 닫았다\" - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtb0d1aEEwbm5CeWhwM3pQejUxRkNSOGZQTlo3RWhYdV81VG4xcTBlemJwME5HZEd4SjFVSmtmZkxVeXFNeDNuY3hxaEo1Q280bkVqY091RExrdw?oc=5",
+            "published": "2026-11-10T06:57:06.000Z",
+            "snippet": "[단독] 토허제에 뿔난 직장맘 \"어린이집 문 닫았다\" 파이낸셜뉴스"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "민주당 의원들, 전월세 안정을 위한 부동산 정책 토론회 개최",
+          "summary": "더불어민주당 의원들이 전월세 시장 안정 방안을 논의하는 토론회를 열었습니다. 전세 매물 감소와 월세 상승에 대응한 입법·정책 방향이 다뤄졌으며, 구체적인 시행안은 아직 나오지 않았습니다.",
+          "why": "향후 임대차 관련 법·제도 변화의 방향을 미리 가늠할 수 있습니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "민주당 의원들, 전월세 안정 위한 부동산 정책 토론회 개최 - https://www.newfilenews.com/",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0ZlcySmN5WmhKeF82M2tYNHFOVmlPdHhHTjlnMTQ3eWFvQXRaS0FreWNQeDhqMFFvZzJrNzYzWDVPUHA3S2h1ZjZnbGJaVjVFYTloVzBfOEhyanNwUlhGUjBXM3lRRXFtY3E3aEZR?oc=5",
+            "published": "2026-11-10T11:07:10.000Z",
+            "snippet": "민주당 의원들, 전월세 안정 위한 부동산 정책 토론회 개최 https://www.newfilenews.com/"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "이종욱 “확장재정이 물가·부동산 자극”",
+          "summary": "국민의힘 이종욱 의원은 정부의 확장재정 기조가 물가와 부동산 가격을 자극할 수 있다고 지적했습니다. 재정 정책과 집값의 관계를 두고 정치권 공방이 이어지고 있습니다.",
+          "why": "재정·통화 정책 방향은 금리와 집값 흐름에 간접적으로 영향을 줍니다.",
+          "article": {
+            "source": "Google News 정책·규제",
+            "title": "이종욱 \"확장재정이 물가·부동산 자극\" - 일간경기",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WcDB2MFh5Y2NTekt5Z2tocUR0RW12MG45d1lnRDNjLUF3TUZ4VVIwNjA0VmhkQ0JrUUVqS29MdlNfVUlPT3dILTVqajd5dGNwNXVTYXZHS1BQTlhHT01Qam1JVzRmcDVG?oc=5",
+            "published": "2026-11-10T08:51:17.000Z",
+            "snippet": "이종욱 \"확장재정이 물가·부동산 자극\" 일간경기"
+          }
+        }
+      ]
+    },
+    {
+      "name": "분양·청약",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "아파트 당첨 노린 의사 부부 퇴사·위장미혼·청약통장 매매…부정청약 354건 적발",
+          "summary": "정부 점검에서 위장전입, 위장미혼, 청약 자격 매매 등 부정청약 의심 사례 354건이 적발됐습니다. 소득 기준을 맞추려고 병원을 퇴사한 고소득 의사 부부 사례도 포함됐습니다. 적발된 건은 수사 의뢰와 계약 취소 등의 조치를 받을 수 있습니다.",
+          "why": "정상적으로 청약하는 실수요자의 당첨 기회를 지키는 단속이며, 부정청약에 연루되면 당첨 취소와 처벌을 받을 수 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "아파트 당첨받으려고 의사 부부 병원 퇴사·위장미혼·청약 매매…354건 적발[사례] - 이세종경제",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aTFJOUROaGt0akp2TllOZ3hYMWpXV2RjdTJRWVlVTHFKOTNLcm9RTmNnREg0bGt3bGNEa3NGbWdyWlFfUFN2NGp6bEN0SXZ0ZlB2N3U1MDUycHp1dUI2MHNrOE1lT25Zajl1bA?oc=5",
+            "published": "2026-11-10T12:03:36.000Z",
+            "snippet": "아파트 당첨받으려고 의사 부부 병원 퇴사·위장미혼·청약 매매…354건 적발[사례] 이세종경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "금융·대출",
+      "items": [
+        {
+          "index": 28,
+          "title_ko": "전세난 속 청년 전세보증 22% 줄었다",
+          "summary": "전세 매물 부족이 심해지는 가운데 청년층 전세자금 보증 실적은 22% 줄어든 것으로 나타났습니다. 전세 물건 감소와 보증 요건 등이 겹쳐 청년의 전세 진입이 더 어려워졌다는 분석입니다.",
+          "why": "전세를 구하는 청년은 보증 가능 여부와 대안 상품을 미리 확인해야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "[단독]전세 대란인데…청년보증 22% 줄었다 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZHFsNkZHZnRpa1pHX3BmcG1xakFkR1NkN0FOSXo0SUtzQ2Mwd2xqczBaZjcwOEpfbkpxMUx6TkdOOXhBMGRtVHhCajJUM1gwbVHSAVNBVV95cUxObmNVamtzWFVoRHNlODJkQkZKWGtWblNMUkI5d0RseWhYRVgyVlgzRnBBYXFuUnY0UjFTOFJKOS1HQkJzUjBaMXdBNy1sMGZOZUxoYw?oc=5",
+            "published": "2026-11-10T08:42:33.000Z",
+            "snippet": "[단독]전세 대란인데…청년보증 22% 줄었다 서울경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 43,
+          "title_ko": "“부동산 손님 90%가 삼성전자 직원”…‘삼성 특구’ 동탄 올해 21% 급등",
+          "summary": "삼성전자 반도체 사업장과 가까운 동탄 아파트값이 올해 약 21% 올랐습니다. 현지 중개업소에서는 매수 문의의 대부분이 삼성전자 직원이라는 이야기가 나올 만큼 직주근접 수요가 가격을 끌어올리고 있습니다.",
+          "why": "반도체 업황과 삼성 고용이 동탄 집값의 핵심 변수라는 점을 보여주는 기사입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "“부동산 손님 90%가 삼전 직원”… ‘삼성 특구’ 동탄 올 21% 급등 - 문화일보",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ySUVkYWx0UW5RQ2pKY1diZFB4Tm1tX0gtLTFrLTZyQnFpOVhtd3BpbF9XNHhJZjdjYmVYY09JeVdya2d1dEl6cExHXzRGSTI3?oc=5",
+            "published": "2026-11-10T00:22:10.000Z",
+            "snippet": "“부동산 손님 90%가 삼전 직원”… ‘삼성 특구’ 동탄 올 21% 급등 문화일보"
+          }
+        },
+        {
+          "index": 41,
+          "title_ko": "서울만 볼 때가 아니다? 수원·동탄 집값을 흔들 2대 변수…2027년 부동산 승부처는",
+          "summary": "수원과 동탄의 집값 흐름을 좌우할 두 가지 핵심 변수를 짚고, 2027년 경기 남부 부동산 시장을 전망한 기사입니다.",
+          "why": "동탄 매수·보유를 고민하는 사람이 내년 시장을 판단할 때 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "서울만 바라볼 때 아니다? 수원·동탄 집값 흔들 2대 변수…2027년 부동산 승부처는 - CCBS뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KTl9sRThHQVU4M0FmZi1FTzlRUTV5T2lwYnNKLTZkZGJ4LV9POHQtVE40a3g5aFFoRTZrS0VPQjV2Y2tHWDZ6cHowMlN0U0k?oc=5",
+            "published": "2026-11-10T01:45:46.000Z",
+            "snippet": "서울만 바라볼 때 아니다? 수원·동탄 집값 흔들 2대 변수…2027년 부동산 승부처는 CCBS뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 트램",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "17년 만에…동탄 트램 ‘착수’",
+          "summary": "2009년 무렵부터 계획됐던 동탄도시철도(트램)가 17년 만에 본격적인 착수 단계에 들어섰습니다. 오랫동안 지연됐던 동탄 내부 교통망 확충이 실제 사업 단계로 넘어가게 됐습니다.",
+          "why": "트램 노선 주변 단지는 교통 여건 개선에 따른 생활 편의와 가치 상승을 기대할 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "17년만에…동탄트램 '착수' - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11SUV2VlUzMF9XUzhmVzJtdGxGUWRvbHlVNFU1Y2pXMUNhR1N3UHkwOHpmSVd2R2kwU1VBZXREZkY2OFdOQV83dDVaSElUUjNzbEpYR1lyWklxcVN2T2hJ?oc=5",
+            "published": "2026-11-10T07:13:11.000Z",
+            "snippet": "17년만에…동탄트램 '착수' 매일경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 8,
+          "title_ko": "GTX 연장 국비 지원 요구 확산…정부·지자체 줄다리기",
+          "summary": "여러 지자체가 GTX 노선 연장에 국비를 지원해 달라고 요구하면서 정부와 사업비 분담을 놓고 줄다리기를 벌이고 있습니다. 재원 분담 방식이 연장 사업 속도를 좌우할 전망입니다.",
+          "why": "GTX-C 연장 여부와 시기는 연장 구간 주변 지역 집값과 출퇴근 여건에 영향을 줍니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "GTX 연장 국비 지원 요구 확산…정부·지자체 줄다리기 - CWN",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TNnhqeDVJejhJMnF1Wm9iWkFRa2JKQ0VSc0RoWDA1elBoNDl6dldPclFKOVNMb3ZOS1cxcWZUb1FoaHVkMzdZeVFMUjlMVTQ2djlSczJuZ1p6NnZFYTU3V053?oc=5",
+            "published": "2026-11-10T14:25:44.000Z",
+            "snippet": "GTX 연장 국비 지원 요구 확산…정부·지자체 줄다리기 CWN"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "이학영 의원, 신분당선 연장 제5차 국가철도망 반영 촉구…군포·의왕·안산 3기 신도시 교통대책과 GTX-C 연계 요구",
+          "summary": "이학영 의원이 신분당선 연장을 제5차 국가철도망 구축계획에 반영해 달라고 촉구했습니다. 군포·의왕·안산 3기 신도시 교통대책으로 GTX-C와 지하철 1호선·4호선 연계도 함께 요구했습니다.",
+          "why": "GTX-C 환승 연계가 강화되면 경기 남부 광역 교통 접근성이 높아질 수 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "이학영 의원, 신분당선 연장 제5차 국가철도망 반영 촉구…군포·의왕·안산 3기 신도시 교통대책 및 GTX-C·1호선·4호선 연계 요구 - 월드장애인사랑뉴스",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PalVHQkJla0JEaGstdDRvSFlxenNrMk9QbEpaQXgyZldFQkgwNnI1bVYyd0UwWnNTSWxuc3Vxcm1haUFzQkduWFRGZm5lMUZaTGxUM1hSQ0xNN3pQUUZqVzdSeHNCZ1FUXzhfdFkzNA?oc=5",
+            "published": "2026-11-10T10:17:36.000Z",
+            "snippet": "이학영 의원, 신분당선 연장 제5차 국가철도망 반영 촉구…군포·의왕·안산 3기 신도시 교통대책 및 GTX-C·1호선·4호선 연계 요구 월드장애인사랑뉴스"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "충남도, 천안 반도체 후공정 산업 육성…GTX-C 천안 연장 국비 추진 건의",
+          "summary": "충청남도가 천안을 반도체 후공정·AI 산업 거점으로 육성하겠다고 밝히고, GTX-C 천안 연장 사업을 국비로 추진해 달라고 건의했습니다. 박수현 지사도 도민과의 대화에서 GTX 연장 추진 의지를 밝혔습니다.",
+          "why": "GTX-C 남쪽 연장이 현실화되면 경기 남부와 충남 북부의 교통·주거 수요 구도가 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "충남, 천안 반도체 후공정 육성…GTX-C 연장 국비 추진 건의 - 에너지경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR1BDTUh5eDNMQTdFWkNtZ1dIVU9iZDVKZlVBdlE1eXNiN21SRmZWcmRKRDVyclM3WXBXN0tfalJ0cVlmNmFGVk92ZGNTUTY1SGNxUGFsR0VOeU0?oc=5",
+            "published": "2026-11-10T07:59:23.000Z",
+            "snippet": "충남, 천안 반도체 후공정 육성…GTX-C 연장 국비 추진 건의 에너지경제신문"
+          }
+        }
+      ]
+    }
+  ]
+}
