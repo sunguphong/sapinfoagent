@@ -1,0 +1,246 @@
+{
+  "overview": "SAP가 AstraZeneca와 협력을 확대해 RISE with SAP와 Business AI 도입을 발표하며 대형 제약사의 클라우드 ERP 전환 사례를 확보했습니다. 11월 Security Patch Day에서 NetWeaver 스택의 CVSS 10.0 취약점 4건이 공개되어 신속한 패치가 필요합니다. ASUG Tech Connect 2026과 TechEd 이후 Joule을 중심으로 한 '자율형 엔터프라이즈' 비전과 컨설턴트용 AI 도구 확대가 이어지고 있습니다. 2030년 NetWeaver 확장 지원 종료와 Neo 서비스 종료에 대비한 마이그레이션 가이드와 교육 과정도 잇따라 나왔습니다.",
+  "categories": [
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "SAP, AstraZeneca와 협력 확대… RISE with SAP와 Business AI 도입",
+          "summary": "AstraZeneca가 ERP를 SAP 클라우드로 옮기기 위해 RISE with SAP를 도입하고 Business AI를 활용하기로 했습니다. 클라우드, 데이터, AI를 결합해 제약 운영을 현대화하고 대규모 혁신 기반을 마련하는 것이 목표입니다. 업계에서는 이번 계약을 SAP의 대표적인 클라우드 수주 사례로 평가합니다.",
+          "why": "규제가 엄격한 제약 업계의 글로벌 기업이 RISE로 전환한 사례라 국내 제조·제약 고객의 S/4HANA 클라우드 전환 논의에 참고 사례로 쓸 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "SAP Expands Collaboration with AstraZeneca to Adopt RISE with SAP and Business AI",
+            "link": "https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/",
+            "published": "2026-11-10T09:00:00.000Z",
+            "snippet": "WALLDORF — Cloud, data and AI create a stronger foundation for innovation at scale."
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "BlackLine, SAP 파트너십에 맞춘 R2R(기록-보고) AI 로드맵 발표",
+          "summary": "BlackLine이 SAP와의 파트너십에 맞춰 재무 결산과 Record-to-Report 프로세스용 AI 로드맵을 발표했습니다. AI 기반으로 결산 업무의 표준을 제시하겠다는 계획입니다.",
+          "why": "SAP 재무(FI/CO) 결산 자동화 프로젝트에서 BlackLine 연계를 검토하는 컨설턴트에게 로드맵 정보가 유용합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "BlackLine Announces AI Roadmap in Alignment with SAP Partnership to Deliver AI-Powered Gold Standard for Record-to-Report - The Manila Times",
+            "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQmpXWmRtS3BkVzRWS2haT3o0MjVlOXZsbDA5SWNuUXRwMHlFN2dsQzRSa3JYY1YtUHF2dGVuXzBhTHBraUhvR2d6YkI3eVNlalV6c3ozcDdYbzBISjRMU21HMnNjT25qMkhpVTR1YzFfcGx3MVlYbUMweWFWenlKc3JiVUF5cURjNmlXdjJ5ckZJWlF4NW1kbXRsVnRGeHphcVh3LTNrTmlxLXZyUEd5eUg1RnpaMUc4WWcyNlVhVUg4WEs2SE1TR00yOUVuM0k1Z0FpUkNSelh6N3gyY01uREFrekQyVHB0R2ticGd1UFVHakdENTJKc3FOSjNjNVBjbGMzNTRuQWtsSVY0OXVkcFl1eHpmRXh1cF9TVFVuLW3SAaYCQVVfeXFMTWNwbk5oMzViVTFxaVJLRG00dFpzWkNwY0dwMW1UWXdSelBnempOVkZrUGE4ZUtSZ21mZ1hSY1NBNEtoQTBCS2dDcnp6RUFuOUF3QzJyX2w0R2hWTUEwWm9pZUZ3Z3ZCZXhCTHJWd0JGSWJJOWpubV84cGk0d1pvTkpidEtrMGF0T1dSSEZrSGVHN29qVlQ5N0dLX3gxaUxraXBFQnZYcXRDMXMzU3hTX3VoNjFBMHgzYldfcHpYVkVscG8yRzU4b0ctNEZEUG1ZUzMybkpSMWhnNEZKVXo5dGdqUVc0aGpwMm9DUkxYcVJUaEk2c3BiSVg4MU14MFNwNFFwQTJ2QnhJUGtqaDNTcnF5SExDY2dDNjFWd1h6bmJpTWVkdWdR?oc=5",
+            "published": "2026-11-09T14:18:46.000Z",
+            "snippet": "BlackLine Announces AI Roadmap in Alignment with SAP Partnership to Deliver AI-Powered Gold Standard for Record-to-Report The Manila Times"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "IT 리더들, SAP·VMware·Java의 대안 모색",
+          "summary": "라이선스 정책 변경과 비용 부담 때문에 IT 리더들이 SAP, VMware, Java의 대안을 찾고 있다는 CIO 보도입니다. 벤더 종속에 대한 경계가 커지고 있음을 보여줍니다.",
+          "why": "고객의 비용 압박과 벤더 전략 변화를 이해하면 전환 제안과 TCO 논의를 준비하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "IT leaders seek alternatives for SAP, VMware, and Java - CIO",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZnJ0c2hfdnE3MGxCSWdhRUVVaklfMk1aa0NZM0RURWZmVUVxX1hoeUZsUEdqTTR0RUtCTzA4LWJfdHhaeFFmeGJ5SmhhUTdMQnROY2h0Smt6V2Y0THh4WXo5MzVVZEYxUF96ZmktOTkyZjlWTGUyLUZSQWR4MXJfQkZuNk9LU2t1YnljeUttRnhhRWtURDhsdA?oc=5",
+            "published": "2026-11-10T10:09:32.000Z",
+            "snippet": "IT leaders seek alternatives for SAP, VMware, and Java CIO"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "달라지는 컨설팅: SAP Joule for Consultants로 한 단계 더",
+          "summary": "SAP Joule for Consultants(J4C)는 SAP 프로젝트 수행 인력을 위한 AI 어시스턴트로, 9TB가 넘는 SAP 지식을 바탕으로 출처와 함께 답변합니다. 소속 회사의 방법론과 연동할 수 있고, 이번에 대화 내용을 Word·PowerPoint 산출물로 만들고 다듬는 기능이 추가되었습니다.",
+          "why": "컨설턴트의 문서 작성과 리서치 시간을 직접 줄여 주는 도구라 실무 생산성에 바로 영향을 줍니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Consulting is changing: go further with SAP Joule for Consultants",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/consulting-is-changing-go-further-with-sap-joule-for-consultants/ba-p/14519184",
+            "published": "2026-11-10T07:19:49.000Z",
+            "snippet": "Consulting is changing: go further with SAP Joule for ConsultantsTL;DR. SAP Joule for Consultants (J4C) is the AI assistant built for the people who deliver SAP projects. It answers with the SAP sources behind each answer, draws on more than 9 TB of curated SAP knowledge, works with your firm’s own methodologies, and now turns conversations into Word and PowerPoint deliverables and lets you refine"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "SAP, 기업용 소프트웨어의 새 관문으로 Joule 강조… 가트너 리더 5회 연속 선정",
+          "summary": "SAP가 Joule을 엔터프라이즈 소프트웨어의 새로운 진입점으로 내세우고 있으며, 가트너 평가에서 다섯 번째로 리더에 선정되었습니다. TechEd에서 발표한 Joule과 Business AI 플랫폼 확장과 같은 흐름입니다.",
+          "why": "고객이 Joule 도입을 검토할 때 SAP의 AI 전략 방향과 외부 평가를 근거로 설명할 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP Pushes Joule as the New Front Door to Enterprise Software, Backed by Fifth Gartner Leader Nod - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNEZSeDNBeThleFVJRmtkcElSWlpHYnJ3ZnlLR3JMSk1FeTc1X3JJV3ZmanNiWmZhZzZXdEFPQ1hhcWx1RU8ya1lieENMN0pkOGNXWXY5X2RFX0ttcTV2bzFQaHRPM200QVNqdjQ4Q3ZKZ2NHQ0xiVFZ6QU1OdmVDSkF2eUREaGotb2lvekktNWVYdEc5Z3FlVkpyMlgzUjZXckF2WDRKcldqZU04cUo3YXZnQzNoWl92LVlzcDF5ZlZBWmtySUl5UkFqRWFmZTc2cW9sbHJBZUVQZnFRMm1RV0tDV2dXNkI1emJabHZiSnJOc1MyeVJ1RElvMVI?oc=5",
+            "published": "2026-11-10T05:10:47.000Z",
+            "snippet": "SAP Pushes Joule as the New Front Door to Enterprise Software, Backed by Fifth Gartner Leader Nod ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "ASUG Tech Connect 2026에서 본 자율형 엔터프라이즈로의 여정",
+          "summary": "11월 2~4일 미국 텍사스주 포트워스에서 열린 ASUG Tech Connect 2026은 기조연설부터 실습 세션까지 AI가 중심이었습니다. Joule Work, 에이전트 등을 통해 SAP 사용 방식이 바뀌고 있음을 보여 주었고, AI의 비즈니스 가치를 입증하는 데 초점이 맞춰졌습니다.",
+          "why": "북미 고객 커뮤니티의 AI 도입 관심사와 실제 사례 흐름을 파악할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Making our way to the autonomous enterprise at ASUG Tech Connect 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/making-our-way-to-the-autonomous-enterprise-at-asug-tech-connect-2026/ba-p/14519076",
+            "published": "2026-11-10T17:20:25.000Z",
+            "snippet": "Joule Work. Robo-dogs. Agents. Cowboy hats. There was something for everyone at ASUG Tech Connect 2026 (November 2 – 4) in Fort Worth, Texas. SAP, our customers, and our partners are all innovating and contributing to the vision for the autonomous enterprise and it is clear that the way we will be using SAP in the future is changing. But, as we heard in sessions, AI-focused community conversations"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "AI Native Architecture Advisor 활용법 4가지: 비즈니스 문제에서 솔루션 브리프까지",
+          "summary": "AI 프로젝트 초기에 에이전트가 맡을 단계와 룰·워크플로·사람이 맡을 단계, 연계 시스템과 권한 주체를 정리하도록 돕는 도구를 소개합니다. 고객이 이미 보유한 자산으로 구현할 수 있는 범위와 목표 아키텍처를 구분하는 데 쓸 수 있습니다.",
+          "why": "AI 에이전트 프로젝트의 아키텍처 설계 논의를 앞당겨 구조화하는 데 바로 쓸 수 있는 도구입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Four ways to use the AI Native Architecture Advisor, from business problem to solution brief",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/four-ways-to-use-the-ai-native-architecture-advisor-from-business-problem/ba-p/14519181",
+            "published": "2026-11-10T07:19:18.000Z",
+            "snippet": "Every AI project starts with the same architecture conversation. Which steps should an agent take on, and which should stay with rules, workflows or people? Which systems does the solution need to read from and act on, and under whose identity? What can be built with what the customer already has, and where is the North Star? Getting that conversation right early saves weeks later. It is also exac"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "관계형에서 시맨틱으로: metaphactory를 활용한 SAP HANA Cloud 온톨로지 모델링",
+          "summary": "2026년 5월 발표된 metaphacts와의 파트너십에 따라 SAP HANA Cloud Knowledge Graph Engine과 metaphactory를 연동하는 방법을 소개합니다. 기존 HANA Cloud 데이터를 W3C 표준 기반의 시맨틱 지식 그래프로 바꾸는 실무 절차를 다룹니다.",
+          "why": "AI 에이전트의 맥락 이해를 높이는 지식 그래프 구축 방법을 실제 SAP 데이터로 익힐 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "From Relational to Semantic: Ontology Modeling on SAP HANA Cloud with metaphactory",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-relational-to-semantic-ontology-modeling-on-sap-hana-cloud-with/ba-p/14517906",
+            "published": "2026-11-10T17:39:15.000Z",
+            "snippet": "Introduction In May 2026, we announced a new strategic technology partnership with metaphacts: the integration of the SAP HANA Cloud Knowledge Graph Engine with metaphactory, an enterprise knowledge graph platform built on open W3C standards. Since that announcement, a key question from customers has been: how do I actually take my existing SAP HANA Cloud data and turn it into a semantic knowledge"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "Advanced Event Mesh용 Micro Integrations, 이제 모든 브로커 규모에서 사용 가능",
+          "summary": "이전에는 상위 브로커 티어에만 포함되던 SAP Integration Suite, Advanced Event Mesh의 Micro Integrations를 이제 브로커 업그레이드 없이 필요할 때 추가할 수 있습니다. 100커넥션 규모의 소형 브로커에서도 사용할 수 있습니다.",
+          "why": "중소 규모 고객도 비용 부담을 줄이며 이벤트 기반 통합을 도입할 수 있게 되었습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Micro Integrations for Advanced Event Mesh: Now Available for Any Broker Size",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/micro-integrations-for-advanced-event-mesh-now-available-for-any-broker/ba-p/14518521",
+            "published": "2026-11-10T10:16:44.000Z",
+            "snippet": "Micro Integrations for SAP Integration Suite, Advanced Event Mesh started as a capability bundled into larger broker tiers. Good for many customers. Not for all.That changes now: You can add Micro Integrations to any broker size, on demand, without upgrading your broker. Whether you're running a small 100-connection broker or a mid-sized deployment, the on-ramp to your event mesh is now within rea"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 21,
+          "title_ko": "SAP 2026년 11월 Security Patch Day: NetWeaver 스택 CVSS 10.0 취약점 4건, 즉시 패치 필요",
+          "summary": "11월 정기 보안 패치에서 NetWeaver 스택 관련 CVSS 10.0 등급 취약점 4건이 공개되었습니다. 최고 위험도인 만큼 신속한 적용이 권고됩니다.",
+          "why": "Basis와 보안 담당자는 고객 시스템의 패치 적용 일정을 바로 점검해야 합니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP Security Patch Day November 2026: Four CVSS 10.0 NetWeaver-Stack Flaws — Patch Now - Rescana",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVkyQ2RCb3BrV3duMWQ5Wk4zdzczY1NTb05IOEUxMlNTTkxvNE9WZWItWTJmNUwwMVpiQmE3bk5ZM2ZYU1kyN2xyV3d5YVprOW9HTWpqaTFFVE5RWERVdVJxaUpyaTQ3cHRWVnI4REFsUzVzckt1REpiNUdaYVVXdy1PU3lIdG9GVi1GdW53bDA0a3R0c2xrdg?oc=5",
+            "published": "2026-11-10T08:43:01.000Z",
+            "snippet": "SAP Security Patch Day November 2026: Four CVSS 10.0 NetWeaver-Stack Flaws — Patch Now Rescana"
+          }
+        },
+        {
+          "index": 22,
+          "title_ko": "SAP NetWeaver AS Java 커스텀 애플리케이션, 생각보다 빠르게 클라우드로 이전하기",
+          "summary": "SAP Business Suite 7과 NetWeaver AS Java 7.5를 포함한 NetWeaver의 확장 지원은 2030년 12월 31일에 종료됩니다. 이후에는 커널 패치와 보안 수정이 제공되지 않으므로, 이 글은 커스텀 Java 애플리케이션을 클라우드로 옮기는 방안을 제시합니다.",
+          "why": "AS Java 기반 커스텀 앱을 운영하는 고객에게 2030년 지원 종료 대비 로드맵을 제안할 근거가 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Migrate Your SAP NetWeaver AS Java Custom Applications to the Cloud — Faster Than You Think",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/migrate-your-sap-netweaver-as-java-custom-applications-to-the-cloud-faster/ba-p/14519507",
+            "published": "2026-11-10T08:15:15.000Z",
+            "snippet": "The calendar is turning faster than many organizations realize. As SAP has made clear, extended support for SAP Business Suite 7 and SAP NetWeaver — including SAP NetWeaver AS Java 7.5 — ends on December 31, 2030. After that date, the integrated support path customers have relied on for decades will no longer exist. There will be no kernel patches, no security corrections, no database-specific fix"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "AI 스킬을 넘어서: Neo→Cloud Foundry Java 마이그레이션 학습 과정 공개",
+          "summary": "SAP BTP Java 애플리케이션을 Neo에서 Cloud Foundry로 옮기는 AI 스킬을 보완하는 3시간 분량의 실습 과정이 SAP Learning에 공개되었습니다. 아키텍처 기초, 22개 마이그레이션 스킬의 동작 방식, 코드 변환부터 배포까지의 전 과정을 다룹니다.",
+          "why": "Neo 환경 고객의 이전 프로젝트를 맡은 개발자가 빠르게 역량을 갖출 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Beyond the AI Skills: A Learning Course for the Neo-to-Cloud Foundry Java Migration",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/beyond-the-ai-skills-a-learning-course-for-the-neo-to-cloud-foundry-java/ba-p/14519505",
+            "published": "2026-11-10T07:57:15.000Z",
+            "snippet": "The AI skills for migrating SAP BTP Java applications from Neo to Cloud Foundry handle the heavy lifting. But knowing how to run a command is different from understanding why the output looks the way it does. A new hands-on learning course is now live on SAP Learning — 3 hours covering the architectural foundations, how the 22 migration skills work as a system, and the full path from code transfor"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "S/4HANA Cloud Public Edition의 SAP MDG: 컨설턴트를 위한 활성화 이후 가이드",
+          "summary": "MDG 스코프 아이템을 활성화한 뒤 해야 할 BTP 워크플로 구성, 비즈니스 역할 할당, 거버넌스 설정, 주요 앱 테스트를 체크리스트로 정리했습니다. 데이터 복제, UI 조정, AI 같은 선택 기능도 함께 소개합니다.",
+          "why": "Public Edition에서 MDG를 구축할 때 바로 적용할 수 있는 실무 체크리스트입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP MDG on S/4HANA Cloud Public Edition: A Consultant's Post-Activation Guide",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-mdg-on-s-4hana-cloud-public-edition-a-consultant-s-post-activation/ba-p/14519658",
+            "published": "2026-11-10T12:48:59.000Z",
+            "snippet": "Activating the relevant SAP MDG scope items is only the beginning. This blog provides a practical checklist for configuring SAP BTP workflows, assigning business roles, completing governance settings, testing key applications, and exploring optional capabilities such as data replication, UI adaptation, and AI. Learn how to move efficiently from scope-item activation to an operational, end-to-end M"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "S/4HANA Group Reporting용 SAP Datasphere 콘텐츠 패키지",
+          "summary": "Group Reporting을 위한 SAP Datasphere 콘텐츠 패키지와 관련 Premium Engagement 서비스를 소개합니다. 기술 세부 내용은 SAP Help Portal을, 서비스 문의는 CSM 또는 TQM을 통하도록 안내합니다.",
+          "why": "연결회계 보고를 Datasphere로 확장하려는 재무 프로젝트에 표준 콘텐츠를 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Datasphere Content Package for SAP S/4HANA Group Reporting",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-datasphere-content-package-for-sap-s-4hana-group-reporting/ba-p/14515729",
+            "published": "2026-11-10T09:41:10.000Z",
+            "snippet": "This blog post is intended to raise awareness of the SAP Datasphere content package for Group Reporting and the available Premium Engagement Services. For detailed technical guidance, please refer to the official SAP Help Portal documentation. For service inquiries, contact your SAP Customer Success Manager or Technical Quality Manager/ Success Plan Manager."
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "'Customize Your Journey' 소개: SAP Activate Road Map Viewer에서 프로젝트 맞춤 로드맵 만들기",
+          "summary": "SAP Activate Road Map Viewer에서 ERP, HR, 지출 관리 등 프로젝트 범위에 맞춰 로드맵을 구성하는 기능을 소개합니다. 후속 글(2부)에서는 저장한 로드맵을 찾고, 확인하고, 수정하고, 삭제하는 방법을 설명합니다.",
+          "why": "구축 프로젝트 초기 범위 정의와 방법론 정리에 바로 쓸 수 있는 기능입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Introducing “Customize Your Journey”: Your Project, Your Route",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-customize-your-journey-your-project-your-route/ba-p/14519113",
+            "published": "2026-11-10T19:18:15.000Z",
+            "snippet": "A practical guide to customizing your journey in SAP Activate Road Map ViewerEvery implementation has its own itinerary. Some teams start with ERP. Others bring HR and spend management along for the ride. And the next deployment wave may have a very different packing list from the first."
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "비밀 정보 보호: MTA 배포 시 Secure Value 사용하기",
+          "summary": "mta.yaml에 비밀번호를 하드코딩해 Git이나 CI 로그에 노출되는 문제를 막는 방법을 설명합니다. SAP Cloud Deployment 서비스를 쓰면 배포 시점에 비밀 값을 넘길 수 있으며, 이 값은 종단 간 암호화되고 로그에서 가려지며 디스크에 기록되지 않습니다.",
+          "why": "BTP 개발 프로젝트의 보안 감사 대응과 모범 사례 적용에 바로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Keeping Secrets Secret: Using Secure Values During an MTA Deployment",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/keeping-secrets-secret-using-secure-values-during-an-mta-deployment/ba-p/14518481",
+            "published": "2026-11-10T08:54:58.000Z",
+            "snippet": "Stop hard-coding passwords in mta.yaml and leaking them into Git and CI logs. Learn how the SAP Cloud Deployment service lets you pass secrets at deploy time — encrypted end to end, masked in logs, and never written to disk."
+          }
+        }
+      ]
+    },
+    {
+      "name": "세미나·박람회·웨비나",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "[12.08] SAP BTP Platform Automation 고객·파트너 라운드테이블 #5",
+          "summary": "btp CLI와 SAP Terraform provider를 이용한 SAP BTP 자동화를 다루는 정기 라운드테이블입니다. 일시는 12월 8일 11:00~12:00(CEST로 표기)이며 Teams 온라인 웨비나로 진행되고, 사전 등록이 필요합니다. 유무료 여부는 확인되지 않았고, 이전 회차 자료와 녹화본은 GitHub 페이지에 공개되어 있습니다.",
+          "why": "BTP 계정과 리소스 관리 자동화를 도입하려는 실무자가 SAP 담당자와 직접 의견을 나눌 수 있는 자리입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Customer & Partner Roundtable for SAP BTP Platform Automation #5",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-platform-automation-5/ba-p/14519560",
+            "published": "2026-11-10T09:36:13.000Z",
+            "snippet": "IntroductionIn this (nearly) monthly series we show and discuss all things around automating SAP BTP with the btp CLI or the Terraform providers from SAP.📼 You find the slides presented, recordings, and further references from the previous roundtables in this on this GitHub page Meeting InformationWhen?December 8th, 11:00 – 12:00 CEST – Teams Webinar Registration (please register in advance)Who?A"
+          }
+        }
+      ]
+    }
+  ]
+}
