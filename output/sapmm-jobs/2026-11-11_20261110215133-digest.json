@@ -1,0 +1,253 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 공고는 코바시스템의 나주 근무 SAP ERP 운영자(ABAP·MM/PM, 경력 3년 이상) 1건입니다. 계속 모집 중인 공고 가운데 MM이 포함된 것은 대부분 운영(SM) 포지션으로, 현대오토에버(SD·MM·PM), 제이투이(MM 단독), 석세스코리아컨설팅·닥터파인드(전 모듈 운영)가 있습니다. 구축 포지션으로는 스카우트플랜의 S/4HANA 구축(SD/MM 등) 공고가 있으며, 요구 경력은 3~6년 이상이 중심입니다. 석세스코리아컨설팅과 닥터파인드 공고는 11/13(금)에 마감됩니다. 동국 계열사 쪽에서는 동국제강이 AI 데이터센터 수요로 반등 신호를 보인다는 분석과 美 후판 상계관세 1.89% 최종 확정 소식이 있고, 아주스틸 인수에 따른 동국씨엠의 채무보증 부담 기사도 나왔습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "코바시스템 · SAP ERP 운영자 (ABAP·MM/PM)",
+          "summary": "코바시스템㈜이 SAP ERP 운영자를 모집하며, 공고 제목에 ABAP과 MM/PM 모듈이 명시되어 있습니다. 근무지는 전남 나주시이고 경력 3년 이상이며 즉시 지원할 수 있습니다. 공고에 마감일은 나와 있지 않습니다.",
+          "why": "경력 3년 이상에 나주 근무이며, 사원 7명의 소규모 업체이고 영업적자를 기록한 점은 지원 전에 고려할 필요가 있습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[코바시스템] SAP ERP 운영자 채용 (ABAP·MM/PM)",
+            "company": "코바시스템㈜",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337766",
+            "published": "2026-11-10T02:06:04.560Z",
+            "jkCompanyNo": "49573761",
+            "snippet": "회사: 코바시스템㈜ / 전남광주 나주시 / 솔루션·SI·CRM·ERP, 소프트웨어개발자 / 즉시 지원 / 경력3년↑ / 회사정보: 사원수 7명 / 매출액 5억 1,550만원 (2025년) / 영업이익 -2억 9,836만원 (2025년)",
+            "companyInfo": {
+              "title": "코바시스템㈜",
+              "employees": "7명",
+              "revenue": "5억 1,550만원 (2025년)",
+              "operatingProfit": "-2억 9,836만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/49573761"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%BD%94%EB%B0%94%EC%8B%9C%EC%8A%A4%ED%85%9C%E3%88%9C"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 60,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영 담당자 (FI·CO·SD·PP·MM)",
+          "summary": "MM을 포함해 FI·CO·SD·PP 모듈 운영을 맡을 SM 담당자를 뽑는 공고입니다. 근무지는 서울 마포구이고 경력 5년 이상, 대졸 이상, 정규직이며 11/13(금)에 마감됩니다.",
+          "why": "11/13(금) 마감이 임박했고, 경력 5년 이상의 정규직 운영 포지션입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55512313",
+            "published": "2026-11-07T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: ~ 11/13(금) / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 71,
+          "title_ko": "닥터파인드 · 글로벌 패션기업 SAP ERP 모듈별 운영 (SD·MM·PP·FI·CO, 주임~과장급)",
+          "summary": "글로벌 패션기업에서 일할 SAP ERP 모듈별 운영 담당자를 주임~과장급으로 모집하며, MM이 포함되어 있습니다. 근무지는 서울 마포구이고 경력 3~12년, 대졸 이상, 정규직이며 11/13(금)에 마감됩니다.",
+          "why": "11/13(금) 마감이 임박했고, 경력 3~12년으로 지원 가능한 경력 폭이 넓습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP 운영 모듈별(SD MM PP FI CO) 주임 과장급 글로벌 패션",
+            "company": "닥터파인드",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55508104",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: 닥터파인드 / 조건: 서울 마포구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/13(금) / 분야: 의류무역 , 해외영업 , 무역거래 , 수출입 , 해외영업관리 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%8B%A5%ED%84%B0%ED%8C%8C%EC%9D%B8%EB%93%9C"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 66,
+          "title_ko": "제이투이 · SAP MM 모듈 운영 (SM)",
+          "summary": "동대문역사문화공원역 인근(서울 중구)에서 근무할 SAP MM 모듈 운영(SM) 인력을 모집합니다. 경력 6년 이상이며 즉시 지원할 수 있습니다.",
+          "why": "MM 단독 운영 포지션으로 경력 6년 이상이 필요하고, 마감일은 공고에 나와 있지 않습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50318829",
+            "published": "2026-11-06T04:33:10.510Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 109,
+          "title_ko": "현대오토에버 · SAP ERP 컨설팅/운영 (SD·MM·PM)",
+          "summary": "MM 영역에서는 현대차·기아 본사와 해외법인의 생산자재 영역 개발·개선 요청에 대응하고, 프로세스를 설계해 개발조직(GDC)에 전달하며 개발 결과를 검수합니다. 근무지는 서울 강남구이고 경력 3년 이상이며 11/26에 마감됩니다(원티드·잡코리아·LinkedIn에도 같은 공고가 올라와 있음).",
+          "why": "사원 6천여 명 규모의 현대차그룹 계열사로 경력 3년 이상이면 지원할 수 있고, 마감은 11/26입니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "SAP ERP 운영 (SD, MM, PM)",
+            "company": "현대오토에버(주)",
+            "link": "https://career.rememberapp.co.kr/job/posting/310292",
+            "published": "2026-11-03T15:00:00.000Z",
+            "snippet": "회사: 현대오토에버(주) / 경력: 3~년 / 지역: 서울특별시 강남구 / 마감: 2026-11-26 / [SD] - 그룹사 글로벌 법인 SAP 운영 (SD) : 법인 프로세스 개선사항 대응 및 설계 : SAP 개발 Spec 작성 : SAP 개발 사항 테스트 및 배포 [MM] - 현대차/기아 본사 및 해외법인의 생산자재 영역 개발/개선 사항 대응 - 프로세스 설계 및 개발조직(GDC; Global Development Center) 전달 - 개발내용 검수 및  / 회사정보: 사원수 6,444명 / 매출액 3조 2,500억원 (2025년) / 영업이익 2,155억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "현대오토에버㈜",
+              "employees": "6,444명",
+              "revenue": "3조 2,500억원 (2025년)",
+              "operatingProfit": "2,155억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/19481"
+            },
+            "jobHistory": {
+              "count": 7,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%ED%98%84%EB%8C%80%EC%98%A4%ED%86%A0%EC%97%90%EB%B2%84(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 72,
+          "title_ko": "스카우트플랜 · SAP ERP(S/4HANA) 구축 (SD/MM·PP·FI/CO)",
+          "summary": "MM을 포함한 S/4HANA 기반 SAP ERP 구축 인력을 모집하며, 공고 분야에 패션이 함께 표기되어 있습니다. 근무지는 서울 강남구이고 경력 3~12년, 대졸 이상, 정규직이며 11/29(일)에 마감됩니다.",
+          "why": "S/4HANA 구축 경험을 쌓을 수 있는 정규직 포지션이며, 마감은 11/29입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP(S/4HANA) 구축(SD/MM, PP, FI/CO)",
+            "company": "(주)스카우트플랜",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55507977",
+            "published": "2026-11-06T00:00:00.000Z",
+            "snippet": "회사: (주)스카우트플랜 / 조건: 서울 강남구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/29(일) / 분야: ABAP , Spring , ERP , 패션",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8%ED%94%8C%EB%9E%9C"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 45,
+          "title_ko": "[동국제강] 건설 한파 속 'AI 데이터센터' 붐 타고 반등 신호",
+          "summary": "건설 경기 침체가 이어지는 가운데 동국제강이 AI 데이터센터 건설 붐을 계기로 실적 반등의 신호를 보이고 있다는 분석입니다.",
+          "why": "건설 수요 의존도가 높은 동국제강에 새로운 수요처가 생기고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "건설 한파 뚫은 동국제강, ‘AI 데이터센터’ 붐 타고 반전 신호탄 - CEO스코어데일리",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zUkJRbTBuMjZEVFRuWmlmc1o5WjFORlRYQUdVdEM2ZC12bTBGVUJ1T1c4STdTZzlQWk5HSzhXa18tMUJGNndVU0hqbTI0VndJSTRXUGdBZnFDb1Voc2xJYzJIN0dTTTRiMFhJ?oc=5",
+            "published": "2026-11-09T08:30:00.000Z",
+            "snippet": "건설 한파 뚫은 동국제강, ‘AI 데이터센터’ 붐 타고 반전 신호탄 CEO스코어데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "[동국제강] 현대차증권 \"2027년에도 형강·후판 수요 호조 지속\", 목표가 12,800원",
+          "summary": "현대차증권은 리포트에서 2027년에도 동국제강의 형강과 후판 수요가 호조를 이어갈 것으로 전망했습니다. 목표주가는 12,800원으로 제시했습니다.",
+          "why": "증권가가 동국제강 주력 제품의 중기 수요를 긍정적으로 보고 있다는 신호입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[리포트 브리핑]동국제강, '27년 형강과 후판 수요 호조 지속' 목표가 12,800원 - 현대차증권 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdDZkU3hud1R3UUpwMlUzUDJkOFFLTGFMeEhkdXZxcEdXZFBaNWJXSTNlTEktaElTTUlqcmdnNm94ZGd4bHdndFNqbmNlc2gya3lUTjlfOEtaczFw?oc=5",
+            "published": "2026-11-10T04:17:00.000Z",
+            "snippet": "[리포트 브리핑]동국제강, '27년 형강과 후판 수요 호조 지속' 목표가 12,800원 - 현대차증권 뉴스핌",
+            "isNew": true
+          }
+        },
+        {
+          "index": 63,
+          "title_ko": "[동국제강] 美, 한국산 후판 상계관세 최종 확정…동국제강 1.89%",
+          "summary": "미국 상무부가 한국산 후판에 대한 상계관세율을 최종 확정했습니다. 동국제강은 1.89%, 현대제철은 1.39%가 적용됩니다.",
+          "why": "동국제강의 대미 후판 수출 조건이 확정되면서 수출 불확실성이 정리됐습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "美, 한국산 후판 상계관세 최종 확정…동국제강 1.89%·현대제철 1.39% - 철강금속신문",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2hFaV9Tc3NiQWJYMDFkVl9vbTREYnlQS1RRUGZMc0JNMVpZbVh5MHRhNEtyQmVPWDctQWZuNjFramxlMGJiTUFDM29uWnpfWnhqc0xJZVlXXzdaSlNfaENQYjdSSjBfeXlTb19UZXpIM2lFTG1PeGxHQ0lxaHZ1Q1VEVFdlaWc4cURsbWI1YkdEQQ?oc=5",
+            "published": "2026-11-06T07:59:02.000Z",
+            "snippet": "美, 한국산 후판 상계관세 최종 확정…동국제강 1.89%·현대제철 1.39% 철강금속신문",
+            "isNew": true
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "[동국제강] 정부, 中 H형강 반덤핑관세 5년 연장 추진",
+          "summary": "정부가 중국산 H형강에 대한 반덤핑관세를 5년 더 연장하는 방안을 추진합니다. 중국 산동·르자오 철강사와는 가격약속을 체결했습니다.",
+          "why": "형강을 주력으로 하는 동국제강에는 저가 수입재 견제 효과가 이어진다는 의미입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "정부, 中 H형강 반덤핑관세 5년 연장 추진…산동·르자오 가격약속 체결 - 페로타임즈",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44V3EtdjJ0VFpXTVd6dGRpV19wNTBnUVRqSDcyS3BBVGloNC02NVpqcDZWeXhpODB4NTZZR2o5TmduUHRMc1czTlBTTDh2NHd5RVFhSWdaNnNQY3p5WjItYjMtcVBOWjF3VFFCYg?oc=5",
+            "published": "2026-11-09T06:59:00.000Z",
+            "snippet": "정부, 中 H형강 반덤핑관세 5년 연장 추진…산동·르자오 가격약속 체결 페로타임즈",
+            "isNew": true
+          }
+        },
+        {
+          "index": 81,
+          "title_ko": "[동국제강] 11월 철근 전망: 가격 하락세 멈출 명분 없어",
+          "summary": "11월 철근 시장도 가격 하락을 멈출 계기가 보이지 않는다는 전망입니다. 같은 시기 스틸데일리는 봉형강 시장의 '출구 없는 추락', 철근 BSI 반등 불발, 수입 철근 재고 증가 등 부진한 업황을 잇따라 보도했습니다.",
+          "why": "국내 대표 철근 생산사인 동국제강의 4분기 수익성에 부담이 될 수 있는 흐름입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[11월 전망-철근] 떨어지는 가격, 멈출 명분이 없다 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5idjFSQUFtZERIY2ZFeDI2UFBFRTZNby1UWk5OdDEzUko0SldBSGdnN25nX1RFWWpKSEJSdW1JUmhRdDZxamJVYUhuZTJDeTRtUHVVaVJGTGdTbS0tbEwtekVrYlV1MmtaRmZXU0dzTk7SAXRBVV95cUxQN19ldHJJbVg2a2w4b0RKRlFkMFBmTEF4cjdrM1FtcVd4eENLcHZ4NjI3R205UHRxWmEtWG9tTXR0M0hLdFE2aTVyVENaRkVIVVU3bW9OTi1yNkZLQlNBeHd5cHBrLXFsSmVmdzNKbUdWZGR1Mg?oc=5",
+            "published": "2026-11-05T20:00:00.000Z",
+            "snippet": "[11월 전망-철근] 떨어지는 가격, 멈출 명분이 없다 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "[동국씨엠] 베트남산 수입 컬러강판, 품질·안전 '비상'",
+          "summary": "베트남에서 수입되는 컬러강판의 품질과 안전 문제가 제기됐다는 대한경제 보도입니다.",
+          "why": "컬러강판이 주력인 동국씨엠에게는 수입재와 경쟁하는 국내 시장 여건과 관련된 이슈입니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "베트남 수입산 컬러강판 품질ㆍ안전 ‘비상’ - 대한경제",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rdEd6S3NSVzlac21sQjdIVTBMZGtRbjlSWkxjT29qdFpwX0ZvVkFlSmFvUTdHQWpneDBvMWJ3d08xV2lPTnA3Vi1IdWZ1QWVHdDBJVENuT281akNaRXRGMW54TTlUcG5DcXNtOUplT1NQQmVf?oc=5",
+            "published": "2026-11-10T21:00:36.000Z",
+            "snippet": "베트남 수입산 컬러강판 품질ㆍ안전 ‘비상’ 대한경제",
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "아주스틸 소식",
+      "items": [
+        {
+          "index": 46,
+          "title_ko": "[아주스틸] 인수 후폭풍…동국씨엠, 채무보증으로 자본 62% 묶여",
+          "summary": "동국씨엠(박상훈 대표)이 아주스틸 인수 이후 채무보증을 서면서 자기자본의 62%에 해당하는 금액이 보증에 묶였다는 한스경제 보도입니다.",
+          "why": "아주스틸 인수가 동국씨엠의 재무 부담으로 이어지고 있음을 보여주는 기사입니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "[인수 후폭풍] 동국씨엠 박상훈, 빚 보증 서다 자본 62% 묶였다 - 한스경제",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9McldwQmEwREpZaUlON0RPUE5GbmhvbmNRSHhJZ1p1NHRfZGtkaU1STlRtejJFT0t5enpmVHpGMHRMaGlBVXctUW9IMzhMa1JpRkt0OUprWjNEZW1LbW9TZHhqby03dE9EbzlybVgxUdIBb0FVX3lxTE9McldwQmEwREpZaUlON0RPUE5GbmhvbmNRSHhJZ1p1NHRfZGtkaU1STlRtejJFT0t5enpmVHpGMHRMaGlBVXctUW9IMzhMa1JpRkt0OUprWjNEZW1LbW9TZHhqby03dE9EbzlybVgxUQ?oc=5",
+            "published": "2026-11-09T08:20:31.000Z",
+            "snippet": "[인수 후폭풍] 동국씨엠 박상훈, 빚 보증 서다 자본 62% 묶였다 한스경제",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
