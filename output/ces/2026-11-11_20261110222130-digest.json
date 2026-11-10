@@ -1,0 +1,181 @@
+{
+  "overview": "CES 2027 개막을 약 두 달 앞둔 시점으로, 주최 측 CTA가 'CES 2027 혁신상' 수상작을 발표하면서 수상 소식이 쏟아졌습니다. 국내에서는 삼성전자 갤럭시 Z 폴드8과 LG전자 투명 올레드 TV가 최고혁신상을 받았고, 삼성SDI·LG에너지솔루션·LG이노텍 등 계열사도 배터리·전장 기술로 수상 대열에 합류했습니다. 한국콜마의 뷰티테크 부문 2년 연속 최고혁신상, AI 반도체·생체인식·문화유산 복원 등 국내 스타트업과 지역 창업기업의 수상도 이어졌습니다. 해외에서는 Waymo 공동 CEO의 기조연설 확정과 희토류를 쓰지 않는 자석, 초음파 교육 시뮬레이터 등 의미 있는 수상작이 눈에 띕니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 20,
+          "title_ko": "Waymo 공동 CEO 테케드라 마와카나, CES 2027 기조연설자로 나선다",
+          "summary": "구글 계열 자율주행 기업 Waymo의 공동 CEO 테케드라 마와카나가 CES 2027 기조연설자로 확정됐습니다. 로보택시 상용화 확대 흐름 속에서 자율주행이 CES 2027의 주요 화두가 될 것으로 보입니다.",
+          "why": "자율주행·모빌리티 분야에 투자하는 현대차그룹 등 국내 완성차·부품 업계가 글로벌 로보택시 전략의 방향을 가늠할 수 있는 자리입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Waymo Co-CEO Tekedra Mawakana To Keynote At CES 2027 - CES | Twice",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZDd0MFRsQkNFNDBBZmNaMGc3Xzg3VmVfMnJ6aW10REVrNEtTZGhRSE51U1hQRVJUM1d6RnluS2d3eE1PSHU4aXFua1UwMDJjMDFPekZhbHNFUU41TGlFcWs0SkFoelQ3REZQRG90VEJpZXdoMy1Oc0U1N0xPVjRVdkFRTVp1NTZqcVJpVnN0S0o?oc=5",
+            "published": "2026-11-10T14:07:53.000Z",
+            "snippet": "Waymo Co-CEO Tekedra Mawakana To Keynote At CES 2027 CES | Twice"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 45,
+          "title_ko": "갤럭시 Z 폴드8·울트라, CES 최고혁신상 나란히 수상",
+          "summary": "삼성전자 갤럭시 Z 폴드8과 울트라 모델이 CES 2027 혁신상 모바일 부문에서 최고혁신상을 받았습니다. 삼성SDI도 UPS(무정전전원장치)용 각형 배터리로 혁신상을 받아 삼성 계열사가 함께 수상했습니다.",
+          "why": "폴더블폰 기술 리더십을 다시 확인한 결과로, 내년 초 CES 현장에서 삼성 모바일 전시에 관심이 쏠릴 전망입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "갤럭시 폴드8·울트라, CES 최고혁신상 나란히 수상 : 기업·산업 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zWHpfMllxX3lFbXFuNXBfZkx3QmZIdDB2ZzdQbElRTEpqQ2ItdVBZSDRlMHpyT21DZGlLN21GdnkwSnZIX1A3b21HOA?oc=5",
+            "published": "2026-11-10T10:41:16.000Z",
+            "snippet": "갤럭시 폴드8·울트라, CES 최고혁신상 나란히 수상 : 기업·산업 재경일보"
+          }
+        },
+        {
+          "index": 43,
+          "title_ko": "투명 올레드 T6·에이전틱 AI 월페이퍼 TV, LG의 CES 2027 혁신상 수상 이끌어",
+          "summary": "LG전자는 투명 올레드 TV(올레드 T)로 아트테크 부문 최고혁신상을 받는 등 올레드 TV가 5년 연속 최고혁신상을 수상했습니다. 에이전틱 AI를 적용한 월페이퍼 TV도 혁신상에 이름을 올렸고, LG디스플레이·LG이노텍·LG에너지솔루션 등 계열사도 함께 수상했습니다. 해외 매체 T3는 이번 수상작으로 LG의 2027년형 올레드 TV 라인업이 사실상 미리 공개됐다고 평가했습니다.",
+          "why": "프리미엄 TV 시장에서 올레드 주도권을 이어가는 동시에, TV에 AI 에이전트를 결합하는 흐름이 본격화되고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Transparent OLED T6 and Agentic AI Wallpaper TV lead LG CES 2027 Innovation Awards success - Inside CI",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkFIOUxaUm8xd2FORjhQb1NFZjNBb3BKOFNxcHVKWEI3MmlRNW9lMGpkUmpSS0l0UnZ3MXN1UDhBcXZ2VkRxamt6UFNKQUpoOFk0bThKMTk1NU5ZczN4Ri1PYnlHLXJycWxCWU1pY1pBYzJzOUltSWFLMVhlZFJPdE5YbkpNMTk2MnAtQTY0SmF4cGpMRWFoSG9sVy03anVfbUJFMlVSblR1dDR4WEtCNmJDcmVERXRpRzlrSktpMzRDOExrUEE?oc=5",
+            "published": "2026-11-10T10:51:53.000Z",
+            "snippet": "Transparent OLED T6 and Agentic AI Wallpaper TV lead LG CES 2027 Innovation Awards success Inside CI"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "삼성SDI·LG에너지솔루션, 배터리 기술로 CES 혁신상",
+          "summary": "삼성SDI는 UPS용 각형 배터리로, LG에너지솔루션은 사용 후 배터리 진단 기술로 각각 CES 2027 혁신상을 받았습니다. 데이터센터 전원 안정화와 배터리 재사용·재활용이라는 업계의 핵심 과제를 다룬 기술입니다.",
+          "why": "AI 데이터센터 수요 증가와 배터리 순환경제 확대 속에서 국내 배터리 업계가 전기차 외의 새 사업 영역을 넓히고 있다는 신호입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성SDI·LG엔솔, 배터리 기술 ‘CES 혁신상’ - 국민일보",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02dDg3MktzY3k5cnFGemJwcldXVlZMcGxPenRqbEJ0eF91UDlBZm1YOE9MZ3AwWkpJVHUxZWR3VHBrTFRobzRHNmwtUk8wYUtiaktJSDgyNFU?oc=5",
+            "published": "2026-11-10T15:07:00.000Z",
+            "snippet": "삼성SDI·LG엔솔, 배터리 기술 ‘CES 혁신상’ 국민일보"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "LG이노텍, 보는 각도에 따라 달라지는 3D 차량 조명으로 CES 혁신상",
+          "summary": "LG이노텍이 보는 각도에 따라 입체감이 달라지는 3D 차량 조명 기술로 CES 2027 혁신상을 받았습니다. 차량 외관 디자인과 조명을 결합한 전장 부품입니다.",
+          "why": "카메라 모듈 중심이던 LG이노텍이 차량 조명 등 전장 사업을 키우고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "LG이노텍, 각도별 3D 차량 조명으로 CES 혁신상 - 비건뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqcHBqdzZQUE5MeWY1R2lLR2hYbVF6NFNfVkJtY2lLalE5azZJSXcwTGtRODA0THR3azBXUnNEUGt2SkZ3VXJ5eXVabE9KQVViMjF6T2hnaHZnQ3VLTDJ3XzM5cU9nQQ?oc=5",
+            "published": "2026-11-10T21:28:54.000Z",
+            "snippet": "LG이노텍, 각도별 3D 차량 조명으로 CES 혁신상 비건뉴스"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "딥엑스, 삼성 2나노 공정 AI 칩으로 CES 혁신상",
+          "summary": "국내 AI 반도체 스타트업 딥엑스가 삼성전자 파운드리의 2나노 공정으로 만든 온디바이스 AI 칩으로 CES 2027 혁신상을 받았습니다. 해외 매체도 삼성 2나노 공정의 첫 성과 사례로 주목했습니다.",
+          "why": "국내 팹리스와 삼성 파운드리 첨단 공정의 협력 성과로, 국산 AI 반도체 생태계에 긍정적인 신호입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "딥엑스, 삼성 2나노 AI칩으로 CES 혁신상 - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WYWhUelU0Sjl6MkRIOE1OTnhzZU8tYnduYzRHdThVdVhEblQ5NzQ3LVFiUE93TE5lU1lNSU1YYXk3M3E5RjZmLTF4Zl9pTXlwbXNxTmFvaElzcXl4czVFd01Tc2U?oc=5",
+            "published": "2026-11-10T11:36:29.000Z",
+            "snippet": "딥엑스, 삼성 2나노 AI칩으로 CES 혁신상 매일일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 14,
+          "title_ko": "한국콜마, CES 2027 뷰티테크 최고혁신상 2년 연속 수상",
+          "summary": "한국콜마가 1분 만에 원하는 립 컬러를 조합해 주는 '크로마플로우'로 CES 2027 뷰티테크 부문 최고혁신상을 받았습니다. 이 부문에서 2년 연속 최고혁신상을 받은 기업은 한국콜마가 처음입니다.",
+          "why": "K-뷰티가 맞춤형 제조 기술을 앞세워 IT 전시회에서도 경쟁력을 인정받고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "한국콜마, ‘CES 2027’서 2년연속 뷰티테크 최고혁신상 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lbU1KZjNoS1JaMkRRUDEzSGNKa2tUdXNZeWMzM2luVEJOTXdNdFhvRHJIaGFQZ0puWG1pd2kxVWc3QzJGOTJ3T2RaOS1UZGs5M3FoLXlMblBBTzFiV015czhjWVNDQ1RxbmRtRW5CTkhCZnlrTGfSAWZBVV95cUxNck5ITEhsWmlVMF9FM2MtNGI5M0J3cE1GbGt3Tlh5d0x5aUg0ZGRGWGMxc19sRnA3djlfVWg2Qk15VDFqMTdLQmVraEdjMUJHRlIxTVJWemdHU1AzUEIwaHNsTldKeVE?oc=5",
+            "published": "2026-11-10T15:30:00.000Z",
+            "snippet": "한국콜마, ‘CES 2027’서 2년연속 뷰티테크 최고혁신상 동아일보"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "'가짜 지문 잡아낸다'…유니온바이오메트릭스, SKT·삼성전자 이어 CES 최고혁신상",
+          "summary": "생체인식 기업 유니온바이오메트릭스가 위조 지문을 판별하는 기술로 CES 2027 최고혁신상을 받았습니다. SK텔레콤, 삼성전자와 함께 최고혁신상 수상 명단에 이름을 올렸습니다.",
+          "why": "금융·모바일 인증 보안이 중요해지는 가운데 국내 중소기업의 생체인식 보안 기술이 세계적으로 인정받은 사례입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "\"가짜 지문 잡아낸다\"…유니온바이오메트릭스, SKT·삼성전자 이어 CES 최고혁신상 쾌거 - 경기신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qMkxpTGlyT3k3ZWFwbFZ4Vlk5VGxJbkJFTUJ2cTJRcjN0blJlYnlSN1dFSmZ1OTE2UmFlTmp5ZG9RNk85VEVyUWUxZHl6Qk53cERUTzlQc21QWFhQWWhzQkt3?oc=5",
+            "published": "2026-11-10T14:42:29.000Z",
+            "snippet": "\"가짜 지문 잡아낸다\"…유니온바이오메트릭스, SKT·삼성전자 이어 CES 최고혁신상 쾌거 경기신문"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "국가유산청 지원 '건축유산 AI 복원설계' 기술, CES 2027 최고혁신상",
+          "summary": "국가유산청이 지원한 AI 기반 건축유산 복원설계 기술이 CES 2027 최고혁신상을 받았습니다. 문화유산 보존에 AI를 접목한 사례입니다.",
+          "why": "공공 지원 R&D가 문화유산 분야에서도 세계적 기술 성과로 이어질 수 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "국가유산청이 지원한 ‘건축유산 복원설계’ 기술, CES 2027 최고혁신상 수상 - 씨원뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45NlBiOEh3UWdTYzg0SkZneEZhWHNZM0plVnk2T2JlZ1FnWVlndVgzenRUQVlENTNBbTgxR3NWM0czOXdHWjktYVFaNHI1bEZiQ3VHWm1vbzhYNnhnWGdxR3lGOXZmUFk?oc=5",
+            "published": "2026-11-10T20:50:13.000Z",
+            "snippet": "국가유산청이 지원한 ‘건축유산 복원설계’ 기술, CES 2027 최고혁신상 수상 씨원뉴스"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "구미 창업기업 루미엔·에이포랩, CES 2027 최고혁신상·혁신상 수상",
+          "summary": "경북 구미의 창업기업 루미엔과 에이포랩이 각각 CES 2027 최고혁신상과 혁신상을 받았습니다. 충남 천안아산 강소특구, 원주시, 한서대 등도 지원 기업·학생 창업팀의 수상 소식을 잇따라 알려, 지역 창업 지원이 CES 성과로 이어지고 있습니다.",
+          "why": "수도권 밖 지역 스타트업도 CES를 해외 진출 발판으로 삼는 흐름이 뚜렷해지고 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "구미 창업기업 루미엔·에이포랩, CES 2027 최고혁신상·혁신상 수상 - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIRHM3cDQtWE9MUGItMFFRWnNmNGRfX1UwMllZOUptU1hKQVJURm0wS1k4LUpzWE5VdjhHMzVkSHhkZzVmM1U3QW5TZE1TY3l1OTBhRmpCa0VRU2VZd3Z5aXA0MEY?oc=5",
+            "published": "2026-11-10T12:30:02.000Z",
+            "snippet": "구미 창업기업 루미엔·에이포랩, CES 2027 최고혁신상·혁신상 수상 매일일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 23,
+          "title_ko": "Niron Magnetics, 희토류 없는 질화철 자석으로 CES 2027 차량 기술 부문 혁신상",
+          "summary": "미국 Niron Magnetics가 희토류 없이 만든 질화철(Iron Nitride) 자석으로 CES 2027 혁신상 차량 기술·첨단 모빌리티 부문에서 수상했습니다. 전기차 모터 등에 쓰이는 영구자석의 희토류 의존도를 낮출 대안으로 꼽힙니다.",
+          "why": "중국 희토류 공급 리스크에 노출된 국내 전기차·모터 업계에 공급망 다변화 대안으로 주목할 만한 기술입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Niron Magnetics Named CES 2027 Innovation Awards Honoree in Vehicle Tech & Advanced Mobility for Rare-Earth-Free Iron Nitride Magnets - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTFZSeFlzVEEwUG1xakxfc2p1aFdENG0zNW1Ua3RvTEFXN0NqYmd4U2ZkZS1PZDdJbEE3Mm1wTnJUQWtIbnhsSjExc3VWNUlhdHlBMWZ6dlpMczJ3aVdDVmNjVlkxY2hOZ3VuX24wWDNFMUNxdVNmdS00N0xaOTUtUGJnTHdvMkNJc0RVMUJGWWRMWVFrNXM1amRXaGJhQnpNVEo1QXhYelNWcXVZMWJWNWNiZ1BjWXRWNVhXNFJIamREeU15c2tnODE1WDZYTFdhcE15akhhSDc5OE5TYjB3emVIQ20wX3kzY1hhVGlaalV4WDUtWEE4T05ZVTRCeXFra3NvQ1pZaDJiQVBuZG5ueEg1MmUxTTQ?oc=5",
+            "published": "2026-11-10T13:55:00.000Z",
+            "snippet": "Niron Magnetics Named CES 2027 Innovation Awards Honoree in Vehicle Tech & Advanced Mobility for Rare-Earth-Free Iron Nitride Magnets PR Newswire"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "Surgical Science의 'Aeris', 초음파 교육 혁신으로 CES 2027 최고혁신상",
+          "summary": "Surgical Science의 Aeris가 사람이나 어떤 표면이든 초음파 시뮬레이터로 바꿔 주는 기술로 CES 2027 최고혁신상을 받았습니다. 고가 장비 없이 초음파 진단 실습을 할 수 있도록 돕는 의료 교육 솔루션입니다.",
+          "why": "의료 교육과 디지털 헬스케어 분야에서 시뮬레이션 기술이 빠르게 발전하고 있어 국내 의료기기·에듀테크 업계도 참고할 만합니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Surgical Science's Aeris Wins CES 2027 Best of Innovation Award for Advancing Ultrasound Training - www.marketscreener.com",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUGk1bE83bzJYTnkydWUwd1VVTU1KTFJ2NTVGMG5rMkhRQWxYM3BZaVFieWg4QnQ3Y1NvS2FxaVFBNXNxbkVyR1RxSDFoZ0NwU2FBQWFBVG5KaWxRR0toYVJ2UFdVSXREZ3NEUThMRDJPQ241WHE4QVZia1doQWI5djJBNjlUMDJBdmg4dDY0Y3JQbVdYQVNLaXlFNGtxTkt1ZW5mZnNibFFSNXMybzlJTXNPbG5ENk92Y2NORDlfdkFGNXh5d2hhaGh5cXBTQmhTT0R0bDlwaXlScXpILUhUVXRUdlE?oc=5",
+            "published": "2026-11-10T15:19:05.000Z",
+            "snippet": "Surgical Science's Aeris Wins CES 2027 Best of Innovation Award for Advancing Ultrasound Training www.marketscreener.com"
+          }
+        }
+      ]
+    }
+  ]
+}
