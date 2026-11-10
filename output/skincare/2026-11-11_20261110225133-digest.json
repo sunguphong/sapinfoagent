@@ -1,0 +1,230 @@
+{
+  "overview": "11월 들어 기온과 습도가 함께 떨어지면서 각질과 속건조를 호소하는 고객이 늘고 있어, 보습과 피부 장벽 관리가 가장 중요한 시기입니다. 유행을 좇기보다 과학적 근거가 있는 스킨케어를 고르려는 흐름이 뚜렷하며, 피부과 전문의들도 불필요한 제품을 줄이고 기본에 집중하라고 조언합니다. 프로바이오틱스와 스트레스 반응형 식물 성분 같은 신소재가 주목받고 있고, 피부 질환 분야에서는 피부 사르코이드증, 피부 루푸스, 탈모 치료제의 임상 결과가 잇따라 발표됐습니다. 한국 여성의 피부 관리가 화장품 중심에서 시술과 홈케어를 함께 하는 방식으로 넓어지는 점도 눈여겨볼 만합니다.",
+  "categories": [
+    {
+      "name": "계절 피부 관리",
+      "items": [
+        {
+          "index": 35,
+          "title_ko": "건조한 피부 관리법: 각질 일어남과 건조함 줄이기",
+          "summary": "찬 바람과 낮은 습도로 피부가 쉽게 건조해지고 각질이 일어나는 시기를 맞아 관리법을 정리한 기사입니다. 수분 공급, 보습막 형성, 자극을 줄이는 세안 습관 등 기본 관리의 중요성을 다룹니다.",
+          "why": "늦가을부터 겨울까지 각질과 당김을 줄이려면 미지근한 물 세안과 세안 직후 보습제 사용을 습관으로 만드는 것이 가장 효과적입니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "건조한 피부 관리 방법, 벗겨짐, 건조함 제한 - Laodong.vn",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0J3M3MwbmRWZm5mVlFNNVNZUHJLYlZaTWxJbzZScE9Zb3FTVEdWQXptVFdrWVViUUlIaXY4RlRmbTdqemZ1NzFRNVEya3l5Ni00MmNITUZYWmxxYW41US1fcFBIQUtXTXZCVHotM1FnUzVEU0U3c0pIQjRseTVSbmI3Y29MT0lwU1pRaFV5Tk1JTDBmTVE4Tk5vaWlaeF9E?oc=5",
+            "published": "2026-11-10T05:00:00.000Z",
+            "snippet": "건조한 피부 관리 방법, 벗겨짐, 건조함 제한 Laodong.vn"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "소아 중증 아토피 피부염, 치료가 부족할 때의 위험",
+          "summary": "중증 아토피 피부염을 앓는 아이를 충분히 치료하지 않으면 증상 악화와 삶의 질 저하 등 여러 위험이 따른다는 전문가 의견을 다룹니다. 적극적이고 적절한 치료의 필요성을 강조합니다.",
+          "why": "건조한 계절에는 아토피가 쉽게 악화되므로, 자녀의 증상이 심하다면 홈케어에만 의존하지 말고 피부과 진료를 함께 받는 것이 좋습니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Risks of Under-Treating Severe Atopic Dermatitis in Children - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnA1VHY4bHd1VUxwRzl4d1g2TllUaEpsZFlqX1ZnVTBIXzZTdnRQS0xrb1BsYWNqa0NXQ1JsMTcxTXBER0tPTE1wWmZSdFhhX0ktOC1ISHNKU25UaGdPNlB3bmRuZTFSbnZQN0w3WVRDTUxWMWpOWjZIQXRFTDRVRXlUYjNPY0loWGVtMC1pUGxCX0JLV0VJbkowUGZJM1E?oc=5",
+            "published": "2026-11-10T20:05:45.000Z",
+            "snippet": "Risks of Under-Treating Severe Atopic Dermatitis in Children Dermatology Times"
+          }
+        }
+      ]
+    },
+    {
+      "name": "전문가 팁",
+      "items": [
+        {
+          "index": 16,
+          "title_ko": "뷰티 트렌드보다 피부 건강: 과학 기반 스킨케어란 무엇이고 왜 중요해지는가",
+          "summary": "유행하는 제품이나 루틴보다 임상 근거가 있는 성분과 피부 장벽 건강을 우선하는 '과학 기반 스킨케어'가 주목받고 있습니다. 소비자들이 성분과 효과의 근거를 따지는 경향이 강해지고 있다는 내용입니다.",
+          "why": "새 제품을 고를 때 마케팅 문구보다 성분의 근거와 내 피부 타입에 맞는지를 먼저 확인하면 시행착오와 비용을 줄일 수 있습니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Skin health over beauty trends: What is science-backed skincare, and why is it becoming important? - News9live",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaG5NSGp1SjRYazJPNUNoT08zcmRiTjdjR3BnMzhOTXZaUWZBUG9nQmZVaEkxMVpaZDFCNmFnNzg3TDk0UkwtLU5qWnhpUFNRTGRlVV9rcFZxa2dSb3NVbTY1ZFZBM29weDFoQVZuTnlObFNsLUtxc3d6cTg3Nk1ITWVGM3ZwcUxJM0xCT9IBkgFBVV95cUxPZjNPTm8xYnJmeFRpTGdxdUx5OWt4NDZfa2t1eVFZRVQ0OXI4b1R5U1ZyelhjQVJXOFk5WFhRcVgtQlJVbVptY0NjeWh3TTQ4QmVHRzhqR0JBNTAydWFmRTBpX0lzdFNsX3RDeDltZGx3X19HOFYzU2pKMFlRQTlVUnd6VjRjZ3BobjVEMU1TaDdBdw?oc=5",
+            "published": "2026-11-10T12:00:57.000Z",
+            "snippet": "Skin health over beauty trends: What is science-backed skincare, and why is it becoming important? News9live"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "돈 낭비는 그만: 피부과 전문의가 꼽은 사지 말아야 할 스킨케어 제품 5가지와 대안",
+          "summary": "피부과 전문의들이 효과에 비해 가격이 높거나 오히려 자극이 될 수 있는 제품 유형을 꼽고, 대신 투자할 만한 제품을 제안합니다. 기본에 충실한 루틴이 더 효율적이라는 메시지를 담고 있습니다.",
+          "why": "세안제, 보습제, 자외선 차단제 같은 기본 제품에 집중하는 것이 피부 건강과 비용 면에서 모두 유리합니다.",
+          "article": {
+            "source": "Google News EN (Beauty Trends)",
+            "title": "Stop Wasting Money: 5 Skin Care Products Dermatologists Say to Skip, and What to Buy Instead - Real Simple",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZWcyUXh2MWRmNFBHSTFrQUNVbi1pSlY0YTdtVEd5ZUxQYzVnUUdQSWN6dzlsTFRDNS01c2tOQWtiV1F0OTdBRkMyeWwtOHR5YmtVeDZMNnBSZ19RZjNKNlRJSG90NllOM2xacFNfVGVMMEpWSHhNY3RjOVhCdXRKRnM4N1kwTDJna2hxSFhuaFF5aklRM2c?oc=5",
+            "published": "2026-11-10T12:00:00.000Z",
+            "snippet": "Stop Wasting Money: 5 Skin Care Products Dermatologists Say to Skip, and What to Buy Instead Real Simple"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "[기획-피부③] 여드름, 짜야 할까 기다려야 할까",
+          "summary": "여드름을 직접 짜는 것이 괜찮은지, 자연스럽게 가라앉기를 기다려야 하는지에 대한 전문가 조언을 다룹니다. 잘못된 압출은 염증 악화, 색소침착, 흉터로 이어질 수 있다는 점을 짚습니다.",
+          "why": "여드름을 손으로 무리하게 짜기보다 위생적인 전문 관리나 피부과 진료를 받는 것이 흉터와 자국을 예방하는 지름길입니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "[기획-피부③] 여드름, 짜야 할까 기다려야 할까 - 현대건강신문",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMmhtUnU0REhpVEZfSkVDb0tuMVNYWU5zeTBLRDh6UUI2WGVGbWRfTF9mNWM4cDhsZUsxdEFvZnZvYWtRMGtrQW1tMms3UFFVQnlqLTRR?oc=5",
+            "published": "2026-11-10T07:56:00.000Z",
+            "snippet": "[기획-피부③] 여드름, 짜야 할까 기다려야 할까 현대건강신문"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "화제의 기저귀 크림, 정말 여드름에 효과 있을까?",
+          "summary": "SNS에서 여드름 진정용으로 기저귀 크림을 바르는 방법이 화제가 되면서, 그 효과와 주의점을 짚은 기사입니다. 산화아연 등 진정 성분의 장점과 함께 모공을 막을 수 있는 무거운 제형의 한계를 함께 살펴봅니다.",
+          "why": "SNS 유행 관리법은 피부 타입에 따라 오히려 트러블을 키울 수 있으므로, 시도하기 전에 성분과 제형이 내 피부에 맞는지 확인해야 합니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "화제의 기저귀 크림, 정말 여드름에 효과 있을까? - 하퍼스 바자 코리아",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YOEZ5UW91akZnQThualFBNmw5dUlEam5sR2VMU09FRWhKdmgzVHlndVlzRTBETktnYnBzemFKUUJUMU1qSEdHUmVobFhzdzFjM281SkRvN0o0Tzg?oc=5",
+            "published": "2026-11-10T09:02:09.000Z",
+            "snippet": "화제의 기저귀 크림, 정말 여드름에 효과 있을까? 하퍼스 바자 코리아"
+          }
+        }
+      ]
+    },
+    {
+      "name": "스킨케어 성분·제품",
+      "items": [
+        {
+          "index": 3,
+          "title_ko": "먹는 '올해의 원료'를 피부에 바른다…hy, 프로바이오틱스 연계 피부 관리 제안",
+          "summary": "hy가 섭취용으로 주목받던 프로바이오틱스 원료를 화장품에 적용해, 먹는 유산균과 바르는 제품을 연계하는 피부 관리를 제안했습니다. 장 건강과 피부 미생물 균형을 함께 관리하려는 '이너뷰티' 흐름을 반영합니다.",
+          "why": "프로바이오틱스 화장품은 피부 장벽과 미생물 균형 관리에 도움을 줄 수 있지만, 효과는 제품마다 다르므로 꾸준히 사용하며 피부 반응을 살펴보는 것이 좋습니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "먹는 '올해의 원료' 피부에 바른다…hy, 프로바이오틱스 연계 관리 제안 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zemxiZmd3LWhSWWFWU1hXV1FhQVpzVEZ0NGlvM1VnZkNwOFRFUDZ6eDFXcWxqTk9LWkJ5T1BYdHEydjFkV25QMjZTd1RfMjEyMlhwZmFrVlJ4LXZpYzBoQdIBeEFVX3lxTFBFZC1SbTdPdTlaVkJaWk5vTXB3bnFSSnMteVJYV01tQ3B3UEJMcnZzNGZrMUt5dDI5XzdDWXdiRUYtTlZLVEgtR2VMS0tCbDczVENIZjNjNjBKQ1prejEtUHVyZ2JxTHhKWGRtQWpMcTBNNE9vZ2swTg?oc=5",
+            "published": "2026-11-10T20:35:00.000Z",
+            "snippet": "먹는 '올해의 원료' 피부에 바른다…hy, 프로바이오틱스 연계 관리 제안 뉴시스"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "스트레스에 반응하는 스킨케어 성분: 미벨, 하와이 식물 왈테리아에서 'PhytoCellTec Aloha' 개발",
+          "summary": "스위스 원료 기업 미벨(Mibelle)이 하와이 자생 식물 왈테리아의 식물 세포 배양 기술로 스트레스에 지친 피부를 겨냥한 신소재를 선보였습니다. 스트레스로 인한 피부 컨디션 저하를 관리하는 성분 트렌드를 보여줍니다.",
+          "why": "새 성분은 아직 임상 근거가 쌓이는 단계일 수 있으므로, 기대감보다는 수면과 생활 습관 관리를 기본으로 두고 보조 수단으로 활용하는 것이 현명합니다.",
+          "article": {
+            "source": "Google News EN (Beauty Trends)",
+            "title": "Stress-Responsive Skincare Ingredients: Mibelle Derives PhytoCellTec Aloha from Waltheria… - Trend Hunter",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDNWJ1V3BuUlhBVkstZVdMTFJENG15bWZ2YWJnRXQyRGEybzA4dVcyNlVEOURwVHNrN0VNeHItOWlfb3RZVW5BcXF4OWp6R2VhRVM3T0kxM1BrU19xWThsdHhvdG5MTkhGVG5qQmpOV1pmcjB4UjVtdWpROVl6QQ?oc=5",
+            "published": "2026-11-10T07:37:53.000Z",
+            "snippet": "Stress-Responsive Skincare Ingredients: Mibelle Derives PhytoCellTec Aloha from Waltheria… Trend Hunter"
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "갈더마코리아, 서울 청담동에서 알라스틴(ALASTIN) 국내 출시 행사 개최",
+          "summary": "갈더마코리아가 시술 전후 관리용 스킨케어로 알려진 브랜드 알라스틴을 국내에 정식 출시했습니다. 피부과 시술과 연계한 홈케어 수요를 겨냥한 행보입니다.",
+          "why": "레이저나 리프팅 시술을 받은 뒤에는 회복을 돕는 진정·보습 관리가 결과에 영향을 주므로, 시술 후 홈케어 제품을 전문가와 상의해 고르는 것이 좋습니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "갈더마코리아, 서울 청담동서 알라스틴 국내 론칭 알렸다 - 스페셜타임스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MSWN0d3JQZ2FEYmJvWVVzVWNvRnJ4ZWNpV0tqS3owUWp6SDZNeUl6ckhrWlc0QXIzcXZHNG1BU1ZfTmc3NTM5VmwySjQ5aUlIWXY1T2dwcjIxTG9aSkdZd2NVNVlrWnRMOGhqbm5pa0NxQ3M?oc=5",
+            "published": "2026-11-10T06:36:55.000Z",
+            "snippet": "갈더마코리아, 서울 청담동서 알라스틴 국내 론칭 알렸다 스페셜타임스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "피부 트렌드",
+      "items": [
+        {
+          "index": 29,
+          "title_ko": "[2027 뷰티의 변화①] 화장품을 넘어 시술·홈케어로…달라진 한국 여성의 피부 관리",
+          "summary": "한국 여성의 피부 관리가 화장품 사용 중심에서 피부과·관리실 시술과 홈케어 기기를 함께 쓰는 방식으로 넓어지고 있다는 분석입니다. 2027년 뷰티 시장의 변화 방향을 짚는 기획 기사입니다.",
+          "why": "전문 관리와 집에서의 꾸준한 홈케어를 함께할 때 관리 효과가 오래 유지되므로, 관리실 방문 사이의 홈케어 루틴도 함께 계획하는 것이 좋습니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "[2027 뷰티의 변화①] 화장품 넘어 시술·홈케어로…달라진 한국 여성의 피부관리 - 케이트렌디뉴스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKUWJNMHdnTDI1d0hHVEV0SzRJWUNYbk5iazNSc0F4UTJUQnZVM1ZRMzN0dkFLREVmMXI5REo0blRXQnRiWjc2a3VOT0F5SkRyLWhZVWxfOVEtNTFLN2JWYl9FbC1PMGRHZFg4WlBMeDg?oc=5",
+            "published": "2026-11-10T07:22:43.000Z",
+            "snippet": "[2027 뷰티의 변화①] 화장품 넘어 시술·홈케어로…달라진 한국 여성의 피부관리 케이트렌디뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "피부·모발 치료 연구",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "브레포시티닙, 피부 사르코이드증 환자 69%에서 피부 병변 개선",
+          "summary": "경구 약물 브레포시티닙(brepocitinib)이 2상 BEACON 임상에서 피부 사르코이드증 환자의 69%에서 피부 병변을 깨끗하게 개선한 것으로 나타났습니다. 이 결과는 학술지 JAMA Dermatology에 실렸습니다.",
+          "why": "치료가 어려웠던 염증성 피부 질환에도 새로운 표적 치료제가 개발되고 있어, 만성 피부 질환이 있다면 최신 치료 옵션을 전문의와 상담해 볼 만합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Brepocitinib Clears Skin in 69% of Cutaneous Sarcoidosis Patients - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHppdWhNbUlGS3ZaRkM5RkNZMUQzN2hUYzI3MHlSRGdGUUQydU14eDRFUVdPVzhfUUNxdkFtREJ2QUlPV2N6bkJvaEFJandzREJoY3g2ZmxLSm50cjZvRWV0SVJ5ZEU2UmFvWmFTUGhfYzBITjN0dkkzMkllSDQ4a0ZEUXd6b053OEptSlcyUW5TN18talhEamxSeldpUQ?oc=5",
+            "published": "2026-11-10T18:20:41.000Z",
+            "snippet": "Brepocitinib Clears Skin in 69% of Cutaneous Sarcoidosis Patients Dermatology Times"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "리티필리맙, 52주간 피부 루푸스 증상 개선 효과 확인",
+          "summary": "신약 후보 리티필리맙(litifilimab)이 피부 루푸스 환자의 증상을 52주 동안 꾸준히 개선한 것으로 보고됐습니다. 장기간 효과가 유지된다는 점에서 주목받고 있습니다.",
+          "why": "얼굴에 원인 모를 붉은 반점이나 발진이 오래 지속된다면 단순 트러블로 넘기지 말고 피부과 진단을 받아보는 것이 안전합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Litifilimab Improves Cutaneous Lupus Symptoms Through 52 Weeks - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk9xbEJaLUFXbDZpTi03dFhoTnBsNGlXWkEtSEd0RUpUTUxNZzhOMThITmdDSG9hTTYwOWJzN1V5bEpnQkNkbUNLRWd6MmswTWZvd0xrTVpYUTZURnRQdktQS0ZKNWZ1YVBhY29Oc1I1NGRxS1E0ajJGMGVveGdLUC1FTUYtbjRvTWZKOFZNV3lONFQzRlh6aWxKMHQxaTB4dXc?oc=5",
+            "published": "2026-11-10T16:15:37.000Z",
+            "snippet": "Litifilimab Improves Cutaneous Lupus Symptoms Through 52 Weeks Dermatology Times"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "베라더믹스, 탈모 치료 후보물질 VDPHL01로 1년간 모발 성장 지속 효과 보고",
+          "summary": "베라더믹스(Veradermics)가 경구용 탈모 치료 후보물질 VDPHL01을 1년간 투여한 결과 모발 성장이 지속됐다고 발표했습니다. 남성형 탈모 등 모발 고민에 대한 새로운 치료 옵션으로 기대됩니다.",
+          "why": "탈모는 일찍 관리할수록 효과가 좋으므로, 모발이 가늘어지거나 빠지는 양이 늘었다면 두피 관리와 함께 전문의 상담을 권합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Veradermics Reports Sustained Hair Growth With VDPHL01 at 1 Year - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGY2WkUySHFqNHVFbU1vQmV0emdhQTFPMi1nSDhORklYSFpRWjBGMVAyVzkwNWk4QUlueUtIdTBkbkN6MEFQd1RvUFJOWWk3b3FxTG94R0xNVlprc2daOVIzaXdOSXkySEhVM0ZObk1NSzVSOGZWNUt0UjZ6MTh3UnczcmdJc1BXN0dibHZYRmh3MGdzRHJnV2hGaHpDdw?oc=5",
+            "published": "2026-11-10T15:20:35.000Z",
+            "snippet": "Veradermics Reports Sustained Hair Growth With VDPHL01 at 1 Year Dermatology Times"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "화농성 한선염 관리, 첫 공동 진료 지침 발표",
+          "summary": "겨드랑이나 사타구니 등에 반복적으로 염증성 결절이 생기는 화농성 한선염에 대해 여러 학회가 함께 만든 첫 공동 진료 지침이 나왔습니다. 진단과 치료 기준을 표준화했다는 데 의미가 있습니다.",
+          "why": "같은 부위에 고름이 차는 뾰루지가 반복된다면 단순 여드름이 아닐 수 있으므로 자가 압출을 피하고 진료를 받아야 합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "First Joint Guidelines Released for Hidradenitis Suppurativa Management - Dermatology Advisor",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHF0TkUyVVZsMmE3NTFFVHBRTEF2UllRTkNLdzdEOUIxSU5xNXN5dEt1UnA0MFoyaGJGVVBFc3lXcGp3NjljMzNBeWtiUEtIbWNzbDM0QURkUHN5S1RNa0dqRWFjSnY0Qm1pb2xqdzZOOGNsbUJDd0loeFJaSngya0F5cjBqNkczTE5STjBDOXFIQWU3SVRVVndqYWZKNmJPYjh3?oc=5",
+            "published": "2026-11-10T05:00:00.000Z",
+            "snippet": "First Joint Guidelines Released for Hidradenitis Suppurativa Management Dermatology Advisor"
+          }
+        }
+      ]
+    },
+    {
+      "name": "뷰티 뉴스",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "올리브영, 미국에 매장 5곳 추가 출점…K뷰티 확장 가속",
+          "summary": "올리브영이 미국에 매장 5곳을 더 열 계획을 밝히며 K뷰티의 해외 확장에 속도를 내고 있습니다. 한국 스킨케어 브랜드에 대한 글로벌 수요가 계속되고 있음을 보여줍니다.",
+          "why": "K뷰티 제품이 세계적으로 인정받고 있는 만큼, 국내에서도 성분과 효능이 검증된 제품을 골라 쓰는 안목이 더 중요해지고 있습니다.",
+          "article": {
+            "source": "Google News EN (Beauty Trends)",
+            "title": "Olive Young to open five more US stores in significant K-beauty expansion - Cosmetics Business",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Nc1ptN3JFMDJWM2FtSWxkeXVCck9WUHozWEVudVJSWFFrRGhxQUNkakU2dGlraldYZ1JSSk5KZ3FncjZJNy1FdnkzVV9Ec0xEdkRHTm1BSlIyZnBNWklrc1dwNjRKOU9IdFlHOWRIVzQ1RmttTm1NaA?oc=5",
+            "published": "2026-11-10T11:56:21.000Z",
+            "snippet": "Olive Young to open five more US stores in significant K-beauty expansion Cosmetics Business"
+          }
+        }
+      ]
+    }
+  ]
+}
