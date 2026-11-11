@@ -1,0 +1,14 @@
+2026-11-11T22:51:52.214Z run 20261111225152 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-11T22:51:52.215Z waiting 488s until 08:00
+2026-11-11T23:00:13.073Z sap: sent
+2026-11-11T23:00:13.073Z realestate: sent
+2026-11-11T23:00:13.073Z stock: sent - 수집 경고 1건: Yahoo Finance: Status code 404
+2026-11-11T23:00:13.073Z skincare: sent
+2026-11-11T23:00:13.073Z sapmm-jobs: sent
+2026-11-11T23:00:13.073Z ces: sent
+2026-11-11T23:00:13.073Z smallbiz: sent
+2026-11-11T23:00:13.074Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 06:31 수집 · 35건
+2026-11-11T23:00:13.074Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-11T23:00:13.076Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-12_20261111225152.html
+2026-11-11T23:00:14.880Z mail sent: <613992a4-971d-05c3-456b-abd941b298d6@gmail.com> -> upsan77@gmail.com
+2026-11-11T23:00:14.881Z done
