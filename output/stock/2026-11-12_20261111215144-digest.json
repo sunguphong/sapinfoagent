@@ -1,0 +1,194 @@
+{
+  "overview": "■ 전날 미국 증시\n11일(현지시간) 뉴욕증시는 3대 지수가 모두 올랐습니다. 다우는 0.49%, S&P500은 1.31%, 나스닥은 1.60% 상승 마감했습니다. AI 클라우드 기업 코어위브가 호실적 발표 후 25% 넘게 급등하면서 'AI 투자 거품' 우려가 누그러졌고, 필라델피아 반도체지수(SOX)는 5% 이상 뛰었습니다. 마이크론(+12~13%)과 SK하이닉스 ADR(+10%) 등 메모리주가 상승을 이끌었고, 엔비디아도 CEO 관련 논란과 증권사 투자의견 하향에도 사흘 만에 반등했습니다. 다만 10월 소비자물가(CPI)가 예상보다 높게 나왔고, 연준 인사들의 매파적 발언이 이어지면서 12월 금리 인상 기대가 커졌습니다. 이에 국채금리와 달러가 강세를 보였고(엔·달러 158엔 돌파), 유가는 오르고 금값은 내렸습니다.\n\n■ 오늘 국내 증시 전망\n미국 반도체주가 크게 오른 만큼 오늘 코스피·코스닥은 반도체 대형주를 중심으로 상승 우세 출발 가능성이 높아 보입니다. 특히 SK하이닉스 ADR이 10% 오른 점은 SK하이닉스·삼성전자 등 메모리 업종에 직접적인 호재입니다. 다만 전날 국내 증시가 이미 코스피 2.6%, 코스닥 5.6% 급등해 코스피가 5300선을 회복한 상태입니다. 따라서 장중 차익실현 매물이 나오면 상승 폭은 제한될 수 있습니다. 미국 물가 부담과 연준의 12월 인상 가능성으로 달러가 강세를 보이고 있어 원·달러 환율 상승 압력과 외국인 수급 변동성에 유의해야 하며, 야간선물도 미국 반도체 강세를 반영해 우호적일 가능성이 있습니다. 주목할 업종은 반도체·AI 인프라(메모리·전력기기)이고, 주요 리스크는 금리 인상 경계감과 엔비디아 경영진 관련 불확실성입니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "미국 증시 상승 마감…다우 +0.49%, S&P500 +1.31%, 나스닥 +1.60%",
+          "summary": "11일(현지시간) 뉴욕증시 3대 지수가 일제히 올랐습니다. 다우는 0.49%, S&P500은 1.31%, 나스닥은 1.60% 상승했고, 나스닥은 400포인트 넘게 뛰었습니다. AI 투자심리가 살아나면서 기술주가 상승을 주도했습니다.",
+          "why": "기술주 중심의 반등은 오늘 코스피 대형 기술주와 코스닥 성장주의 투자심리에 우호적으로 작용할 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "[속보] 美증시 상승 마감…다우 +0.49%, S&P500 +1.31%, 나스닥 +1.60% - SBS Biz",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91SjVjNWpoXzVZRXppdmVlY25sTmRtSkprODVXbEhpZXdCOFhxRktHVklOS3VHdXI1N2N1THVsVUZDSUVuNElGMFE3YVZVdUw2aTJv0gFYQVVfeXFMUDFOZmxFMnV5T0lxX0RUSkdQdUpocGFfaGxEOTJxZmVHUDMwX2dwOEVUekFtaDVQZkR2WURCOXhXY2p5WjNOUTZmaVlhUEtsMEw1dGVRUjQybQ?oc=5",
+            "published": "2026-11-11T21:01:00.000Z",
+            "snippet": "[속보] 美증시 상승 마감…다우 +0.49%, S&P500 +1.31%, 나스닥 +1.60% SBS Biz"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "코어위브발 AI 클라우드주 랠리…거품 우려 완화에 엔비디아도 상승",
+          "summary": "코어위브가 시장 기대를 웃도는 실적과 전망을 내놓으며 주가가 25% 넘게 급등했습니다. 이에 AI 데이터센터 투자 둔화 우려가 누그러지면서 AI 클라우드·반도체 관련주 전반이 함께 올랐습니다. 필라델피아 반도체지수(SOX)는 5% 이상 상승했습니다.",
+          "why": "AI 인프라 투자가 이어질 것이라는 기대가 되살아나 SK하이닉스·삼성전자 등 HBM·메모리주와 전력기기 업종에 긍정적입니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTZzT256WkU3aE4zUnA1UXBqX05FOENKeXI4MFZtUDQtc28zeDBLWEE2UGdydUU0OXI0LVotdWEwUVBJeDB0bVh6Z1BrN0dQbHFRa0RwZ2xEdDlBaS12T3ZSQXlzcHNSTHAxN2FBUjFXTTlaTmRUWWVJdFZmaXBDZTJteWlWQ2d0MDYzRHRyLWV3Y0xiMU5ndjRMdlBOaDR0T25uVVFNZS12ZDhjWkRMRzBDc2EzN2RyR0dvTnZqWlgxZw?oc=5",
+            "published": "2026-11-11T20:54:06.000Z",
+            "snippet": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears Reuters"
+          }
+        },
+        {
+          "index": 22,
+          "title_ko": "11일 美 증시 3대 지수 동반 상승…유가 오르고 금값 하락",
+          "summary": "뉴욕증시 3대 지수가 함께 오른 가운데 국제유가는 상승하고 금값은 하락했습니다. 위험자산 선호가 살아나면서 안전자산인 금으로의 수요는 다소 줄어든 모습입니다.",
+          "why": "유가 상승은 정유·화학 업종에는 우호적이지만, 항공 등 원가 부담이 큰 업종에는 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Rally on November 11, 2026; Oil Rises, Gold Slips - Eurasia Business News",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeFBDd1BMekwxVkZzbWVvMGpCRE5oZUFmTnRVZU1hOTRVdDVyT3p4VnZuc1BEUHhnVHpOMUNBWEN3RUEwN2xPRjUtZ1J4SzBzYkIzdUI4MEpJTlRUMmczS2x6bzNZOUhYZnlDU0RtMXJCU3c1RnBrU1V1eEU3VnhEM3Q2Mk9uZzhNUk05RFpZT1pyNXMyb3hxbVFfYWpGaUhuY2g3Q2FxbU10Sm9jdFY4dEtTbzlvajczb05aVm40N0hwZ3ZoYkM3a2xSS21FZw?oc=5",
+            "published": "2026-11-11T20:15:07.000Z",
+            "snippet": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Rally on November 11, 2026; Oil Rises, Gold Slips Eurasia Business News"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "연준 굴스비 \"10월 물가 보고서 다소 우려스러운 수준\"…추가 금리 인상 검토",
+          "summary": "10월 소비자물가지수(CPI)가 예상보다 크게 오르자 연준 인사들 사이에서 경계감이 커졌습니다. 굴스비 시카고 연은 총재는 이번 물가 지표를 '우려스러운 수준에 가깝다'고 평가했습니다. 연준은 추가 금리 인상 가능성을 저울질하고 있습니다.",
+          "why": "미국의 긴축 장기화 우려는 외국인 자금 유출과 성장주 밸류에이션 부담으로 이어질 수 있어, 국내 증시 상승 폭을 제한하는 요인입니다.",
+          "article": {
+            "source": "CNBC Markets",
+            "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+            "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+            "published": "2026-11-11T16:49:02.000Z",
+            "snippet": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "12월 연준 금리 인상 반영하며 달러 반등…유로·파운드 약세, 엔·달러 158엔 돌파",
+          "summary": "시장이 12월 연준의 금리 인상 가능성을 반영하기 시작하면서 달러가 강세로 돌아섰습니다. 달러는 수개월 만의 최고치를 기록했습니다. 유로와 파운드는 약세를 보였고, 엔·달러 환율은 158엔을 넘었습니다.",
+          "why": "달러 강세는 원·달러 환율 상승 압력으로 작용해 외국인 순매수 지속 여부에 변수가 될 수 있으며, 수출주에는 환율 효과가 일부 긍정적입니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Dollar recovers as markets reprice December Fed hike; euro and sterling slip, yen tops 158 - VT Markets",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGFPRUhFb0VINkUzMlhXVzZlYUdJSDc5MFpDM0dZTHZvdmhnOVRGd2t6RnZKSTFfWlZFNmdHRGZsZWRqS2RNemptZk5FSndXVFpzTmYxQ2pkTWI4bTZWaEdsWFlydFR2UDNMTElCSVp6SllkelFnV2Q0UUc5OWE2TF9ISE1IWHpCMHhWT3lUMC1GTUdVc0lSbTZtUkVYMjRMUW1melJScFNPdkw0NW9LclA0XzA4WnVxV2Rma2FlcXp2NU1kdEQ2MUFHeTJVTEE?oc=5",
+            "published": "2026-11-11T16:40:11.000Z",
+            "snippet": "Dollar recovers as markets reprice December Fed hike; euro and sterling slip, yen tops 158 VT Markets"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 증시 전망",
+      "items": [
+        {
+          "index": 48,
+          "title_ko": "[마감시황] 코스피 2.6%·코스닥 5.6% 급등…코스닥 연속 매수 사이드카",
+          "summary": "11일 국내 증시는 미국의 대폭 금리 인상('빅스텝') 우려에도 코스피가 2.6%, 코스닥이 5.6% 급등했습니다. 코스닥에서는 매수 사이드카가 연속으로 발동될 만큼 강한 반등이 나타났습니다. 밤사이 미국 반도체지수가 5% 넘게 오른 점을 감안하면, 오늘도 반도체 중심의 상승 우세 출발 가능성이 높습니다.",
+          "why": "이틀 연속 강세가 이어질 경우 단기 과열에 따른 차익실현 매물이 상승 폭을 제한할 수 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM2VzcjR3U1BtSW9jV0JjMk9tdzNpUFdKaG1QblVBSzhra2dER2N2a2dVeWJobFpiYVFhSGpkdU9pckhXTE4zSzFDRVJpQjdISG5pYzZUQS13ZVlC?oc=5",
+            "published": "2026-11-11T07:04:00.000Z",
+            "snippet": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 뉴스핌"
+          }
+        },
+        {
+          "index": 46,
+          "title_ko": "돌아온 외국인 덕에 코스피 5300선 회복…코스닥도 5.62% 상승 마감",
+          "summary": "외국인이 순매수로 돌아서면서 코스피가 5300선을 되찾았고, 코스닥도 5.62% 올랐습니다. 다만 밤사이 달러가 수개월 만의 최고치로 오르면서 원화 약세 압력이 커져, 외국인 매수세가 이어질지가 오늘 지수 방향의 핵심 변수입니다.",
+          "why": "SK하이닉스 ADR이 10% 급등한 만큼 반도체 대형주로 외국인 매수세가 이어질 가능성이 있지만, 환율 상승은 부담 요인입니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "돌아온 외국인 덕에 코스피 5300선 회복…코스닥도 5.62% 상승 마감 - 파이낸셜포스트",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wNElmcXVaNnl1NUVTQjNoY0xqbFBrYS1KcFk1X0l0X281N29ReEtfUEZXa244QlBsbzZpbmpQYmxTR3VySEk3OFF2TE11SEZVTWJNZVlfdXVBYjBkVnBEVmp4a0VNLV9ZV1dGU2tITDFxdllF?oc=5",
+            "published": "2026-11-11T07:15:16.000Z",
+            "snippet": "돌아온 외국인 덕에 코스피 5300선 회복…코스닥도 5.62% 상승 마감 파이낸셜포스트"
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "긴축 공포 넘어선 AI 실적 신뢰…코스닥, 5거래일 만에 700선 탈환",
+          "summary": "미국 긴축 우려보다 AI 기업 실적에 대한 신뢰가 더 크게 작용하면서 코스닥이 5거래일 만에 700선을 회복했습니다(이데일리 보도 기준). 코어위브 실적 이후 AI 관련 투자심리가 살아난 흐름이 국내 성장주로도 이어지고 있습니다.",
+          "why": "코스닥 반도체 소부장과 AI 관련 중소형주의 반등 흐름이 이어질지 주목됩니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "긴축 공포 넘어선 AI 실적 신뢰…코스닥, 5거래일 만에 700선 탈환 - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2JIRUY4QVNsaUVOUW9FdU0xZ2c3RklRX2t5c1FFcGR1Z0JHS0xMX2VfcHpTaGFMd3lCYk9vVjVGQnZva2ozVGtLVkdydVctbDlVOGdWdUxXaVNxUUpZUTFuV2R3Q3llREdLZl9DMlUzWGRlMzlkb0JoSGI0UDZMSw?oc=5",
+            "published": "2026-11-11T07:37:19.000Z",
+            "snippet": "긴축 공포 넘어선 AI 실적 신뢰…코스닥, 5거래일 만에 700선 탈환 이데일리"
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "10월 코스피 16% 급락에도 이익 전망은 9% 상향…바닥론 힘받나",
+          "summary": "코스피는 10월 한 달간 16% 급락했지만, 같은 기간 상장사 이익 전망치는 오히려 9% 높아졌습니다. 주가와 실적 전망의 괴리가 커지면서 밸류에이션 측면의 바닥론이 힘을 얻고 있습니다.",
+          "why": "실적 대비 낮아진 밸류에이션은 반도체 등 이익 개선 업종의 하방을 지지하는 요인으로 작용할 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "10월 코스피 16% 급락에도 이익 전망 9%↑…바닥론 힘받나 - 엠에스투데이",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4VlQxTjVvZDhsUHd6end5RjNXRlFwWTNqR3VUUnNLUl91VFJnV1ZBT1J1SkFsZ2RpamlVTFV0STM0RnRyWHduelFzNGFhNWx5WDg2RURlT2h6dGpMTTFMa04tcV9VU0MtRUxMejZ1WU7SAXBBVV95cUxQeFZUMU41b2Q4bFB3enp3eUYzV0ZRcFkzakd1VFJzS1JfdVRSZ1dWQU9SdUpBbGdkaWppVUxVdEkzNEZ0clh3bnpRczRhYTVseVg4NkVEZU9oenRqTE0xTGtOLXFfVVNDLUVMTHo2dVlO?oc=5",
+            "published": "2026-11-11T07:10:34.000Z",
+            "snippet": "10월 코스피 16% 급락에도 이익 전망 9%↑…바닥론 힘받나 엠에스투데이"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "美 반도체주 일제히 급등…SK하이닉스 ADR 10%·마이크론 12%↑",
+          "summary": "코어위브 실적을 계기로 AI 투자 우려가 완화되면서 미국 반도체주가 일제히 급등했습니다. 마이크론은 12~13%, SK하이닉스 ADR은 약 10% 올랐습니다. 필라델피아 반도체지수(SOX)는 5% 넘게 상승했습니다.",
+          "why": "메모리 업황 기대가 커지면서 오늘 SK하이닉스·삼성전자와 HBM 관련 소부장주의 강세 가능성이 높습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "[속보] 美 반도체주 일제히 급등…SK하이닉스 ADR 10%·마이크론 12%↑ - 헤럴드경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVU84Tkt6NHVxNTVNQkR5eDkxMkJtcEZScVcxTGxLNFZmN2hYTUxnR1gyMDduTVNvX2xkY0FFUU1EYlVwZ0hkemtwLUx3QTBnNUxVS25B?oc=5",
+            "published": "2026-11-11T21:27:05.000Z",
+            "snippet": "[속보] 美 반도체주 일제히 급등…SK하이닉스 ADR 10%·마이크론 12%↑ 헤럴드경제"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "CEO 사생활 논란 확산에 베어드·모건스탠리, 엔비디아 투자의견 하향",
+          "summary": "젠슨 황 CEO의 사생활 문제로 엔비디아 이사회가 조사에 착수했습니다. 여기에 중국 스파이 의혹 인물과의 연루 보도까지 나오면서 베어드와 모건스탠리가 이례적으로 투자의견을 낮췄습니다. 주가는 7개월 만의 저점 부근에서 사흘 만에 반등했지만, 관련 보도에 따라 변동성이 큰 상황입니다.",
+          "why": "엔비디아 경영진 리스크가 커지면 HBM 공급사인 SK하이닉스·삼성전자 주가 변동성도 확대될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Baird, Morgan Stanley sour on Nvidia as CEO affair controversy deepens - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVFZRkRxczJkVHdhU0pCMUlmd0tpdGFjdFBkRjhPY3NiLXJtMmYwX1hfNkM1MEdCd2hjalRhWFhYOUtRanJUcHhyY2RXeFJYbGpZRWZIVVRGSml5cFN0MnkyWkFuaUppMGp6b3l0YmRWWTNGVHkwOV9LaFVOdkFxMjJXSmpzQmZkRU5ad1Zob0tvYkgzd1Bkb2VfT0RWQ0lrZWNR?oc=5",
+            "published": "2026-11-11T17:04:16.000Z",
+            "snippet": "Baird, Morgan Stanley sour on Nvidia as CEO affair controversy deepens Reuters"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "TSMC, 앤트로픽·오픈AI에 최대 10억 달러 투자 계획",
+          "summary": "TSMC가 AI 개발사인 앤트로픽과 오픈AI에 최대 10억 달러를 투자할 계획인 것으로 전해졌습니다. 같은 날 엔비디아의 앤트로픽 100억 달러 투자 소식도 나오는 등, 반도체 기업들이 AI 모델 기업과의 협력을 강화하는 흐름입니다.",
+          "why": "AI 생태계 투자가 확대된다는 신호로, 파운드리 경쟁사인 삼성전자와 국내 AI 반도체 밸류체인에 대한 관심을 높이는 요인입니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "TSMC plans up to $1bn investment in Anthropic, OpenAI - Investment Monitor",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU9VSW1aTFBhWHYwX3lDV193SW5fQ3IxbWRQN2g0VjlsN1lKMmNSczEwMFZvd2NwMnd5bUY1VTBtSWRHTFM1cnk0ZnhNdmVkcXMtVHNXRFRLOVlQVnFHV1lLcjZGT0t0b0N6dVNxVWhWd1hKY2tQdzVJLXA4ZlViY0dPWlJEcUVu?oc=5",
+            "published": "2026-11-11T18:58:39.000Z",
+            "snippet": "TSMC plans up to $1bn investment in Anthropic, OpenAI Investment Monitor"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "테슬라, 사이버트럭 생산 2027년 여름까지 연장…머스크 방침 선회에 주가 4%↑",
+          "summary": "테슬라가 당초 방침을 바꿔 사이버트럭 생산을 2027년 여름까지 이어가기로 했습니다. 이 소식에 주가는 약 4% 올랐습니다.",
+          "why": "테슬라에 배터리·부품을 공급하는 LG에너지솔루션 등 국내 2차전지·전장 부품주의 투자심리에 소폭 긍정적입니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Tesla Extends Cybertruck Production Through Summer 2027 as Musk Reverses Course; Shares Rise 4% - BigGo Finance",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jb215UlV2amFYZTZJLXplNldzUzVWc0hMZTdzcFRSdDlpT3ROczJ1ZmJNazFaWC1ieV9EcnVpSW5pdFpFUGVVZXVJQjhUV3F0UmRCVlRTUWd4ZUZkcGJpMmZJSURzcklhNmRnSVZlRGRfaWFic0E?oc=5",
+            "published": "2026-11-11T18:35:00.000Z",
+            "snippet": "Tesla Extends Cybertruck Production Through Summer 2027 as Musk Reverses Course; Shares Rise 4% BigGo Finance"
+          }
+        }
+      ]
+    }
+  ]
+}
