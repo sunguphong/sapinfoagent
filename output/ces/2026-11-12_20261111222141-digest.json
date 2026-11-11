@@ -1,0 +1,181 @@
+{
+  "overview": "CES 2027 개막을 약 두 달 앞둔 시점으로, CES 혁신상 수상작이 발표되면서 관련 소식이 쏟아지고 있습니다. LG전자는 투명·무선 TV '시그니처 올레드 T'로 최고혁신상을 받았고, 삼성전자·삼성SDI도 폴더블 폼팩터와 AI 전력·배터리 분야에서 다수 수상했습니다. 한국의 최고혁신상 수상작 상당수는 대기업이 아니라 스타트업과 대학에서 나왔습니다. 딥엑스(AI 반도체), 유니유니(카메라 없는 안전 AI), 비즈데이터 등이 대표적입니다. CTA는 이번 CES의 화두로 'AI의 실제 배치(deployment) 시대'를 제시했고, 휴머노이드 로봇과 AI 냉각 기술도 주목받고 있습니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "CES 2027 미리보기: AI, 본격 배치의 시대로…CTA 킨지 파브리지오 CEO 단독 인터뷰",
+          "summary": "CES 주관사 CTA의 킨지 파브리지오 CEO가 GamesBeat 인터뷰에서 CES 2027의 방향을 설명했습니다. 핵심 메시지는 AI가 개념·시연 단계를 지나 실제 제품과 서비스에 적용되는 '배치의 시대'에 들어섰다는 것입니다.",
+          "why": "국내 기업의 CES 전시도 AI 기술 시연보다 실제 적용 사례와 상용화 성과를 보여주는 쪽으로 무게가 옮겨갈 가능성이 큽니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "CES 2027 preview: AI enters its deployment era | CTA CEO Kinsey Fabrizio exclusive interview - GamesBeat",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGxPQVdJaFMwN0ZhSDJrbWVCS3ZlTEFnckpkNW56OF93NXJfRGE2UmNPbWZkNWpQaFJQbUtMdWlqVF9fN2dMRzNRUWFPUVpCRG8yTTFUWWVqM0Q2Y29NU2FvY09rRGN2cDhVcU5iYll4WmhqQXVodXY3YzBFeUR4SEtoQkVLOUYzVW1wU2JTby1BYm5Va285WFVVRkdDVVh5Y0FEeGFKMWRTUk05SnB6OFZ3?oc=5",
+            "published": "2026-11-11T14:31:02.000Z",
+            "snippet": "CES 2027 preview: AI enters its deployment era | CTA CEO Kinsey Fabrizio exclusive interview GamesBeat"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "LG전자, 'CES 2027' 혁신상 대거 수상…투명·무선 TV '시그니처 올레드 T' 최고혁신상",
+          "summary": "LG전자가 CES 2027 혁신상을 다수 받았습니다. 투명·무선 OLED TV '시그니처 올레드 T'는 최고혁신상에 선정됐습니다.",
+          "why": "투명 OLED가 여전히 프리미엄 TV 시장에서 LG의 기술 차별화 카드로 통하고 있다는 의미입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "“CES 2027’ 혁신상 싹쓸이”..LG전자, 투명·무선 TV ‘시그니처 올레드 T’ 최고 혁신상 - 데일리카",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1cldHVmFzYkltUDhBTnNVdHpHLWVDZ21TRC1VZWM3djJQTHlwS1VPdTl2SXZmUnJ6eXN2a3Y4SWVrVWF0UVE0ZEZqc1RSYXpjU2xubGRlWWd4SnAtUDRWOUFqdURZZEZRaDE4M2tteHN2OFZCN2c?oc=5",
+            "published": "2026-11-11T21:53:50.000Z",
+            "snippet": "“CES 2027’ 혁신상 싹쓸이”..LG전자, 투명·무선 TV ‘시그니처 올레드 T’ 최고 혁신상 데일리카"
+          }
+        },
+        {
+          "index": 22,
+          "title_ko": "삼성전자·삼성SDI, 'CES 2027' 혁신상 휩쓸어…폼팩터·AI 전력 기술력 입증",
+          "summary": "삼성전자와 삼성SDI가 CES 2027 혁신상을 대거 수상했습니다. 폴더블 등 폼팩터 혁신부터 배터리를 포함한 AI 전력 기술까지 여러 분야가 고르게 인정받았습니다.",
+          "why": "완제품뿐 아니라 배터리·전력 같은 부품 경쟁력도 CES에서 주목받고 있어, 삼성 계열사 전반의 AI 인프라 전략을 살펴볼 만합니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성전자·SDI, ‘CES 2027’ 혁신상 휩쓸어…폼팩터·AI 전력 ‘초격차’ 입증 - 스포츠서울",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIY1MyelhlWkVZeDE0LWtNNTBqcndiZmNEMHEyMlAxeEVMLTVNVDRjODJ4TUZYeUxaeU53emlXc3FaTDA5dU43U080VjBLWkFpT29KQnViOG0?oc=5",
+            "published": "2026-11-11T10:53:11.000Z",
+            "snippet": "삼성전자·SDI, ‘CES 2027’ 혁신상 휩쓸어…폼팩터·AI 전력 ‘초격차’ 입증 스포츠서울"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "LG 2027년형 월페이퍼 TV, 2017년 제품명을 달고 두 달 일찍 공개",
+          "summary": "LG전자가 2027년형 OLED 라인업 가운데 월페이퍼 TV를 CES를 두 달가량 앞두고 조용히 먼저 공개했습니다. 2017년에 쓰던 '월페이퍼'라는 이름을 다시 꺼냈고, 주력 모델인 C6의 후속작은 아닌 것으로 알려졌습니다.",
+          "why": "CES 개막 전에 신제품 일부를 먼저 공개하는 흐름이 이어지고 있어, LG의 2027년 TV 라인업 전략을 미리 가늠해볼 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "LG’s 2027 Wallpaper TV showed up two months early, under a name from 2017 - The Gadgeteer",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTVmN2ZKNkJod09ZQVlHYVd5UzY3cXlUWWhzQmppX2MyVUZVeVFpbUJmaVJVM0xZZW5KZ1NrUFMxaVBKQzVLaC1tZkZacTctdUpPa0RxMFVQMlM4cEM2Mlo1OTBnd1FrR1plejZsZmtYd0lVTHBqYXVpdWdFR0pfbWg5Z1VpTUtqYkp3NFNWdW9YV0RJMDByZjFDVnMzS25lVTNHUEdWWHpSZEozdkE?oc=5",
+            "published": "2026-11-11T20:51:07.000Z",
+            "snippet": "LG’s 2027 Wallpaper TV showed up two months early, under a name from 2017 The Gadgeteer"
+          }
+        },
+        {
+          "index": 49,
+          "title_ko": "'글로벌 AI·로봇 각축장' CES 2027, 어느 한국 대기업이 출격하나",
+          "summary": "뉴시스가 CES 2027에 참가할 국내 대기업들의 전시 계획을 정리했습니다. 이번 CES는 AI와 로봇 기술 경쟁의 장이 될 전망입니다.",
+          "why": "주요 그룹의 CES 전시 주제는 내년 국내 전자·IT 업계의 투자 방향을 보여주는 지표가 됩니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "\"글로벌 AI·로봇 각축장\" 다가오는 CES 2027, 어느 韓대기업 출격하나 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCb2pVS2lYMU1GcGxGU2M5S2VkYU5pQThET1pkS2hRUDEwaFZkdXBOTXFQblA5aExvQ3kzXzlJVFliUEVJVUZDX04wOFBtWGtSZkI2d1lvX18yZVFQSkUtUWtxR202WjlKU1Q5VkRQRnBCdW9reG9KNtIBeEFVX3lxTFBCb2pVS2lYMU1GcGxGU2M5S2VkYU5pQThET1pkS2hRUDEwaFZkdXBOTXFQblA5aExvQ3kzXzlJVFliUEVJVUZDX04wOFBtWGtSZkI2d1lvX18yZVFQSkUtUWtxR202WjlKU1Q5VkRQRnBCdW9reG9KNg?oc=5",
+            "published": "2026-11-11T06:51:35.000Z",
+            "snippet": "\"글로벌 AI·로봇 각축장\" 다가오는 CES 2027, 어느 韓대기업 출격하나 뉴시스"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "한국콜마, CES 2027 최고혁신상 수상",
+          "summary": "화장품 ODM 기업 한국콜마가 CES 2027 최고혁신상을 받았습니다. 애터미 등 다른 뷰티 기업들의 수상도 이어지고 있습니다.",
+          "why": "K-뷰티 기업들이 기술 기업으로서 CES에서 존재감을 키우고 있다는 신호입니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "Kolmar Korea wins CES 2027 Best of Innovation award - Vietnam Investment Review - VIR",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWExodzBwX2YtWE1qNEJ6Q3I2UHlsT0VlVFJYc0VESWxxODlQTi02NE5odk80eEVvbThzZF9aSjMyWXhsczZjcEhmRGQteGU4Y3M1SXE2WG0zbmlwLTNzS2dmWkpvY2syOGUzbzJQZ2tXSWx1NVZfQllHREVOLU8tRVQweFp4MnhmWGc?oc=5",
+            "published": "2026-11-11T08:22:42.000Z",
+            "snippet": "Kolmar Korea wins CES 2027 Best of Innovation award Vietnam Investment Review - VIR"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "CES 2027 한국 최고혁신상, 대부분 스타트업·대학이 수상",
+          "summary": "CES 2027에서 한국이 받은 최고혁신상 대부분이 대기업이 아닌 스타트업과 대학에 돌아갔습니다. 고려대 창업기업 ANAM145는 사이버보안 부문 최고혁신상을 받았습니다.",
+          "why": "국내 스타트업과 대학 기술이 세계 무대에서 경쟁력을 인정받고 있어, 투자 유치와 해외 진출에 탄력이 붙을 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Most of Korea's CES 2027 top awards went to startups and universities - K-EnterTech Hub",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYSlZLcWc0YXI3aWI1UElwWEZ1amUzSk5teDFZQXRmcUZ6ejZ0N2tvQXVIdE5sWHBVN2FpMUVWSS04Z0w0UGRKaFRIRjJLUzBGMWd5ckdVQjNrdFRuYTYya2dYQU9HbzJQblE?oc=5",
+            "published": "2026-11-11T08:51:36.000Z",
+            "snippet": "Most of Korea's CES 2027 top awards went to startups and universities K-EnterTech Hub"
+          }
+        },
+        {
+          "index": 38,
+          "title_ko": "딥엑스, 삼성 2나노 기반 생성형 AI 반도체 'DX-M2'로 CES 2027 혁신상 수상",
+          "summary": "AI 반도체 스타트업 딥엑스가 삼성 파운드리의 2나노 공정을 기반으로 한 생성형 AI 칩 'DX-M2'로 CES 2027 혁신상을 받았습니다.",
+          "why": "국내 팹리스와 삼성 첨단 파운드리 공정이 함께 성과를 낸 사례로, 온디바이스 AI 반도체 생태계에 의미가 있습니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "[주간스타트업동향] 딥엑스, 삼성 2나노 기반 생성형 AI 반도체 ‘DX-M2’로 CES 2027 혁신상 수상 外 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05RklDejRlVXZ0YnVlV05RWmEzU0NxbkdMc0RrYTFENzdkcEZIQ2NxOVgwS1hLbXI3aUNmSVpBaTk4NTVUdU9qU3VWekdqOS1PRnh4RXItYXNvcWQwQ2t5RmNieFRSTXB1dGZ4V0hWY9IBZkFVX3lxTFBPMm1URVZTbDJnWFJkWko2QTNwekdkak1lR0pPamp4VmlCelJqLXpiOXZhc2JITHp4OFQwbkJydFczVmU1cEJrLVc5dXdERHhMTjBraUZkTHdhV19sZjhyTEJQLXBNUQ?oc=5",
+            "published": "2026-11-11T07:47:33.000Z",
+            "snippet": "[주간스타트업동향] 딥엑스, 삼성 2나노 기반 생성형 AI 반도체 ‘DX-M2’로 CES 2027 혁신상 수상 外 동아일보"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "유니유니, 'SAVVY SPACE AI'로 CES 2027 최고혁신상…카메라 없는 안전 관리 기술",
+          "summary": "유니유니가 'SAVVY SPACE AI'로 CES 2027 최고혁신상을 받았습니다. 카메라 없이 공간 안전을 관리하는 기술로, 공중화장실에 적용하던 안전 AI를 스마트홈으로 넓힐 계획입니다.",
+          "why": "사생활 침해 우려가 없는 안전 기술이라 공공시설과 가정 모두에서 수요가 커질 수 있습니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "유니유니, CES 2027 최고혁신상 수상…‘SAVVY SPACE AI’로 스마트홈 안전 기술 선보여 - 얼리어답터뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SUlRwXy1XblZyUU9KQWd3TWVBendpcnUwR19YdkZtNG5uSVdNYWZnQ0FBdFBVSlBwMXVOQ2oxLVJDc3JYSmQ3U0dR?oc=5",
+            "published": "2026-11-11T15:45:13.000Z",
+            "snippet": "유니유니, CES 2027 최고혁신상 수상…‘SAVVY SPACE AI’로 스마트홈 안전 기술 선보여 얼리어답터뉴스"
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "비즈데이터 'NAIAD Foresight', CES 2027 최고혁신상 수상…3개 부문 혁신상 선정",
+          "summary": "비즈데이터가 'NAIAD Foresight'로 CES 2027 최고혁신상을 받았습니다. 이와 함께 3개 부문에서 혁신상에 선정됐습니다.",
+          "why": "국내 데이터·AI 스타트업이 여러 부문에서 동시에 인정받은 사례입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "비즈데이터 'NAIAD Foresight', CES 2027 최고혁신상 수상...3개 부문 혁신상 선정 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LaXlabWM2eXpxa1pPaGRldEVpb2l3VTJwVk4xZDNMN1NPdEVydG1OSG9fQmg2aG16ekZlQ0JNd21oSkl0UFhCbVRWT2xuYVJpTm9ZeUdVZkR6SnV2NkFaVFRBRDZHd2RGNWlzbWhxWFE0UdIBckFVX3lxTE5LaXlabWM2eXpxa1pPaGRldEVpb2l3VTJwVk4xZDNMN1NPdEVydG1OSG9fQmg2aG16ekZlQ0JNd21oSkl0UFhCbVRWT2xuYVJpTm9ZeUdVZkR6SnV2NkFaVFRBRDZHd2RGNWlzbWhxWFE0UQ?oc=5",
+            "published": "2026-11-11T07:26:00.000Z",
+            "snippet": "비즈데이터 'NAIAD Foresight', CES 2027 최고혁신상 수상...3개 부문 혁신상 선정 - 머니투데이 머니투데이"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "갤봇 휴머노이드 'ET1', CES 혁신상 2027 로봇 부문 최고혁신상",
+          "summary": "중국 로봇 기업 갤봇(Galbot)의 휴머노이드 'ET1'이 CES 혁신상 2027 로봇 부문 최고혁신상에 선정됐습니다.",
+          "why": "휴머노이드 분야에서 중국 기업의 약진이 계속되고 있어, 국내 로봇 업계와의 경쟁이 한층 치열해질 전망입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Galbot's ET1 Humanoid Named Best of Innovation in Robotics in the CES Innovation Awards 2027 - Pandaily",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODVKaGxucXN3dUxmYmhyQi1FTGZjSW9oM2tOUmRIMnRtdnNFd3V2Uy1GMkhOV2JJUlVUUXlXb0lwUkcwRzRIUXNQOG9FOTZCeFlzclZPb285alVvejJmcEhEX251ckhWN2xUaXZ1V24tMnExdnAwTWxSNGlRMkxYSk9iSkt5c28?oc=5",
+            "published": "2026-11-11T07:43:48.000Z",
+            "snippet": "Galbot's ET1 Humanoid Named Best of Innovation in Robotics in the CES Innovation Awards 2027 Pandaily"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "AI 냉각 유니콘 프로어 시스템즈, 지속가능 AI 냉각 솔루션으로 CES 혁신상 수상",
+          "summary": "AI 냉각 전문 유니콘 기업 프로어 시스템즈(Frore Systems)가 지속가능한 AI 냉각 솔루션으로 CES 혁신상을 받았습니다.",
+          "why": "AI 연산이 늘면서 발열 관리가 핵심 과제로 떠오르고 있어, 국내 열관리 부품 업계도 눈여겨볼 분야입니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "AI Cooling Unicorn Frore Systems Wins CES Innovation Award for Sustainable AI Cooling - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTXZjcmZqWHFhYkdNY0RmbFJ6OHBLckczaWFSQlVUVzhwakloeDh1ZVdfTFJwYk5MdlNBSWN3ajVyeGtGbHVDdUhWY1ZqQUowNDRyZTkweVR5VUNiZWN1dkxwSlJuTWF1VlFCMHB3LVdGQkJpaHNnNjM3d3pITU0yc2xTU044YXhIM19nT3J0b2xnZUdPOG5UU0pYYTQxc2t3dWpSZ2FOSDZjbjFuR1p1bC1oeGJpRE9nT3poa1VTVElOcHIySUE3cDkyQjlHNjlORnJBTDhrak4?oc=5",
+            "published": "2026-11-11T14:26:00.000Z",
+            "snippet": "AI Cooling Unicorn Frore Systems Wins CES Innovation Award for Sustainable AI Cooling PR Newswire"
+          }
+        }
+      ]
+    }
+  ]
+}
