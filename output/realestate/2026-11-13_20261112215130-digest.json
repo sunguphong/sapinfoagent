@@ -1,0 +1,318 @@
+{
+  "overview": "서울 아파트값은 이번 주에도 상승했지만, 강남3구에 이어 강동·성동구까지 하락으로 돌아서며 약세 지역이 늘고 있습니다. 서울 아파트 거래량은 반토막 나고 매수심리는 연중 최저로 떨어져, 매물은 쌓이는데 거래가 끊긴 관망세가 뚜렷합니다. 반면 전월세 시장은 성북·구로 등 서울 외곽과 인천까지 전셋값이 오르며 임차인 부담이 커지고 있습니다. 동탄에서는 동탄1신도시 49층 주상복합 '아크메르 동탄'(1808가구)이 착공했고, 동탄·기흥을 규제지역으로 묶은 뒤 병점·군포 등 인근 비규제지역으로 풍선효과가 번지고 있다는 분석이 나왔습니다.",
+  "categories": [
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 14,
+          "title_ko": "한국부동산원 주간 통계: 전국 아파트 매매가 0.07% 상승, 수도권·서울 함께 올라",
+          "summary": "한국부동산원 주간 조사에서 전국 아파트 매매가격이 0.07% 올랐습니다. 수도권과 서울도 함께 상승 흐름을 이어갔습니다.",
+          "why": "전국 집값이 아직 상승 기조를 유지하고 있는지 보여주는 기준 지표여서 매수 시점을 판단하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "한국부동산원, 전국 아파트 매매가 0.07% 상승…수도권·서울 동반 오름세 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44SHZ0UEJ5YVg5R2NQd2Y5LUtoMm9VdXMzQWxEQ1dQcHpPXzRNU0tTM2RIZUZqSC1VVDQ1c2QwOFFnZ2NfQlVZYXptZHN0UE5HaXhXTEd2R3Jrb0NqcDRVaVNqVHdpSWdlSVlCdHdR?oc=5",
+            "published": "2026-11-12T12:30:17.000Z",
+            "snippet": "한국부동산원, 전국 아파트 매매가 0.07% 상승…수도권·서울 동반 오름세 국제뉴스"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "강남3구 이어 강동·성동으로… 서울 아파트값 하락세 확산",
+          "summary": "이번 주 서울 아파트값은 전체로는 0.07% 올랐지만, 강남3구에 이어 강동구와 성동구도 하락으로 돌아섰습니다. 그동안 서울 상승을 이끌던 고가 지역부터 약세가 번지는 모습입니다.",
+          "why": "선호 지역의 하락 전환은 서울 전체 시세가 방향을 바꾸는 신호일 수 있어 매수·매도 시점을 정할 때 눈여겨봐야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "강남3구 이어 강동·성동으로… 아파트값 하락세 번졌다 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QcE4teDhHUHVBa1VLSXE4U1Iyd0prWG9nWXNyWEtfSmdBallHTmlZeGotanpDbHV3NnVfNm5IWXZYemp5ZndkMDJEcmlPVlR4UE5nQ3NJR2pXNmdrV1RkeThlY2tZVE1MdTBYTmh6a9IBb0FVX3lxTE1QcE4teDhHUHVBa1VLSXE4U1Iyd0prWG9nWXNyWEtfSmdBallHTmlZeGotanpDbHV3NnVfNm5IWXZYemp5ZndkMDJEcmlPVlR4UE5nQ3NJR2pXNmdrV1RkeThlY2tZVE1MdTBYTmh6aw?oc=5",
+            "published": "2026-11-12T19:00:00.000Z",
+            "snippet": "강남3구 이어 강동·성동으로… 아파트값 하락세 번졌다 - 머니투데이 머니투데이"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "\"집 내놔도 안 팔려\" 서울 아파트 거래 반토막, 매수심리 연중 최저",
+          "summary": "서울 아파트 거래량이 크게 줄어 반토막 수준이 됐고, 매수심리 지표는 올해 들어 가장 낮은 수준으로 떨어졌습니다. 매물은 쌓이는데 거래가 끊기면서 집값 하락 신호가 아니냐는 관측도 나옵니다.",
+          "why": "거래 절벽과 매물 적체가 이어지면 가격 협상 여지가 커지므로, 실수요자는 급하게 사기보다 협상 전략을 세울 만합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "\"집 내놔도 안 팔려\" 서울 아파트 거래 '반토막'...매수심리 연중 최저 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSGZIeDlYTk1Cbm01NXpSRWs5NmRsWHdPU0tBa1ZFWGRnSzBiTWRVYnBZVm0wWXhqWXF6UXZ1bGVfZzZrZHdFY0EzeDNwdUFocl9TYzJNRXZzWDRrUC0yeG4zX19ScWNtTkHSAW9BVV95cUxOTTY3VEExVHBDVmxodWh6dHJMdWlUVlBfRi1WWVhzdk9sOUdHaktCbHJLMDBLYjlpSmZFdzBpVFIzTUZ0aXk3dFgtRFpxaTVxRDlvc29GRlkybUhCQ0xGdkpYdEh1SEltZHlpZmlNeDA?oc=5",
+            "published": "2026-11-12T19:30:00.000Z",
+            "snippet": "\"집 내놔도 안 팔려\" 서울 아파트 거래 '반토막'...매수심리 연중 최저 - 머니투데이 머니투데이"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "광주 아파트값 2주 연속 하락, 반등세 다시 주춤",
+          "summary": "광주 아파트 매매가격이 2주 연속 내리며 회복 흐름이 다시 멈췄습니다. 전남·광주 지역은 이번 주 소폭 하락으로 돌아섰습니다.",
+          "why": "지방 대도시는 아직 회복이 불안정하다는 뜻이어서, 지방 주택 매수는 서두르지 않는 편이 좋습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "광주 아파트값 2주 연속 하락···반등세 다시 주춤 - 무등일보",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91ck03V1RuWjBIYXlYcm92aWNGa3hxNzBzclBickU5czRPREV3SDZMRVl2S1YyZjRaemk2TnJRMEo3WjJNNWRaUEM3Z0Q?oc=5",
+            "published": "2026-11-12T09:47:00.000Z",
+            "snippet": "광주 아파트값 2주 연속 하락···반등세 다시 주춤 무등일보"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "울산 아파트 매매가 상승세 주춤… 전세는 강세 지속",
+          "summary": "울산 아파트 매매가격 오름세가 둔해졌지만, 전셋값은 계속 강세를 보이고 있습니다.",
+          "why": "매매는 숨 고르기, 전세는 상승세라 울산 세입자는 재계약 비용 부담이 커질 수 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "울산 아파트 매매가 상승세 주춤…전세 강세 지속 - 울산신문",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Cck4yMFZ4bW5hNmxjbGhMNmRFNjNNLUpvb05tdUZUemtTSE5IY3VwcGlkV2J3UTk3OEp5UkZEWFQ0aDBQSmV4VjFqNDM1cmlPdGU2NmltZnNXM3RKanlMS1lTbUtvSGFVWnFlVWxn0gFyQVVfeXFMTl9rdXNlaVFFdjQ4NFJtZUdSRk1LX3UzTjRZYW5nbjFsVkhQOG9GM3Fsbl83ajNBbUktanZvbm9CLXlMbXhUaEtHaUlqRVlkUUl1NkZYc1UzMVNrc2lQTE53YVYycDJLMmZtQUljVTk3LTVB?oc=5",
+            "published": "2026-11-12T11:05:00.000Z",
+            "snippet": "울산 아파트 매매가 상승세 주춤…전세 강세 지속 울산신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "전월세",
+      "items": [
+        {
+          "index": 4,
+          "title_ko": "성북·구로마저 전세 10억 '전세지옥'… \"내년이 더 무섭다\"는 이유",
+          "summary": "성북구와 구로구처럼 비교적 저렴하던 서울 외곽에서도 아파트 전셋값이 10억 원대에 이르는 사례가 나오고 있습니다. 내년에는 입주 물량 감소 등으로 전세난이 더 심해질 수 있다는 우려가 제기됩니다.",
+          "why": "전세 재계약이나 이사를 앞둔 세입자는 보증금 마련 계획을 미리 세우고, 매수 전환도 함께 검토해 볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "성북·구로마저 10억 ‘전세지옥’…“내년이 더 무섭다” 왜 - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tTmZQcGl6ekNlVVBTRnp4TkxOMDRuQURxVllYS19mWXAtTEtRdWF5WmNUbTFkSUtjWFhlaHY1MGxwN1RnbWNlNm9sRnNyZnAwd0xlRW5n?oc=5",
+            "published": "2026-11-12T20:00:00.000Z",
+            "snippet": "성북·구로마저 10억 ‘전세지옥’…“내년이 더 무섭다” 왜 중앙일보"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "전셋값 치솟은 강북 동북권, 임차인 갱신청구권 사용률 60% 넘어",
+          "summary": "전셋값이 크게 오른 서울 강북 동북권에서는 계약갱신청구권을 쓰는 임차인 비율이 60%를 넘었습니다. 새로 계약하면 보증금이 크게 오르니 기존 계약을 연장해 버티는 세입자가 많다는 뜻입니다.",
+          "why": "갱신청구권을 다 쓰고 나면 신규 계약 때 보증금이 한꺼번에 오를 수 있어, 만기 시점에 대비해 자금 계획을 세워야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "[부동산시장] 전셋값 치솟은 강북 동북권, 임차인들 갱신청구권 사용률 60% 상회 - CBC뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zXy1HNXI5NTBaTnVKeGhsYmR0ek0weTI4OUp6emw0LUhzcWdGakpMOWRiR21ETUNSNElkbWpqNWktaWdtd01JNEdDbGQzNi05eUF1R3JBTjdaa3NNYWhLRXNoWDJoRDla?oc=5",
+            "published": "2026-11-12T21:30:00.000Z",
+            "snippet": "[부동산시장] 전셋값 치솟은 강북 동북권, 임차인들 갱신청구권 사용률 60% 상회 CBC뉴스"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "[사설] 내리던 인천마저 상승… 번지는 전월세난, 이대로 둘 건가",
+          "summary": "하락세를 보이던 인천 전월세 가격까지 오르면서 전월세난이 수도권 전역으로 퍼지고 있다는 사설입니다. 정부에 임대차 시장 안정 대책을 촉구했습니다.",
+          "why": "서울을 피해 인천·경기로 옮기려던 세입자도 부담이 커지고 있어 거주지를 고를 때 비용을 다시 따져봐야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "[사설] 떨어지던 인천마저 상승…확산되는 전월세난 이대로 둘 건가 - 한국일보",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJNk1sd0Npd0wzY3pfYkdpMGI2LWZUMTF6QkRhbk9QcmJ5eXhUN1dGYVdaSDlKM2E2Q3ptTlBhYnF5SUQ1RVNNbldDZXZkRFVjQ25lYm9FalNVakE3Z3RNWkhLRDUzQ3c0R2NXUEZB0gFzQVVfeXFMUG9hbFZvQXJaTERCQ3R0RHdTVmVVZkFoSkdTUTNpanNkMnFyRkdhbmYxRVVwSjVoRml3MTNkdXRwRmNhT19MWVA0SWo0WlhlaExYanVRY2NSdFlmTFZ0X3paV0F6Mld1N01zZlcwdWNtMko3NA?oc=5",
+            "published": "2026-11-12T15:10:00.000Z",
+            "snippet": "[사설] 떨어지던 인천마저 상승…확산되는 전월세난 이대로 둘 건가 한국일보"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "아파트 규제의 청구서, 빌라 세입자가 받았다 [심형석의 부동산 정석]",
+          "summary": "아파트 시장을 겨냥한 규제의 부작용이 빌라 등 비아파트 임대시장의 세입자에게 돌아가고 있다는 분석 칼럼입니다. 규제 강화가 임대 공급과 임대료에 미치는 영향을 짚었습니다.",
+          "why": "빌라에 사는 세입자라면 앞으로 전월세 조건이 나빠질 수 있으니 계약 갱신 전략을 미리 점검해야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "아파트 규제 청구서, 빌라 세입자가 받았다 [심형석의 부동산 정석] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIb1J5UXVNX0pKcGV3U0lIT0JoWFZEWmhFcU8zalo4dXl3b3hZRHhuT1dHa2FtWGpwMEVOZGh3LU5lbldPakRRclpMRGRFLXNRRU8wc3hlZVktdw?oc=5",
+            "published": "2026-11-12T21:30:04.000Z",
+            "snippet": "아파트 규제 청구서, 빌라 세입자가 받았다 [심형석의 부동산 정석] 한국경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "분양·청약",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "GH '지분적립형 아파트' 청약 경쟁률 87대 1… 국내 첫 분양 240가구에 2만946명 몰려",
+          "summary": "경기주택도시공사(GH)가 국내에서 처음 공급한 지분적립형 분양주택 240가구에 2만946명이 신청해 평균 경쟁률 87대 1을 기록했습니다. 지분적립형은 처음에 지분 일부만 사고 나머지 지분은 시간을 두고 나눠 사들이는 방식입니다.",
+          "why": "초기 자금이 부족한 무주택자의 새로운 내 집 마련 수단으로 관심이 크다는 것이 확인돼, 앞으로 나올 공급 일정을 챙겨볼 만합니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "GH표 '지분적립형 아파트' 청약 경쟁률 87대 1...국내 첫 분양 240채 20,946명 신청 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51eHRSUlRXdzU4ZnRNV3FkcG5FcWFzWnM3Uy04dG5fUmRLX2FDc082ay1hREZBdHIxMXhnQXVGNFJCOXdORFBHeVBOdEhENGNtS1ZmR3doQURyNkRVdDQ0cW50VEpTa09PRkRUTlVR?oc=5",
+            "published": "2026-11-12T11:33:27.000Z",
+            "snippet": "GH표 '지분적립형 아파트' 청약 경쟁률 87대 1...국내 첫 분양 240채 20,946명 신청 국제뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "금융·대출",
+      "items": [
+        {
+          "index": 9,
+          "title_ko": "[11월 13일 미국 증시] 금리 5% 돌파… 성장주는 버티고 소형주·산업재는 약세",
+          "summary": "미국 시장에서 금리가 5%를 넘어서며 소형주와 산업재 종목이 압박을 받았고, 성장주는 상대적으로 선방했습니다. 미국 고금리가 길어질 수 있다는 우려가 커지고 있습니다.",
+          "why": "미국 금리 상승은 국내 시장금리와 주택담보대출 금리를 끌어올릴 수 있어 대출을 앞둔 사람은 금리 유형(고정·변동)을 신중히 골라야 합니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "[11.13(금) 미장 0시] - 금리 5% 돌파에 성장주 방어, 소형주·산업재 압박 - 주달",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MRDJrdWQwRFVLVWp5dkVERkwxMHhzSVBpVEkwMFFzTWZSV3NMaHpzTDdWWjdQWjQxcEN6SlEyN3NJOHpnZjVrOW50VW1aalJiSUsyVGhSSC1vbzhHLUFHVHdZU2ZpeVZRVUxuWEJaNTFrTk9PZXpaOQ?oc=5",
+            "published": "2026-11-12T15:00:53.000Z",
+            "snippet": "[11.13(금) 미장 0시] - 금리 5% 돌파에 성장주 방어, 소형주·산업재 압박 주달"
+          }
+        }
+      ]
+    },
+    {
+      "name": "지역 동향",
+      "items": [
+        {
+          "index": 26,
+          "title_ko": "부산 오피스텔 거래 20% 감소, 상가 거래는 86% 증가",
+          "summary": "부산 지역 오피스텔 거래가 약 20% 줄어든 반면, 상가 거래는 86% 늘었습니다. 같은 수익형 부동산 안에서도 상품별로 흐름이 엇갈리고 있습니다.",
+          "why": "수익형 부동산에 투자한다면 지역과 상품 유형별 거래 흐름을 나눠서 봐야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "부산 오피스텔 거래 20% ‘뚝’…상가 86% ‘쑥’ - 국제신문",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeG9LUDZDeUlnWTQ5VjZBZUZLb0duTkxETmlJdzdxTmJXZnpuT0FjTm8tSE5aOVhXOEloQV9HbnRFci1saHBGM1FSa1VYVEhPVExDU21VWndyMkIzTDZpM2gzR21oMjh2OWpNRG5oRHY2cTdTMDUwZVhPYkpQSGlSeUVXMkZ5dVZyOGpiaU9NQUhGem43?oc=5",
+            "published": "2026-11-12T10:05:00.000Z",
+            "snippet": "부산 오피스텔 거래 20% ‘뚝’…상가 86% ‘쑥’ 국제신문"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "강원 오피스텔 거래, 직전 분기보다 213% 급증",
+          "summary": "강원도 오피스텔 거래량이 직전 분기보다 213% 늘어 크게 증가했습니다.",
+          "why": "지방 오피스텔 거래가 일시적으로 살아날 수 있지만, 기저효과일 수 있어 투자 판단에는 신중해야 합니다.",
+          "article": {
+            "source": "Google News 아파트 매매·전세",
+            "title": "강원 오피스텔 거래 전분기 대비 213% 급증 - 강원일보",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMYkR4eGxQUUpBNXkzMEVuVV82NXRUb2hBSHQ0ODdNSXpjWjFpeUl5WmtBVUJYUlZ0YlVXbG5JUlpud3dObjhNTHcwdlRTeGVFX1JTb3ZrdzViOUU?oc=5",
+            "published": "2026-11-12T15:00:00.000Z",
+            "snippet": "강원 오피스텔 거래 전분기 대비 213% 급증 강원일보"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "농지 전수조사 이후 10월 경매 낙찰률·낙찰가율 '최저'",
+          "summary": "정부의 농지 전수조사 이후 10월 경남 지역 농지 경매의 낙찰률과 낙찰가율이 가장 낮은 수준으로 떨어졌습니다. 농지 취득·이용 관리가 엄격해지면서 매수 수요가 줄어든 것으로 풀이됩니다.",
+          "why": "농지 투자나 귀농을 위한 토지 매입을 생각한다면 강화된 규제와 낮아진 환금성을 먼저 확인해야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "농지 전수 후 10월 경매 낙찰률·낙찰가율 '최저' - 경남매일",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRGx3VHZPSThtZFhWd0cxSWFlZkRJWDM4ZkMwUl9fMjk5Q2JZU3lrZkNVWXJyRWtjVGNtc0pWY1VZMDdmRGZTWEctc1ViOUN4OGQyVE1pRzY4a2lpSEoyc2ZLbUF2U0FfQ0E?oc=5",
+            "published": "2026-11-12T13:55:28.000Z",
+            "snippet": "농지 전수 후 10월 경매 낙찰률·낙찰가율 '최저' 경남매일"
+          }
+        }
+      ]
+    },
+    {
+      "name": "건설·전망",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "내년 건설시장 회복, 첨단산업·공공 부문에 달렸다",
+          "summary": "내년 건설시장 회복은 반도체 등 첨단산업 시설 투자와 공공 발주가 얼마나 늘어나느냐에 달려 있다는 전망입니다. 민간 주택 부문의 회복은 상대적으로 더딜 수 있다는 분석입니다.",
+          "why": "주택 착공과 공급 흐름에 영향을 주는 만큼, 중장기 공급 전망과 집값 흐름을 읽는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "내년 건설시장 회복세, 첨단산업·공공에 달렸다 - 한국건설신문",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3emJqSTZucUExaXVWNDBZLWUweHcxTEFyRWxYUTNidzZRRjdJR0tLME5yOXQ5VzhnUlRaWGV1bU1abmlpWEhwWHdITThHblUwQXdwcmpCRnBDWDhlMFpQOGwwYlFRbTRkSjB3?oc=5",
+            "published": "2026-11-12T10:37:59.000Z",
+            "snippet": "내년 건설시장 회복세, 첨단산업·공공에 달렸다 한국건설신문"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "동탄1신도시 중심부에 49층 주상복합… '아크메르 동탄' 1808가구 착공",
+          "summary": "동탄1신도시 중심부에 최고 49층, 1808가구 규모의 주상복합 '아크메르 동탄'이 착공했습니다. 동탄1신도시에서 보기 드문 초고층 대단지 주거 개발입니다.",
+          "why": "동탄1신도시에 대규모 신규 공급이 예정돼 있다는 뜻이라, 주변 시세와 앞으로의 입주 물량을 따질 때 고려해야 합니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "동탄1신도시 중심부에 49층 주상복합… 아크메르 동탄 1808가구 착공 - 경인일보",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42WFFiYWhHVHN2Y0prdjFDSlhKbTJzMlh3VEhUV1MxakFIajlvT0xiUzVjNlo3QzJvMW1pS1NYWGJMODhxREwwRnozaE9WbnlnNEE?oc=5",
+            "published": "2026-11-12T04:59:53.000Z",
+            "snippet": "동탄1신도시 중심부에 49층 주상복합… 아크메르 동탄 1808가구 착공 경인일보"
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "경기 비규제 12곳 '풍선효과' 과열… 동탄·기흥 묶자 병점·군포 뛰었다",
+          "summary": "동탄과 기흥을 규제지역으로 묶은 뒤, 병점·군포 등 경기도 비규제지역 12곳의 집값이 규제 기준선을 넘을 만큼 올라 풍선효과가 나타나고 있습니다. 추가 규제지역 지정 가능성도 거론됩니다.",
+          "why": "동탄은 이미 규제 대상이어서 대출·세금 조건이 까다로운 반면, 병점 등 인근 지역은 앞으로 추가 규제 가능성이 있어 매수 전에 꼭 확인해야 합니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "경기 비규제 12곳 집값 ‘풍선효과’ 과열…동탄·기흥 묶자 병점·군포 뛰었다 - 수원일보",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6alBCYklpdEdWU01FUjJ4WmloQ3RON3lqaVZ0MmtxRG1CZXBqZHhPV3RialhEZGFraGQ4ZUFWWEpuR1dsZ19PQ0hVMWM2RFhpek0xR1BHVlJkdjNvR2ZzTmtHMUZyZw?oc=5",
+            "published": "2026-11-12T02:07:24.000Z",
+            "snippet": "경기 비규제 12곳 집값 ‘풍선효과’ 과열…동탄·기흥 묶자 병점·군포 뛰었다 수원일보"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "수도권 전셋값 상승세 지속… 3억원대 '힐스테이트 동탄 르센텀' 관심",
+          "summary": "수도권 전셋값 상승이 계속되는 가운데, 동탄 '힐스테이트 동탄 르센텀'이 3억 원대 가격으로 실수요자의 관심을 받고 있다는 소식입니다.",
+          "why": "전세 대신 매수를 고민하는 동탄권 실수요자라면 비교해 볼 만한 공급 정보입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "수도권 전셋값 상승세 지속…3억원대 ‘힐스테이트 동탄 르센텀’ 관심 - 헤럴드경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yY2lhNkYxZUJqUkd3NzlGa0M0b0pQRG1ISEVDWDhZZ0NmVHFodGZTeERaMWNlUDNRa3U3YTJlU1d5eG5RWnVDenl1aFZvY0hCU3Yyc1l3?oc=5",
+            "published": "2026-11-12T00:59:27.000Z",
+            "snippet": "수도권 전셋값 상승세 지속…3억원대 ‘힐스테이트 동탄 르센텀’ 관심 헤럴드경제"
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "\"동탄의 발전을 영종의 미래로\"… 영종구의회, 화성특례시 비교시찰",
+          "summary": "인천 영종구의회가 동탄 신도시의 개발 사례를 배우려고 화성특례시를 방문해 비교시찰을 진행했습니다.",
+          "why": "동탄이 신도시 개발의 모범 사례로 꼽힌다는 점은 지역 브랜드와 주거 가치에 긍정적인 요소입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "“동탄의 발전을 영종의 미래로”…영종구의회, 화성특례시 비교시찰 - 영종뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QWGlyeVl3VTE0RnhxX0R4LXFuemxUVkxzUThPZWR5bUhoT1V6QTF3QU5jbzFObGhsa2FKc3g3cWtySFZ3enZXR05Eanp0OWFDYUFsVGFLZzJPNGtYSjIzVUIxcmNRRDhzTm1MWQ?oc=5",
+            "published": "2026-11-11T23:09:14.000Z",
+            "snippet": "“동탄의 발전을 영종의 미래로”…영종구의회, 화성특례시 비교시찰 영종뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 33,
+          "title_ko": "과천시의회, GTX-C 과천정보타운역 공사현장 점검… \"2027년 하반기 개통 차질 없게\"",
+          "summary": "과천시의회가 GTX-C 노선 등 광역교통사업을 점검하고 과천정보타운역 공사 현장을 찾았습니다. 의회는 목표인 2027년 하반기 개통에 차질이 없도록 해 달라고 당부했습니다.",
+          "why": "GTX-C 개통 일정이 지켜지는지가 노선 주변 지역의 출퇴근 여건과 집값에 직접 영향을 줍니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "과천시의회, GTX-C 등 광역교통사업 점검…정보타운역 공사현장 방문 - 신아일보",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mc2o5WmNQVWNfR1kybXdkNTZpQnNLak1fNEtDMTdKcmlBR3c2clFqMEo5MGk1a3pfdXZITllQTHBNaTFKRnk0a3FudlpPMlZQYUtYemRWdjNqbXdGY2llSlpfcUZOUnJSYklvQTZWWHc?oc=5",
+            "published": "2026-11-12T05:08:34.000Z",
+            "snippet": "과천시의회, GTX-C 등 광역교통사업 점검…정보타운역 공사현장 방문 신아일보"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "동두천시, \"미군 공여지 반환·GTX-C 연장\" 건의",
+          "summary": "동두천시가 주한미군 공여지 반환과 함께 GTX-C 노선을 동두천까지 연장해 달라고 건의했습니다.",
+          "why": "GTX-C 북부 연장이 실현되면 경기 북부의 교통 여건과 부동산 가치가 크게 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "[초대석] 동두천 \"미군 공여지 반환·GTX-C 연장\" 건의 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92a0tnTVRlbDI3NHBjUm9WSXVoS0ZmYnkwRzBTWXI0SHhuWWdGX3UycW42TFlLdTVBbWFRX3RDamFTdWNqa2o3SFltSDVpVEl1TFBBOUxBWURHdXEteEFJN3pKcDBVX1k?oc=5",
+            "published": "2026-11-12T08:04:00.000Z",
+            "snippet": "[초대석] 동두천 \"미군 공여지 반환·GTX-C 연장\" 건의 연합뉴스TV"
+          }
+        }
+      ]
+    }
+  ]
+}
