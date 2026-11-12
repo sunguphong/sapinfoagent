@@ -386,5 +386,26 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-11T21:52:21.991Z",
     "finishedAt": "2026-11-11T21:52:21.992Z"
+  },
+  {
+    "id": "20261112215129",
+    "agent": "smallbiz",
+    "startedAt": "2026-11-12T21:51:29.768Z",
+    "date": "2026-11-13",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261112215129.log",
+    "base": "2026-11-13_20261112215129",
+    "fetched": 388,
+    "selected": 60,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 10,
+    "html": "2026-11-13_20261112215129.html",
+    "mailId": "<fbf6872c-e90b-f668-ea71-6fd8ba0bb916@gmail.com>, <50076601-bf7c-b786-a0b4-1ffc84d42926@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-12T21:52:21.304Z",
+    "finishedAt": "2026-11-12T21:52:21.304Z"
   }
 ]

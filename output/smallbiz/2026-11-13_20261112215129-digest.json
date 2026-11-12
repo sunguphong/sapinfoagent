@@ -1,0 +1,150 @@
+{
+  "overview": "■ 오늘 챙길 지원 혜택: [화성시] 착한가격업소 지정(마감일 공고에 없음 — 원문 확인) / [경기도] 경기 통큰 세일 등 경기도시장상권진흥원 소상공인 지원(마감일 기사에 없음 — 원문 확인) / [정부] 서민·소상공인 4.5조 원 금융 공급(마감일 기사에 없음) / [정부] 미소금융 지원 확대(상시 운영 여부 확인 필요) / [정부] 소진공 금융권 퇴직자 활용 정책자금 신청 지원(마감일 기사에 없음)\n■ 정책 흐름: 경기도의회 행정사무감사에서 '신청주의·선착순' 방식의 소상공인 지원사업이 실제로 필요한 사람에게 닿지 않는다는 지적이 나와, 내년 경기도 지원사업의 신청 방식이 바뀔 수 있습니다. 정부와 금융권은 연말을 맞아 서민·소상공인 대상 저금리 금융 공급과 정책자금 신청 지원을 늘리고 있습니다. 국회에서는 소상공인 부가세 과세 기준을 '연매출 2억 원 미만'까지 완화하자는 법안 논의가 이어지고 있습니다.",
+  "categories": [
+    {
+      "name": "신청 가능한 지원사업",
+      "items": [
+        {
+          "index": 51,
+          "title_ko": "[화성시] 화성시 착한가격업소 130곳으로 확대…1년여 만에 32곳 늘어",
+          "summary": "화성시의 착한가격업소가 130곳으로 늘어 경기도 시·군 가운데 증가 폭이 가장 컸습니다. 착한가격업소로 지정되면 보통 시에서 물품 지원과 홍보 혜택을 받습니다. 기사에는 지원 내용, 신청 기간, 신청 방법이 나오지 않으므로 화성시청 지역경제과 공고 원문을 확인해야 합니다.",
+          "why": "대상 여부 확인 필요 — 피부관리샵 같은 개인서비스업도 지역 평균보다 저렴한 가격이면 지정받을 수 있지만, 현재 모집 중인지는 기사에 없으니 화성시청 지역경제과에 신청 시기와 가격 기준을 문의하세요.",
+          "article": {
+            "source": "Google News 화성시·동탄 소상공인 (KR)",
+            "title": "화성시, 착한가격업소 130곳으로 확대…1년여 만에 32곳 증가 - 경기뉴스광장",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pMy1DZ3I5dmFEcERESW1xcDBiV3pPU3QwMXpzc0pUZ3ZrcWt3TTNKZG5TeVlyY3RxWG56UTBVZjFhRTJ0SGYtWFcyakgzdDgwOFNmYzZTb0ZyRWhPbDlaaDFn?oc=5",
+            "published": "2026-11-12T04:15:52.000Z",
+            "snippet": "화성시, 착한가격업소 130곳으로 확대…1년여 만에 32곳 증가 경기뉴스광장"
+          }
+        },
+        {
+          "index": 50,
+          "title_ko": "[경기도] 경기도시장상권진흥원, '경기 통큰 세일' 및 소상공인 지원 강화",
+          "summary": "경기도시장상권진흥원이 소비 촉진 행사인 '경기 통큰 세일'을 포함해 소상공인 지원을 강화하겠다고 밝혔습니다. 기사 제목만 확인되어 구체적인 지원 대상, 금액, 마감일은 알 수 없습니다(마감일 기사에 없음 — 원문 확인).",
+          "why": "대상 여부 확인 필요 — 통큰 세일은 전통시장·상점가 중심일 수 있으니 경기도시장상권진흥원 누리집(gmr.or.kr)에서 개별 점포 참여가 가능한지 확인하세요.",
+          "article": {
+            "source": "Google News 경기도·경기신보 소상공인 (KR)",
+            "title": "경기도시장상권진흥원, 경기 통큰 세일·소상공인 지원 강화 - 산경일보",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBScjlnUkRRVlRIRnFRaHhaRHZuOXN5cW1wUU1sUTVaZWE2QW40ejdXWjIteHBDa290RTZTWFVpaVI1anVSUk51QVNmd0JwaEJHWFJGM3RSSHQ1SmtXOFM3cDl0SlpqeHc1TXJ1S3pNdkg?oc=5",
+            "published": "2026-11-12T04:19:04.000Z",
+            "snippet": "경기도시장상권진흥원, 경기 통큰 세일·소상공인 지원 강화 산경일보"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "[정부] 대출 성실 상환 청년에 지원금…서민·소상공인 4.5조 원 금융 공급",
+          "summary": "정부가 서민과 소상공인에게 4조 5천억 원 규모의 금융을 공급하고, 대출을 성실하게 갚은 청년에게 지원금을 주는 방안을 내놓았습니다. 상품별 금리, 한도, 신청 기간은 기사 제목만으로는 알 수 없습니다(마감일 기사에 없음 — 원문 확인).",
+          "why": "소상공인이라 대상 가능성이 있습니다 — 운영자금 대출이 필요하면 서민금융진흥원(서민금융콜센터 1397)이나 소상공인시장진흥공단에서 해당 상품을 확인하세요.",
+          "article": {
+            "source": "Google News 소상공인 정책자금·지원금 (KR)",
+            "title": "대출 성실 상환 청년에 지원금… 서민·소상공인 4.5조원 금융 공급도 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUthd2txcGJ2azFQLTlqdlVfTmM5YjVpd0FBcTJ5dUhxbXppVTV3NWVGTDlHYlMxX3l2VGZ0aE41UnE0LTVPZHNwUmRlU20wWGhObTNoR21oYkVoYXFCcnZtNGkyYi03eVh1bUpHX3QtR0tSclF5UmVNSk0xM1haMWRWY1VKcXF30gGcAUFVX3lxTE5HVkZ5eHA4NVUzWWtRQ0Vfd3dVT0RuWm5pSUFGbmJXYTRVRE9UdTFWQ0YxOGl3RUc0bkhhMzJseVFvanZWakRFaWhpM1VabHlwWTFucVM4NEpuN0VDY2k2X2VyQ1hoMmpJUTNCNm5pcXRmbXhZOGFkQWEyVTZaTW1qaWo3ZGJEM29SdzhVc3pPQUdPWU5QbDJKUVRaWg?oc=5",
+            "published": "2026-11-12T15:30:00.000Z",
+            "snippet": "대출 성실 상환 청년에 지원금… 서민·소상공인 4.5조원 금융 공급도 Chosunbiz"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "[정부] \"소상공인·서민 곁으로 한걸음 더\"…미소금융 지원 확대",
+          "summary": "신용이 낮거나 소득이 적은 소상공인과 서민을 위한 미소금융(창업·운영자금 소액 대출) 지원이 확대됩니다. 같은 날 소상공인 재기 지원을 포함한 취약계층 홀로서기 지원 기사(2번)도 함께 나왔습니다. 한도와 금리는 기사에 없으므로 원문을 확인해야 합니다(상시 운영 여부 확인 필요).",
+          "why": "대상 여부 확인 필요 — 신용점수나 소득 기준을 충족해야 하므로 서민금융콜센터(1397)나 가까운 미소금융 지점에서 자격을 확인하세요.",
+          "article": {
+            "source": "Google News 소상공인 정책자금·지원금 (KR)",
+            "title": "\"소상공인·서민 곁으로 한걸음 더… 미소금융 지원 확대\" - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0N1X1RibnFWaGVyWlRxeXlRT2V2QmJtb2FzVnF0V09NcXNGdk5oRWw5dU9oR0JvQ254VVNpUHRhb2dIMjRzenRmcjNZTVFKZE5MMDVtMmhEc0RsYXNsWWkzWDJWY1F2ZWkwRDRrbnZXMXp6YXgxajV4M016V2dJREZLWmg5dlY3a2stSE53?oc=5",
+            "published": "2026-11-12T16:07:01.000Z",
+            "snippet": "\"소상공인·서민 곁으로 한걸음 더… 미소금융 지원 확대\" 조선일보"
+          }
+        },
+        {
+          "index": 55,
+          "title_ko": "[정부] 소진공, 금융권 퇴직자 활용해 '소상공인 정책자금 신청' 지원",
+          "summary": "소상공인시장진흥공단이 금융권 퇴직 인력을 활용해 소상공인의 정책자금 신청 절차를 돕는 서비스를 운영합니다. 서류 준비와 상품 선택을 도와 정책자금을 받기 쉽게 하려는 취지입니다. 운영 기간과 신청 방법은 기사에 없습니다(원문 확인).",
+          "why": "소상공인이라 대상입니다 — 정책자금 신청이 어렵다면 소상공인24(sbiz24.kr)나 가까운 소상공인지원센터(1357)에 신청 상담을 요청하세요.",
+          "article": {
+            "source": "Google News 소상공인 지원사업 신청·공고 (KR)",
+            "title": "소진공, 금융권 퇴직자 활용 ‘소상공인 정책자금 신청’ 돕는다 - 미주중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nM1RwVnlQWWc3R2djMDRvZkEtbGRPSnZKNzBGUTFjNkF3c0gwekRXNVJKdGN1b1UtUHFvT1NnSWZsRzRQSGtvaGQ0VFFvbHRfVU5XejhLdjVjcWxZbXl1b2l3?oc=5",
+            "published": "2026-11-12T02:25:00.000Z",
+            "snippet": "소진공, 금융권 퇴직자 활용 ‘소상공인 정책자금 신청’ 돕는다 미주중앙일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "미용업·피부관리 관련",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "윤영석 의원, 소상공인 부가세 과세 기준 '연매출 2억 원 미만'까지 완화 추진",
+          "summary": "윤영석 국회의원이 소상공인의 부가가치세 부담을 줄이기 위해 과세 기준을 연매출 2억 원 미만까지 넓히는 방안을 추진하고 있습니다. 법이 개정되면 간이과세나 납부 면제를 적용받는 영세 사업자가 늘어날 수 있습니다. 아직 확정된 제도가 아닌 법안 단계입니다.",
+          "why": "연매출 2억 원 안팎의 1인 피부관리샵이라면 세금 부담이 줄어들 수 있으니 국회 통과 여부를 지켜보면 됩니다. 지금 할 일은 없습니다.",
+          "article": {
+            "source": "Google News 자영업자 대책 (KR)",
+            "title": "윤영석 의원, 소상공인 부가세 과세 '2억원 미만부터' - 양산뉴스파크",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVUzlGNF9xZExGc3ZzMHVNYU9JYjdnZ1R5bi1pRFZyWURIS0EtVW9mdHgyT0dTLXpId0JGQ3YtN3RxaDBsenRTdzRhMFB6VVBmSUtYckJSZzA4d0hfUllkLXpCLVV6NUQ3cWF3?oc=5",
+            "published": "2026-11-12T08:55:07.000Z",
+            "snippet": "윤영석 의원, 소상공인 부가세 과세 '2억원 미만부터' 양산뉴스파크"
+          }
+        }
+      ]
+    },
+    {
+      "name": "소상공인 정책 동향",
+      "items": [
+        {
+          "index": 21,
+          "title_ko": "경기도의회 송규근 의원 \"소상공인 지원사업, 신청주의·선착순 넘어 실질적 지원체계 마련해야\"",
+          "summary": "경기도의회에서 소상공인 지원사업이 선착순이나 직접 신청하는 방식이라 정보에 어두운 사장님은 혜택을 놓친다는 지적이 나왔습니다. 실제로 필요한 사람에게 지원이 닿도록 제도를 바꿔야 한다는 주문입니다.",
+          "why": "내년 경기도 지원사업의 신청 방식이 바뀔 수 있으니, 지금은 선착순 공고를 놓치지 않도록 경기도시장상권진흥원 알림을 받아 두세요.",
+          "article": {
+            "source": "Google News 경기도·경기신보 소상공인 (KR)",
+            "title": "경기도의회 송규근 의원, “소상공인 지원사업, 신청주의·선착순 넘어 실질적 지원체계 마련해야” - 경기평화신문",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PMzc5SGVNcjRyTE9FczhGZmJXNUxnNktjNzhVNTM5WWQ1WXhBVGhpbEZNQzVhOFJzY2I5aW5zeXpPR2pDT042UXJn?oc=5",
+            "published": "2026-11-12T09:25:00.000Z",
+            "snippet": "경기도의회 송규근 의원, “소상공인 지원사업, 신청주의·선착순 넘어 실질적 지원체계 마련해야” 경기평화신문"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "경기도의회, 소상공인 지원사업 실효성 점검…배달특급 재무·운영 개선 주문",
+          "summary": "경기도의회 경제노동위원회가 행정사무감사에서 경기도시장상권진흥원과 코리아경기도주식회사의 소상공인 지원사업 성과와 경영 실태를 점검했습니다. 공공배달앱 '배달특급'에는 재무와 운영 개선을 요구했습니다.",
+          "why": "내년 경기도 소상공인 예산과 사업 방향에 영향을 주는 소식으로, 당장 신청할 것은 없습니다.",
+          "article": {
+            "source": "Google News 경기도·경기신보 소상공인 (KR)",
+            "title": "경기도의회, 소상공인 지원사업 실효성 도마… 배달특급 재무·운영 개선 주문 - 로이슈",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mSlZXSkk3NnA4bkF6Qk5XT1JXLTBQdVRhM3NVbHU1S2x1T3FSTWhuQVZMTGRtbG93T3ExdWxpLXBrMVI3Q0p2MVk1VDVSYlJwb0syRGZBcFJwUU9GN001NnBLNnkyN2t5TVNaYllicGxJNjJsTm42ZzBn?oc=5",
+            "published": "2026-11-12T08:31:00.000Z",
+            "snippet": "경기도의회, 소상공인 지원사업 실효성 도마… 배달특급 재무·운영 개선 주문 로이슈"
+          }
+        },
+        {
+          "index": 52,
+          "title_ko": "경기도시장상권진흥원, 소상공인 경제 이슈 브리프 9·10월호 발간",
+          "summary": "경기도시장상권진흥원이 반려동물 산업 성장, 주류 소비 변화 등 소상공인 시장 흐름을 분석한 9·10월호 보고서를 냈습니다. 진흥원 누리집에서 무료로 볼 수 있습니다.",
+          "why": "미용업과 직접 관련된 내용은 아니지만, 동탄 상권과 소비 흐름을 파악하는 데 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 화성시·동탄 소상공인 (KR)",
+            "title": "경기도시장상권진흥원, 소상공인 경제 이슈 브리프 9·10월호 발간...반려동물 산업 성장부터 주류 소비 변화까지… 소상공인 시장 트렌드 분석 - 경기뉴스원",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MRFN4TlBHYWc0UjdRbGgwekNmOURLSTdBSmVzUjhrX2xFQ3FMd3BwNThXLTlDR3Y1TlI2SU5WRWJCQXktSk1qVDJkc2FES3lZYl9pY2lpLTJUTkcxZWwzcm9UYw?oc=5",
+            "published": "2026-11-12T03:52:51.000Z",
+            "snippet": "경기도시장상권진흥원, 소상공인 경제 이슈 브리프 9·10월호 발간...반려동물 산업 성장부터 주류 소비 변화까지… 소상공인 시장 트렌드 분석 경기뉴스원"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "\"이러다 노후 자금 다 날리겠어\"…5060 폐업 급증 속 찾아낸 생존법",
+          "summary": "50·60대 자영업자의 폐업이 빠르게 늘고 있다는 소식과 함께, 살아남은 가게들의 생존 전략을 다룬 기사입니다.",
+          "why": "참고용 기사입니다 — 매출이 계속 떨어진다면 소진공의 재기·경영개선 지원을 미리 알아 두세요.",
+          "article": {
+            "source": "Google News 자영업자 대책 (KR)",
+            "title": "“이러다 노후 자금 다 날리겠어” … 5060 폐업 급증에 찾아낸 생존법 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xNURHV3FQdHFiWUJ0bVQzRVpFalc3WWZOak8yS1FSRTY1empRaDltQmpnSGdsbHFObTBnMmZUNm9Pd0l1UlhKdWFhM01yTTBfbEltVg?oc=5",
+            "published": "2026-11-12T20:00:00.000Z",
+            "snippet": "“이러다 노후 자금 다 날리겠어” … 5060 폐업 급증에 찾아낸 생존법 매일경제"
+          }
+        }
+      ]
+    }
+  ]
+}
