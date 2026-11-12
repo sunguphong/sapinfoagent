@@ -1,12 +1,20 @@
 {
- "fetchedAt": "2026-11-11T21:31:07.024Z",
+ "fetchedAt": "2026-11-12T21:31:06.689Z",
  "items": [
+  {
+   "source": "원티드",
+   "title": "[카카오자회사] SAP PO",
+   "company": "디케이테크인",
+   "link": "https://www.wanted.co.kr/wd/394806",
+   "published": "2026-11-12T21:31:06.454Z",
+   "snippet": "회사: 디케이테크인 / 경력: 7~14년 / 정규직"
+  },
   {
    "source": "원티드",
    "title": "SAP ABAP 개발(5년 이상)",
    "company": "비에스지파트너스",
    "link": "https://www.wanted.co.kr/wd/366558",
-   "published": "2026-11-11T21:31:06.564Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 비에스지파트너스 / 경력: 5~11년 / 정규직"
   },
   {
@@ -14,47 +22,15 @@
    "title": "SAP AM 5년 이상",
    "company": "비에스지파트너스",
    "link": "https://www.wanted.co.kr/wd/353368",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 비에스지파트너스 / 경력: 5~10년 / 정규직"
-  },
-  {
-   "source": "원티드",
-   "title": "SAP CX(CRM) 컨설턴트",
-   "company": "제이엠씨컨설팅",
-   "link": "https://www.wanted.co.kr/wd/395133",
-   "published": "2026-11-11T21:31:06.569Z",
-   "snippet": "회사: 제이엠씨컨설팅 / 경력: 1~10년 / 정규직"
-  },
-  {
-   "source": "원티드",
-   "title": "SAP ERP 컨설팅(구축) 및 아웃소싱(운영) 3년 이상",
-   "company": "비에스지파트너스",
-   "link": "https://www.wanted.co.kr/wd/353358",
-   "published": "2026-11-11T21:31:06.569Z",
-   "snippet": "회사: 비에스지파트너스 / 경력: 3~8년 / 정규직"
-  },
-  {
-   "source": "원티드",
-   "title": "SAP BRIM(FI, FI-CA,SD) 컨설턴트",
-   "company": "제이엠씨컨설팅",
-   "link": "https://www.wanted.co.kr/wd/396037",
-   "published": "2026-11-11T21:31:06.569Z",
-   "snippet": "회사: 제이엠씨컨설팅 / 경력: 1~10년 / 정규직"
-  },
-  {
-   "source": "원티드",
-   "title": "[카카오자회사] SAP PO",
-   "company": "디케이테크인",
-   "link": "https://www.wanted.co.kr/wd/394806",
-   "published": "2026-11-11T21:31:06.569Z",
-   "snippet": "회사: 디케이테크인 / 경력: 7~14년 / 정규직"
   },
   {
    "source": "원티드",
    "title": "[카카오자회사] SAP FI",
    "company": "디케이테크인",
    "link": "https://www.wanted.co.kr/wd/394808",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 디케이테크인 / 경력: 7~14년 / 정규직"
   },
   {
@@ -62,15 +38,39 @@
    "title": "[카카오자회사] SAP BC(Basis)",
    "company": "디케이테크인",
    "link": "https://www.wanted.co.kr/wd/394810",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 디케이테크인 / 경력: 7~14년 / 정규직"
+  },
+  {
+   "source": "원티드",
+   "title": "SAP ERP 컨설팅(구축) 및 아웃소싱(운영) 3년 이상",
+   "company": "비에스지파트너스",
+   "link": "https://www.wanted.co.kr/wd/353358",
+   "published": "2026-11-12T21:31:06.457Z",
+   "snippet": "회사: 비에스지파트너스 / 경력: 3~8년 / 정규직"
+  },
+  {
+   "source": "원티드",
+   "title": "SAP CX(CRM) 컨설턴트",
+   "company": "제이엠씨컨설팅",
+   "link": "https://www.wanted.co.kr/wd/395133",
+   "published": "2026-11-12T21:31:06.457Z",
+   "snippet": "회사: 제이엠씨컨설팅 / 경력: 1~10년 / 정규직"
+  },
+  {
+   "source": "원티드",
+   "title": "SAP BRIM(FI, FI-CA,SD) 컨설턴트",
+   "company": "제이엠씨컨설팅",
+   "link": "https://www.wanted.co.kr/wd/396037",
+   "published": "2026-11-12T21:31:06.457Z",
+   "snippet": "회사: 제이엠씨컨설팅 / 경력: 1~10년 / 정규직"
   },
   {
    "source": "원티드",
    "title": "[카카오자회사] SAP사업실 운영팀장",
    "company": "디케이테크인",
    "link": "https://www.wanted.co.kr/wd/394812",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 디케이테크인 / 경력: 12~22년 / 정규직"
   },
   {
@@ -78,7 +78,7 @@
    "title": "SAP ABAP 개발 및 운영 담당자",
    "company": "지에스아이티엠(GS ITM)",
    "link": "https://www.wanted.co.kr/wd/389836",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 지에스아이티엠(GS ITM) / 경력: 2~7년 / 정규직"
   },
   {
@@ -86,7 +86,7 @@
    "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI)",
    "company": "현대오토에버",
    "link": "https://www.wanted.co.kr/wd/388301",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 현대오토에버 / 경력: 3~10년 / 정규직"
   },
   {
@@ -94,7 +94,7 @@
    "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (SD, MM, PM)",
    "company": "현대오토에버",
    "link": "https://www.wanted.co.kr/wd/385542",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 현대오토에버 / 경력: 3~8년 / 정규직"
   },
   {
@@ -102,7 +102,7 @@
    "title": "[EnIT] IT Planner - SAP ERP 서비스 체계 및 품질 관리",
    "company": "현대오토에버",
    "link": "https://www.wanted.co.kr/wd/339907",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 현대오토에버 / 경력: 3~100년 / 정규직"
   },
   {
@@ -110,7 +110,7 @@
    "title": "[EnIT] Service Analyst - SAP Presales 및 모듈 컨설팅",
    "company": "현대오토에버",
    "link": "https://www.wanted.co.kr/wd/385535",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 현대오토에버 / 경력: 5~11년 / 정규직"
   },
   {
@@ -118,7 +118,7 @@
    "title": "[株式会社テクノプロ] SAP 컨설턴트_근무지 일본",
    "company": "원티드_일본 현지 채용",
    "link": "https://www.wanted.co.kr/wd/394498",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 원티드_일본 현지 채용 / 경력: 7~20년 / 정규직"
   },
   {
@@ -126,7 +126,7 @@
    "title": "[ARK CONSULTING株式会社] 【도쿄 본사】 SAP 도입 프로젝트 경험자 대상 (사용자 또는 엔지니어)｜PMO 직무_근무지 일본",
    "company": "원티드_일본 현지 채용",
    "link": "https://www.wanted.co.kr/wd/354398",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 원티드_일본 현지 채용 / 경력: 3~20년 / 정규직"
   },
   {
@@ -134,7 +134,7 @@
    "title": "SAP PM",
    "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
    "link": "https://www.wanted.co.kr/wd/359967",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 12~22년 / 계약직"
   },
   {
@@ -142,7 +142,7 @@
    "title": "SAP 모듈 컨설턴트",
    "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
    "link": "https://www.wanted.co.kr/wd/359972",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 4~15년 / 정규직"
   },
   {
@@ -150,7 +150,7 @@
    "title": "SAP PP 운영/개발",
    "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
    "link": "https://www.wanted.co.kr/wd/359981",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 7~15년 / 정규직"
   },
   {
@@ -158,7 +158,7 @@
    "title": "CJ제일제당 해외 SAP SD 운영/개발",
    "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
    "link": "https://www.wanted.co.kr/wd/359983",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 4~9년 / 정규직"
   },
   {
@@ -166,7 +166,7 @@
    "title": "대/내외 SAP ERP 영업",
    "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
    "link": "https://www.wanted.co.kr/wd/359987",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 5~15년 / 정규직"
   },
   {
@@ -174,7 +174,7 @@
    "title": "CJ제일제당 해외 SAP PP 운영/개발",
    "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
    "link": "https://www.wanted.co.kr/wd/359985",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 4~9년 / 정규직"
   },
   {
@@ -182,31 +182,31 @@
    "title": "대내외 고객사 SAP FI 운영/개발",
    "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
    "link": "https://www.wanted.co.kr/wd/359984",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 5~11년 / 정규직"
-  },
-  {
-   "source": "원티드",
-   "title": "ERP(SAP) 연계 케이어카운팅 구축 PM",
-   "company": "기웅정보통신",
-   "link": "https://www.wanted.co.kr/wd/389668",
-   "published": "2026-11-11T21:31:06.569Z",
-   "snippet": "회사: 기웅정보통신 / 경력: 7~15년 / 정규직"
   },
   {
    "source": "원티드",
    "title": "CJ제일제당 해외 SAP CO 운영/개발",
    "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
    "link": "https://www.wanted.co.kr/wd/359997",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 8~15년 / 정규직"
+  },
+  {
+   "source": "원티드",
+   "title": "ERP(SAP) 연계 케이어카운팅 구축 PM",
+   "company": "기웅정보통신",
+   "link": "https://www.wanted.co.kr/wd/389668",
+   "published": "2026-11-12T21:31:06.457Z",
+   "snippet": "회사: 기웅정보통신 / 경력: 7~15년 / 정규직"
   },
   {
    "source": "원티드",
    "title": "SAP 기획_SD Module(영업관리) 신규법인 구축 및 고도화 담당",
    "company": "삼양식품",
    "link": "https://www.wanted.co.kr/wd/390376",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 삼양식품 / 경력: 3~100년 / 정규직"
   },
   {
@@ -214,7 +214,7 @@
    "title": "SAP 기획_CO Module(관리회계영역) 신규법인 구축 및 고도화 담당",
    "company": "삼양식품",
    "link": "https://www.wanted.co.kr/wd/391594",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 삼양식품 / 경력: 4~10년 / 정규직"
   },
   {
@@ -222,7 +222,7 @@
    "title": "26년 하반기 SAP 구축 컨설턴트",
    "company": "딜로이트(Deloitte)",
    "link": "https://www.wanted.co.kr/wd/386705",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 딜로이트(Deloitte) / 경력: 3~100년 / 정규직"
   },
   {
@@ -230,7 +230,7 @@
    "title": "딜로이트컨설팅 SAP Public Cloud 컨설팅",
    "company": "딜로이트(Deloitte)",
    "link": "https://www.wanted.co.kr/wd/386710",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 딜로이트(Deloitte) / 경력: 3~100년 / 정규직"
   },
   {
@@ -238,7 +238,7 @@
    "title": "SAP Business AI Principal Architect-South Korea",
    "company": "에스에이피(SAP)",
    "link": "https://www.wanted.co.kr/wd/386492",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 에스에이피(SAP) / 경력: 10~15년 / 정규직"
   },
   {
@@ -246,7 +246,7 @@
    "title": "SAP 모듈 유지보수 (Application Management Service) 전문인력",
    "company": "딜로이트(Deloitte)",
    "link": "https://www.wanted.co.kr/wd/396016",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 딜로이트(Deloitte) / 경력: 0~100년 / 정규직"
   },
   {
@@ -254,7 +254,7 @@
    "title": "[SK inc.(AX)] SAP FI Module 전문가",
    "company": "에스케이그룹 (SK)",
    "link": "https://www.wanted.co.kr/wd/390260",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 에스케이그룹 (SK) / 경력: 5~100년 / 정규직"
   },
   {
@@ -262,7 +262,7 @@
    "title": "회계감사부문 Digital Assurance SAP 및 ERP specialist",
    "company": "딜로이트(Deloitte)",
    "link": "https://www.wanted.co.kr/wd/392026",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 딜로이트(Deloitte) / 경력: 0~100년 / 정규직"
   },
   {
@@ -270,7 +270,7 @@
    "title": "[SK inc.(AX)] SAP BW/BDC/BI/Data Analytics 분야 전문가",
    "company": "에스케이그룹 (SK)",
    "link": "https://www.wanted.co.kr/wd/395642",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 에스케이그룹 (SK) / 경력: 3~100년 / 정규직"
   },
   {
@@ -278,7 +278,7 @@
    "title": "[SK inc.(AX)] SAP ERP 운영/개발 및 PI(Process Innovation) 분야 전문가",
    "company": "에스케이그룹 (SK)",
    "link": "https://www.wanted.co.kr/wd/391825",
-   "published": "2026-11-11T21:31:06.569Z",
+   "published": "2026-11-12T21:31:06.457Z",
    "snippet": "회사: 에스케이그룹 (SK) / 경력: 3~100년 / 정규직"
   }
  ]
