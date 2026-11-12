@@ -1,0 +1,75 @@
+{
+  "overview": "오늘 발송 7/7. 확인이 필요한 항목이 1건 있습니다.",
+  "categories": [],
+  "supervisor": {
+    "checkedAt": "2026-11-12T23:00:00.432Z",
+    "sent": 7,
+    "duty": 7,
+    "issues": 1,
+    "agents": [
+      {
+        "id": "sap",
+        "name": "SAP 브리핑",
+        "status": "sent",
+        "issues": [],
+        "notes": []
+      },
+      {
+        "id": "realestate",
+        "name": "부동산 브리핑",
+        "status": "sent",
+        "issues": [],
+        "notes": []
+      },
+      {
+        "id": "stock",
+        "name": "증시 브리핑",
+        "status": "sent",
+        "issues": [
+          "수집 경고 1건: Yahoo Finance: Status code 404"
+        ],
+        "notes": []
+      },
+      {
+        "id": "skincare",
+        "name": "피부미용 트렌드 브리핑",
+        "status": "sent",
+        "issues": [],
+        "notes": []
+      },
+      {
+        "id": "sapmm-jobs",
+        "name": "SAP MM 구인정보",
+        "status": "sent",
+        "issues": [],
+        "notes": []
+      },
+      {
+        "id": "ces",
+        "name": "CES 브리핑",
+        "status": "sent",
+        "issues": [],
+        "notes": []
+      },
+      {
+        "id": "smallbiz",
+        "name": "소상공인 지원 브리핑",
+        "status": "sent",
+        "issues": [],
+        "notes": []
+      }
+    ],
+    "pc": [
+      {
+        "ok": true,
+        "label": "SAP MM 구인정보 · 원티드 PC 수집본",
+        "detail": "06:31 수집 · 35건"
+      },
+      {
+        "ok": true,
+        "label": "관리 웹 공개 주소",
+        "detail": "응답 정상"
+      }
+    ]
+  }
+}
