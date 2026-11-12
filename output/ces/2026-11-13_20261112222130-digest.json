@@ -1,0 +1,181 @@
+{
+  "overview": "CES 2027 개막을 약 두 달 앞둔 시점으로, 사전 이벤트의 핵심인 'CES 2027 혁신상' 수상 결과가 공개되며 관련 소식이 쏟아졌습니다. 한국은 전체 혁신상의 57.7%를 차지하고 최고혁신상 10개 중 6개를 가져가는 등 올해도 압도적인 존재감을 보였습니다. 삼성전자 갤럭시 Z 폴드8 시리즈의 최고혁신상 수상과 함께 부산·대구·구미 등 지역 스타트업과 대학 창업기업의 수상이 잇따랐고, 자율주행·AI·헬스케어·스마트글래스 분야가 두각을 나타냈습니다. 해외에서는 CTA의 헬스 혁신 프리뷰, LG의 2027년형 OLED TV 라인업, AUO의 스마트 콕핏 전시 계획 등 본 행사를 겨냥한 사전 공개가 이어지고 있습니다.",
+  "categories": [
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "CES 2027 혁신상, 올해도 K-스타트업 돌풍…최고혁신상 10개 중 6개 한국 차지",
+          "summary": "CES 2027 혁신상 결과가 발표된 가운데 최고혁신상 10개 중 6개를 한국 기업이 수상했습니다. 별도 집계에 따르면 전체 혁신상 가운데 한국 비중은 57.7%에 달하며, 대전 기업만 10곳이 수상하는 등 지역 기업의 성과도 두드러졌습니다.",
+          "why": "한국 스타트업 생태계의 기술 경쟁력이 세계 무대에서 다시 확인되면서 해외 투자 유치와 판로 개척에 유리한 발판이 마련됐습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "CES 2027 혁신상, 올해도 K-스타트업 돌풍…최고혁신상 10개 중 6개 한국 품으로 - 디지틀조선일보",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wNEc3V05ORGlYbjJ5ckJQY3hvX2JQaWVUOG9ZYkxGNUVicUN1ekpFblo4aXNyQ2JWcENnVFdwQzJPN3ZYdm5JODJMQkw3eUc0S0dDeFpOM2F0dHZ5Sk1WbW9oaGhEcHluLS0xTWlKdWxjeGZsSkt2TjN5b9IBe0FVX3lxTE4wNEc3V05ORGlYbjJ5ckJQY3hvX2JQaWVUOG9ZYkxGNUVicUN1ekpFblo4aXNyQ2JWcENnVFdwQzJPN3ZYdm5JODJMQkw3eUc0S0dDeFpOM2F0dHZ5Sk1WbW9oaGhEcHluLS0xTWlKdWxjeGZsSkt2TjN5bw?oc=5",
+            "published": "2026-11-12T12:00:13.000Z",
+            "snippet": "CES 2027 혁신상, 올해도 K-스타트업 돌풍…최고혁신상 10개 중 6개 한국 품으로 디지틀조선일보"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "CES 2027 혁신상에 부산 기업 11곳 선정…AI 분야 두각",
+          "summary": "부산 소재 기업 11곳이 CES 2027 혁신상을 받았고, 이 중 2곳은 최고혁신상을 수상했습니다. 특히 AI 분야 기업들이 두각을 나타냈습니다.",
+          "why": "지자체 주도의 CES 지원 사업이 실질적인 성과로 이어지며 수도권 외 지역 테크 생태계의 성장 가능성을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "CES2027 혁신상에 부산기업 11곳…AI 두각 - 국제신문",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQW9ma01Hblk4SHdMYjhmam1XV0hKRmNrTVVPc3djZG03V1M2anRzWUw2T3o2QVNzR25SUXNxMzQyb2psWmwwRFl6MGpxeVhic3NYSmx3Q3FUVHlETFczMmpOX0huRXF3aE56dWVhU0dpbmhVYUlHS2U5Sk5ySlJldHlEVUliMEVwMWhJ?oc=5",
+            "published": "2026-11-12T10:33:00.000Z",
+            "snippet": "CES2027 혁신상에 부산기업 11곳…AI 두각 국제신문"
+          }
+        },
+        {
+          "index": 22,
+          "title_ko": "한동대·그래핀스퀘어 산학협력 성과, CES 2027 최고혁신상 수상",
+          "summary": "한동대와 그래핀 소재 기업 그래핀스퀘어의 산학협력 결과물이 CES 2027 최고혁신상을 받았습니다. 대학 연구 성과가 상용 기술로 이어져 최고 등급의 평가를 받은 사례입니다.",
+          "why": "그래핀 등 차세대 소재 분야에서 산학협력이 글로벌 경쟁력으로 연결될 수 있음을 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "한동대·그래핀스퀘어 산학협력 성과, CES 2027 최고혁신상 수상 - www.hidomin.com",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50cDNhVWZwRHVzUlQ0RGxDOVlGXzl3OGQzcnJaaElPQjBCbWdQZFhLOVJmVF82WGhDTjNiaWxYdXZ5bEtWMEpZQzROX1hRYjRpd2tnS0JaVDBrYWktLTBLeWtsR2VoN0JkYXc?oc=5",
+            "published": "2026-11-12T08:48:07.000Z",
+            "snippet": "한동대·그래핀스퀘어 산학협력 성과, CES 2027 최고혁신상 수상 www.hidomin.com"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "뷰런테크놀로지 '엑스 프로스펙터', 센서·차종 장벽 허문 인지 플랫폼으로 CES 2027 혁신상 수상",
+          "summary": "자율주행 인지 AI 기업 뷰런테크놀로지가 센서 종류와 차종에 구애받지 않는 인지 플랫폼 '엑스 프로스펙터'로 CES 2027 혁신상을 받았습니다. 모빌리티 분야에서 2년 연속 수상입니다.",
+          "why": "국내 자율주행 소프트웨어 기업이 범용 인지 플랫폼으로 글로벌 완성차·부품사 공략에 나설 수 있는 경쟁력을 입증했습니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "뷰런테크놀로지 ‘엑스 프로스펙터’, 센서·차종 장벽 깬 인지 플랫폼으로 CES 2027 혁신상 영예 - 더트래커",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQ21jSU5qUmZVTkJSbzNyaEdtcEJhT2QyVkZvR0YxSlRZUndaSHJnUVo0WmdzSktQbFFyWmlqVWtBVU5Ua0R0dmlFRXMybjh4djhzNlpNWEI?oc=5",
+            "published": "2026-11-12T07:47:28.000Z",
+            "snippet": "뷰런테크놀로지 ‘엑스 프로스펙터’, 센서·차종 장벽 깬 인지 플랫폼으로 CES 2027 혁신상 영예 더트래커"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "한국 AI 스마트글래스 비오라, 'CES 2027' 혁신상 2개 부문 수상",
+          "summary": "국내 AI 스마트글래스 기업 비오라가 CES 2027에서 2개 부문 혁신상을 받았습니다. 빅테크가 각축을 벌이는 스마트글래스 시장에서 한국 기업이 기술력을 인정받았습니다.",
+          "why": "메타·구글 등이 주도하는 AI 스마트글래스 시장에 국내 기업이 진입할 가능성을 보여주는 신호입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "한국 AI 스마트글래스 비오라, 'CES 2027'서 혁신상 2개 부문 수상 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15MUp1TW9NaGJhTXhLc1p6dFpnWnlnbDJMVC16TTBkYUtXQW84cjNtMm1XUURsemlkdHA4Z1NVeGRNelJER010YTdhOTNIcllRcVZJN193?oc=5",
+            "published": "2026-11-12T06:11:17.000Z",
+            "snippet": "한국 AI 스마트글래스 비오라, 'CES 2027'서 혁신상 2개 부문 수상 지디넷코리아"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "K-헬스케어, CES 2027 혁신상 휩쓸며 글로벌 무대 '주도권' 입증",
+          "summary": "국내 헬스케어 기업들이 CES 2027 혁신상을 대거 수상하며 디지털 헬스 분야에서 강세를 보였습니다. AI 의료교육 플랫폼을 선보인 메디체리 등 의료·헬스 분야 수상이 잇따랐습니다.",
+          "why": "CES에서 헬스케어 비중이 커지는 흐름 속에 국내 디지털 헬스 기업의 해외 진출 기회가 확대될 전망입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "K-헬스케어, CES 2027 혁신상 휩쓸며 글로벌 무대 ‘주도권’ 입증 - 의학신문",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92VVhBM0ZsLUVUVS1YS0g1dnl3bzh5b1FtQVdKSXVoRFlzX3huWUYzZTZNYXhHU28tdHY0NDB5emlMak0wWHktdERmR1ZSX1htbDNEYWFYLWFxdGQ3UXJrem5ZTk52dzB1MGc?oc=5",
+            "published": "2026-11-12T20:50:00.000Z",
+            "snippet": "K-헬스케어, CES 2027 혁신상 휩쓸며 글로벌 무대 ‘주도권’ 입증 의학신문"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "크랜베리, 음원 분석 솔루션 'SOBRIC'으로 CES 2027 AI 부문 혁신상 수상",
+          "summary": "크랜베리가 AI 기반 음원 분석 솔루션 '소브릭(SOBRIC)'으로 CES 2027 AI 부문 혁신상을 받았습니다. 콘텐츠·음악 산업에 적용되는 AI 기술로 주목받고 있습니다.",
+          "why": "AI 기술이 하드웨어를 넘어 음악·콘텐츠 산업 영역으로 확장되고 있음을 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "크랜베리, CES 2027 AI 부문 혁신상 수상…음원분석 솔루션 ‘SOBRIC’ 주목 - 맘스커리어",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51UDhCT0RtZGdkcWpuUFk1b0N1QlFBRWo3ZVB6ODB3eEtwcnI5cFRkTGMtb2dENDZkZDREb0d4MjZyRWFUeXVPX2hHckJ6RXFsU2VhTXhQenVyVTFsQVhXODFMMlU2dTdXemtScVNB?oc=5",
+            "published": "2026-11-12T09:40:00.000Z",
+            "snippet": "크랜베리, CES 2027 AI 부문 혁신상 수상…음원분석 솔루션 ‘SOBRIC’ 주목 맘스커리어"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "갤럭시 Z 폴드8·폴드8 울트라, CES 2027 최고혁신상 수상",
+          "summary": "삼성전자의 차세대 폴더블폰 갤럭시 Z 폴드8과 폴드8 울트라가 CES 2027 최고혁신상을 받았습니다. 폴더블 라인업에 '울트라' 모델이 추가된 점도 주목받고 있습니다.",
+          "why": "삼성의 폴더블 리더십이 다시 확인되면서 국내 디스플레이·부품 공급망에도 긍정적인 신호로 작용할 전망입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Galaxy Z Fold 8 and Fold 8 Ultra Earn CES 2027’s Best of Innovation Awards - Howl.Link",
+            "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1ScDVmMUJtb2xaS09VQlo0VUtvcFZBU3A3LWdCcDhLT2lUU2ZQNWJVckxpWHNhNmlDdUFj?oc=5",
+            "published": "2026-11-12T06:30:31.000Z",
+            "snippet": "Galaxy Z Fold 8 and Fold 8 Ultra Earn CES 2027’s Best of Innovation Awards Howl.Link"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "LG 2027년형 OLED 라인업 윤곽…OLED 스마트 TV 신제품 5종",
+          "summary": "CES 2027을 앞두고 LG전자의 2027년형 OLED TV 라인업이 윤곽을 드러냈으며, 신규 OLED 스마트 TV 5종이 포함된 것으로 알려졌습니다. 구체적인 사양은 CES 현장에서 공개될 것으로 보입니다.",
+          "why": "프리미엄 TV 시장에서 중국 업체와의 경쟁이 치열해지는 가운데, LG의 신제품 전략이 국내 OLED 패널 산업의 향방을 가늠할 지표가 될 전망입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "LG’s 2027 OLED Lineup Begins to Take Shape With Five New OLED Smart TVs - Gadget Review",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2QzZEZDTHd4QXRyazZwNGpfdFpkVU9kdlh2UGNLNk44bkFyaXNGTDZ6dEhwVE1PTkxQVklGV1VDWUl5QXJRS2lLNWw3X1k4MnNVNXJ0c0NJWHhZQWpIdnY1QWhEUVBaUlFfSU9uOXgtRW5HaWhCeEx2NXV6T1hWQWFNZF92WDdHZ3BBVmE5Mi0ycm1KM0o5TlhtR2gtLW9y?oc=5",
+            "published": "2026-11-12T19:32:05.000Z",
+            "snippet": "LG’s 2027 OLED Lineup Begins to Take Shape With Five New OLED Smart TVs Gadget Review"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "CTA, CES 2027 헬스 혁신 미리보기 공개…웨어러블 기술 백서 발표",
+          "summary": "CES 주최 측인 미국소비자기술협회(CTA)가 CES 2027의 헬스 분야 혁신 동향을 미리 소개하고, 웨어러블 기술에 관한 새 백서를 발표했습니다. 디지털 헬스와 웨어러블이 이번 행사의 주요 주제 중 하나가 될 전망입니다.",
+          "why": "헬스·웨어러블이 CES의 핵심 축으로 떠오르면서, 이 분야에서 혁신상을 다수 받은 국내 기업들에게 현장 주목도를 높일 기회가 됩니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "CTA Previews Health Innovation at CES 2027, Announces New Wearable Technology White Paper - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVmhCYUZPbEJUbWlQNTdVSkNtZGtsNU9MX2x0MFBLOTZ4WVdPY243a2pEY0RGd2dKN3Y2QzZ3Vzd5ajRPVTJ2LUFZczZVT0UxZllscDh0VnNmYjNrYUFKSy1qVVpydEpZUlFOanFSSFNURzZaSVBrTnZ4U2JOTXc1MEVkbWtsLWI1SnhjUGpqa2VzNVRFaDBuTjAzYXE5VkYtSS1xYnl2UkZ3ZUFHU3NtcWpieWdJRXlPaDhJcHpFT3djT1Jod2hENWVtRllyN1BCZGRSUU0zWlUtZF9L?oc=5",
+            "published": "2026-11-12T20:00:00.000Z",
+            "snippet": "CTA Previews Health Innovation at CES 2027, Announces New Wearable Technology White Paper PR Newswire"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 7,
+          "title_ko": "AUO 모빌리티 솔루션즈, CES 2027서 스마트 콕핏 기술 진화상 공개 예정",
+          "summary": "대만 디스플레이 기업 AUO의 모빌리티 부문이 CES 2027에서 차세대 스마트 콕핏 기술을 선보일 계획이라고 밝혔습니다. 차량용 디스플레이와 실내 인터페이스의 발전 방향을 제시할 예정입니다.",
+          "why": "차량용 디스플레이 시장에서 LG디스플레이·삼성디스플레이와 경쟁하는 대만 업체의 행보로, 국내 업계의 대응 전략에 참고할 만합니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "AUO Mobility Solutions to Highlight Evolution of Smart Cockpit Technologies at CES 2027 - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWV0b29aMF9aTmo4R3dvMHNTeTJ5X0pUX1Y4cGg3YmVGaVJEUWRyWFMyYWNMN0pha200NWJVNHVnT010aXNCR3ZDbWhrdF8ycHltaC11eDQ0YmVFOERaU19lbWxlUzg4dUZJYkFMbDFwNXlNZmFhdGdpanAwMTlQZ2Z0N2ZfS1VlNU95c3N0ZmJsbFVQc2c?oc=5",
+            "published": "2026-11-12T14:00:00.000Z",
+            "snippet": "AUO Mobility Solutions to Highlight Evolution of Smart Cockpit Technologies at CES 2027 Yahoo Finance Singapore"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "기가바이트 AORUS C510 GLASS INFINITY 케이스, CES 2027 혁신상 수상",
+          "summary": "대만 기가바이트의 PC 케이스 'AORUS C510 GLASS INFINITY'가 CES 2027 혁신상을 받았습니다. 게이밍 PC 하드웨어 분야에서 디자인과 기술력을 인정받았습니다.",
+          "why": "게이밍 PC 수요가 꾸준한 국내 소비자에게 내년 출시될 프리미엄 PC 부품 동향을 미리 가늠하게 해 줍니다.",
+          "article": {
+            "source": "Google News CES Las Vegas tech (EN)",
+            "title": "Gigabyte's AORUS C510 GLASS INFINITY Chassis Recognized with 2027 CES Innovation Award - TechPowerUp",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTBfMExJcnJrLVQwQ1hFMTFaOEV5Q2IwRC04dnRNc090MnktbnRyeTlEV1oydUxKVm51UEJlb3JmRFBrXzIyb0djWTNUaXNSWGs4OTdUS3pYbDJvcE44elJxV0VxN0dsZGtoc1dyNzdFNHk0cXhtR3lPSkNHdkdZMTV5dUFRT0xVWl9qcTR2RzdLbUs1U2RsNjNLYTljUEl5VEQ5OXdqMGRKbmIyeEZuYlpvMEZLSWxKcDNiQXBDdG0xd9IBwgFBVV95cUxNZTBfMExJcnJrLVQwQ1hFMTFaOEV5Q2IwRC04dnRNc090MnktbnRyeTlEV1oydUxKVm51UEJlb3JmRFBrXzIyb0djWTNUaXNSWGs4OTdUS3pYbDJvcE44elJxV0VxN0dsZGtoc1dyNzdFNHk0cXhtR3lPSkNHdkdZMTV5dUFRT0xVWl9qcTR2RzdLbUs1U2RsNjNLYTljUEl5VEQ5OXdqMGRKbmIyeEZuYlpvMEZLSWxKcDNiQXBDdG0xdw?oc=5",
+            "published": "2026-11-12T16:18:53.000Z",
+            "snippet": "Gigabyte's AORUS C510 GLASS INFINITY Chassis Recognized with 2027 CES Innovation Award TechPowerUp"
+          }
+        }
+      ]
+    }
+  ]
+}
