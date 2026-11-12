@@ -1,0 +1,246 @@
+{
+  "overview": "SAP는 ABAP 플랫폼을 에이전틱 AI의 실행 기반으로 키우고, Joule을 애플리케이션 UI와 SAPUI5 개발 전 과정까지 넓히며 AI 전략을 이어가고 있습니다. 비즈니스 측면에서는 AstraZeneca의 ERP 클라우드 전환과 네덜란드 국방 분야 클라우드 계약이 확보되었고, Cole Haan의 18개월 글로벌 S/4HANA 전환 완료 같은 대형 프로젝트 성과도 나왔습니다. Cloud ALM 예외 패턴 분석, Sustainability Control Tower의 AI ESG 보고서 생성 등 운영·지속가능성 영역의 실무 기능도 나왔습니다. 국내에서는 시흥시가 서울대·SAP코리아와 함께 중소 제조기업 AI 전환 세미나를 열고, 12월에는 부산에서 SAP 자동차 산업 임원 교류 행사가 예정되어 있습니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "ABAP 플랫폼, 에이전틱 AI를 위한 엔터프라이즈급 실행 기반으로 진화",
+          "summary": "SAP News Center는 ABAP 플랫폼이 에이전틱 AI를 실행하는 엔터프라이즈급 기반으로 자리 잡아 가고 있다고 소개했습니다. 기존 ABAP 자산이 AI 에이전트가 업무 로직을 실행하는 핵심 기반으로 쓰이는 방향입니다.",
+          "why": "ABAP 개발자와 아키텍트는 기존 커스텀 코드와 비즈니스 로직을 AI 에이전트 시나리오에 활용할 방안을 검토해야 합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3pOZ3JTa3laUTZKUjBseUpjOTJhWVEzWVVtX3hibVU0eGxaRklNa01NUVV3NnBPWG05NHRoXzJfYkk5b3M0ZGVmdGhNN0dtVDV4X3MtUEotcW5sSVA3WkVyalZ4ZUFoYVdBdTZmT1pnV1RlZ3o4SHMzcWNIY2ZIU2dvTl8wZllUa3ItZVIyb2F6bk5HRl9tZG9jXzhZSzJl?oc=5",
+            "published": "2026-11-11T11:16:46.000Z",
+            "snippet": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI SAP News Center"
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "자율 비즈니스: Joule Work, Joule Assistants, 그리고 SAP Business AI Platform",
+          "summary": "E3-Magazin이 SAP가 내세우는 '자율 비즈니스' 구상을 Joule Work, Joule Assistants, SAP Business AI Platform을 중심으로 다뤘습니다. SAP AI 제품군이 어떻게 구성되고 어떤 방향으로 가는지 정리한 기사입니다.",
+          "why": "고객에게 SAP AI 로드맵을 설명하고 도입 범위를 제안할 때 제품별 역할을 구분하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Autonomous Business: Joule Work, Joule Assistants, and the SAP Business AI Platform - E3-Magazin",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUE9XZ2laM2ZNOFpNVWZhUDk2MHZTbkJyTWJ5dnhRV0ZjUlN5R3E4c2VKS2xmU2VtVXVVTWtXdC1wU3RKLVlETHRBUmNfYllvZWhZVExJalJXdGtfRGhxQUhGMWJzRERyU24wQm5PWm1RQ2k5Mk85WDVrTXdCRFZlYkxDYUlKNERTZlhlVXMwdGVYajVTc1ZOeFFCSlJEZXEzeU0ybw?oc=5",
+            "published": "2026-11-11T09:00:00.000Z",
+            "snippet": "Autonomous Business: Joule Work, Joule Assistants, and the SAP Business AI Platform E3-Magazin"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "Joule 프론트엔드 액션: SAP AI 어시스턴트가 SAPUI5 등 애플리케이션 UI와 직접 상호작용",
+          "summary": "지금까지 Joule은 주로 백엔드 기능과 연동되었지만, 이제 브라우저 안에서 애플리케이션 UI와도 직접 상호작용할 수 있습니다. 게시글은 구현 방법을 설명하고 샘플 프로젝트를 함께 제공합니다.",
+          "why": "Fiori/UI5 개발자는 커스텀 앱에 Joule 기반 UI 자동화를 붙이는 방법을 샘플 코드로 바로 확인할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Joule Frontend Actions – Let SAP's AI Assistant Talk to Your Application UI in SAPUI5 and Beyond",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/joule-frontend-actions-let-sap-s-ai-assistant-talk-to-your-application-ui/ba-p/14520635",
+            "published": "2026-11-12T13:44:43.000Z",
+            "snippet": "Joule – SAP's AI assistant for end users – has been tightly integrated with backend functionality, but now it's also talking to the application UI – right inside your browser. This post explains how and comes with a sample project."
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "AI가 바꾸는 SAPUI5: 개발부터 런타임, 확장성까지",
+          "summary": "SAP는 지난 2년간 SAPUI5 애플리케이션의 코드 작성, 앱 조정, 테마 적용, 최종 사용 등 거의 모든 단계에 AI 기능을 도입했습니다. 게시글은 현재 쓸 수 있는 기능, 찾는 위치, 시작 방법을 정리합니다.",
+          "why": "UI5 프로젝트에서 바로 쓸 수 있는 AI 기능을 한눈에 파악해 개발 생산성을 높일 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "How AI Is Reshaping SAPUI5: From Development to Runtime to Extensibility",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/how-ai-is-reshaping-sapui5-from-development-to-runtime-to-extensibility/ba-p/14520165",
+            "published": "2026-11-12T12:36:04.000Z",
+            "snippet": "TL;DR: AI has arrived across the entire SAPUI5 lifecycle. Whether you write code, adapt apps, apply themes, or just use a business application, there is an AI capability for you today. This post shows: what is available, where to find it, and how to get started.Over the past two years, we have introduced AI capabilities across virtually every phase of SAPUI5 application development and beyond. Wha"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "SAP Business AI Platform의 테이블형 AI 모델, 무엇을 써야 할까?",
+          "summary": "SAP의 테이블형 예측 모델들을 실제 데이터셋으로 정확도, 일관성, 속도, 비용 기준에서 나란히 비교했습니다. 모든 코드와 데이터는 GitHub에 공개되어 있습니다.",
+          "why": "예측 시나리오에 맞는 모델을 고를 때 객관적인 비교 근거로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Tabular AI Models in SAP Business AI Platform. Which one to use?",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/tabular-ai-models-in-sap-business-ai-platform-which-one-to-use/ba-p/14513432",
+            "published": "2026-11-12T11:55:44.000Z",
+            "snippet": "SAP's tabular prediction models are put side by side on real-world datasets — accuracy, consistency, speed, and cost — so you can have an idea where to start when you have to pick one. All the code and data are on GitHub."
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "관계형에서 시맨틱으로: metaphactory를 활용한 SAP HANA Cloud 온톨로지 모델링",
+          "summary": "SAP는 2026년 5월 metaphacts와 전략적 파트너십을 맺고 SAP HANA Cloud Knowledge Graph Engine과 metaphactory를 통합했습니다. 게시글은 기존 HANA Cloud 데이터를 시맨틱 지식 그래프로 바꾸는 실제 방법을 다룹니다.",
+          "why": "AI 에이전트의 근거 데이터로 지식 그래프를 구축하려는 데이터·분석 담당자에게 실무 가이드가 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "From Relational to Semantic: Ontology Modeling on SAP HANA Cloud with metaphactory",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-relational-to-semantic-ontology-modeling-on-sap-hana-cloud-with/ba-p/14517906",
+            "published": "2026-11-12T17:22:30.000Z",
+            "snippet": "Introduction In May 2026, we announced a new strategic technology partnership with metaphacts: the integration of the SAP HANA Cloud Knowledge Graph Engine with metaphactory, an enterprise knowledge graph platform built on open W3C standards. Since that announcement, a key question from customers has been: how do I actually take my existing SAP HANA Cloud data and turn it into a semantic knowledge"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 16,
+          "title_ko": "SAP Cloud ALM 예외 패턴 분석으로 숨은 로그 패턴 찾기",
+          "summary": "SAP Cloud ALM Exception Monitoring에 새로 나온 예외 패턴 분석 기능을 소개합니다. 검토해야 할 로그 항목 수를 크게 줄여 중요한 예외를 빠르게 찾을 수 있습니다.",
+          "why": "운영·Basis 담당자는 대량의 로그를 검토하는 부담을 줄이고 장애 원인을 더 빨리 찾을 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Surface invisible log patterns with SAP Cloud ALM's Exception Pattern Analysis",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/surface-invisible-log-patterns-with-sap-cloud-alm-s-exception-pattern/ba-p/14519070",
+            "published": "2026-11-12T10:12:39.000Z",
+            "snippet": "IntroductionIn my previous blog post, we explored the core features offered by SAP Cloud ALM Exception Monitoring, as a central place to collect and review the exceptions of your monitored logs.Today, I will guide you through the next major innovation of Exception Monitoring, which will drastically reduce the number of log entries to be reviewed to surface critical exceptions. What a relief from y"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "SAP Sustainability Control Tower의 AI 기반 ESG 보고서 생성: 신규 기능과 전망",
+          "summary": "'Generate ESG Reports with AI'는 SAP Sustainability Control Tower의 기본 애플리케이션입니다. SCT 테넌트에서 데이터를 직접 가져와 AI가 서술문을 작성하고, 보고서를 PDF나 Word로 만들어 줍니다. 추가 비용은 없습니다.",
+          "why": "ESG 공시 대응 프로젝트에서 별도 비용 없이 보고서 작성 시간을 줄일 수 있는 기능입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Generate ESG Reports with AI in SAP Sustainability Control Tower: Outlook + What's New",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/generate-esg-reports-with-ai-in-sap-sustainability-control-tower-outlook/ba-p/14518897",
+            "published": "2026-11-12T10:46:31.000Z",
+            "snippet": "Disclaimer: This blog post reflects the state of the SAP Sustainability Control Tower as of November 10th, 2026.Generate ESG Reports with AI is a native application inside SAP Sustainability Control Tower (SCT) that automates ESG report creation — pulling data directly from your SCT tenant, generating AI-written narratives, and outputting structured reports in PDF or Word format, at no additional "
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "SAP 시스템을 안전하게 폐기하는 방법: SAP ILM을 활용한 시스템 디커미셔닝",
+          "summary": "DMLT 데이터 관리 블로그 연재의 다섯 번째 글로, SAP ILM을 이용해 레거시 SAP 시스템을 안전하게 폐기하는 방법을 설명합니다. M&A, 마스터 데이터 품질 등을 다룬 앞선 연재와 이어지는 내용입니다.",
+          "why": "S/4HANA 전환 뒤 남는 레거시 시스템의 데이터 보존과 폐기 전략을 세울 때 참고할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "【DMLTデータマネジメントブログ】SAPシステムを安全に廃止するには―SAP ILMを使ったSystem Decommissioning",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/dmlt%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%83%96%E3%83%AD%E3%82%B0-sap%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%AE%89%E5%85%A8%E3%81%AB%E5%BB%83%E6%AD%A2%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF-sap-ilm%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fsystem-decommissioning/ba-p/14520971",
+            "published": "2026-11-12T05:37:34.000Z",
+            "snippet": "SAPシステムを安全に廃止するには― SAP ILMを使ったSystem Decommissioning DMLTデータマネジメントブログ連載、今回はVol.5 – システムを安全に廃止するには―SAP ILMを使ったSystem Decommissioningをお届けします。Vol.0：データマネジメントブログの連載を開始しますVol.1：M&Aとデータマネジメント - 1.1：なぜ今、企業M&AにおけるSAP ERP対応が重要課題となるのか - 1.2：SAPシステム分離はなぜ難しいのか - 1.3：DMLTは企業M&AにおけるSAP ERP対応をどのように支援するのかVol.2：Autonomous Enterprise に備えるマスターデータ品質Vol.3：その“データ”、活かすための準備はできていますか？「Data Management Maturity Assessment」と"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 38,
+          "title_ko": "AstraZeneca, ERP를 SAP 클라우드로 이전",
+          "summary": "글로벌 제약사 AstraZeneca가 ERP를 SAP 클라우드로 옮기기로 하면서 SAP가 상징적인 대형 클라우드 고객을 확보했습니다. 같은 시기 SAP의 자사주 매입은 960만 주에 근접했습니다.",
+          "why": "제약·생명과학 업계의 대형 클라우드 ERP 전환 사례로, 업계 고객에게 레퍼런스가 될 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "AstraZeneca Moves Its ERP to SAP Cloud as Buyback Nears 9.6 Million Shares - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQblhSZkFUVUUzb2h3ZTltc2ZsMG5aMG0ydk54QzZ3MlhhNm03eEk0WjdKXzJvb1JJcHRDa3h0N08zYmZnR3c0TDJzV2JoeWJ0RXBlUmFxNDc5ZFpUR2d4UVpqYzhLU3BkaVRXckRJN1laRWJKYWluUFB1MEVJSUhrRF80YXFNTDg5X21KNDdocDgxMmdKbEMteE5Cejc4bmFIZVk1VnowUE5mM2NOWnZTOVNSRVM2N0VXdVdXZ1pNQm5CMTVvVmNEUmRLRVVSQlphS2xILWk1SjEzM2pTcm9z?oc=5",
+            "published": "2026-11-10T17:30:37.000Z",
+            "snippet": "AstraZeneca Moves Its ERP to SAP Cloud as Buyback Nears 9.6 Million Shares ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "SAP, 네덜란드 국방 분야 클라우드 계약 수주",
+          "summary": "SAP가 네덜란드 국방 분야의 클라우드 계약을 따냈다고 보도되었습니다. 공공·국방처럼 보안 요구가 높은 영역에서도 SAP 클라우드 도입이 늘고 있음을 보여줍니다.",
+          "why": "공공·국방 분야의 소버린 클라우드 수요를 보여주는 사례로, 규제 산업 영업과 아키텍처 설계에 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Lands Dutch Defence Cloud Mandate as Buyback Swells Past 9.6 Million Shares - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWTA3emFpUFFPRnhrUzhzTDNfbVZhVnAybEZ6bm12NWhvaDRLMVdXaUxFZktUaWZZaVFCUFZIRnpnQzBQWFNrLXROaDNhbUZVd252UXpJcW9YU2R2QzJBaExja1JaVi0xZDlha3VJYXZUU0twRV9NM3pPNW0zXzVuNURMdXZWLUFSb09waTluUmFtR29IWTBLdWRsLTFveFk2V19yZGZLZXlUalZZdVFhc28zRFhKc0JhQ1VCOGhUSDFIdHExN2s0RGxJWUNkZG40LWZmVG84d3p6QlNxbVMwNXdhSFBBdw?oc=5",
+            "published": "2026-11-10T19:01:39.000Z",
+            "snippet": "SAP Lands Dutch Defence Cloud Mandate as Buyback Swells Past 9.6 Million Shares ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "SAP 이사회 구성원 Qi Lu 사임, 무인 콘셉트 스토어 구상도 구체화",
+          "summary": "SAP 이사회 구성원인 Qi Lu가 SAP를 떠난다고 보도되었습니다. AstraZeneca 클라우드 계약과 직원 없는 콘셉트 스토어 구상도 함께 구체화되고 있습니다.",
+          "why": "SAP 거버넌스 변화와 리테일 AI 실험을 함께 보여주는 소식입니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP Loses Board Member Qi Lu as AstraZeneca Cloud Deal and a Staff-Free Concept Store Take Shape - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMGxsZVg4dU15QVFtSTJUa0pERUJzZ0FWck5pRzBxYVg0d3Y0UmM1TjJHN0dBMm5LR3lOdmxoVjVadmJTZThvV0g0WGNoSnl1aU83OTZJeEtCS0k1SnhDOGdVLWV5ejhZTG5wRGFpeHVRN0xjenBOSDZHbEx5akhzWTh1ZkM0NlVOUEZOQjdmSE84Yk1aeHlodmFtRGZiaG9HZUtPTTBaN1RuYl9tcDFIM01wd1J3REw5V19tVDZEZlp0SnNneWM0SDVTNGtqOWZNVzJsNHBUNl9tWGxyTHU3TjJNTkRyaHkxeXJGWUpYcTA1RF9rSHcxbm1TeWc?oc=5",
+            "published": "2026-11-12T06:11:26.000Z",
+            "snippet": "SAP Loses Board Member Qi Lu as AstraZeneca Cloud Deal and a Staff-Free Concept Store Take Shape ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "SAP, VF Corporation과 S.Fashion 매장 열어 리테일 AI 시험",
+          "summary": "SAP가 VF Corporation과 함께 S.Fashion 매장을 열고 리테일 AI를 시험한다고 Unite.AI가 보도했습니다. 실제 매장 환경에서 AI 기술을 검증하는 시도입니다.",
+          "why": "리테일·패션 산업 컨설턴트가 고객에게 SAP AI 적용 사례를 설명할 때 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "SAP, VF Corporation과 함께 S.Fashion 매장을 열어 리테일 AI 시험 - Unite.AI",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmhybDUzbHJReTNMUWpCYWpmTHc2M25FWlJrZVZTX3I4eXNVZ0JjX3pzNnU5TmdDOGQzSGZ6aTlFM1Z1T0t6eUxSOE9OUF9meUo3dXU4QTFBTldTZlBvczExODBBVUJBWWRtVnpjR3pnWVNfY00zYWFxX2lTUnFrVlZOaE5nRkthNWROYVVfQjdPQQ?oc=5",
+            "published": "2026-11-11T13:54:03.000Z",
+            "snippet": "SAP, VF Corporation과 함께 S.Fashion 매장을 열어 리테일 AI 시험 Unite.AI"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "Cole Haan, 글로벌 SAP S/4HANA 전환을 기록적인 18개월 만에 완료",
+          "summary": "패션 브랜드 Cole Haan이 글로벌 SAP S/4HANA 전환을 18개월 만에 끝냈습니다. 매체는 이를 기록적인 속도라고 평가했습니다.",
+          "why": "빠른 글로벌 S/4HANA 전환 사례로, 프로젝트 일정 수립과 고객 설득에 근거로 쓸 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Cole Haan completes global SAP S/4HANA transformation in record 18 months - Derbyshire Times",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVUl2T2FRamNXS0VzZ25xNU9qVGZoc1pSWVVmcFlNQkNwNVU2VkNqaGpsT0VYcFl0OEdJVGxFdm9SZUI4WHZwZ1hULUwxdFcwUVNjeWZVWUdQRlpfaEYwSEdxMERDVjl4N0c1QkxiVVJ0SXd3UmdjWmNCN0Y4TGVkbnVBOXc1UGZXWnpNSGw4bTlCODdkUm5SeFVOMFNGaVZ6eW4wbEh1cW5pWHl1eTRXalZkRzdMbG5TNy1BLWVjWG8yUTlUX1RCcWxOMjg?oc=5",
+            "published": "2026-11-12T12:06:00.000Z",
+            "snippet": "Cole Haan completes global SAP S/4HANA transformation in record 18 months Derbyshire Times"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "일본 IBM, AI로 개발 부담을 30% 줄이는 SAP 핵심 시스템 클라우드 이전 지원 서비스 출시",
+          "summary": "일본 IBM이 SAP 핵심 시스템의 클라우드 이전을 지원하는 서비스를 내놓았습니다. AI를 활용해 개발 작업량을 30% 줄이는 것이 목표입니다.",
+          "why": "SI 업계에서 AI 기반 전환 가속 서비스 경쟁이 심해지고 있어, 국내 파트너사도 비슷한 방법론을 갖출 필요가 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Japan's IBM Launches Support Service for Moving SAP Core Systems to the Cloud, Using AI to Cut Development Workload by 30% - finance.biggo.com",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56MEMwUTJJbU9rcXdub1RQc3BCb3NITlo5SDA2YnlnZ0VlT25iaVdyUENtNU55bUtkVHhWZUNhY1hpYkFjVEhRaWFfV3hJb1NYNU4yd1N5TzhVTktJTkhzaE1uUzJ0UW10NHNBWnB5d3o0enpWT3c?oc=5",
+            "published": "2026-11-12T08:39:34.000Z",
+            "snippet": "Japan's IBM Launches Support Service for Moving SAP Core Systems to the Cloud, Using AI to Cut Development Workload by 30% finance.biggo.com"
+          }
+        }
+      ]
+    },
+    {
+      "name": "세미나·박람회·웨비나",
+      "items": [
+        {
+          "index": 33,
+          "title_ko": "[11.17] 시흥시 중소기업 인공지능 전환 인사이트(AX INSIGHT) 세미나",
+          "summary": "시흥시가 지역 중소 제조기업의 AI·디지털 전환을 지원하기 위해 11월 17일에 여는 세미나입니다. 서울대, SAP코리아와 협력합니다. 구체적인 시간, 장소, 참가비, 접수 방법은 기사 목록에서 확인되지 않습니다.",
+          "why": "SAP코리아가 참여하는 지자체 주도 중소 제조기업 AX 행사로, 중견·중소 제조 고객 발굴에 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "임병택 시흥시장, 지역 제조기업 AI 경쟁력 강화…서울대·SAP코리아와 협력 - 필드뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qdV9qRTJFRzRuRkwwMG9uWk13RDNlYTRRRjFSTkl5SktTcE9sRkNZei1wYko1UGg5UUM5Q2sxak1DVmhlSmJiRVI5SjViZE5NcWotLXZreUdqNlRtZnJrZEJXcy1QWGtH0gFsQVVfeXFMTWNKUlRyeC1EVjRxYmx0UjM3d25OVzdBTzN6aGZQM2tNOTIxSUJBekRJVmMzZ0JhTHg1V2d1U1doV0x6M0ltRWkxakVibV9NQWh0ekRHT0ZRd2ZIMFpKMXZoY01jd2RXekNZTERj?oc=5",
+            "published": "2026-11-11T00:48:39.000Z",
+            "snippet": "임병택 시흥시장, 지역 제조기업 AI 경쟁력 강화…서울대·SAP코리아와 협력 필드뉴스"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "[12.03] SAP Executive Exchange for Busan (Automotive)",
+          "summary": "2026년 12월 3일(목) 부산광역시 부산진구에서 열리는 자동차 산업 대상 SAP 임원 교류 행사입니다. 무료 강연·세미나이며, 외부 접수로 진행되고 접수 마감은 3주 뒤입니다(오늘 기준). 태그는 #sap #AI #Busan입니다.",
+          "why": "부산·경남 지역 자동차 업계 고객을 대상으로 SAP AI 전략을 접할 수 있는 오프라인 네트워킹 기회입니다.",
+          "article": {
+            "source": "온오프믹스 SAP 행사",
+            "title": "SAP Executive Exchange for Busan(Automotive)",
+            "link": "https://onoffmix.com/event/353329",
+            "published": "2026-11-12T21:46:30.231Z",
+            "snippet": "일시: 2026.12.3 (목) 0:00 ~ 23:59 / 장소: 부산광역시 부산진구 / 무료 강연/세미나 / 접수 상태(오늘 기준): 외부접수 마감 3주전 / 태그: #sap #AI #Busan"
+          }
+        }
+      ]
+    }
+  ]
+}
