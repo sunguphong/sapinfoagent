@@ -1,0 +1,14 @@
+2026-11-14T22:51:31.285Z run 20261114225131 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-14T22:51:31.286Z waiting 509s until 08:00
+2026-11-14T23:00:01.736Z sap: sent - 수집 경고 1건: SAP News Center: Request timed out after 20000ms
+2026-11-14T23:00:01.736Z realestate: sent
+2026-11-14T23:00:01.736Z stock: off
+2026-11-14T23:00:01.736Z skincare: sent
+2026-11-14T23:00:01.736Z sapmm-jobs: sent
+2026-11-14T23:00:01.736Z ces: sent
+2026-11-14T23:00:01.736Z smallbiz: sent
+2026-11-14T23:00:01.736Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 06:31 수집 · 36건
+2026-11-14T23:00:01.736Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-14T23:00:01.740Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-15_20261114225131.html
+2026-11-14T23:00:03.818Z mail sent: <b7126fd5-aef4-a7b4-5c86-4a2ddc8232c3@gmail.com> -> upsan77@gmail.com
+2026-11-14T23:00:03.819Z done
