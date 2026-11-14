@@ -1,0 +1,7 @@
+2026-11-14T00:17:01.219Z run 20261114001701 start (agent=sap "SAP 브리핑", source=github, mode=send)
+2026-11-14T00:17:01.220Z collecting from 7 feeds...
+2026-11-14T00:17:02.388Z fetched 103, selected 39 (last 24h), feed errors: 0
+2026-11-14T00:17:02.390Z summarizing with claude (opus)...
+2026-11-14T00:17:42.812Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sap/2026-11-14_20261114001701.html
+2026-11-14T00:17:44.204Z mail sent: <651aa602-8780-43a7-00ab-733d97301a43@gmail.com> -> upsan77@gmail.com
+2026-11-14T00:17:44.205Z done
