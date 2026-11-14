@@ -1,0 +1,285 @@
+{
+  "overview": "오늘 새로 올라온 SAP 공고는 7건이지만, MM 모듈이 명시된 신규 공고는 없습니다. 모듈이 명시되지 않아 MM이 포함될 수 있는 공고 3건(사람인 SAP AM 헤드헌팅, SAP ERP PI 컨설팅, 제이엠씨컨설팅 구축 PM)을 추렸으며, 요구 경력은 3~10년 이상으로 중고급 경력자 중심입니다. IBM(FI·CO), 토스(재무 시스템) 등 나머지 신규 공고는 재무 쪽이라 제외했습니다. 앞서 소개한 아이이에이 SAP MM 프리랜서(12/12 마감)와 제이투이 MM 운영(SM) 공고는 아직 모집 중입니다. 동국 계열사 소식으로는 동국씨엠의 AI 데이터센터용 고기능성 컬러강판 'DK Shield' 개발, 하나증권의 동국제강 목표가 14,000원 제시, 동국제강 철 스크랩 가격 인하가 있습니다.",
+  "categories": [
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 35,
+          "title_ko": "SAP 플래티넘 파트너사(대기업 계열사, 에이치알포유 헤드헌팅) · SAP AM(애플리케이션 운영) 담당",
+          "summary": "헤드헌팅사 에이치알포유가 대기업 계열 SAP 플래티넘 파트너사의 SAP AM(애플리케이션 운영) 인력을 찾는 공고입니다. 근무지는 서울 금천구, 경력 5~10년, 대졸 이상, 정규직이며 마감은 12/14(월)입니다. 공고 분야에 ABAP, IT컨설팅, SE가 적혀 있고 담당 모듈은 명시되지 않았습니다.",
+          "why": "MM 운영 포함 여부는 헤드헌터에게 확인해야 하며, 경력 5~10년 정규직이고 12/14에 마감합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[[SAP플래티넘 파트너사(대기업 계열사)]]SAP AM",
+            "company": "에이치알포유(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55573495",
+            "published": "2026-11-14T00:00:00.000Z",
+            "snippet": "회사: 에이치알포유(주) / 조건: 서울 금천구 경력 5~10년 대졸↑ 정규직 / 마감: ~ 12/14(월) / 분야: ABAP , SAP , IT컨설팅 , SE(시스템엔지니어) , 헤드헌팅",
+            "jobHistory": {
+              "count": 4,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%8C%ED%8F%AC%EC%9C%A0(%EC%A3%BC)"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 63,
+          "title_ko": "피플케어코리아 · SAP ERP PI(프로세스 혁신) 컨설팅",
+          "summary": "SAP ERP 기반 PI(프로세스 혁신) 컨설팅 인력을 뽑는 공고입니다. 근무지는 서울 강남구, 경력 7년 이상, 대졸 이상, 정규직이며 마감은 11/28(토)입니다. 공고 분야에 ABAP, IT컨설팅, 모델링, 시스템설계가 적혀 있고 담당 모듈은 명시되지 않았습니다.",
+          "why": "구매·자재 프로세스 설계 경험이 강점이 될 수 있으나 MM 포함 여부는 확인이 필요하며, 경력 7년 이상이고 마감이 2주 남았습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP PI Consulting",
+            "company": "(주)피플케어코리아",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55565068",
+            "published": "2026-11-13T00:00:00.000Z",
+            "snippet": "회사: (주)피플케어코리아 / 조건: 서울 강남구 경력7년↑ 대졸↑ 정규직 / 마감: ~ 11/28(토) / 분야: ABAP , SAP , IT컨설팅 , 모델링 , 시스템설계 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%BC%ED%94%8C%EC%BC%80%EC%96%B4%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "제이엠씨컨설팅 · SAP 솔루션 구축 프로젝트 매니저(PM)",
+          "summary": "SAP 솔루션 구축 프로젝트를 관리할 PM을 뽑는 공고입니다. 경력 3~10년, 정규직이며 근무지와 마감일은 공고에 나와 있지 않습니다.",
+          "why": "MM 등 모듈 컨설팅 경험을 바탕으로 PM 역할로 옮기려는 경우 검토할 만하며, 사원 46명 규모의 소형 컨설팅사입니다.",
+          "article": {
+            "source": "원티드",
+            "title": "SAP 솔루션 구축 프로젝트 매니저(PM)",
+            "company": "제이엠씨컨설팅",
+            "link": "https://www.wanted.co.kr/wd/398243",
+            "published": "2026-11-14T00:16:21.048Z",
+            "snippet": "회사: 제이엠씨컨설팅 / 경력: 3~10년 / 정규직 / 회사정보: 사원수 46명 / 매출액 - / 영업이익 -",
+            "companyInfo": {
+              "title": "제이엠씨컨설팅㈜",
+              "employees": "46명",
+              "revenue": "",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/42312545"
+            },
+            "jobHistory": {
+              "count": 3,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A0%9C%EC%9D%B4%EC%97%A0%EC%94%A8%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 110,
+          "title_ko": "아이이에이 · SAP ERP 프로젝트 솔루션 통합 PL / SAP MM 모듈 컨설턴트",
+          "summary": "SAP ERP 프로젝트의 솔루션 통합 PL과 SAP MM 모듈 컨설턴트를 함께 모집합니다. 근무지는 서울 강남구, 경력 10년 이상, 학력 무관, 프리랜서이며 마감은 12/12(토)입니다.",
+          "why": "MM이 명시된 고경력 프리랜서 공고로, 경력 10년 이상이면 바로 지원할 수 있고 12/12에 마감합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP 프로젝트 솔루션 통합PL / SAP MM 모듈 컨설턴트 모집",
+            "company": "(주)아이이에이",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55554276",
+            "published": "2026-11-12T00:00:00.000Z",
+            "snippet": "회사: (주)아이이에이 / 조건: 서울 강남구 경력10년↑ 학력무관 프리랜서 / 마감: ~ 12/12(토) / 분야: SAP , IT컨설팅 , PMO , ERP , 아키텍쳐 외 / 회사정보: 사원수 57명 / 매출액 - / 영업이익 -",
+            "companyInfo": {
+              "title": "㈜아이이에이",
+              "employees": "57명",
+              "revenue": "",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/29693575"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%95%84%EC%9D%B4%EC%9D%B4%EC%97%90%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 116,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "동대문역사문화공원역 근처 사업장에서 SAP MM 모듈 운영(SM)을 맡을 인력을 찾습니다. 근무지는 서울 중구, 경력 6년 이상이며 즉시 지원할 수 있습니다.",
+          "why": "MM 운영 전담 포지션이며, 경력 6년 이상이고 마감일 없이 즉시 지원 형태입니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50347133",
+            "published": "2026-11-11T04:50:13.963Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "CJ올리브네트웍스 · SAP 모듈 컨설턴트",
+          "summary": "CJ올리브네트웍스가 SAP 모듈 컨설턴트를 모집합니다. 경력 4~15년, 정규직이며 근무지와 마감일, 대상 모듈은 공고에 나와 있지 않습니다.",
+          "why": "사원 1,500명 규모의 그룹 IT 서비스사 정규직이며, MM 컨설턴트가 지원할 수 있는지 확인할 가치가 있습니다.",
+          "article": {
+            "source": "원티드",
+            "title": "SAP 모듈 컨설턴트",
+            "company": "씨제이올리브네트웍스(CJ올리브네트웍스)",
+            "link": "https://www.wanted.co.kr/wd/359972",
+            "published": "2026-11-14T00:16:21.048Z",
+            "snippet": "회사: 씨제이올리브네트웍스(CJ올리브네트웍스) / 경력: 4~15년 / 정규직 / 회사정보: 사원수 1,500명 / 매출액 7,947억 7천만원 (2025년) / 영업이익 821억 5천만원 (2025년)",
+            "companyInfo": {
+              "title": "씨제이올리브네트웍스㈜",
+              "employees": "1,500명",
+              "revenue": "7,947억 7천만원 (2025년)",
+              "operatingProfit": "821억 5천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/36272060"
+            },
+            "jobHistory": {
+              "count": 8,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%94%A8%EC%A0%9C%EC%9D%B4%EC%98%AC%EB%A6%AC%EB%B8%8C%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4(CJ%EC%98%AC%EB%A6%AC%EB%B8%8C%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "비에스지파트너스 · SAP ERP 컨설팅(구축) 및 아웃소싱(운영)",
+          "summary": "SAP ERP 구축 컨설팅과 운영 아웃소싱을 함께 맡을 인력을 뽑습니다. 경력 3~8년, 정규직이며 근무지와 마감일, 대상 모듈은 공고에 나와 있지 않습니다.",
+          "why": "구축과 운영을 모두 경험할 수 있는 정규직이며, 경력 3~8년의 중간 연차에 맞습니다.",
+          "article": {
+            "source": "원티드",
+            "title": "SAP ERP 컨설팅(구축) 및 아웃소싱(운영) 3년 이상",
+            "company": "비에스지파트너스",
+            "link": "https://www.wanted.co.kr/wd/353358",
+            "published": "2026-11-14T00:16:21.048Z",
+            "snippet": "회사: 비에스지파트너스 / 경력: 3~8년 / 정규직",
+            "jobHistory": {
+              "count": 6,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%B9%84%EC%97%90%EC%8A%A4%EC%A7%80%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "딜로이트 · SAP 모듈 유지보수(AMS) 전문 인력",
+          "summary": "딜로이트가 SAP 모듈 유지보수(AMS, 애플리케이션 운영 서비스) 전문 인력을 모집합니다. 경력 무관, 정규직이며 근무지와 마감일, 대상 모듈은 공고에 나와 있지 않습니다.",
+          "why": "경력 제한이 없는 글로벌 컨설팅펌 정규직 운영 포지션이며, MM 모듈 포함 여부는 확인이 필요합니다.",
+          "article": {
+            "source": "원티드",
+            "title": "SAP 모듈 유지보수 (Application Management Service) 전문인력",
+            "company": "딜로이트(Deloitte)",
+            "link": "https://www.wanted.co.kr/wd/396016",
+            "published": "2026-11-14T00:16:21.048Z",
+            "snippet": "회사: 딜로이트(Deloitte) / 경력: 0~100년 / 정규직",
+            "jobHistory": {
+              "count": 4,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%94%9C%EB%A1%9C%EC%9D%B4%ED%8A%B8(Deloitte)"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 58,
+          "title_ko": "[동국씨엠] AI 데이터센터용 고기능성 컬러강판 'DK Shield' 개발",
+          "summary": "동국씨엠이 AI 데이터센터(AIDC) 공조 덕트 등에 쓸 고기능성 컬러강판 'DK Shield'를 개발했습니다. 기존 제품보다 결로 발생을 10배 늦추고 진동 감쇠 성능은 2배 높였으며, 곰팡이 억제 기능도 갖췄습니다. 여러 언론사가 같은 내용을 보도했습니다.",
+          "why": "건자재 중심이던 컬러강판 사업을 AI 데이터센터라는 고부가 신시장으로 넓히려는 움직임입니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "결로 지연 10배·진동 감쇠 2배…동국씨엠, AIDC 설비 지키는 고기능성 컬러강판 개발 - 한경매거진",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01eVVVd0J1SWduRGtxVDZVSjZrUTliaUZUT2FFVVVCZHAxWDRPdk5Dd3Z3NkpvTTNSRDJ1MFA3b0VSU2dwQks3V2tQMU5oMWh4T2twN2ROSEVEMzJoMWI2SUM3bGhidTg?oc=5",
+            "published": "2026-11-13T00:22:57.000Z",
+            "snippet": "결로 지연 10배·진동 감쇠 2배…동국씨엠, AIDC 설비 지키는 고기능성 컬러강판 개발 한경매거진",
+            "isNew": true
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "[동국제강] 하나증권 \"영업실적 개선·저평가 매력 부각\"…목표가 14,000원",
+          "summary": "하나증권이 동국제강의 영업실적이 개선되고 저평가 매력이 부각될 것이라는 리포트를 냈습니다. 목표주가는 14,000원으로 제시했습니다.",
+          "why": "증권가에서 동국제강의 실적 회복 기대가 나오고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[리포트 브리핑]동국제강, '영업실적 개선과 저평가 매력 부각될 것' 목표가 14,000원 - 하나증권 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sYzVDWGRNb2lxUmM4WE1VUXNJN2tGeUYwVlZOQV9XRTB6U194ZTNlc0p3NWk5NmMxLVFRZTV2eGt5NXRVeUdDVWxHZjVzcjRTdmg2ei16bTRLenRo?oc=5",
+            "published": "2026-11-13T07:05:00.000Z",
+            "snippet": "[리포트 브리핑]동국제강, '영업실적 개선과 저평가 매력 부각될 것' 목표가 14,000원 - 하나증권 뉴스핌",
+            "isNew": true
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "[동국제강] 전 공장 철 스크랩 구매가격 23일부터 인하",
+          "summary": "동국제강이 23일부터 전 공장의 철 스크랩 구매가격을 내립니다. 앞서 철근 가격은 톤당 82만 원으로 동결을 이어가고 있습니다.",
+          "why": "원료 구매단가 조정은 전기로 원가와 구매 전략에 직접 영향을 주는 업황 신호입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강 전공장 철 스크랩 23일 인하 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nR0Q2X0FtS0RYVlNzRFRWZjkwZU1KdFVDcHRvRzRmcG5HOEdTeGxDZjZZdGRUMUVwQlg1VkV6N3lFN1hRUmZ3djE5dlQ0c1ItMzlOS2VNanpIbFM1bnF1UTlhdm9DbF9jRklGbWtRSEvSAXRBVV95cUxQTGRfMDctTG1STXB3M2JwVTRZTmN0OEY4Nm9NZElINUkwZDEzQWlMb2xQaWdKNU1lVXVhTU1ZTFdBTHduZTlGYURWRVREUTF0d0o1bHcybnl5NjJtZFN3NmQteGUxOC1rT2xlWFhOQzVGMnVXRg?oc=5",
+            "published": "2026-11-13T08:25:00.000Z",
+            "snippet": "동국제강 전공장 철 스크랩 23일 인하 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 41,
+          "title_ko": "[동국제강] ESG 평가 세아 'A' vs 동국 'B+'…컨트롤타워 경쟁",
+          "summary": "철강 경쟁사인 세아와 동국의 ESG 평가와 컨트롤타워 운영을 비교한 기사입니다. 세아는 A, 동국은 B+ 등급을 받았습니다.",
+          "why": "동국제강그룹의 ESG 체계가 경쟁사보다 한 단계 낮게 평가돼 거버넌스 보완 과제가 남아 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "ESG 컨트롤타워 승부, 철강 맞수 세아 ‘A’ vs 동국 ‘B+’ - 뉴스프리존",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xU1V3V2NZUmQ0M3VHZ3pJNGNUUmVlM0s0bmdJdVBoanlvN2RvcWtCcEFsMFQxQ1FLWWNqWTRUTEZGYmREbFFlUjR5MUFXZTdkTWVYdFlGb3EwM0lySEcyaWFqY3M3MUJRcjlEZFVWVlB5c2vSAXdBVV95cUxNaWRVcUVITUUwTnVmNTFKRl9PQW5xQkRNZnpHUFZjZGpmRkFJcTRnNDZLaURSQ2JZSzdDNGpzWkRpTVIwSlY0RTR5RGdid0E1TEJjRjBHMlJsVWQyS1kxUUY1Y084emQ0ek1PcDVXUnlYaE54bUZONA?oc=5",
+            "published": "2026-11-13T06:49:10.000Z",
+            "snippet": "ESG 컨트롤타워 승부, 철강 맞수 세아 ‘A’ vs 동국 ‘B+’ 뉴스프리존",
+            "isNew": true
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "[동국제강] 장세욱 부회장, 10년째 수능 앞둔 임직원 자녀 127명 응원",
+          "summary": "장세욱 부회장이 2027학년도 수능을 앞둔 임직원 자녀 127명에게 응원 선물과 격려 편지를 보냈습니다. 이 행사는 올해로 10년째이며 여러 언론사가 같은 내용을 보도했습니다.",
+          "why": "그룹 차원의 가족친화 경영 기조를 보여주는 조직문화 관련 소식입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "\"자신을 믿고 실력 발휘하길\"…동국제강그룹, 임직원 자녀 127명에 수능 응원 선물 - 디지털데일리",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83bzQxdDNfclZUQmw4Qkw2Nkd2c21xUXJJQU91eGg4dnk1RGFab2JqLWZiOW01ZS01cE5ZNHZZY1A3NzlQS0w0Q0REaExSRFVUMjYzM0Jqd2ZDelJHenBidTRsUk8?oc=5",
+            "published": "2026-11-13T05:57:44.000Z",
+            "snippet": "\"자신을 믿고 실력 발휘하길\"…동국제강그룹, 임직원 자녀 127명에 수능 응원 선물 디지털데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 57,
+          "title_ko": "[동국제강] 철강협회 전공생 취업역량 강화 프로그램에 현직자 참여",
+          "summary": "한국철강협회가 철강 전공생의 취업역량을 높이는 프로그램을 열었습니다. 포스코와 동국제강 현직자가 참여했습니다.",
+          "why": "동국제강이 업계 인재 확보 활동에 참여하고 있음을 보여주는 소식입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "철강協, 전공생 취업역량 강화…포스코·동국제강 현직자 참여 - 페로타임즈",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xdVJNaWFNTlYwWng5Z1BjQXh4UUx0OWlzb01NUFd1cVBLQ0FDZnRJdEZUNHB6SDM5dGRVVEc1RE5nUDh2MmR0OVNFTWk3M1NyQUo3aG94c0F4bjU3dXNkYWdQQ0JYeWNZRXpxYg?oc=5",
+            "published": "2026-11-13T00:26:02.000Z",
+            "snippet": "철강協, 전공생 취업역량 강화…포스코·동국제강 현직자 참여 페로타임즈",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
