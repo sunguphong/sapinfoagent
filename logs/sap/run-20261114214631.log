@@ -1,0 +1,8 @@
+2026-11-14T21:46:31.131Z run 20261114214631 start (agent=sap "SAP 브리핑", source=github, mode=send)
+2026-11-14T21:46:31.132Z collecting from 7 feeds...
+2026-11-14T21:46:51.142Z fetched 67, selected 34 (last 24h), feed errors: 1
+2026-11-14T21:46:51.143Z feed error: SAP News Center: Request timed out after 20000ms
+2026-11-14T21:46:51.145Z summarizing with claude (opus)...
+2026-11-14T21:47:40.919Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sap/2026-11-15_20261114214631.html
+2026-11-14T21:47:42.732Z mail sent: <2bc8f69d-a303-b038-fa70-b96c7612bfdf@gmail.com> -> upsan77@gmail.com
+2026-11-14T21:47:42.733Z done
