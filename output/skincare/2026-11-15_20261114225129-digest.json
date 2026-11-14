@@ -1,0 +1,194 @@
+{
+  "overview": "11월 중순, 기온이 떨어지고 실내 난방이 시작되면서 피부 장벽 관리가 중요한 시기입니다. 오늘은 소아 아토피피부염이 수면장애, 대기오염과 관련 있다는 연구 소식이 눈에 띄며, 보습과 외부 자극 차단의 중요성을 다시 보여줍니다. 운동 후 여드름 예방 스프레이처럼 SNS에서 유행하는 관리법을 피부과 관점에서 검증하는 기사와, 시술로 피부를 관리하는 여성이 늘고 있다는 조사도 나왔습니다. 시장에서는 AI 기반 맞춤형 스킨케어와 에몰리언트·클린 라벨 원료 수요가 꾸준히 커지고 있습니다.",
+  "categories": [
+    {
+      "name": "전문가 팁·피부 과학",
+      "items": [
+        {
+          "index": 4,
+          "title_ko": "SNS 속설 검증: 운동 후 뿌리는 스프레이, 여드름을 막아줄까?",
+          "summary": "피부과 전문 매체 Dermatology Times가 SNS에서 유행하는 '운동 후 여드름 예방 스프레이'의 효과를 전문가 관점에서 검증했습니다. 땀과 피지가 남은 상태에서 생기는 트러블을 스프레이만으로 막을 수 있는지가 핵심 질문입니다.",
+          "why": "운동 후에는 유행 제품에 기대기보다 가능한 한 빨리 순하게 세안하고 땀에 젖은 옷을 갈아입는 기본 관리가 여드름 예방에 더 중요합니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Social Media Mythbusters: Do Post-Workout Sprays Prevent Acne? - Dermatology Times",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWktkMGV6bi01WDJhdFk3OVFCT0FENVN6cDJ3dllwZWNYMGE2OWVpamZkdF80T3duMXVobkVSQXU4WHZNN2VKSUhmU0hKZTREVld1T1lndFQzNzJYNDNLSWs4RFJhV3FuLTJraDRlNnNuZDBYb3JtTmU5eGVfVVFwQzBOLVdyNnptcW45bW9rZFBGZGU3OFFUQmJibWluMFI4?oc=5",
+            "published": "2026-11-14T17:03:09.000Z",
+            "snippet": "Social Media Mythbusters: Do Post-Workout Sprays Prevent Acne? Dermatology Times"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "아토피피부염 아동, 수면장애 위험 28% 높아… 정신건강 문제와는 무관",
+          "summary": "아토피피부염이 있는 소아는 수면장애를 겪을 위험이 약 28% 높다는 연구 결과가 나왔습니다. 이 위험은 정신건강 문제와 관계없이 나타나, 가려움 같은 피부 증상 자체가 수면에 영향을 줄 수 있음을 보여줍니다.",
+          "why": "건조한 가을·겨울에 아이가 밤에 자주 긁는다면 보습을 꼼꼼히 하고, 증상이 계속되면 피부과 진료를 받아 수면의 질까지 함께 챙기는 것이 좋습니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "아토피피부염 소아, 수면장애 위험 28% 높아…정신건강 문제와 무관 - 메디컬투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5ZnkxOWtPZVJpWUc2UDFWN2F6RGsyV0Rab3drcUFkcWNBTkZSZDJpeV9RQUx6MEJDQ1JDanhCS0N3dTNOdElza0QzRFh6R3lENGdzYUh5eFUtYWw0dWxrQ3dzZEZfcG1sNkxJMQ?oc=5",
+            "published": "2026-11-14T12:52:48.000Z",
+            "snippet": "아토피피부염 소아, 수면장애 위험 28% 높아…정신건강 문제와 무관 메디컬투데이"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "대기오염 노출, 소아 아토피피부염 유병률 증가와 연관",
+          "summary": "대기오염에 노출되는 것이 소아 아토피피부염 유병률 증가와 관련이 있다는 연구 결과가 보도됐습니다. 미세먼지 같은 외부 오염물질이 피부 장벽과 염증 반응에 영향을 줄 수 있다는 점을 시사합니다.",
+          "why": "미세먼지가 잦은 늦가을·겨울에는 외출 후 꼼꼼한 세안과 장벽 강화 보습으로 피부 자극을 줄이는 것이 도움이 됩니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "대기오염 노출, 소아 아토피 피부염 유병률 증가와 연관 - 메디컬투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GV1FfZGNXYkJyT0lCYUF4TF9kRndTWWJsTzdaOF9JZjFiZzBtVDNkd3dSUTNmbU5rMjRGd3lsX21ETmRQMWdWZ0g0X2k2dDlYbDJ1NGczQmpBVHlZYXlhQm1fSjhpalEtZXlDOQ?oc=5",
+            "published": "2026-11-14T05:18:59.000Z",
+            "snippet": "대기오염 노출, 소아 아토피 피부염 유병률 증가와 연관 메디컬투데이"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "족부 전문의와 피부과 의료진, 전문 지식을 나누다",
+          "summary": "Medscape가 발 질환을 다루는 족부 전문의와 피부과 의료진의 협진 필요성을 다뤘습니다. 발에 생기는 피부 질환은 두 분야의 지식이 함께 필요한 경우가 많다는 점에 주목했습니다.",
+          "why": "겨울철 뒤꿈치 각질, 갈라짐, 무좀 같은 발 피부 문제도 얼굴처럼 꾸준한 보습과 전문 진료가 필요하다는 점을 알려줍니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Podiatrists and Dermatology Clinicians: Sharing Expertise - Medscape",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2k4MXE1WUF2N0hGUWkyanNNQUhlVUwtblhwcmZjdzg1Z21sQWhMdG04QUtGdGp6SjdmNnE5OGRlX0dnNUgyRUVIU0x2SEJ4R2l4M2Y0OGlobi1xRmR2bnNZak9taGxqQkVSTllHQ2ZzdU9ybHZ4VkNDMVpOdmQ5WlJNMFh6dVVfUHZMSWVBRFhveFlPS2ZZMk9MeVV0aDhoYmpBWEw1WQ?oc=5",
+            "published": "2026-11-14T20:27:50.000Z",
+            "snippet": "Podiatrists and Dermatology Clinicians: Sharing Expertise Medscape"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "빅터 에힌데로: 피부 건강을 통해 원인과 결과를 깊이 탐구하다",
+          "summary": "나이지리아 가디언이 피부 건강 문제를 겉으로 드러난 증상이 아니라 근본 원인부터 추적하는 접근법을 소개했습니다. 생활습관, 환경, 체내 요인이 피부에 어떻게 나타나는지를 살펴보는 관점이 핵심입니다.",
+          "why": "반복되는 피부 트러블은 화장품만 바꾸기보다 수면, 식습관, 스트레스 같은 생활 요인을 함께 점검해야 근본적으로 개선될 수 있습니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Victor Ehindero: How skin health inspires deep investigation of cause-and-effect - The Guardian Nigeria News",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHRNOWZCTTIzcXlMYy1fZ2Q1aVY4QVJ6X3BkNUlEVDhhZFh3Sy1zRlRyYThKRTczeHktQXdaX0Z5WDJycG5Jc3lsZUdjbzk2RndwVGRRWXB6UGYyVnNtLXFQSEc2X3htV0ozRkV0RHR5REJ5bkhBQlJIZ1V6NEVsUFFCUUx1Q0l0TmlGNjk5a1dhMjkzX3czUl9ud05zd3A0R2IzcFhTUTNxak92U2lB?oc=5",
+            "published": "2026-11-14T03:02:02.000Z",
+            "snippet": "Victor Ehindero: How skin health inspires deep investigation of cause-and-effect The Guardian Nigeria News"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "가자지구 피부과 환자 대다수, 분쟁 이후 피부 질환 발생 보고",
+          "summary": "가자지구 피부과 클리닉 환자 대부분이 분쟁이 시작된 이후 피부 질환이 생겼다고 응답했다는 연구가 소개됐습니다. 위생 환경 악화와 스트레스, 의료 접근성 저하가 피부 건강에 큰 영향을 준다는 점을 보여줍니다.",
+          "why": "피부 건강은 위생, 스트레스, 생활 환경과 밀접하게 연결되어 있어 기본적인 청결과 스트레스 관리가 중요하다는 점을 다시 일깨워 줍니다.",
+          "article": {
+            "source": "Google News EN (Dermatology)",
+            "title": "Most Gaza Dermatology Clinic Patients Reported Skin Diseases Began During Conflict - Bioengineer.org",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdlRU80MkNTWGcwSUJTbXp2bWxNaTNLbEZiLVJrajhzSElaUUdSSU5QbVVxdVo4bUJ6aG8zaG9hQ3NUMktPbERNS1pQcUcyM21wLWlHWXZYUHRtN1d5N1RUeDhfV3VwR01NNmt5NFVIZDRpSEN3S1dlMVhSaFNKb09WbzMyeTg5QVZfWThkZTVYSEt6RndQZVRKOW1QNVBMUzAwTmRtM0hQVDg?oc=5",
+            "published": "2026-11-14T08:43:59.000Z",
+            "snippet": "Most Gaza Dermatology Clinic Patients Reported Skin Diseases Began During Conflict Bioengineer.org"
+          }
+        }
+      ]
+    },
+    {
+      "name": "피부 트렌드",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "여성 5명 중 1명, 시술로 피부 관리",
+          "summary": "여성 5명 중 1명이 홈케어를 넘어 시술로 피부를 관리하고 있다는 조사 결과가 나왔습니다. 전문적인 피부 관리 수요가 일상으로 자리 잡고 있음을 보여줍니다.",
+          "why": "시술을 고려한다면 내 피부 상태에 맞는 관리인지 전문가와 충분히 상담하고, 시술 후 진정·보습 관리까지 계획하는 것이 중요합니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "여성 5명 중 1명, 시술로 피부 관리 - 주간신문씨엠엔",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VVzlfQ0thY1ZMaUFlaDhrSmtDTXNsMGl4M3k4X21UYW9tVVo4SEp3SjNwNFJ0RmpiWUQzYjRORDBhdGZUalI3M2FidTJjWGlpaDZTS2thbURhdlZ6SnZrT1BaWkNqZ2pza2VJ?oc=5",
+            "published": "2026-11-14T14:59:31.000Z",
+            "snippet": "여성 5명 중 1명, 시술로 피부 관리 주간신문씨엠엔"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "'AI 기반 모듈형 스킨케어'가 뭐길래… 소비자·투자자 모두 지갑 열었다",
+          "summary": "AI로 피부 상태를 분석한 뒤 필요한 성분과 제품을 조합해 주는 '모듈형 스킨케어'가 소비자와 투자자 모두의 관심을 받고 있습니다. 개인 맞춤형 관리에 대한 수요가 커지고 있다는 흐름을 보여줍니다.",
+          "why": "맞춤형 관리의 핵심은 내 피부 타입과 고민을 정확히 아는 것이므로, AI 분석 결과도 전문가 상담과 함께 참고하면 좋습니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "'AI 기반 모듈형 스킨케어' 뭐길래…소비자·투자자 지갑 열었다 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83bXc3YWRaSXRjQkZwcWRadjAzckdZbXdjZXJqeHg4TEpRMktGSTNJaE5qa05NNDU0bGFJVTZGdGV6ZGdJVEZnM1BPbHRPSkxJdlZFd0ptVlZPU2JzSThqWUVIU0NPdkJQb2fSAW9BVV95cUxPMndOMnpYQ0s5T3ctVURvWlllTjhEUEhOanRHOHF2TzZia29YSGZBRFVGSjdyektmY01SOTdmTjNLeWt2WEo1OFZteDVCQzVyVndzZkZlSXVFYjVDTUgtbzhrWk9ycjBiaFRzVmFjWmM?oc=5",
+            "published": "2026-11-14T19:01:57.000Z",
+            "snippet": "'AI 기반 모듈형 스킨케어' 뭐길래…소비자·투자자 지갑 열었다 - 머니투데이 머니투데이"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "10월 티몰 뷰티 트렌드 리포트④: 크림 TOP10 판매량 52.2% 감소… K-뷰티는 53.8% 증가",
+          "summary": "중국 티몰의 10월 크림 카테고리 상위 10개 제품 판매량이 52.2% 줄어든 가운데, K-뷰티 브랜드 판매는 53.8% 늘었습니다. 중국 시장에서 K-뷰티 크림의 경쟁력이 높아지고 있음을 보여줍니다.",
+          "why": "건조한 계절을 앞두고 K-뷰티 크림에 대한 관심이 높은 만큼, 브랜드보다 내 피부에 맞는 보습 성분인지를 확인하고 고르는 것이 좋습니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "10월 티몰 뷰티 트렌드 리포트④: 크림 TOP10 판매량 52.2%↓...K-뷰티 53.8%↑ - 뷰티경제",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTMnZ4RXNMUUhXcEtaQmg5ZVZpU25ZU1FMeTBkcXhXdC1JQVNBaHhGYkNoS1FwbmpTRi1sbHEwejNxLTAxVUc4czZLOGUzVWhfdkJHdlYxRWduQnFxeE5Eb08tcmdUNnJieUE?oc=5",
+            "published": "2026-11-14T02:35:00.000Z",
+            "snippet": "10월 티몰 뷰티 트렌드 리포트④: 크림 TOP10 판매량 52.2%↓...K-뷰티 53.8%↑ 뷰티경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "스킨케어 성분·제품",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "2035년 에몰리언트 시장 전망: 스킨케어·헤어케어 수요가 성장 견인",
+          "summary": "피부를 부드럽게 하고 수분 손실을 줄여주는 에몰리언트(유연제) 원료 시장이 스킨케어와 헤어케어 수요에 힘입어 2035년까지 성장할 것으로 전망됐습니다. 피부 장벽 관리에 대한 관심이 꾸준히 커지고 있다는 신호입니다.",
+          "why": "찬바람과 난방으로 피부가 건조해지는 겨울철에는 세라마이드, 스쿠알란 같은 에몰리언트 성분이 든 보습제로 장벽을 지켜주는 것이 효과적입니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "2035년 에몰리언트 시장 전망: 스킨케어·헤어케어 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmRndzRwUzMyTEdRSy1SX2Y2R2wtRFBDUTJDV3U1a3RNTVg3NkRCUURVVlJMcFFGY2MzS2VEMU9EZ2lXUlpJU3ZQQ1RIMkhHeEtidG04Ykp1WEREUFFuVmRPWDY1YUs0V1hka1EtamU2blduYlpOdnAzMHJxcGpET3JKSGltWm1HVXhyaUZObjBudUdpQzZPT3hyQWpnN0E0Snh1YWRzdHE1Y2xUUWZ3elBhTkhLMGt3V01kZERSRnVmMkpXdE8zRUNkWFc?oc=5",
+            "published": "2026-11-14T19:41:03.000Z",
+            "snippet": "2035년 에몰리언트 시장 전망: 스킨케어·헤어케어 수요가 성장 견인 - 뉴스 및 통계 IndexBox"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "2035년 살구씨 오일 시장 전망: 클린 라벨 스킨케어 수요가 성장 견인",
+          "summary": "성분을 투명하게 공개하는 '클린 라벨' 스킨케어 수요가 늘면서 살구씨 오일 시장도 2035년까지 성장할 것으로 예상됩니다. 식물성 오일 원료에 대한 소비자 관심을 보여줍니다.",
+          "why": "살구씨 오일 같은 식물성 오일은 건조한 피부의 보습에 도움이 될 수 있지만, 민감하거나 트러블이 잦은 피부라면 먼저 소량으로 테스트해 보는 것이 안전합니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "2035년 살구씨 오일 시장 전망: 클린 라벨 스킨케어 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVllSN0dta1RuR1JNV21PRjZpZVRMR2RDQzFzaXRRenhBSW16clV6bExySTBNSkNNRngzTW5kek1SN0x5OGpEWUJaOHNPZEV4cEgzZ3JyS3h1cmc5WW8yZ2RmUGpvTDZlWTJhdkVMVjBGSXp3V0FnZ2Fqb0diSUNyWUZBeERiYXIyQ1RoZGtLZUhvWU5rYWFUQTZrR1E4aDN2SjhVcDYxMW9JdzVKM3JVU1VYZm8xSEhaMV95Z0FzODhuaHJKVmFNTDRINDlJeFZh?oc=5",
+            "published": "2026-11-14T20:36:03.000Z",
+            "snippet": "2035년 살구씨 오일 시장 전망: 클린 라벨 스킨케어 수요가 성장 견인 - 뉴스 및 통계 IndexBox"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "바이노텍, 프리미엄 스킨케어 브랜드 '리포브' 프랑스 시장 진출 추진",
+          "summary": "바이노텍이 프리미엄 스킨케어 브랜드 '리포브'를 앞세워 화장품 강국인 프랑스 시장 진출을 추진합니다. 국내 스킨케어 브랜드의 유럽 진출 흐름을 보여주는 사례입니다.",
+          "why": "K-뷰티 브랜드의 해외 진출이 늘면서 국내 소비자도 더 다양한 프리미엄 제품을 접하게 되지만, 제품을 고를 때는 성분과 내 피부 적합성을 먼저 확인하는 것이 중요합니다.",
+          "article": {
+            "source": "Google News (피부·스킨케어)",
+            "title": "바이노텍, 프리미엄 스킨케어 브랜드 ‘리포브’ 프랑스 시장 진출 추진 - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdW12Y2ZkNVoyNGhzaWw5dVJObVhxdFg0MUxBVlZVNWtDVVc3TVB1OXJBMUN2MzlRQU1WRnJrVGswcDFQdGZGSTM3d05XeUI2Z0d0eWFqajMtbkp1Tjg0SmZRMzhrRXBobHFLM0ZaZmRRZ3E5Y2JHSTB6Y09mcG5KQQ?oc=5",
+            "published": "2026-11-14T00:00:03.000Z",
+            "snippet": "바이노텍, 프리미엄 스킨케어 브랜드 ‘리포브’ 프랑스 시장 진출 추진 이데일리"
+          }
+        }
+      ]
+    },
+    {
+      "name": "뷰티 뉴스",
+      "items": [
+        {
+          "index": 10,
+          "title_ko": "영천시, 아토피·천식 예방관리사업 우수 성과로 질병관리청장 표창",
+          "summary": "경북 영천시 보건소가 아토피·천식 예방관리사업에서 우수한 성과를 거둬 질병관리청장 표창을 받았습니다. 지역 보건소 단위의 알레르기 질환 예방 교육과 관리가 성과를 내고 있다는 사례입니다.",
+          "why": "아토피 관리가 걱정된다면 거주 지역 보건소의 아토피·천식 예방 교육이나 상담 프로그램을 확인해 무료로 도움을 받을 수 있습니다.",
+          "article": {
+            "source": "Google News (뷰티 제품·성분)",
+            "title": "영천시, 아토피·천식 예방관리사업 우수 성과…질병관리청장 표창 - 메트로신문",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WVGVKT0JaRU9WTk1oTnd5aDMtUloweVlCY01aUzdEaERBaTAxclJoYks1am1fVjAzR1kxR0F6TnhrZEVUQ1IxSXFzTVBsdG9xbXFrMWs5RmZUVTBxZWxHMg?oc=5",
+            "published": "2026-11-14T06:28:56.000Z",
+            "snippet": "영천시, 아토피·천식 예방관리사업 우수 성과…질병관리청장 표창 메트로신문"
+          }
+        }
+      ]
+    }
+  ]
+}
