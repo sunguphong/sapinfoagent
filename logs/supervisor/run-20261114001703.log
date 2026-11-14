@@ -1,0 +1,13 @@
+2026-11-14T00:17:03.850Z run 20261114001703 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-14T00:17:05.286Z sap: missing - 발송 시각(06:55)이 142분 지났는데 실행 기록이 없음
+2026-11-14T00:17:05.286Z realestate: missing - 발송 시각(07:00)이 137분 지났는데 실행 기록이 없음
+2026-11-14T00:17:05.286Z stock: missing - 발송 시각(07:00)이 137분 지났는데 실행 기록이 없음
+2026-11-14T00:17:05.286Z skincare: missing - 발송 시각(08:00)이 77분 지났는데 실행 기록이 없음
+2026-11-14T00:17:05.286Z sapmm-jobs: missing - 발송 시각(07:00)이 137분 지났는데 실행 기록이 없음
+2026-11-14T00:17:05.286Z ces: missing - 발송 시각(07:30)이 107분 지났는데 실행 기록이 없음
+2026-11-14T00:17:05.286Z smallbiz: missing - 발송 시각(07:00)이 137분 지났는데 실행 기록이 없음
+2026-11-14T00:17:05.286Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 09:16 수집 · 36건
+2026-11-14T00:17:05.287Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-14T00:17:05.289Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-14_20261114001703.html
+2026-11-14T00:17:06.424Z mail sent: <35e1bd9e-10b7-cbd7-bea7-3fda9d4529b7@gmail.com> -> upsan77@gmail.com
+2026-11-14T00:17:06.425Z done

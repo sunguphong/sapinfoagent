@@ -1,0 +1,87 @@
+{
+  "overview": "오늘 발송 0/7. 확인이 필요한 항목이 7건 있습니다 — 미발송: SAP 브리핑, 부동산 브리핑, 증시 브리핑, 피부미용 트렌드 브리핑, SAP MM 구인정보, CES 브리핑, 소상공인 지원 브리핑.",
+  "categories": [],
+  "supervisor": {
+    "checkedAt": "2026-11-14T00:17:04.136Z",
+    "sent": 0,
+    "duty": 7,
+    "issues": 7,
+    "agents": [
+      {
+        "id": "sap",
+        "name": "SAP 브리핑",
+        "status": "missing",
+        "issues": [
+          "발송 시각(06:55)이 142분 지났는데 실행 기록이 없음"
+        ],
+        "notes": []
+      },
+      {
+        "id": "realestate",
+        "name": "부동산 브리핑",
+        "status": "missing",
+        "issues": [
+          "발송 시각(07:00)이 137분 지났는데 실행 기록이 없음"
+        ],
+        "notes": []
+      },
+      {
+        "id": "stock",
+        "name": "증시 브리핑",
+        "status": "missing",
+        "issues": [
+          "발송 시각(07:00)이 137분 지났는데 실행 기록이 없음"
+        ],
+        "notes": []
+      },
+      {
+        "id": "skincare",
+        "name": "피부미용 트렌드 브리핑",
+        "status": "missing",
+        "issues": [
+          "발송 시각(08:00)이 77분 지났는데 실행 기록이 없음"
+        ],
+        "notes": []
+      },
+      {
+        "id": "sapmm-jobs",
+        "name": "SAP MM 구인정보",
+        "status": "missing",
+        "issues": [
+          "발송 시각(07:00)이 137분 지났는데 실행 기록이 없음"
+        ],
+        "notes": []
+      },
+      {
+        "id": "ces",
+        "name": "CES 브리핑",
+        "status": "missing",
+        "issues": [
+          "발송 시각(07:30)이 107분 지났는데 실행 기록이 없음"
+        ],
+        "notes": []
+      },
+      {
+        "id": "smallbiz",
+        "name": "소상공인 지원 브리핑",
+        "status": "missing",
+        "issues": [
+          "발송 시각(07:00)이 137분 지났는데 실행 기록이 없음"
+        ],
+        "notes": []
+      }
+    ],
+    "pc": [
+      {
+        "ok": true,
+        "label": "SAP MM 구인정보 · 원티드 PC 수집본",
+        "detail": "09:16 수집 · 36건"
+      },
+      {
+        "ok": true,
+        "label": "관리 웹 공개 주소",
+        "detail": "응답 정상"
+      }
+    ]
+  }
+}
