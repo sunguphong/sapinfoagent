@@ -1,0 +1,89 @@
+{
+  "overview": "오늘 발송 7/7. 확인이 필요한 항목이 9건 있습니다.",
+  "categories": [],
+  "supervisor": {
+    "checkedAt": "2026-11-14T00:19:38.486Z",
+    "sent": 7,
+    "duty": 7,
+    "issues": 9,
+    "agents": [
+      {
+        "id": "sap",
+        "name": "SAP 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 143분 늦게 발송 (09:17)"
+        ],
+        "notes": []
+      },
+      {
+        "id": "realestate",
+        "name": "부동산 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 138분 늦게 발송 (09:18)"
+        ],
+        "notes": []
+      },
+      {
+        "id": "stock",
+        "name": "증시 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 138분 늦게 발송 (09:18)",
+          "수집 경고 1건: Yahoo Finance: Status code 404"
+        ],
+        "notes": []
+      },
+      {
+        "id": "skincare",
+        "name": "피부미용 트렌드 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 78분 늦게 발송 (09:17)"
+        ],
+        "notes": []
+      },
+      {
+        "id": "sapmm-jobs",
+        "name": "SAP MM 구인정보",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 138분 늦게 발송 (09:18)",
+          "수집 경고 1건: 리멤버: HTTP 403"
+        ],
+        "notes": []
+      },
+      {
+        "id": "ces",
+        "name": "CES 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 108분 늦게 발송 (09:17)"
+        ],
+        "notes": []
+      },
+      {
+        "id": "smallbiz",
+        "name": "소상공인 지원 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 138분 늦게 발송 (09:18)"
+        ],
+        "notes": []
+      }
+    ],
+    "pc": [
+      {
+        "ok": true,
+        "label": "SAP MM 구인정보 · 원티드 PC 수집본",
+        "detail": "09:16 수집 · 36건"
+      },
+      {
+        "ok": true,
+        "label": "관리 웹 공개 주소",
+        "detail": "응답 정상"
+      }
+    ]
+  }
+}
