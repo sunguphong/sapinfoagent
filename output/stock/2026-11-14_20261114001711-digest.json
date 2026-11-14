@@ -1,0 +1,207 @@
+{
+  "overview": "■ 전날 미국 증시\n13일(현지) 뉴욕증시는 혼조로 마감했습니다. 다우지수는 0.10% 올랐지만, S&P500은 소폭 내렸고 나스닥은 0.91% 하락했습니다. 젠슨 황 CEO 사임 이후 엔비디아의 경영 불확실성이 이어지면서 엔비디아가 2.01% 하락해 시가총액 4조 달러선을 내줬습니다. AMD는 장 초반 상승분을 반납하고 8.75% 급락하는 등 AI·반도체주가 동반 약세를 보였고, 장 막판에는 항공주도 밀렸습니다. 연준 인사가 AI 관련 자산의 고평가를 경고한 점도 투자심리를 눌렀습니다. 다만 주간 기준으로는 8월 이후 최고의 한 주를 기록했고, 엔비디아가 한 주간 13% 빠지는 동안 필라델피아 반도체지수는 오히려 8% 오르는 차별화가 나타났습니다. 수집된 기사에서는 국채금리·달러·유가의 구체적 수치를 확인할 수 없었습니다.\n\n■ 다음 주(월요일) 국내 증시 전망\n월요일 코스피·코스닥은 금요일 미국 기술주 약세를 반영해 약보합에서 하락 우세로 출발할 가능성이 있습니다. 특히 AMD 급락과 엔비디아 시총 4조 달러 붕괴는 삼성전자·SK하이닉스 등 반도체 대형주에 부담 요인입니다. 다만 코스피는 13일 장중 2.05% 상승 출발 후 외국인이 7,032억 원을 순매도하며 0.98% 하락 마감해 악재를 일부 선반영했습니다. 한 주 동안 미국 반도체지수가 8% 오른 점도 낙폭을 제한할 수 있는 요인입니다. 주말 변수로는 엔비디아 후임 CEO 선임 논의(Arm CEO 르네 하스 접촉 보도)가 있습니다. 다음 주에는 엔비디아 실적 발표, 앤트로픽 상장, 연준 발언이 예정돼 있으며, 증권가는 주간 코스피 밴드를 5,200~6,000선으로 제시하고 반등 가능성을 점치고 있습니다. 월요일 개장 전에는 외국인 수급 방향, 원·달러 환율, 야간선물 흐름을 확인할 필요가 있습니다. 실적 발표 전후로 반도체·AI 관련 업종의 변동성 확대에 유의해야 합니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 22,
+          "title_ko": "뉴욕증시, 다우지수만 0.1% 상승…엔비디아 2% 하락세 지속(종합)",
+          "summary": "13일 뉴욕증시에서 다우지수는 0.10% 상승했지만 S&P500과 나스닥은 하락해 3대 지수가 혼조로 마감했습니다. 엔비디아가 2% 넘게 떨어지며 하락세를 이어갔고, 매도세가 기술주 전반으로 번졌습니다.",
+          "why": "나스닥 약세와 엔비디아 하락이 이어지면서 월요일 국내 반도체·AI 관련주의 투자심리가 위축될 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "뉴욕증시, 다우지수만 0.1% 상승…엔비디아 2%↓, 하락 지속(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VVnB2UXhZcUlKbm9ORGlTUEw4R3pEOGpDcVI2WVFTZ2lVVWl3c0hFYUwxMk5jWXRWdHZjcVVXNU8zYW5WaWl3R2VZZjlTWElZZ0xWZFlTZEd5SzTSAWBBVV95cUxPYzI3aFBvQlpEOUhQdFFfNE5MUkVNTU9HM2xiZWVIYzliUlR2ZjNRYW9UQUNUNm9jYlJ6VU1wWnRxUFByZXVyYVU3RXluejVaN0kwX0VSMFpiXzlKUE5yT0E?oc=5",
+            "published": "2026-11-13T22:14:46.000Z",
+            "snippet": "뉴욕증시, 다우지수만 0.1% 상승…엔비디아 2%↓, 하락 지속(종합) 연합뉴스"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "미국 증시 마감 | AI 종목 매매 혼란에 나스닥, 상승 출발 후 1% 가까이 하락…엔비디아 시총 4조 달러 밑으로",
+          "summary": "나스닥은 장 초반 상승했으나 AI 관련주 매도가 커지며 0.91% 하락 마감했습니다. 엔비디아는 시가총액 4조 달러선 아래로 내려갔습니다.",
+          "why": "엔비디아 시총이 상징적인 선을 내주면서 HBM 공급사인 SK하이닉스·삼성전자 등 국내 AI 메모리 밸류체인의 단기 변동성이 커질 수 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "U.S. stocks close | AI trading turbulence sends the Nasdaq down 1% after opening higher; NVIDIA falls below $4 trillion - 富途牛牛",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXZRUXcwLVdSc25rSEtidWdpSmladExGTjZDY09WMm1NbDRRdWdMQVNPTS16ajVIMjc1TU1CZF85R3RvYjRhdnlvTTVaaUdsMFh6TG9WWEdoaGxmV0lRM2V5aEdNa3FTVjVqUWtQcF93TUI4RlFxLUdlYTZsZ2NhRC1nekdXU2VoOXFyQTllOWE5NlR3cUxyTnJEektXYk9RZTFzUw?oc=5",
+            "published": "2026-11-13T23:07:36.000Z",
+            "snippet": "U.S. stocks close | AI trading turbulence sends the Nasdaq down 1% after opening higher; NVIDIA falls below $4 trillion 富途牛牛"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "금요일 증시는 하락했지만 월가는 격동의 한 주 끝에 주간 상승 기록",
+          "summary": "금요일에는 지수가 밀렸지만 주간 기준으로 미국 증시는 상승세를 지켰고, 8월 이후 가장 좋은 한 주를 보냈습니다. 며칠간 큰 변동성을 겪은 뒤에도 주간 흐름은 견조했습니다.",
+          "why": "주간 기준 위험선호가 유지된 만큼, 국내 증시의 하락 폭은 제한적일 가능성이 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Stocks fall but Wall Street notches a winning week after several turbulent days - Boston Herald",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFRTRUFWSFFuVXN1aUF3emVjaUt4OU9wSFVuZWlua1VoZXdpdzl6N3JNWmtaWDZQMG91RjRIMmJXWmVEREg2OGF2cEhFeGIwdzZYMEZpTW90eDF5bXJqb1RZeEpway1aV0hMdEU3d1BNMDB1dVpILXFILU9RbjI4NkkwMA?oc=5",
+            "published": "2026-11-13T21:37:15.000Z",
+            "snippet": "Stocks fall but Wall Street notches a winning week after several turbulent days Boston Herald"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "증시 하락에도 나스닥 주요 지지선 유지…앤트로픽 상장·엔비디아 실적 임박",
+          "summary": "증시는 하락했지만 나스닥은 기술적으로 중요한 지지선을 지켜냈습니다. 시장의 관심은 다음 주 엔비디아 실적 발표와 앤트로픽 상장으로 옮겨가고 있습니다.",
+          "why": "다음 주 엔비디아 실적과 앤트로픽 상장이 국내 반도체·AI 소프트웨어 관련주의 방향을 정할 핵심 이벤트가 될 전망입니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Stock Market Falls But Nasdaq Holds Key Level; Anthropic IPO, Nvidia Earnings Loom - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWlNKVkRyWWxPUEhTTW1lekhnU2h4anExcDZYQzlWV2VSalNTc3RwRXp0Y3VkbGFyNWRnbm5BaXNoTXc3elhvNnNoNnlNVkxZUHhfbVdjZTJKcHkyb1JVUmhDOWRmQU8xT1dHMk9RelppakJjblpyUjBjcUUyYTNXMDNEZUpsanI4NFh3LUlUTDRYUGhfdjlVVURkMEVBQjg0ZWFZellwT2Rvel9NT0hMVk5GNTg4OExUTDBSUGNSeFBmNEVhWVNpVlVCMEEzQy12NEE?oc=5",
+            "published": "2026-11-13T22:36:00.000Z",
+            "snippet": "Stock Market Falls But Nasdaq Holds Key Level; Anthropic IPO, Nvidia Earnings Loom Investor's Business Daily"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 12,
+          "title_ko": "뉴욕증시, 엔비디아 사태 확산·연준의 AI 고평가 경고에 혼조 마감",
+          "summary": "엔비디아 경영 불확실성이 커지는 가운데 연준 측에서 AI 관련 자산의 고평가를 경고하는 목소리가 나와 기술주 매도를 부추겼습니다. 이 영향으로 3대 지수는 혼조로 마감했습니다.",
+          "why": "연준이 AI 밸류에이션을 경계하고 있다는 신호는 고평가 논란이 있는 국내 AI·반도체 성장주에도 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "뉴욕증시, 엔비디아 사태 확산·연준 AI 고평가 경고에 혼조 마감 - 글로벌E",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVkNYbHZPRXFfVWNIVHcycTF2U0NBbG9GNHFuV3hINEdmSFlaWmpYRGM5WU0ydGdjb0R3ZVAzbUJCdEc1b0NRMFlYemlYWk84ZUt5MUR4cEJ6TTktbFRuY3BSVjRHa2x6cUZ1UURKWdIBb0FVX3lxTE1IVkNYbHZPRXFfVWNIVHcycTF2U0NBbG9GNHFuV3hINEdmSFlaWmpYRGM5WU0ydGdjb0R3ZVAzbUJCdEc1b0NRMFlYemlYWk84ZUt5MUR4cEJ6TTktbFRuY3BSVjRHa2x6cUZ1UURKWQ?oc=5",
+            "published": "2026-11-13T22:58:55.000Z",
+            "snippet": "뉴욕증시, 엔비디아 사태 확산·연준 AI 고평가 경고에 혼조 마감 글로벌E"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "미국 증시, 기술주 손실이 나스닥 끌어내리며 혼조 마감…유럽 증시는 대체로 상승",
+          "summary": "미국 증시는 기술주 약세로 나스닥이 하락하며 혼조로 마감했습니다. 같은 날 유럽 증시는 대체로 올랐습니다.",
+          "why": "글로벌 매도가 기술주에만 집중되고 있어, 국내에서도 반도체와 경기방어·가치주 간 업종별 차별화가 나타날 가능성이 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "US stocks close mixed as tech losses weigh on Nasdaq, Europe mostly up - Anadolu Ajansı",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2VvSUl4MVRPMU0zUk9VUjdxRHBuLXBoMW5tQ0lKV193d0p3ZlhMNWR5bXRVcFVPUDM2M0ZwTjgzVXc3RVhZd09zUGs4eHhFb0Rpdmh4SmQxeHNWTVprbS11czFQNUlxbWVDaUwyakpkWWhZNXQ4ZzNtVkpUWUhFLVNtdV9lSG1OdFZmdm1lRmxYOTdVcnlVMFJiZXRfNy03a3dEVTY1SEtka191MFZYbQ?oc=5",
+            "published": "2026-11-13T22:35:01.000Z",
+            "snippet": "US stocks close mixed as tech losses weigh on Nasdaq, Europe mostly up Anadolu Ajansı"
+          }
+        }
+      ]
+    },
+    {
+      "name": "다음 주 국내 증시 전망",
+      "items": [
+        {
+          "index": 45,
+          "title_ko": "[주간증시전망] 코스피 5,200~6,000선 반등 전망…엔비디아 실적·연준 주목",
+          "summary": "증권가는 다음 주 코스피 예상 밴드를 5,200~6,000선으로 제시하고 반등 가능성을 점쳤습니다. 엔비디아 실적 발표와 연준 위원 발언이 지수 방향을 가를 핵심 변수로 꼽혔습니다.",
+          "why": "엔비디아 실적이 예상치를 웃돌면 반도체 대형주 중심의 반등이 나올 수 있고, 실망스러우면 밴드 하단을 시험할 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[주간증시전망] 코스피 5200~6000선 반등 전망…엔비디아 실적·연준 주목 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvMlJ2Wnd1NGEyWkdEeG9YU3Y3RUNPNVpDZGJNbUlTRnMtVmxiVWh1UC1ncEt5YzdORDlVTkdweUx1M0o4NDhEQ3FtS1ZTRERVbHM1eg?oc=5",
+            "published": "2026-11-13T21:00:00.000Z",
+            "snippet": "[주간증시전망] 코스피 5200~6000선 반등 전망…엔비디아 실적·연준 주목 이투데이"
+          }
+        },
+        {
+          "index": 28,
+          "title_ko": "[주간증시전망] 코스피, 미국 금리·AI 전망에 좌우…엔비디아 실적·앤트로픽 상장 주목",
+          "summary": "다음 주 코스피는 미국 금리 경로와 AI 산업 전망에 따라 움직일 것으로 예상됩니다. 엔비디아 실적과 앤트로픽 상장이 주요 이벤트로 거론됐습니다.",
+          "why": "미국 금리와 AI 기대감의 변화가 외국인 수급을 통해 국내 반도체·성장주에 직접 반영될 가능성이 높습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[주간증시전망] 코스피, 美금리·AI 전망에 좌우…엔비디아 실적·앤트로픽 상장 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTXRHNjBwRVVkVVRiRW4wdGhQR0NZZlhld3lTNzBKbHBidV9kMlMxbmkzYVM1bjUzLVVISWQxRkkxRW9ZWWV2X0NFRnZSTVR2ZmN0bDJITk5jZ9IBWEFVX3lxTE1ma3VZdGREdVFhQ2cyZmpyd3BMUHkxRGQ2SkZiSU1xWlVCWXJaYTA0cmd2NzBMcHJYX0pRZ2ZwTzlHaWxoOFk3YU5sMk44aHFzcm9iTlhEaWM?oc=5",
+            "published": "2026-11-13T22:00:00.000Z",
+            "snippet": "[주간증시전망] 코스피, 美금리·AI 전망에 좌우…엔비디아 실적·앤트로픽 상장 아주경제"
+          }
+        },
+        {
+          "index": 49,
+          "title_ko": "[마감시황] 외국인 7,032억 원 순매도…코스피 하락 전환",
+          "summary": "13일 코스피는 2.05% 상승 출발했지만, 외국인이 7,032억 원을 순매도하면서 하락으로 돌아서 0.98% 내린 채 마감했습니다. 장중 반등분을 모두 반납하며 변동성이 크게 확대됐습니다.",
+          "why": "외국인 매도가 금요일 미국 기술주 약세 이후에도 이어질지가 월요일 반도체 대형주와 지수 방향을 가를 변수입니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[마감시황] 외국인 7032억 팔자 코스피 하락 전환 - 자본시장뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwMWhQTHVPMmVvcl9yaW1OYy1JN0tjUFNNMkJKaURkYk5RREdFZjFfWlczS3FmMG9sMXltNmtxT20xYjFTQWFmOFppT1dsQVJhY2NTdVNBNTktbVFlY1VoSDJEeDZic1k?oc=5",
+            "published": "2026-11-13T08:00:00.000Z",
+            "snippet": "[마감시황] 외국인 7032억 팔자 코스피 하락 전환 자본시장뉴스"
+          }
+        },
+        {
+          "index": 46,
+          "title_ko": "[증시 프리즘] 글로벌 IB가 본 연말 코스피…지수 상단과 환율 전망 엇갈려",
+          "summary": "글로벌 투자은행들은 연말 코스피 상단과 원·달러 환율 전망을 서로 다르게 제시했습니다. 지수 목표치와 환율 경로에 대한 시각차가 커서 불확실성이 큰 상황입니다.",
+          "why": "환율 전망이 엇갈리는 만큼 외국인 수급 변동성이 커질 수 있어, 수출 대형주(반도체·자동차) 흐름에 유의할 필요가 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[증시 프리즘] 글로벌 IB가 바라본 연말 코스피…지수 상단과 환율 전망 엇갈려 - 더페어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6bTBhMndDY21fSVNYMkdWOTF1U0FDSDE3c3FUMFBzUHpRMkg1ZWU5ZW80eEN5M3ZFNEIzOWxUMzg3MmpnQW1XVWR3MGhHMzdUdEJZc05rSC1lbEN2OE9lN3M5bGhwNkQzUklRNnFIOFbSAXRBVV95cUxNcTg0SE9ybmtnVGVZeHFfeTlOTkdOSjdlT2xBR3BmenpydGs3SGpQelBxR01EZ3Z1UVk1bklORWhaUUdxVmVnN0RubHRZWEY0eHdsU3pmQmsxTExaWjBOZkUzZkhneEFzNXRPMlFQQ0ZPWkZSeQ?oc=5",
+            "published": "2026-11-13T15:00:00.000Z",
+            "snippet": "[증시 프리즘] 글로벌 IB가 바라본 연말 코스피…지수 상단과 환율 전망 엇갈려 더페어"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 26,
+          "title_ko": "엔비디아 13% 빠진 한 주, 반도체지수는 8% 올랐다[월스트리트in]",
+          "summary": "이번 주 엔비디아 주가는 13% 하락했지만, 필라델피아 반도체지수는 오히려 8% 상승했습니다. 엔비디아 개별 리스크와 반도체 업황이 따로 움직이는 차별화 장세가 나타났습니다.",
+          "why": "엔비디아 악재가 반도체 업종 전체로 번지지 않고 있어, 삼성전자·SK하이닉스 등 국내 메모리주의 하방을 일부 지지할 수 있습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "엔비디아 13% 빠진 한주, 반도체지수는 8% 올랐다[월스트리트in] - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXlTdnhRd1lKOW43N0ZFRFJZUTVfaWg2Wlk1a2QySWZUd0hXV1phX18yS0pCSV83Nnp2TWVsdzJJWDZjX2FycWxjMzA4ZE9HS1N5YnBKbmM4bFRFSHg3YzIwMDBPNFVJSVltcUZiVGNwdGw0dDFPdUxrSHU1WWtSVw?oc=5",
+            "published": "2026-11-13T22:04:46.000Z",
+            "snippet": "엔비디아 13% 빠진 한주, 반도체지수는 8% 올랐다[월스트리트in] 이데일리"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "11월 13일 증시: AMD, 장 초반 상승분 반납 후 AI 반도체 매도세에 8.75% 급락",
+          "summary": "AMD는 장 초반 상승했지만 AI 반도체 업종 전반에 매도가 쏟아지며 8.75% 급락 마감했습니다. 엔비디아도 2% 넘게 하락하는 등 AI 반도체주 전반이 약세를 보였습니다.",
+          "why": "AMD 급락은 AI 가속기용 HBM 수요 기대에 부담을 줄 수 있어, 월요일 SK하이닉스·삼성전자 등 메모리주와 반도체 장비·소부장주에 하방 압력으로 작용할 가능성이 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR3ByQlhuVjNsVG1rZDgxV2NRcjFKWFhwbG16a2lqc0lHRWtpTFBmSjVyRGJ3SzVxT2Y3LVd5dTRrVGdnQUF6ZDVEdXd5YnQ3aFREMG1vMVp2enBqRlp3X2tXc3RZc0JIU2NzTUpVMFlrOVVKZmlmS29EMG9TN0lBUV9QcUNsR3kyS3NHZ2czQUctMVNKVDRwanpGSGRQSFBoWjFHRWtMRWJxZFZhN3NIZHAwQklPUHh3cDRuZElrazZDTENsRVIwS1JlNEZjVTVKQWpfblBHR2lzTk9NUUIySjl1blJySk5KaVE?oc=5",
+            "published": "2026-11-13T21:58:14.000Z",
+            "snippet": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse The Motley Fool"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "엔비디아, Arm CEO 르네 하스에 접촉…직원들은 젠슨 황 복귀 원해(보도)",
+          "summary": "보도에 따르면 엔비디아는 젠슨 황 사임 이후 후임 CEO 후보로 Arm의 르네 하스 CEO에게 접촉했습니다. 한편 내부 직원들 사이에서는 황의 복귀를 바라는 목소리가 나오고 있습니다.",
+          "why": "주말 사이 엔비디아 경영 공백 해소 여부가 월요일 국내 반도체 밸류체인의 투자심리를 좌우할 변수가 될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Nvidia approaches Arm CEO Haas as employees seek Huang's return, reports say - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
+            "published": "2026-11-13T23:11:55.000Z",
+            "snippet": "Nvidia approaches Arm CEO Haas as employees seek Huang's return, reports say Reuters"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "스페이스X, 이르면 12월 테슬라 관련 거래 발표 가능성…스페이스X 주가에 미칠 영향은",
+          "summary": "스페이스X가 이르면 12월 테슬라와 관련된 거래를 발표할 수 있다는 관측이 나왔습니다. 성사된다면 두 회사의 사업 구조와 기업가치에 변화가 생길 수 있다는 분석입니다.",
+          "why": "테슬라 관련 이슈는 LG에너지솔루션 등 국내 2차전지 공급망과 우주항공 관련주의 투자심리에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "SpaceX Could Announce a Deal for Tesla as Soon as December. Here's What It Would Do to SpaceX Stock. - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSFgxOXhGaWV1WlhqVjkyOU4yYjZZY3hjS0hGQXhkNUZRWlZVNHJUaGZXZXJseFZGbmtVV3hrUHo1UGhjTEdtTHZWZGNHb3JBR2lubWR0dWZsYjZFT3RmRGZ3OUlEQ0Jkc2JtS1hPclE0UUl6ckJ4azUtMTRNallfOEhxYlBzMWFNc2VHdlBUQ3M0cFhOckJCY251QlZrYVo5OGFCQVMxb3lWSk41NUQtRFlicTdWdUJUN1BKRFpuUkFpenBOZkRwbGZzekZIZlR5anlXU01VcWZGdURDU2VPaEl1UjNGY3NoZ2JGT1hXNzhQTDdaN1J5eWRldktodVFKRlJpVWUzLTZkaUpmeUQ0?oc=5",
+            "published": "2026-11-13T22:13:33.000Z",
+            "snippet": "SpaceX Could Announce a Deal for Tesla as Soon as December. Here's What It Would Do to SpaceX Stock. The Globe and Mail"
+          }
+        }
+      ]
+    }
+  ]
+}

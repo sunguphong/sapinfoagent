@@ -412,5 +412,28 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-12T21:52:28.799Z",
     "finishedAt": "2026-11-12T21:52:28.799Z"
+  },
+  {
+    "id": "20261114001711",
+    "agent": "stock",
+    "startedAt": "2026-11-14T00:17:11.160Z",
+    "date": "2026-11-14",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261114001711.log",
+    "base": "2026-11-14_20261114001711",
+    "fetched": 339,
+    "selected": 50,
+    "usedHours": 24,
+    "feedErrors": [
+      "Yahoo Finance: Status code 404"
+    ],
+    "picked": 14,
+    "html": "2026-11-14_20261114001711.html",
+    "mailId": "<7b8e27a9-73f6-76eb-05a5-f090c24e1001@gmail.com>, <6134cc9e-8b25-e196-cfc4-fc6348891ccc@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-14T00:18:09.673Z",
+    "finishedAt": "2026-11-14T00:18:09.673Z"
   }
 ]
