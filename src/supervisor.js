@@ -36,9 +36,9 @@ async function activeJobs() {
     for (const status of ["in_progress", "queued"]) {
       const { workflow_runs = [] } = await api(`actions/workflows/briefing.yml/runs?status=${status}&per_page=20`);
       for (const wr of workflow_runs) {
-        if (String(wr.id) === process.env.GITHUB_RUN_ID) continue;   // 이 점검 실행이 들어 있는 워크플로는 제외
+        // 같은 워크플로 실행 안의 다른 에이전트도 본다 (PC 가 꺼졌다 켜지면 전부 한 번에 실행 요청됨). 점검 자신의 작업만 뺀다.
         const { jobs = [] } = await api(`actions/runs/${wr.id}/jobs?per_page=50`);
-        for (const j of jobs) { const m = j.status !== "completed" && j.name.match(/^run \((.+)\)$/); if (m) ids.add(m[1]); }
+        for (const j of jobs) { const m = j.status !== "completed" && j.name.match(/^run \((.+)\)$/); if (m && m[1] !== "supervisor") ids.add(m[1]); }
       }
     }
     return ids;
