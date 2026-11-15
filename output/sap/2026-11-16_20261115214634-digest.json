@@ -1,0 +1,217 @@
+{
+  "overview": "SAP가 2026 Gartner 매직 쿼드런트 클라우드 ERP 부문 두 곳(서비스 중심·제품 중심 기업)에서 리더로 선정되고 IDC 평가에서도 리더 두 곳에 이름을 올리며 클라우드 ERP 경쟁력을 다시 인정받았습니다. 반면 이번 SAP 정기 보안 패치데이에서는 최고 심각도 취약점 4건이 공개되어 운영 조직의 신속한 패치 점검이 필요합니다. 기술 측면에서는 ABAP 플랫폼을 에이전틱 AI의 실행 기반으로 삼는 전략과 Joule 중심 AI 플랫폼 소식이 이어졌고, AstraZeneca의 Cloud ERP Private 도입과 네덜란드 국방 클라우드 수주 같은 대형 고객 사례도 나왔습니다. 국내에서는 시흥시가 서울대·SAP코리아와 손잡고 지역 제조기업의 AI 경쟁력 강화에 나섰습니다.",
+  "categories": [
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "SAP, IDC 리더 2관왕… 패치데이에서는 최고 심각도 취약점 4건 공개",
+          "summary": "SAP가 IDC 평가 두 부문에서 리더로 선정되었습니다. 같은 시기 SAP 정기 보안 패치데이에서는 최고 심각도로 분류된 취약점 4건이 공개되었습니다.",
+          "why": "최고 심각도 취약점은 시스템 침해로 바로 이어질 수 있으므로 운영 중인 SAP 시스템에 해당 보안 노트가 적용되었는지 우선 점검해야 합니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP Scores Dual IDC Leadership Nods While Patchday Flags Four Maximum-Severity Flaws - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUzdWc1RKRWFITmNuZzRPMnZaSlRQQVZkcVdrRkVLMTlMdjRhYUphQ3F0Zm1GdThIMlpnWkZreGF5OFkwdnFyVGl3YVVac3BhNDcwaWFOVk9SNDAzMllneVdQSUctaU96bUhxSmZGc2k4RTNBb2U4VjJTQlhodHh3TEh2M2wzNmprdUFIdWhVc2NZcmRMc2lmYVFuQTYzdW0zU3hzTm5TaVdaRFdQTHd2ZmY5RXR0UDdKazBPQi1qWl8tVDN4Zng1cFFnYjh4VURnN3Axdkhra1JVTGdJa3k2d0U4OFRWcm0xRG80Tg?oc=5",
+            "published": "2026-11-15T19:52:18.000Z",
+            "snippet": "SAP Scores Dual IDC Leadership Nods While Patchday Flags Four Maximum-Severity Flaws ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "ABAP 플랫폼, 에이전틱 AI를 위한 엔터프라이즈급 실행 기반으로 진화",
+          "summary": "SAP가 ABAP 플랫폼을 AI 에이전트가 실제 업무를 처리하는 엔터프라이즈급 실행 기반으로 자리매김하겠다는 방향을 밝혔습니다. 기존 ABAP 자산과 비즈니스 로직을 에이전틱 AI 시나리오와 연결하는 것이 핵심입니다.",
+          "why": "ABAP 개발자와 컨설턴트가 기존 커스텀 코드와 기술 역량을 AI 에이전트 시대에 어떻게 활용할지 판단하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3pOZ3JTa3laUTZKUjBseUpjOTJhWVEzWVVtX3hibVU0eGxaRklNa01NUVV3NnBPWG05NHRoXzJfYkk5b3M0ZGVmdGhNN0dtVDV4X3MtUEotcW5sSVA3WkVyalZ4ZUFoYVdBdTZmT1pnV1RlZ3o4SHMzcWNIY2ZIU2dvTl8wZllUa3ItZVIyb2F6bk5HRl9tZG9jXzhZSzJl?oc=5",
+            "published": "2026-11-11T11:16:46.000Z",
+            "snippet": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI SAP News Center"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "SAP, 제품 단위 클라우드 탄소 배출·에너지 데이터 고객에 제공",
+          "summary": "SAP가 고객이 사용하는 클라우드 제품별 탄소 배출량과 에너지 사용 데이터를 직접 확인할 수 있도록 제공하기 시작했습니다. 고객사의 지속가능성 보고와 Scope 3 배출 관리에 활용할 수 있습니다.",
+          "why": "ESG 공시 대응을 지원하는 컨설턴트가 SAP 클라우드 사용분의 배출 데이터를 근거 자료로 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWFZWkRUTzlBN1Rka0R3UkxVZEVJNkE2ejRkRkw4bUdDa0lDeWpVQnM1eXdfbUZpd2hxVk9zLTdQbXJ5QzVnSUNTOHBIdWwzTWpWVWUxQU1POTBLZVk0bTlMZkREM3hzR2JrMFNiUG9EMHZpbFZOSnREVnpHVFZRZWJWVFVFY2ttd1A4TktB?oc=5",
+            "published": "2026-11-12T13:22:12.000Z",
+            "snippet": "SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "자율 비즈니스: Joule Work, Joule Assistants와 SAP Business AI 플랫폼",
+          "summary": "E3-Magazin이 SAP의 자율 비즈니스 비전과 함께 Joule Work, Joule Assistants, SAP Business AI 플랫폼의 구성과 역할을 정리했습니다. Joule을 중심으로 AI 기능을 업무 흐름에 통합하려는 SAP의 전략을 다룹니다.",
+          "why": "Joule 관련 제품군이 빠르게 늘어나는 만큼, 고객에게 AI 로드맵을 제안할 때 각 구성 요소의 위치를 이해하는 데 유용합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Autonomous Business: Joule Work, Joule Assistants, and the SAP Business AI Platform - E3-Magazin",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUE9XZ2laM2ZNOFpNVWZhUDk2MHZTbkJyTWJ5dnhRV0ZjUlN5R3E4c2VKS2xmU2VtVXVVTWtXdC1wU3RKLVlETHRBUmNfYllvZWhZVExJalJXdGtfRGhxQUhGMWJzRERyU24wQm5PWm1RQ2k5Mk85WDVrTXdCRFZlYkxDYUlKNERTZlhlVXMwdGVYajVTc1ZOeFFCSlJEZXEzeU0ybw?oc=5",
+            "published": "2026-11-11T09:00:00.000Z",
+            "snippet": "Autonomous Business: Joule Work, Joule Assistants, and the SAP Business AI Platform E3-Magazin"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "SAP, VF Corporation과 S.Fashion 매장 열어 리테일 AI 실험",
+          "summary": "SAP가 VF Corporation과 함께 S.Fashion 매장을 열어 리테일 분야의 AI 활용을 실제 매장 환경에서 시험하고 있습니다. 매장 운영과 고객 경험에 SAP의 AI 기술을 적용해 보는 실증 사례입니다.",
+          "why": "리테일·패션 산업 고객에게 SAP AI의 현장 적용 사례로 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "SAP, VF Corporation과 함께 S.Fashion 매장을 열어 리테일 AI 시험 - Unite.AI",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmhybDUzbHJReTNMUWpCYWpmTHc2M25FWlJrZVZTX3I4eXNVZ0JjX3pzNnU5TmdDOGQzSGZ6aTlFM1Z1T0t6eUxSOE9OUF9meUo3dXU4QTFBTldTZlBvczExODBBVUJBWWRtVnpjR3pnWVNfY00zYWFxX2lTUnFrVlZOaE5nRkthNWROYVVfQjdPQQ?oc=5",
+            "published": "2026-11-11T13:54:03.000Z",
+            "snippet": "SAP, VF Corporation과 함께 S.Fashion 매장을 열어 리테일 AI 시험 Unite.AI"
+          }
+        },
+        {
+          "index": 29,
+          "title_ko": "BlackLine, SAP 파트너십에 맞춘 AI 로드맵 발표… 기록-보고(R2R) 혁신 목표",
+          "summary": "BlackLine이 SAP와의 파트너십에 맞춰 재무 결산 영역의 AI 로드맵을 발표했습니다. AI 기반으로 기록-보고(Record-to-Report) 프로세스의 표준을 제시하겠다는 계획입니다.",
+          "why": "SAP 재무(FI/CO) 결산 프로젝트에서 BlackLine 연계 솔루션을 검토하는 고객에게 직접 관련된 소식입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "BlackLine Announces AI Roadmap in Alignment with SAP Partnership to Deliver AI-Powered Gold Standard for Record-to-Report - The Manila Times",
+            "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQmpXWmRtS3BkVzRWS2haT3o0MjVlOXZsbDA5SWNuUXRwMHlFN2dsQzRSa3JYY1YtUHF2dGVuXzBhTHBraUhvR2d6YkI3eVNlalV6c3ozcDdYbzBISjRMU21HMnNjT25qMkhpVTR1YzFfcGx3MVlYbUMweWFWenlKc3JiVUF5cURjNmlXdjJ5ckZJWlF4NW1kbXRsVnRGeHphcVh3LTNrTmlxLXZyUEd5eUg1RnpaMUc4WWcyNlVhVUg4WEs2SE1TR00yOUVuM0k1Z0FpUkNSelh6N3gyY01uREFrekQyVHB0R2ticGd1UFVHakdENTJKc3FOSjNjNVBjbGMzNTRuQWtsSVY0OXVkcFl1eHpmRXh1cF9TVFVuLW3SAaYCQVVfeXFMTWNwbk5oMzViVTFxaVJLRG00dFpzWkNwY0dwMW1UWXdSelBnempOVkZrUGE4ZUtSZ21mZ1hSY1NBNEtoQTBCS2dDcnp6RUFuOUF3QzJyX2w0R2hWTUEwWm9pZUZ3Z3ZCZXhCTHJWd0JGSWJJOWpubV84cGk0d1pvTkpidEtrMGF0T1dSSEZrSGVHN29qVlQ5N0dLX3gxaUxraXBFQnZYcXRDMXMzU3hTX3VoNjFBMHgzYldfcHpYVkVscG8yRzU4b0ctNEZEUG1ZUzMybkpSMWhnNEZKVXo5dGdqUVc0aGpwMm9DUkxYcVJUaEk2c3BiSVg4MU14MFNwNFFwQTJ2QnhJUGtqaDNTcnF5SExDY2dDNjFWd1h6bmJpTWVkdWdR?oc=5",
+            "published": "2026-11-09T14:18:46.000Z",
+            "snippet": "BlackLine Announces AI Roadmap in Alignment with SAP Partnership to Deliver AI-Powered Gold Standard for Record-to-Report The Manila Times"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "SAP, 2026 Gartner 매직 쿼드런트 클라우드 ERP 두 부문에서 리더 선정",
+          "summary": "SAP가 2026 Gartner 매직 쿼드런트의 서비스 중심 기업용 클라우드 ERP와 제품 중심 기업용 클라우드 ERP 두 부문에서 모두 리더로 선정되었습니다. SAP 뉴스센터를 통해 공식 발표되었습니다.",
+          "why": "고객사 경영진 대상 S/4HANA Cloud 전환 제안 시 객관적인 외부 평가 근거로 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric Enterprises - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXlYbmtaY21GakZsX1poTUVuOEJHNXpUYWpkbW5meHR2bmxVMGtxTDkwOVFmeWxzUEJqSDkydkdjQ2IxRFU5V0hKT2FDYTlLYjhreFRydGtjN21IQjFaWk1OcldDWGlNUEhVRFRrZERST3c2anFEWFVzbk1pRHlsNW44UFVyTU9iVWVLVnF3WjdkNkN6WE9LRWpfOGZUMDFvN2c2X1pGM2ZFbEFl?oc=5",
+            "published": "2026-11-09T12:16:41.000Z",
+            "snippet": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric Enterprises SAP News Center"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "AstraZeneca, SAP Cloud ERP Private 도입… 자사주 매입은 960만 주 근접",
+          "summary": "글로벌 제약사 AstraZeneca가 SAP Cloud ERP Private 고객 대열에 합류했습니다. 한편 SAP의 자사주 매입 규모는 약 960만 주에 근접했습니다.",
+          "why": "대형 제약사의 RISE 기반 Private Cloud 전환 사례로, 규제 산업 고객 제안 시 참고가 됩니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP's Buyback Nears 9.6 Million Shares as AstraZeneca Joins Cloud ERP Private - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNTQzanpJdGVuZlFEM0VRZDRIRzlSS0t6cS1Tbko2TFlfUVdGQnFIamRWM1VIQWhWY2pWbHZUc0ZRWXVmSDhKS3Vfa1RWRWdWcTVzS3FOWGtGck5ycTBwUW5oc0RSN0d4MHI3X3p3ZzV3aTZfOUtQLW1mQ2U4X1Q5MVVmUHU4UXVDaHFxazhYcllNZVc2a1RpNi1sTWFNSjJnWjFJejlYWEdsZFlkMnQzVFdib0RNSkdBWmlkcl9BSmtTSjZqXzVaeFh2a2tHMURNeTdHaWZiU0ZON0xKc1BrZEZyVQ?oc=5",
+            "published": "2026-11-15T03:01:33.000Z",
+            "snippet": "SAP's Buyback Nears 9.6 Million Shares as AstraZeneca Joins Cloud ERP Private ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "SAP, 네덜란드 국방 클라우드 사업 수주",
+          "summary": "SAP가 네덜란드 국방 분야의 클라우드 사업을 수주했습니다. 보안 요구 수준이 높은 공공·국방 영역에서 SAP 클라우드 채택이 확대되고 있음을 보여줍니다.",
+          "why": "공공·국방 등 데이터 주권과 보안을 중시하는 고객의 클라우드 전환 논의에 참고할 만한 사례입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Lands Dutch Defence Cloud Mandate as Buyback Swells Past 9.6 Million Shares - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWTA3emFpUFFPRnhrUzhzTDNfbVZhVnAybEZ6bm12NWhvaDRLMVdXaUxFZktUaWZZaVFCUFZIRnpnQzBQWFNrLXROaDNhbUZVd252UXpJcW9YU2R2QzJBaExja1JaVi0xZDlha3VJYXZUU0twRV9NM3pPNW0zXzVuNURMdXZWLUFSb09waTluUmFtR29IWTBLdWRsLTFveFk2V19yZGZLZXlUalZZdVFhc28zRFhKc0JhQ1VCOGhUSDFIdHExN2s0RGxJWUNkZG40LWZmVG84d3p6QlNxbVMwNXdhSFBBdw?oc=5",
+            "published": "2026-11-10T19:01:39.000Z",
+            "snippet": "SAP Lands Dutch Defence Cloud Mandate as Buyback Swells Past 9.6 Million Shares ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "성공적인 SAP 전환은 기술이 아니라 비즈니스 프로세스에서 시작된다",
+          "summary": "SAP 뉴스센터가 SAP 전환 프로젝트의 성공 요인으로 기술보다 비즈니스 프로세스 중심 접근을 강조했습니다. 프로세스 재설계를 먼저 하고 그다음 기술을 적용해야 한다는 메시지입니다.",
+          "why": "S/4HANA 전환 프로젝트에서 프로세스 우선 접근법을 고객에게 설득할 때 근거로 쓸 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Successful SAP Transformation Starts With Business Processes, Not Tech - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdG1KVTBFTFQ5ZS1zVU9QeWx1NVZTNlcyMzBxVS1nTVhCSkN1cWhhenhvWXFZNk1UTkhyQldtOGV6d1Buc3pCamw4eGhJQ2NZeERnNUg1MWhtUDUza3hKNUxobFFGanZhLU54VkNBSmlWVW13blJ6WFpXamhlYV93MDZHdjM?oc=5",
+            "published": "2026-11-13T11:21:23.000Z",
+            "snippet": "Successful SAP Transformation Starts With Business Processes, Not Tech SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 22,
+          "title_ko": "시흥시, 서울대·SAP코리아와 협력해 지역 제조기업 AI 경쟁력 강화",
+          "summary": "임병택 시흥시장이 서울대, SAP코리아와 협력해 지역 제조기업의 AI 경쟁력 강화에 나선다고 밝혔습니다. 같은 시기 시흥시는 11월 17일 중소 제조기업을 대상으로 한 'AX 인사이트 세미나' 개최 소식도 알렸습니다.",
+          "why": "SAP코리아가 지자체와 함께 중소 제조기업 AI 전환에 참여하는 사례로, 국내 중견·중소 제조업 시장의 움직임을 보여줍니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "임병택 시흥시장, 지역 제조기업 AI 경쟁력 강화…서울대·SAP코리아와 협력 - 필드뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qdV9qRTJFRzRuRkwwMG9uWk13RDNlYTRRRjFSTkl5SktTcE9sRkNZei1wYko1UGg5UUM5Q2sxak1DVmhlSmJiRVI5SjViZE5NcWotLXZreUdqNlRtZnJrZEJXcy1QWGtH0gFsQVVfeXFMTWNKUlRyeC1EVjRxYmx0UjM3d25OVzdBTzN6aGZQM2tNOTIxSUJBekRJVmMzZ0JhTHg1V2d1U1doV0x6M0ltRWkxakVibV9NQWh0ekRHT0ZRd2ZIMFpKMXZoY01jd2RXekNZTERj?oc=5",
+            "published": "2026-11-11T00:48:39.000Z",
+            "snippet": "임병택 시흥시장, 지역 제조기업 AI 경쟁력 강화…서울대·SAP코리아와 협력 필드뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 9,
+          "title_ko": "2026년 SAP 에이전틱 AI 교육을 진행하며 배운 5가지",
+          "summary": "한 SAP 전문가가 2026년 7월부터 4개월 동안 아일랜드에서 2일 과정의 에이전틱 AI 교육을 다섯 차례 진행하고 C_JSD(Joule Studio Developer) 자격을 취득한 경험을 공유했습니다. 수백 명의 SAP 실무자에게 Joule 에이전트 개발을 가르치며 얻은 교훈을 정리했습니다.",
+          "why": "Joule Studio 자격 취득과 에이전트 개발 역량을 쌓으려는 컨설턴트에게 현실적인 학습 방향을 제시합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "5 things I learned facilitating SAP's Agentic AI training in 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/5-things-i-learned-facilitating-sap-s-agentic-ai-training-in-2026/ba-p/14522545",
+            "published": "2026-11-15T00:13:14.000Z",
+            "snippet": "5 things I learned facilitating SAP's Agentic AI training across Ireland in 2026In July 2026 I made a decision to actively rebuild my SAP AI skills. Four months later I had facilitated five two-day Agentic AI sessions, earned my C_JSD (Joule Studio Developer) certification, and stood in front of hundreds of SAP professionals teaching them how to build Joule agents. This post is not about what I ta"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "SAP 프랙티스를 처음부터 구축하는 방법",
+          "summary": "IgniteSAP이 SAP 사업 조직(프랙티스)을 처음부터 구축하는 방법을 다뤘습니다. 인력 구성, 역량 확보, 사업 기반 마련 등 초기 단계의 고려 사항을 정리했습니다.",
+          "why": "SAP 사업을 새로 시작하거나 확장하려는 컨설팅사·파트너사에게 실무적인 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Building an SAP Practice From Scratch - IgniteSAP",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jU3dOVUQ1VmRtVGZ4R3dNVWdad0xURmljUTVrdnpfS2R5UXYyZkg1OUR6cy1ad3VJckJzVzJxV1BPc2t0c1puZTRYVWU2SV9aUXllZFlTWnluVDZIanFEcHlERnUzVzV3?oc=5",
+            "published": "2026-11-11T12:59:46.000Z",
+            "snippet": "Building an SAP Practice From Scratch IgniteSAP"
+          }
+        }
+      ]
+    },
+    {
+      "name": "세미나·박람회·웨비나",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "[12.03] SAP Executive Exchange for Busan(Automotive)",
+          "summary": "2026년 12월 3일(목) 부산광역시 부산진구에서 열리는 자동차 산업 대상 SAP 임원 교류 행사입니다. 무료 강연·세미나 형식이며, 오늘 기준 외부 접수 마감 2주 전입니다.",
+          "why": "부산·경남 지역 자동차 산업 고객과 SAP의 AI 전략을 직접 접할 수 있는 지역 행사입니다.",
+          "article": {
+            "source": "온오프믹스 SAP 행사",
+            "title": "SAP Executive Exchange for Busan(Automotive)",
+            "link": "https://onoffmix.com/event/353329",
+            "published": "2026-11-15T21:46:36.256Z",
+            "snippet": "일시: 2026.12.3 (목) 0:00 ~ 23:59 / 장소: 부산광역시 부산진구 / 무료 강연/세미나 / 접수 상태(오늘 기준): 외부접수 마감 2주전 / 태그: #sap #AI #Busan"
+          }
+        }
+      ]
+    }
+  ]
+}
