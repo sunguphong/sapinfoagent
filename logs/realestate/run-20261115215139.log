@@ -1,0 +1,14 @@
+2026-11-15T21:51:40.147Z run 20261115215139 start (agent=realestate "부동산 브리핑", source=github, mode=send)
+2026-11-15T21:51:40.148Z collecting from 8 feeds...
+2026-11-15T21:51:49.974Z fetched 0, selected 0 (last 72h), feed errors: 8
+2026-11-15T21:51:49.975Z feed error: Google News 동탄 트램: Status code 503
+2026-11-15T21:51:49.975Z feed error: Google News GTX-C: Status code 503
+2026-11-15T21:51:49.975Z feed error: Google News 동탄: Status code 503
+2026-11-15T21:51:49.975Z feed error: Google News 부동산 시장: Status code 503
+2026-11-15T21:51:49.975Z feed error: Google News 아파트 매매·전세: Status code 503
+2026-11-15T21:51:49.975Z feed error: Google News 분양·청약: Status code 503
+2026-11-15T21:51:49.975Z feed error: Google News 대출·금리: Status code 503
+2026-11-15T21:51:49.975Z feed error: Google News 정책·규제: Status code 503
+2026-11-15T21:51:49.975Z ERROR Error: 수집된 기사가 없습니다
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:100:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)

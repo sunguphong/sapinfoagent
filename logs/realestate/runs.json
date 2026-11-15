@@ -502,5 +502,31 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-14T21:52:44.206Z",
     "finishedAt": "2026-11-14T21:52:44.206Z"
+  },
+  {
+    "id": "20261115215139",
+    "agent": "realestate",
+    "startedAt": "2026-11-15T21:51:39.789Z",
+    "date": "2026-11-16",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261115215139.log",
+    "base": "2026-11-16_20261115215139",
+    "fetched": 0,
+    "selected": 0,
+    "usedHours": 72,
+    "feedErrors": [
+      "Google News 동탄 트램: Status code 503",
+      "Google News GTX-C: Status code 503",
+      "Google News 동탄: Status code 503",
+      "Google News 부동산 시장: Status code 503",
+      "Google News 아파트 매매·전세: Status code 503",
+      "Google News 분양·청약: Status code 503",
+      "Google News 대출·금리: Status code 503",
+      "Google News 정책·규제: Status code 503"
+    ],
+    "error": "수집된 기사가 없습니다",
+    "finishedAt": "2026-11-15T21:51:49.976Z"
   }
 ]
