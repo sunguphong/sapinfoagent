@@ -528,5 +528,26 @@
     ],
     "error": "수집된 기사가 없습니다",
     "finishedAt": "2026-11-15T21:51:49.976Z"
+  },
+  {
+    "id": "20261115232227",
+    "agent": "realestate",
+    "startedAt": "2026-11-15T23:22:27.335Z",
+    "date": "2026-11-16",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261115232227.log",
+    "base": "2026-11-16_20261115232227",
+    "fetched": 267,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 23,
+    "html": "2026-11-16_20261115232227.html",
+    "mailId": "<a6fce13c-516e-6111-fbac-6185112f811b@gmail.com>, <56f6e264-83ea-5b5f-a6e5-f230769c83c9@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-15T23:23:31.488Z",
+    "finishedAt": "2026-11-15T23:23:31.488Z"
   }
 ]
