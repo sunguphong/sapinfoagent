@@ -552,5 +552,28 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-15T21:52:41.923Z",
     "finishedAt": "2026-11-15T21:52:41.923Z"
+  },
+  {
+    "id": "20261116215148",
+    "agent": "sapmm-jobs",
+    "startedAt": "2026-11-16T21:51:48.467Z",
+    "date": "2026-11-17",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261116215148.log",
+    "base": "2026-11-17_20261116215148",
+    "fetched": 268,
+    "selected": 120,
+    "usedHours": 336,
+    "feedErrors": [
+      "Google News 아주스틸: Status code 429"
+    ],
+    "picked": 16,
+    "html": "2026-11-17_20261116215148.html",
+    "mailId": "<61a68f64-8d3e-c5c9-5316-14fe7d96d9e9@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-16T21:53:19.602Z",
+    "finishedAt": "2026-11-16T21:53:19.602Z"
   }
 ]

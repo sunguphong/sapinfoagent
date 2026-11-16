@@ -1,0 +1,11 @@
+2026-11-16T21:51:49.032Z run 20261116215148 start (agent=sapmm-jobs "SAP MM 구인정보", source=github, mode=send)
+2026-11-16T21:51:49.032Z collecting from 9 feeds...
+2026-11-16T21:52:01.362Z fetched 268, selected 120 (last 336h), feed errors: 1
+2026-11-16T21:52:01.363Z feed error: Google News 아주스틸: Status code 429
+2026-11-16T21:52:29.351Z company info: 6 / 24 companies
+2026-11-16T21:52:29.354Z job history: 274 postings, 49 cards with repeat company
+2026-11-16T21:52:29.356Z new: 17 / 120
+2026-11-16T21:52:29.356Z summarizing with claude (opus)...
+2026-11-16T21:53:17.977Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sapmm-jobs/2026-11-17_20261116215148.html
+2026-11-16T21:53:19.599Z mail sent: <61a68f64-8d3e-c5c9-5316-14fe7d96d9e9@gmail.com> -> upsan77@gmail.com
+2026-11-16T21:53:19.602Z done
