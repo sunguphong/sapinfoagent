@@ -1,0 +1,10 @@
+2026-11-16T21:51:29.553Z run 20261116215129 start (agent=smallbiz "소상공인 지원 브리핑", source=github, mode=send)
+2026-11-16T21:51:29.554Z collecting from 14 feeds...
+2026-11-16T21:51:35.983Z fetched 294, selected 60 (last 24h), feed errors: 3
+2026-11-16T21:51:35.984Z feed error: Google News 경기도·경기신보 소상공인 (KR): Status code 429
+2026-11-16T21:51:35.984Z feed error: Google News 피부관리·미용업 정책 (KR): Status code 429
+2026-11-16T21:51:35.984Z feed error: Google News 소진공·중기부 (KR): Status code 429
+2026-11-16T21:51:35.985Z summarizing with claude (opus)...
+2026-11-16T21:52:03.637Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/smallbiz/2026-11-17_20261116215129.html
+2026-11-16T21:52:05.367Z mail sent: <46924399-b950-cfe9-5e18-df1cd1529e81@gmail.com>, <11d3b491-b43b-2bf9-ea97-1b40e2d3132f@gmail.com> -> upsan77@gmail.com,zheng0107@daum.net
+2026-11-16T21:52:05.368Z done

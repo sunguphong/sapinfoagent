@@ -470,5 +470,30 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-15T21:52:29.948Z",
     "finishedAt": "2026-11-15T21:52:29.948Z"
+  },
+  {
+    "id": "20261116215129",
+    "agent": "smallbiz",
+    "startedAt": "2026-11-16T21:51:29.520Z",
+    "date": "2026-11-17",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261116215129.log",
+    "base": "2026-11-17_20261116215129",
+    "fetched": 294,
+    "selected": 60,
+    "usedHours": 24,
+    "feedErrors": [
+      "Google News 경기도·경기신보 소상공인 (KR): Status code 429",
+      "Google News 피부관리·미용업 정책 (KR): Status code 429",
+      "Google News 소진공·중기부 (KR): Status code 429"
+    ],
+    "picked": 6,
+    "html": "2026-11-17_20261116215129.html",
+    "mailId": "<46924399-b950-cfe9-5e18-df1cd1529e81@gmail.com>, <11d3b491-b43b-2bf9-ea97-1b40e2d3132f@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-16T21:52:05.368Z",
+    "finishedAt": "2026-11-16T21:52:05.368Z"
   }
 ]
