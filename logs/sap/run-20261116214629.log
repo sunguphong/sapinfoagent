@@ -1,0 +1,8 @@
+2026-11-16T21:46:29.421Z run 20261116214629 start (agent=sap "SAP 브리핑", source=github, mode=send)
+2026-11-16T21:46:29.422Z collecting from 7 feeds...
+2026-11-16T21:46:30.373Z fetched 80, selected 40 (last 24h), feed errors: 1
+2026-11-16T21:46:30.373Z feed error: Google News (EN): Status code 429
+2026-11-16T21:46:30.374Z summarizing with claude (opus)...
+2026-11-16T21:47:17.630Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sap/2026-11-17_20261116214629.html
+2026-11-16T21:47:18.661Z mail sent: <95a7d889-f60f-298d-8f79-fab68cf7bfc6@gmail.com> -> upsan77@gmail.com
+2026-11-16T21:47:18.662Z done

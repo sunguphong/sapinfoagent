@@ -525,5 +525,28 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-15T21:47:19.649Z",
     "finishedAt": "2026-11-15T21:47:19.649Z"
+  },
+  {
+    "id": "20261116214629",
+    "agent": "sap",
+    "startedAt": "2026-11-16T21:46:29.410Z",
+    "date": "2026-11-17",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261116214629.log",
+    "base": "2026-11-17_20261116214629",
+    "fetched": 80,
+    "selected": 40,
+    "usedHours": 24,
+    "feedErrors": [
+      "Google News (EN): Status code 429"
+    ],
+    "picked": 18,
+    "html": "2026-11-17_20261116214629.html",
+    "mailId": "<95a7d889-f60f-298d-8f79-fab68cf7bfc6@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-16T21:47:18.661Z",
+    "finishedAt": "2026-11-16T21:47:18.661Z"
   }
 ]

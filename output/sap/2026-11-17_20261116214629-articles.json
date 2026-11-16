@@ -1,0 +1,282 @@
+[
+  {
+    "source": "온오프믹스 SAP 행사",
+    "title": "SAP Executive Exchange for Busan(Automotive)",
+    "link": "https://onoffmix.com/event/353329",
+    "published": "2026-11-16T21:46:30.372Z",
+    "snippet": "일시: 2026.12.3 (목) 0:00 ~ 23:59 / 장소: 부산광역시 부산진구 / 무료 강연/세미나 / 접수 상태(오늘 기준): 외부접수 마감 2주전 / 태그: #sap #AI #Busan"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "More Control Over Your Notifications: New Subscription Enhancements in SAP for Me",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/more-control-over-your-notifications-new-subscription-enhancements-in-sap/ba-p/14493715",
+    "published": "2026-11-16T17:00:00.000Z",
+    "snippet": "While SAP for Me is a valuable tool for managing your products and services, SAP needs customer feedback to know what works, what doesn’t, and what can be improved. Based on feedback, we identified two notification changes to help you organize your inbox and what notifications you receive. These enhancements increase your notification subscription experience and to give you greater flexibility. Th"
+  },
+  {
+    "source": "SAP News Center",
+    "title": "SAP Completes Acquisition of TechWolf",
+    "link": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
+    "published": "2026-11-16T15:00:00.000Z",
+    "snippet": "WALLDORF — SAP has completed the acquisition of the AI work intelligence platform provider."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Try SAP RPT in Joule Work & AI Assistants (Claude Code, Codex, Cursor...) via MCP for Free",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/try-sap-rpt-in-joule-work-amp-ai-assistants-claude-code-codex-cursor-via/ba-p/14519852",
+    "published": "2026-11-16T13:40:03.000Z",
+    "snippet": "In this article, you will learn what SAP RPT (Relational Pre-trained Transforme is, how its three specialized models (SAP RPT 1.6, RPT-TS, and RPT Decision) work, and how to structure requests for each of their API endpoints.You will also walk through how to get your free API token from the SAP RPT Playground and connect it to SAP RPT Playground MCP, an open-source, free-to-use MCP server with 12 "
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Python package hana_ml reading user details from SAP Credential Store",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/python-package-hana-ml-reading-user-details-from-sap-credential-store/ba-p/14520723",
+    "published": "2026-11-16T13:22:29.000Z",
+    "snippet": "&nbsp;"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "ALMathon EMEA 2026: Partner Innovation for SAP Cloud ALM",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/almathon-emea-2026-partner-innovation-for-sap-cloud-alm/ba-p/14523236",
+    "published": "2026-11-16T13:22:04.000Z",
+    "snippet": "Ten SAP partner teams. One hackathon. Dozens of new ideas that could reshape how SAP Cloud ALM is used in the real world. Meet the innovators behind the ALMathon EMEA 2026 — and discover the AI-powered solutions that are already on their way to the SAP Store."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "MDK for Windows - Using SAP AI Core In SSAM for Windows",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/mdk-for-windows-using-sap-ai-core-in-ssam-for-windows/ba-p/14523062",
+    "published": "2026-11-16T13:08:48.000Z",
+    "snippet": "MDK for Windows now supports SAP AI Core — bring GPT-4o, Gemini, and Claude directly into your enterprise Windows app with zero custom HTTP code. This post walks through the full setup, both native action types, multi-turn chat, tool calling, image generation, and safety controls, with working code from the MDK Demo app."
+  },
+  {
+    "source": "SAP News Center",
+    "title": "Order Management Built Straight into SAP",
+    "link": "https://news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream/",
+    "published": "2026-11-16T12:15:00.000Z",
+    "snippet": "The fewer systems you have to stitch together, the fewer things there are to break."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Vue.js + UI5 Web Components: A Practical Guide for SAP Developers",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/vue-js-ui5-web-components-a-practical-guide-for-sap-developers/ba-p/14523116",
+    "published": "2026-11-16T11:24:00.000Z",
+    "snippet": "SAP added Vue.js and React support to CAP - my time has finally come. Read what a modern, reactive frontend framework means and how you can benefit. It comes with some changes, but I'd bet you won't regret to switch."
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Design Before You Build: How Skill Architect Helps You Plan a Joule Skill in Minutes !",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/design-before-you-build-how-skill-architect-helps-you-plan-a-joule-skill-in/ba-p/14522418",
+    "published": "2026-11-16T11:19:12.000Z",
+    "snippet": "The questions I kept answering from scratchI built my first Joule skill the way most people do: I opened SKILL.md and started writing. The second one worked too, but it had a different structure and handled errors differently. By the third, I noticed I was making the same decisions every time.What kind of skill is this? What should the output look like? What happens when the data source returns no"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "LangGraph Orchestration: Learning Management Agent",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/langgraph-orchestration-learning-management-agent/ba-p/14523104",
+    "published": "2026-11-16T11:04:55.000Z",
+    "snippet": "Discover how LangGraph powers a multi-agent Learning Management System (LMS) through a stateful orchestration workflow. Explore how a supervisor intelligently routes queries to specialized LMS, Academic Advisor, and Analytics agents, manages shared state, and combines their results into a single response. Learn about the core concepts of nodes, edges, conditional routing, and state management thro"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "AI-Powered Test Case Creation with SAP CaseCrafter: Experience from customer project - Part 2",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/ai-powered-test-case-creation-with-sap-casecrafter-experience-from-customer/ba-p/14521531",
+    "published": "2026-11-16T09:57:14.000Z",
+    "snippet": "Lessons from a real S/4HANA Transformation Project – Part 2"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Know Your Groups and How They Land in the Identity Directory",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/know-your-groups-and-how-they-land-in-the-identity-directory/ba-p/14522029",
+    "published": "2026-11-16T09:13:53.000Z",
+    "snippet": "Once multiple applications start provisioning groups into the Identity Directory, administrators face a common challenge: How do you tell where groups come from? SAP Cloud Identity Services provide two mechanisms to address this challenge: group prefixes and application IDs. While both help identify the source of a group, they serve different purposes.In November 2026, SAP Cloud Identity Services "
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Everybody Is Talking About the AI Iceberg – But Let's Turn It Around!",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/everybody-is-talking-about-the-ai-iceberg-but-let-s-turn-it-around/ba-p/14522209",
+    "published": "2026-11-16T08:09:06.000Z",
+    "snippet": "AI is everywhere….But while everybody is talking about AI agents, we believe there is another conversation worth having: What does it actually take to integrate these agents into an enterprise landscape and what AI foundation platform is required?When discussing agentic AI, the focus is often on what is visible: intelligent agents, their capabilities, and the business value they promise.However, s"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "Predicting Failure Before It Starts: SAP Teams Bring Causal AI to Cloud Operations",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/predicting-failure-before-it-starts-sap-teams-bring-causal-ai-to-cloud/ba-p/14514922",
+    "published": "2026-11-16T08:00:00.000Z",
+    "snippet": "At the SAP AI & Predictive Summit 2026, held October 20 and 21, Cloud Service Management's Quality & Reliability Management team and Infrastructure Platform Engineering & Delivery's Cloud Observability AIHub presented a system that is reshaping how SAP manages cloud infrastructure. Powered by Causal AI, the predictive anomaly detection system can identify the likely root cause of a hardware failur"
+  },
+  {
+    "source": "SAP Community (Technology Blog)",
+    "title": "New SAP Signavio Process Intelligence Value Accelerator for SAP Ariba Invoicing",
+    "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/new-sap-signavio-process-intelligence-value-accelerator-for-sap-ariba/ba-p/14522935",
+    "published": "2026-11-16T07:55:12.000Z",
+    "snippet": "A new analysis dashboard in SAP Signavio gives Procure-to-Pay leaders the visibility to reduce invoice processing costs, eliminate payment leakage, and close the exceptions loop — fast."
+  },
+  {
+    "source": "SAP News Center",
+    "title": "India’s Rise: From Promise to Platform for Global Growth",
+    "link": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth/",
+    "published": "2026-11-16T05:15:00.000Z",
+    "snippet": "For much of the past three decades, India's global economic story was defined by potential. That narrative has changed dramatically."
+  },
+  {
+    "source": "Google News (KR)",
+    "title": "신원, 3분기 누적 영업익 176억원…전년比 102% 급증 - 더팩트",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiZ1c0c0xfUUVDXzNtUWRXTXpzVkc4LS1meVpoS1cxRmFJb1cwNTMwdm9xUlJaSTZ6REdxM2l6ZFlpd0pfUE5Dd2xIWExiMVk5M1A2cNIBVEFVX3lxTFBiZ1c0c0xfUUVDXzNtUWRXTXpzVkc4LS1meVpoS1cxRmFJb1cwNTMwdm9xUlJaSTZ6REdxM2l6ZFlpd0pfUE5Dd2xIWExiMVk5M1A2cA?oc=5",
+    "published": "2026-11-16T01:43:00.000Z",
+    "snippet": "신원, 3분기 누적 영업익 176억원…전년比 102% 급증 더팩트"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "AI shopping_285388_iStock-598552452 - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObFhtRUxCZl9PZFI0ZjNfSXRBZ2hwaFdHLUVIcGZzV0hzR0ljaThHa2lnMXdHRVlaeVNOR2xlbXRVenZ0NS1ZaV8tWmFyUi1oTm5Dc3o2WGEzSENpYkF6S09RNXJORTg4MHREcm9aQTBFb0ZBdEZYVXR4SWpWYnQ2c0s2aXVjdlNYQ0lVVEtGTldjRWRiQ3l6UmdzbzdJUXQ1bmo1S1BoRVF2dEZaX0FoZXlKUVBhemNSc1dOVjlWZk03RHBEdXhGSEpFUGRHRkJKanhBSVJfeDVFa2ZVbWxOODNmdGlxRmV1UlNadnZON0d4aVBsRGVabzMyZXY?oc=5",
+    "published": "2026-11-13T21:31:44.000Z",
+    "snippet": "AI shopping_285388_iStock-598552452 SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Successful SAP Transformation Starts With Business Processes, Not Tech - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdG1KVTBFTFQ5ZS1zVU9QeWx1NVZTNlcyMzBxVS1nTVhCSkN1cWhhenhvWXFZNk1UTkhyQldtOGV6d1Buc3pCamw4eGhJQ2NZeERnNUg1MWhtUDUza3hKNUxobFFGanZhLU54VkNBSmlWVW13blJ6WFpXamhlYV93MDZHdjM?oc=5",
+    "published": "2026-11-13T11:21:23.000Z",
+    "snippet": "Successful SAP Transformation Starts With Business Processes, Not Tech SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "젠컨설팅, ‘From Vision to Action’ 세미나 개최 … AI 도입 전략·실무 적용 방안 공유 - 데이터넷",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMkdITlNlcTFlSGR4TmoteTJHcFdYVGlqTkpxSTBnMVdYb3VJYUJSeEpsQXV0MmN4UGxOS2FQTld4eTFJeWdjdGc1N2VGdjMtMV9zYWs4TjllNXc1S2hSUlY3Qk51NXlzM1ZibQ?oc=5",
+    "published": "2026-11-13T00:40:39.000Z",
+    "snippet": "젠컨설팅, ‘From Vision to Action’ 세미나 개최 … AI 도입 전략·실무 적용 방안 공유 데이터넷"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWFZWkRUTzlBN1Rka0R3UkxVZEVJNkE2ejRkRkw4bUdDa0lDeWpVQnM1eXdfbUZpd2hxVk9zLTdQbXJ5QzVnSUNTOHBIdWwzTWpWVWUxQU1POTBLZVk0bTlMZkREM3hzR2JrMFNiUG9EMHZpbFZOSnREVnpHVFZRZWJWVFVFY2ttd1A4TktB?oc=5",
+    "published": "2026-11-12T13:22:12.000Z",
+    "snippet": "SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Outside AI Agents Are Locked Out. Software Vendors Want a Toll. - AIM Media House",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOak9hSGZQVzJacllDa1pGYzZxaUwyTkJLMzk2c0Y5dzd3VHlpczA3X2hrcV94WlBvVkotYmNNemRuY2laUkhwOVlXdG5aY3E0b0cwN2g0U0IxUjVqS1ZGM1ZsUmlYRzJEaS1vRFJaOFZ6UkI4OVNxRXBiOWpFR1Q1c0FOS1J0Rk0yakYxMm1TSXJjb0phUW1qaTZqcw?oc=5",
+    "published": "2026-11-12T11:52:30.000Z",
+    "snippet": "Outside AI Agents Are Locked Out. Software Vendors Want a Toll. AIM Media House"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP AI: More Risk Than ERP Value - E3-Magazin",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMYW1FMlctbHE1aW1UcnBaUW4zbzdBQm1RMmhTYnAwMVVpdmhhN1Vna1kxSzhWWVRzUHVHZ0dsMDBOTFI3OExqaTJseVZrd2xwVlhTNTNObVFCeHhpdWdOMTNXZ3kzU3ZpenZiTHlVNGdsUQ?oc=5",
+    "published": "2026-11-12T11:15:00.000Z",
+    "snippet": "SAP AI: More Risk Than ERP Value E3-Magazin"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "젠컨설팅, 'From Vision to Action' 세미나 성료…기업 AI 도입 실무 방안 제시 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GTE5LazlnTEp4Nk1hajl6T3ExdFdFMVllbDZnSGMzajJkQzBRc2lrT1pEbWQ5a0J1azFFemhzRC14T3o1ZTc5SFU2UXlVQQ?oc=5",
+    "published": "2026-11-12T09:37:25.000Z",
+    "snippet": "젠컨설팅, 'From Vision to Action' 세미나 성료…기업 AI 도입 실무 방안 제시 전자신문"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP Fioneer Five Years On: Banking & Insurance SAP Careers - IgniteSAP",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByREdJRW10RjEwMU9oRzRURHc5WTRENlh3bUJUUEYzVnRFNFRUV2RvTGtqdi1NZl84azlob0YwZk5VbEctQmpYSUI2LU1nTVFKcXZ6Rk80M3JQZThoYnVaekRUdzBFY3NGYUdaZm82OUZhdw?oc=5",
+    "published": "2026-11-12T09:04:00.000Z",
+    "snippet": "SAP Fioneer Five Years On: Banking & Insurance SAP Careers IgniteSAP"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "From funding to closeout: Managing sponsored projects in Workday - Johns Hopkins University",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUpkbHc0RUlwNGk2cGN2WTFOM0huaG5CaThjdktQY3gwWTBHM25Pc2I4TEVFNlRxYnpFUHBLdzM2UmlVdlZyNnU1aC1GX1FEM0VLeV9xb1VYUVUzQjJJeUJrdlNhYXJ4ejBzNUVyOG9zNkJtYVlyMk5GTTkwT2JtdkJHUGk?oc=5",
+    "published": "2026-11-12T08:30:34.000Z",
+    "snippet": "From funding to closeout: Managing sponsored projects in Workday Johns Hopkins University"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "CyberRisk Collaborative Announces Virtual Event on Post-Quantum Readiness - The Quantum Insider",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjdYRDZlQS01M3p3a0lJdEQtejVKUkpILXpkSUppSjlUQzhVRTl5WFZpVERPSG1vc0pNVjBRQjZIbE5oTjVIY3FYdjNOV2k2dHVqQlRYQ2l0VVlqMnh6RUdiTHdXZWFwazQ2anJFX0RycnprWXJEQ29RMXdwM0lla3pKVi1iQXVNbnAxR3FnaDlGWDVtbm9hX3Q1dmFaQWJyM2drZg?oc=5",
+    "published": "2026-11-12T08:29:35.000Z",
+    "snippet": "CyberRisk Collaborative Announces Virtual Event on Post-Quantum Readiness The Quantum Insider"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP (NYSE:SAP) Stock Forecast & Analyst Predictions - Simply Wall St",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1eVNPUkNrVXNuWlhyM0xaUGpfVTg5cUVWTFVPeVhUalhyeUw2T1A4clFybHY1dnJFUmU4R0xtRFhCa2xzd2VnTDBMV21iT2tmSkpVblZHSnRDeWR4X1NwdTY1QlVTRWlKWl9Ucg?oc=5",
+    "published": "2026-11-12T08:00:00.000Z",
+    "snippet": "SAP (NYSE:SAP) Stock Forecast & Analyst Predictions Simply Wall St"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "SAP (XTRA:SAP) Stock Forecast & Analyst Predictions - Simply Wall St",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCZkY0eWVFREladGxvQmJBWXktWHBKTGVqTUNSSXV2d3hESmZxcEtGaHZmNFdnR1VRak15QU5ZWkRBV2cwSDBJQk93dzR5bUh1MFFualdsbExJUU5xLThSTFVYNnJMLUxYWU5PbGZOMUlIakM5?oc=5",
+    "published": "2026-11-12T08:00:00.000Z",
+    "snippet": "SAP (XTRA:SAP) Stock Forecast & Analyst Predictions Simply Wall St"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "젠컨설팅, 기업 AI 도입 전략 세미나 개최 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yOWJuQkpWclpMdTlvZDE0ZmFaZmQ2X2prQWtRd1o0VWxXbEt6bFhNMFk1Tl9tNGFaWW50TC1HZ3pWcXVUcUV0TFVKWlh3SUFSM0d5LUd5a1lZdlFs?oc=5",
+    "published": "2026-11-12T07:20:00.000Z",
+    "snippet": "젠컨설팅, 기업 AI 도입 전략 세미나 개최 뉴스핌"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "SAP, VF Corporation과 함께 S.Fashion 매장을 열어 리테일 AI 시험 - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmhybDUzbHJReTNMUWpCYWpmTHc2M25FWlJrZVZTX3I4eXNVZ0JjX3pzNnU5TmdDOGQzSGZ6aTlFM1Z1T0t6eUxSOE9OUF9meUo3dXU4QTFBTldTZlBvczExODBBVUJBWWRtVnpjR3pnWVNfY00zYWFxX2lTUnFrVlZOaE5nRkthNWROYVVfQjdPQQ?oc=5",
+    "published": "2026-11-11T13:54:03.000Z",
+    "snippet": "SAP, VF Corporation과 함께 S.Fashion 매장을 열어 리테일 AI 시험 Unite.AI"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Building an SAP Practice From Scratch - IgniteSAP",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jU3dOVUQ1VmRtVGZ4R3dNVWdad0xURmljUTVrdnpfS2R5UXYyZkg1OUR6cy1ad3VJckJzVzJxV1BPc2t0c1puZTRYVWU2SV9aUXllZFlTWnluVDZIanFEcHlERnUzVzV3?oc=5",
+    "published": "2026-11-11T12:59:46.000Z",
+    "snippet": "Building an SAP Practice From Scratch IgniteSAP"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI - SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3pOZ3JTa3laUTZKUjBseUpjOTJhWVEzWVVtX3hibVU0eGxaRklNa01NUVV3NnBPWG05NHRoXzJfYkk5b3M0ZGVmdGhNN0dtVDV4X3MtUEotcW5sSVA3WkVyalZ4ZUFoYVdBdTZmT1pnV1RlZ3o4SHMzcWNIY2ZIU2dvTl8wZllUa3ItZVIyb2F6bk5HRl9tZG9jXzhZSzJl?oc=5",
+    "published": "2026-11-11T11:16:46.000Z",
+    "snippet": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI SAP News Center"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Autonomous Business: Joule Work, Joule Assistants, and the SAP Business AI Platform - E3-Magazin",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUE9XZ2laM2ZNOFpNVWZhUDk2MHZTbkJyTWJ5dnhRV0ZjUlN5R3E4c2VKS2xmU2VtVXVVTWtXdC1wU3RKLVlETHRBUmNfYllvZWhZVExJalJXdGtfRGhxQUhGMWJzRERyU24wQm5PWm1RQ2k5Mk85WDVrTXdCRFZlYkxDYUlKNERTZlhlVXMwdGVYajVTc1ZOeFFCSlJEZXEzeU0ybw?oc=5",
+    "published": "2026-11-11T09:00:00.000Z",
+    "snippet": "Autonomous Business: Joule Work, Joule Assistants, and the SAP Business AI Platform E3-Magazin"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "시흥시, 중소 제조기업 AI·DX 전환 지원 세미나 11월 17일 개최 - 한국사회복지저널",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BZEhpenhSR0lPSVpzSFlwRUwxTHBneUZnWnRJSlFiRzFuRHpvcGFyRFI1VHNud2FNaWhoeWh0WllldmtleXFIUjdmQ1ZSQ2EwaVNvdkkzMFY0enl0RkQ0a3hPMXV5Q2ZmaEE4?oc=5",
+    "published": "2026-11-11T05:18:14.000Z",
+    "snippet": "시흥시, 중소 제조기업 AI·DX 전환 지원 세미나 11월 17일 개최 한국사회복지저널"
+  },
+  {
+    "source": "Google News 행사 (EN)",
+    "title": "Million Dollar Baby Planning Meets Supply Chain Agility: A Conversation with Julia Bedanova - SupplyChainBrain",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMkU4cUdLa3NHYkQwTjBkVGZWLUYtSTl2M1k5TENGWWxqY0JVRWdpeHo5S2VVZkxqUmpRYnNTMldHM1JuMHZTdGhoaGJQZFp3eTNzMnM5dWFmSGVkaERNV1NaUEdnTFRtSVI1cm1idmt5VjhpRE42aUtmNEhiYkVuZ0pDNXZFVzdlYVpmNFBhNVZDQjVYVHRTdmFnLW5Na3JpV2RNSXNwVnpNNmVJYlFkS2hHV01tLWNWY1I3c0VZSW83NnJEeDRkR0ZvYklxZjN2aVlOa2p5SmxvSGZtOEdPUXI0ZG5rbzdFdUVKY0pxRXloUENnMkhCaG5R?oc=5",
+    "published": "2026-11-11T02:35:52.000Z",
+    "snippet": "Million Dollar Baby Planning Meets Supply Chain Agility: A Conversation with Julia Bedanova SupplyChainBrain"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "임병택 시흥시장, 지역 제조기업 AI 경쟁력 강화…서울대·SAP코리아와 협력 - 필드뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qdV9qRTJFRzRuRkwwMG9uWk13RDNlYTRRRjFSTkl5SktTcE9sRkNZei1wYko1UGg5UUM5Q2sxak1DVmhlSmJiRVI5SjViZE5NcWotLXZreUdqNlRtZnJrZEJXcy1QWGtH0gFsQVVfeXFMTWNKUlRyeC1EVjRxYmx0UjM3d25OVzdBTzN6aGZQM2tNOTIxSUJBekRJVmMzZ0JhTHg1V2d1U1doV0x6M0ltRWkxakVibV9NQWh0ekRHT0ZRd2ZIMFpKMXZoY01jd2RXekNZTERj?oc=5",
+    "published": "2026-11-11T00:48:39.000Z",
+    "snippet": "임병택 시흥시장, 지역 제조기업 AI 경쟁력 강화…서울대·SAP코리아와 협력 필드뉴스"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "시흥시, '중소기업 인공지능 전환 인사이트(AX INSIGHT) 세미나' 개최 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Rd3V3bTN4U2MyUkl3NWp0LUFnQU5rV3h6OUdJbDYxOWRTVTRfbGFwUTd4R2VLcTB2NXdKMzNyeERGeHdWcW9wT3lMaDFrWUI3SzRiZG05WnEyUWRDMmNJNkJ6Nlg?oc=5",
+    "published": "2026-11-11T00:03:05.000Z",
+    "snippet": "시흥시, '중소기업 인공지능 전환 인사이트(AX INSIGHT) 세미나' 개최 매일일보"
+  },
+  {
+    "source": "Google News 행사 (KR)",
+    "title": "시흥시, 중소 제조기업 대상 ‘AX 인사이트 세미나’ 17일 개최 - 데일리안",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUnZmM2lNZDEwTEh2bk53a2ZpOFNNY2M2a241TUtOcE5MVjlJMHI5bG40RzJmNm9qNWdoZGxQckJtU3F1TVQtLWh3bFB0emVLWENfMTI1ZWRDR3VYYTNsVEg3VmxDMHU3emlfc0trNGx2bk13c3BXNWJXNjhOeVFuVG40SGNudEo0aFhSUG5IQ3E5ejdCN2UwZmxCYlJ3RmZrdW5LdXZKNTMxOFNETThMbGprZUtQVGxrUXY4X1FSdlFaSU1ZaHR0NG12aUdVYlVpM3Jzbzh4WHBvQnpJVXNYbnNISFd2cmxKaFlOeUxzdEhkTUsxeExTa3Flb181UXpBZHZ3?oc=5",
+    "published": "2026-11-10T23:13:00.000Z",
+    "snippet": "시흥시, 중소 제조기업 대상 ‘AX 인사이트 세미나’ 17일 개최 데일리안"
+  }
+]
