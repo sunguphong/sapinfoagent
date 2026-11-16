@@ -1,0 +1,14 @@
+2026-11-16T22:51:49.625Z run 20261116225149 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-16T22:51:49.626Z waiting 491s until 08:00
+2026-11-16T23:00:01.915Z sap: sent - 수집 경고 1건: Google News (EN): Status code 429
+2026-11-16T23:00:01.916Z realestate: sent - 수집 경고 2건: Google News 아파트 매매·전세: Status code 429 / Google News 정책·규제: Status code 429
+2026-11-16T23:00:01.916Z stock: sent - 수집 경고 1건: Yahoo Finance: Status code 404
+2026-11-16T23:00:01.916Z skincare: sent
+2026-11-16T23:00:01.916Z sapmm-jobs: sent - 수집 경고 1건: Google News 아주스틸: Status code 429
+2026-11-16T23:00:01.916Z ces: sent
+2026-11-16T23:00:01.916Z smallbiz: sent - 수집 경고 3건: Google News 경기도·경기신보 소상공인 (KR): Status code 429 / Google News 피부관리·미용업 정책 (KR): Status code 429 / Google News 소진공·중기부 (KR): Status code 429
+2026-11-16T23:00:01.916Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 06:31 수집 · 36건
+2026-11-16T23:00:01.916Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-16T23:00:01.918Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-17_20261116225149.html
+2026-11-16T23:00:03.452Z mail sent: <0c25264d-07f1-c635-70fb-b117bb59d45b@gmail.com> -> upsan77@gmail.com
+2026-11-16T23:00:03.452Z done
