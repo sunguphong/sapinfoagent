@@ -549,5 +549,29 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-15T23:23:31.488Z",
     "finishedAt": "2026-11-15T23:23:31.488Z"
+  },
+  {
+    "id": "20261116215127",
+    "agent": "realestate",
+    "startedAt": "2026-11-16T21:51:27.855Z",
+    "date": "2026-11-17",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261116215127.log",
+    "base": "2026-11-17_20261116215127",
+    "fetched": 229,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [
+      "Google News 아파트 매매·전세: Status code 429",
+      "Google News 정책·규제: Status code 429"
+    ],
+    "picked": 21,
+    "html": "2026-11-17_20261116215127.html",
+    "mailId": "<7b2ebb0b-ed61-eab6-c39b-9a3146dab3a3@gmail.com>, <539de783-9d33-2778-8a0c-b59de8bc58c7@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-16T21:52:31.195Z",
+    "finishedAt": "2026-11-16T21:52:31.195Z"
   }
 ]

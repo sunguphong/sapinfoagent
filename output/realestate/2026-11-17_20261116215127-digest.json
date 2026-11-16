@@ -1,0 +1,318 @@
+{
+  "overview": "경기도 아파트값 상승률이 처음으로 서울을 앞질렀습니다. 강남·서초는 하락했지만 수원 영통·화성 동탄 등 경기 남부는 신고가가 이어지며 수도권 시장의 판도가 바뀌고 있습니다. 코픽스가 두 달 사이 0.44%p 급등하고 대출 총량 규제도 이어지면서 실수요자의 자금 부담이 커졌고, 정치권과 업계에서는 상환능력 중심 규제와 MBS(주택저당증권) 활성화 논의가 나오고 있습니다. 내년 집값·전셋값은 오르지만 주택 착공은 더딜 것이라는 전망이 나왔고, 서울 외곽 빌라 월세가 100만원대에 이르는 등 임대료 부담도 커지고 있습니다. 동탄은 아파트값 상승과 신고가 행진, 공공분양 100대 1 경쟁률로 수요가 몰렸고, 동탄숲 생태터널 균열 문제는 공사 방식 결정이 내년 2월로 미뤄졌습니다.",
+  "categories": [
+    {
+      "name": "정책·규제",
+      "items": [
+        {
+          "index": 4,
+          "title_ko": "[서진형 칼럼] 조세 원칙이 무너진 부동산 세제",
+          "summary": "부동산 세제가 공평과세·응능부담 같은 조세 원칙에서 벗어나 정책 목적에 따라 수시로 바뀌어 왔다고 비판하는 칼럼입니다. 보유세·양도세 등 세제 전반을 원칙에 맞게 다시 정비해야 한다는 주장을 담고 있습니다.",
+          "why": "향후 세제 개편 논의 방향에 따라 주택 보유·매도 시 세 부담이 달라질 수 있어 흐름을 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "[서진형 칼럼] 조세 원칙이 무너진 부동산 세제 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0d19fdTdFUlFfTjhEMFNrVWNhem9CTGFBWGg3cFVQN2ZwWGZOdWpmTDhsM0JST0FqeHpfaGlwaktjOXp0R1lFUlBWMEsxRzU4aFHSAVNBVV95cUxQVmN6YXN6T3JaMTU4Ylc1N2hSRC12S3hTbVVVRkV3Q1dDLUxMY0stX3I4NEUzalZCRUJLOVNrV3B4cnhLbFVuX284bUJ5UjhIYXN1QQ?oc=5",
+            "published": "2026-11-16T20:00:00.000Z",
+            "snippet": "[서진형 칼럼] 조세 원칙이 무너진 부동산 세제 서울경제"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "\"빚내서 집 사고 싶어도 못 산다\"…야당, MBS 활성화 토론회 개최",
+          "summary": "야당이 주택저당증권(MBS) 활성화를 주제로 토론회를 열고, 대출 규제로 실수요자의 주택 구입이 막혀 있다는 문제를 제기했습니다. 장기·고정금리 주택금융 공급을 늘리는 방안이 논의됐습니다.",
+          "why": "MBS 활성화가 제도화되면 장기 고정금리 주택담보대출 공급이 늘어 무주택 실수요자의 자금 조달 여건이 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "\"빚내서 집 사고 싶어도 못 산다\"…野, MBS 활성화 토론회 개최 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IUG5rdzRGQWJGV214Q1NkRGNVYW5CRXh0U1RKVVBFNG96aEhmSEctOGhvUk4wdXhlYVBiVUdVMHdTY0ZHdHcyaUh2SllxUm5lM1lxb1d4RW9Vdw?oc=5",
+            "published": "2026-11-16T07:35:53.000Z",
+            "snippet": "\"빚내서 집 사고 싶어도 못 산다\"…野, MBS 활성화 토론회 개최 한국경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "금융·대출",
+      "items": [
+        {
+          "index": 25,
+          "title_ko": "집값도 부담인데 이자까지…코픽스 두 달 새 0.44%p 급등",
+          "summary": "변동형 주택담보대출 금리의 기준인 코픽스(COFIX)가 최근 두 달 사이 0.44%p 뛰었습니다. 변동금리 대출자의 이자 부담이 곧바로 늘어날 전망입니다.",
+          "why": "변동금리로 대출을 받았거나 받을 예정이라면 월 상환액이 늘 수 있어 고정금리 전환 여부 등을 따져볼 시점입니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "집값도 부담인데 이자까지…코픽스 두 달 새 0.44%p 급등 - 시사저널",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UaDhxaG1YbVdOeENaQUdraFhYaDRONkVfLWszdFJsQWhBOGlEbEFUQ0lCaXhIYkExWlktQmlkaFBMV3ZfOUJwUjRwY1hDbE8yZ2FzalhqaUtUd2E5NVdQUF9FR3NNQ0dGSzVsSzhmVdIBc0FVX3lxTE9OWnpoLUxldnQ3QWZSbmJVd1h0S1JNMU5Hd1VsMlJTZE9ZU2dNV1RfUzhKZ1k4UEJHdVhHdkJlVDdnZjR6a2Radlh0Mjl1SWMxX1Y5bHFQakc3ZlNoY2lYNzB1OVRFMGJIMHVsWmdjTWVEZlE?oc=5",
+            "published": "2026-11-16T07:42:43.000Z",
+            "snippet": "집값도 부담인데 이자까지…코픽스 두 달 새 0.44%p 급등 시사저널"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "\"대출 총량만 묶지 말고…상환능력·은행 건전성 반영해야\"",
+          "summary": "금융당국의 가계대출 총량 관리 방식이 차주의 상환능력이나 은행별 건전성 차이를 반영하지 못한다는 지적입니다. 일률적인 총량 규제 대신 상환능력 중심으로 규제를 바꿔야 한다는 의견이 제기됐습니다.",
+          "why": "대출 규제 방식이 바뀌면 은행별 대출 가능 한도와 실수요자의 대출 접근성이 달라질 수 있습니다.",
+          "article": {
+            "source": "Google News 대출·금리",
+            "title": "“대출 총량만 묶지 말고…상환능력·은행 건전성 반영해야” - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTdicl9sNl9TLWQwaE5VVy1VR1dnY0tQME9xckk0dDVZN2JEdUVsQjVOdWlvMm9yNU50OTBoanNHUzNsWEg0UUhaNVllVEFNMmZMbHpudDZBcDBiSXRnQ21UdzJHMU1mdTd5aEtmMENhQTdzNlZ4OHFmNlFXeURSYQ?oc=5",
+            "published": "2026-11-16T21:00:06.000Z",
+            "snippet": "“대출 총량만 묶지 말고…상환능력·은행 건전성 반영해야” 이데일리"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "\"집주인에게 수십억 빌려 아파트 산다?\"…상환은 어떻게",
+          "summary": "대출 규제가 강화되자 매도인(집주인)에게 돈을 빌려 아파트를 사는 사례가 등장했다는 내용입니다. 이런 거래의 구조와 상환 방식, 그에 따른 위험을 짚었습니다.",
+          "why": "규제를 우회하는 사적 금융 거래는 법적·세무상 위험이 따를 수 있어 매수 전에 반드시 확인해야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"집주인에게 수십억 빌려 아파트 산다?\"…상환은 어떻게 [시장톡] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GOVd1RjlYYXkyb1RqZ3BVZS1WazI4U1pBWm1VYVdyTTlLN2VmRWtNWTd5UmJ4Y3oySjM1RlUxV29oMGNEMktMck9HLU9MVWpQWE1neElxVy1udw?oc=5",
+            "published": "2026-11-16T21:30:04.000Z",
+            "snippet": "\"집주인에게 수십억 빌려 아파트 산다?\"…상환은 어떻게 [시장톡] 한국경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "시장·시세",
+      "items": [
+        {
+          "index": 10,
+          "title_ko": "강남은 뚝, 경기는 쑥…수도권 아파트도 '지각변동'",
+          "summary": "강남권 아파트값은 내리고 경기도 주요 지역은 오르면서 수도권 아파트 시장의 흐름이 바뀌고 있습니다. 경기도 상승률이 서울을 웃도는 흐름이 나타났습니다.",
+          "why": "서울 고가 지역에서 경기 핵심 지역으로 수요가 옮겨가는 흐름은 수도권 내 매수 지역을 고를 때 참고할 만합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "강남은 뚝 경기는 쑥…수도권 아파트도 '지각변동' > 뉴스 - 지데일리",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11eWs5U1FtTkV2ek5RT2VLRGlzeVJhTVotM1VQS1RLU0RXMkJBTXlYTDJja2l6LUNWVHRJQjJoRlBhdlZVLVZiYnVmSzVJc2VoeUlFeGlaenFGNGhVLW0wWGp0Q0hxbXdSdUQzTA?oc=5",
+            "published": "2026-11-16T12:18:00.000Z",
+            "snippet": "강남은 뚝 경기는 쑥…수도권 아파트도 '지각변동' > 뉴스 지데일리"
+          }
+        },
+        {
+          "index": 16,
+          "title_ko": "\"내년 집값·전셋값 오르지만 주택 착공은 더딜 듯\"",
+          "summary": "내년 주택시장 전망에서 매매가와 전셋값이 모두 오를 것으로 예상됐습니다. 반면 주택 착공은 부진할 것으로 보여 공급 부족 우려가 이어질 전망입니다.",
+          "why": "공급 부족 속 가격 상승 전망은 내 집 마련 시점과 전세 재계약 전략을 정할 때 중요한 변수입니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"내년 집값·전셋값 오르지만 주택 착공은 더딜 듯\" - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16MUxMQllKWXo1TzF1REcyYzc1ZDgzSXVDbnpyVWN5ZkY1SnZmU0otdGd3LTkzeEtFNXNsT1lBZVNXejg2WnR6WURmRTVjSGR3RktnU0stTHE3UQ?oc=5",
+            "published": "2026-11-16T08:20:57.000Z",
+            "snippet": "\"내년 집값·전셋값 오르지만 주택 착공은 더딜 듯\" 한국경제"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "\"출퇴근만 편하면\"…은평·금천 빌라도 '월세 100만원 시대'",
+          "summary": "서울 은평·금천 등 외곽 지역 빌라에서도 월세가 100만원에 이르는 사례가 늘고 있습니다. 전세 기피와 직주근접 수요가 겹치면서 교통이 좋은 지역의 월세가 오르고 있습니다.",
+          "why": "서울 임대료 부담이 외곽까지 번지고 있어 세입자는 주거비 계획을 다시 점검할 필요가 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "\"출퇴근만 편하면\"...은평·금천 빌라도 '월세 100만원 시대' - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UdXRXZHZEQjN4OVB3OUZESTRFeW1qLUZpZ09iVXdqRHVRdGlrOVd3QllhRHo3cmh4Y051UmowUmNYempuOTRlemhvMkNlLWdfVld3V2tzZGo0UQ?oc=5",
+            "published": "2026-11-16T21:00:00.000Z",
+            "snippet": "\"출퇴근만 편하면\"...은평·금천 빌라도 '월세 100만원 시대' 파이낸셜뉴스"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "대구·경북 부동산 한파…주택거래 급감, 미분양 9,611가구",
+          "summary": "대구·경북 지역의 주택 거래가 크게 줄고 미분양 물량이 9,611가구에 이르는 등 침체가 이어지고 있습니다. 수도권과의 시장 양극화가 뚜렷합니다.",
+          "why": "지방 미분양 적체는 지역 집값 하락 압력과 건설사 리스크로 이어질 수 있어 지방 투자 시 유의해야 합니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "대구·경북 부동산 한파…주택거래 급감·미분양 9611가구 - 경북일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14RG01NVpGcDd6UC1JLWJOb3hnbmItcy00bVdocTlhYTl2UTVCUC1Pcm9WSUttRDhhRlVZdTQ3bjFpamtBRWVuTkdoaTZ1WnhRSTJZWjZpdXc5VV9fR0xoS0l6X1ZOM0RScjBraWg4Zw?oc=5",
+            "published": "2026-11-16T08:09:39.000Z",
+            "snippet": "대구·경북 부동산 한파…주택거래 급감·미분양 9611가구 경북일보"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "강원 주민 10명 중 7명 \"집값 비싸다\"",
+          "summary": "강원 지역 주민 10명 중 7명이 지역 집값이 비싸다고 느끼는 것으로 조사됐습니다. 지방에서도 주거비 부담에 대한 체감이 큰 것으로 나타났습니다.",
+          "why": "지방에서도 소득 대비 주거비 부담이 크다는 점은 지역 주택정책 수요를 가늠하는 지표입니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "강원지역 주민 10명 중 7명 “집값 비싸다” - 강원일보",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kSGRHTkoyVlRUNWpaRTNodjNrdnNuTE9PV2FIQ3Yzb2REUWNDWU1KM0tCMGdCMi1IUnlPUzJzS1Z4R3lsUlRNV29ESzdTcmFoRGVjbG5ZUEZydkE?oc=5",
+            "published": "2026-11-16T15:00:00.000Z",
+            "snippet": "강원지역 주민 10명 중 7명 “집값 비싸다” 강원일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "분양·청약",
+      "items": [
+        {
+          "index": 15,
+          "title_ko": "분양가는 '뚝', 품질은 '쑥'…공공분양의 변신",
+          "summary": "공공분양 아파트가 민간보다 낮은 분양가에 마감재·설계 품질을 높이며 인기를 끌고 있습니다. 수도권 주요 공공분양 단지의 청약 경쟁률도 높아지는 추세입니다.",
+          "why": "분양가 부담이 큰 상황에서 공공분양은 무주택 실수요자에게 현실적인 내 집 마련 수단이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 분양·청약",
+            "title": "분양가는 '뚝' 품질은 '쑥'…공공분양의 변신 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSXpXMV9SSENwQWZ0NnZhdENoMnVjakEtT256VUVsZ1I4WHlCb29jazJabXV1TE8xNHEydTJCdk1URlMzV3VUQjdlcUxORENQYkU3cjR2dGFoQQ?oc=5",
+            "published": "2026-11-16T08:22:32.000Z",
+            "snippet": "분양가는 '뚝' 품질은 '쑥'…공공분양의 변신 한국경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 동향",
+      "items": [
+        {
+          "index": 20,
+          "title_ko": "[올댓차이나] 중국 10월 신축주택 가격 0.15% 하락…\"부동산 경기 회복 제한적\"",
+          "summary": "중국의 10월 신축주택 가격이 전월보다 0.15% 떨어지며 하락세가 이어졌습니다. 구매자들이 미분양 매물을 기피하면서 시장 회복은 제한적일 것이라는 분석입니다.",
+          "why": "중국 부동산 침체는 글로벌 경기와 국내 건설·원자재 시장에 간접적인 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "[올댓차이나] 中 10월 신축주택 가격 0.15%↓…\"부동산 경기회복 제한적\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xZHJsTUNXR21LR2NreDlxSlBORWtMcUVmYU1yY3J4T250VUdPakZFVUNsV0ZTSTlWYjRNS0JocmR0RzV2ZDFyaFFCbUNMZVNtamtiMjlES3F6T2RhYnExVUxOeWpKNFB4aExJSUV4VmtJTFFPc2ZIVNIBeEFVX3lxTE8xZHJsTUNXR21LR2NreDlxSlBORWtMcUVmYU1yY3J4T250VUdPakZFVUNsV0ZTSTlWYjRNS0JocmR0RzV2ZDFyaFFCbUNMZVNtamtiMjlES3F6T2RhYnExVUxOeWpKNFB4aExJSUV4VmtJTFFPc2ZIVA?oc=5",
+            "published": "2026-11-16T08:10:14.000Z",
+            "snippet": "[올댓차이나] 中 10월 신축주택 가격 0.15%↓…\"부동산 경기회복 제한적\" 뉴시스"
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "브룩필드가 6억 달러짜리 타워를 포기한 이유…대출의 덫",
+          "summary": "글로벌 부동산 운용사 브룩필드가 6억 달러 규모의 오피스 타워를 포기한 사례를 통해 고금리 시기 대출 부담의 위험을 분석했습니다. 과도한 레버리지가 자산 가치 하락 때 어떤 결과를 낳는지 보여줍니다.",
+          "why": "금리가 오르는 국면에서 무리한 대출을 끼고 부동산을 사는 것이 얼마나 위험한지 보여주는 교훈입니다.",
+          "article": {
+            "source": "Google News 부동산 시장",
+            "title": "브룩필드가 6억불짜리 타워 버린 이유…대출의 덫 [김용남의 부동산 자산관리] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XdTRjSVo4UndiQkJlTURxdGlmLTdBbEhWYnhjSkJGcE5RWEN1cEIwbGM0ckktb3dia0dHYlJqZjlvUFNmcEtfSjBwaFdZenAtTlNHVllTRjI4UQ?oc=5",
+            "published": "2026-11-16T21:30:06.000Z",
+            "snippet": "브룩필드가 6억불짜리 타워 버린 이유…대출의 덫 [김용남의 부동산 자산관리] 한국경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 소식",
+      "items": [
+        {
+          "index": 33,
+          "title_ko": "경기 집값 상승률 서울 첫 추월…강남은 '우수수', 수원·동탄은 신고가",
+          "summary": "경기도 아파트값 상승률이 처음으로 서울을 앞질렀습니다. 강남·서초는 하락한 반면 수원 영통과 화성 동탄은 신고가 거래가 이어지며 상승을 이끌었습니다.",
+          "why": "동탄이 경기 남부 상승세의 중심에 있어 매수·매도 시점을 판단할 때 주목할 흐름입니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "경기 집값 상승률, 서울 첫 추월...강남은 '우수수', 수원·동탄은 신고가 - ABC뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkZlJEbmhYSER2alUzQTFzTnFOWXFoWWlQQzRDVmVwQXJ5RlNjbElZZlB6VFRWNmZmTFM5aGRrcjI2WWRvUlI3TE1jSUZXX0hZU25hQmlqZG9iLTd0b0FJNTEzZ9IBZ0FVX3lxTE1aaWRpak93YlVUaWV5QXRqc3gwUnBTZEJKQWdtdnpuWWZtMnNfSTVGakpYNTdYZUNFcmp4bWJfaW9RWXRaZHRfeVlsQ0hQaVA1NHJZc2FjbEI0RXFnNFBIX3p4ZUx4MVk?oc=5",
+            "published": "2026-11-16T05:55:22.000Z",
+            "snippet": "경기 집값 상승률, 서울 첫 추월...강남은 '우수수', 수원·동탄은 신고가 ABC뉴스"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "대형 쇼핑몰 옆 '몰세권' 아파트 강세…동탄역 롯데캐슬 22억원 돌파",
+          "summary": "대형 쇼핑몰과 가까운 이른바 '몰세권' 아파트가 강세를 보이는 가운데, 동탄역 롯데캐슬이 22억원을 넘는 가격에 거래됐습니다. 동탄역 일대 대장 단지의 가격 상승세가 두드러집니다.",
+          "why": "동탄역 핵심 단지의 신고가는 주변 단지 시세의 기준점이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "대형 쇼핑몰 옆 '몰세권' 아파트 강세…동탄역 롯데캐슬 22억원 돌파 - 지피코리아",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hZVZHM000T0gwWXItZzBZRVpBYWxNbU9HdFZBUDlMVWdYblVpZzhSM1h2YklhTTBpVFM0V2Y4b3lvSE5NekNNaUZ1U09WSHdVMlFHa0Y0OGx2VGJQeDFMbHVDTlZLZC1GenfSAW5BVV95cUxPX0VzaW5tby0weW4zdGZGYmZxRGFJWmZ3aTYxU0JkSnZfdUdWZ21xdVBwS1VWam5ZbnFBeGxwWXF3bVZVU0hQdFlJbU9QVGd1ZG1vdEt5a19BMkVNb09GZFpFSUV3eDdndDFaOGkwZw?oc=5",
+            "published": "2026-11-16T02:55:00.000Z",
+            "snippet": "대형 쇼핑몰 옆 '몰세권' 아파트 강세…동탄역 롯데캐슬 22억원 돌파 지피코리아"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "왕숙 126대 1·동탄 100대 1…공공분양 열기 부천대장으로",
+          "summary": "남양주 왕숙 공공분양은 126대 1, 동탄 공공분양은 100대 1의 높은 경쟁률을 기록했습니다. 이 청약 열기가 다음 공급지인 부천대장으로 이어질 것으로 보입니다.",
+          "why": "동탄 공공분양에 수요가 몰린다는 것은 청약 당첨 문턱이 높다는 뜻이어서, 청약 전략을 세울 때 참고해야 합니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "왕숙 126대 1·동탄 100대 1···공공분양 열기 부천대장으로 - 뉴스웨이",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkbk1zQURuRVRacEk1UFIxa3B4OGt4bTZrcVJRQktTQU9kNVdfRllySTgxQ01UUTZvcUx5a0FZSGRHaTZDQUdQZWxiWFJycmFjdVBDWXVPQWZfek1PV0tDUnZhWHdNX2dYZ3c?oc=5",
+            "published": "2026-11-16T04:07:25.000Z",
+            "snippet": "왕숙 126대 1·동탄 100대 1···공공분양 열기 부천대장으로 뉴스웨이"
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "균열 발견 1년 동탄숲 생태터널…공사 방식 내년 2월에나 결정",
+          "summary": "동탄숲 생태터널에서 균열이 발견된 지 1년이 지났지만 보수 공사 방식은 내년 2월에야 정해질 예정입니다. 그동안 통행 제한에 따른 주민 교통 불편이 계속되고 있습니다.",
+          "why": "인근 주민의 출퇴근과 생활 동선에 직접 영향을 주는 사안이라 거주 여건을 판단할 때 고려해야 합니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "균열 발견 1년 동탄숲 생태터널… 공사 방식 내년 2월에나 결정 - 경기신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wMjhvUmM5Q2RpWloyMHRuQlZmXzUteFpPV1A5dHJBYWg4UzNXLXNDSUo1SWtiS0k4YlpvX0xQSUh5VXFQSnZpQUJBX1JIQlZ4R0ZVeUhBOEgybW1fbGg5UXh3?oc=5",
+            "published": "2026-11-15T06:04:58.000Z",
+            "snippet": "균열 발견 1년 동탄숲 생태터널… 공사 방식 내년 2월에나 결정 경기신문"
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "아파트 대신 250년 느티나무 살렸다…LH 동탄 바랑골공원 국무총리상",
+          "summary": "LH가 동탄2신도시에서 아파트를 짓는 대신 250년 된 느티나무를 보존해 조성한 바랑골공원이 국무총리상을 받았습니다. 지역의 역사와 자연을 살린 공원 조성 사례로 평가받았습니다.",
+          "why": "생활권 내 녹지와 공원 같은 쾌적성 요소는 동탄2 거주 만족도와 주거 가치에 긍정적인 영향을 줍니다.",
+          "article": {
+            "source": "Google News 동탄",
+            "title": "아파트 올리는 대신 250년 느티나무 살렸다…LH 동탄 바랑골공원 국무총리상 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnUxWDRWZDQ2clU4TVpHNVFocDhfVU05V0FpVUx1NGFUVmRfd1d5X3k4WjQ2UmhqSmxXb3VUWDhDdVhNdlJIRlpuQ2c3cm44RmloWHltY2ZrdEl3b3g5cVVuaUN0WmtJUWg2QXF4RUlRY1JlcXp3VTZaSHpfNDZOc293?oc=5",
+            "published": "2026-11-16T00:21:00.000Z",
+            "snippet": "아파트 올리는 대신 250년 느티나무 살렸다…LH 동탄 바랑골공원 국무총리상 아시아경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "동탄 트램",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "정명근 화성특례시장, 2027년도 본예산 6조 1,625억원 제출…\"성장·포용·공정으로 시민 삶 바꿀 것\"",
+          "summary": "화성특례시가 2027년도 본예산으로 6조 1,625억원을 편성해 시의회에 제출했습니다. 성장·포용·공정을 기조로 하며, 동탄 트램 등 주요 교통 인프라 사업에 예산이 어떻게 반영됐는지가 관심사입니다.",
+          "why": "시 예산 편성은 동탄 트램 같은 교통 사업의 추진 속도와 직결되므로 동탄 주민과 매수 대기자가 살펴볼 만합니다.",
+          "article": {
+            "source": "Google News 동탄 트램",
+            "title": "정명근 화성특례시장, 2027년도 본예산 6조 1,625억 원 제출… “성장·포용·공정으로 시민 삶 바꿀 것” - 뉴스팍",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ONVRZTWxRR0Q0YjdfRGlBSlFTX2pOSVI1WWRDYWh2NkdwNDJKbW0xQ2htVWxmSktUSnlMR21ILVlZSnlzQi1PNXlyZTFXc0JrcjlwVHU4bi1ObmZvaklSQ2lZdw?oc=5",
+            "published": "2026-11-16T06:32:51.000Z",
+            "snippet": "정명근 화성특례시장, 2027년도 본예산 6조 1,625억 원 제출… “성장·포용·공정으로 시민 삶 바꿀 것” 뉴스팍"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GTX-C",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "천안시, 중부권동서횡단철도·GTX-C 천안 연장 국가철도망 반영 촉구",
+          "summary": "천안시가 제5차 국가철도망 구축계획에 중부권동서횡단철도와 GTX-C 천안 연장을 반영해 달라고 정부에 공식 요청했습니다. 여러 언론이 같은 내용을 보도했습니다.",
+          "why": "GTX-C의 남쪽 연장 여부는 노선 운영 계획과 경기 남부·충청권 교통 수요에 영향을 줄 수 있는 사안입니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "천안시, 중부권동서횡단철도·GTX-C 천안 연장 국가철도망 반영 촉구 - 중부매일",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12blZQNUUwcmh4dnAzZzBSNGxadXJCUDBnRm5WYjZJMWg4UGhLYzJyS3FYdzZCYW5OQ2pkc1FXNGVQdFZmYzRlclZrVXRWTEFxSFZwMzRJb3JnRUNtdEdQckFpVlpHUVRlN1V2c3Fn0gFuQVVfeXFMTXZuVlA1RTByaHh2cDNnMFI0bFp1ckJQMGdGblZiNkkxaDhQaEtjMnJLcVh3NkJhbk5DamRzUVc0ZVB0VmZjNGVyVmtVdFZMQXFIVnAzNElvcmdFQ210R1ByQWlWWkdRVGU3VXZzcWc?oc=5",
+            "published": "2026-11-16T05:45:23.000Z",
+            "snippet": "천안시, 중부권동서횡단철도·GTX-C 천안 연장 국가철도망 반영 촉구 중부매일"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "14개월 시장 공백 끝낸 장기수 천안시장, '365 행복천안' 1호 결재…AI 국가산단·GTX-C·목천~배방 정체 해소가 시험대",
+          "summary": "14개월간의 시장 공백을 끝내고 취임한 장기수 천안시장이 '365 행복천안' 1호 결재를 했습니다. AI 국가산단 조성과 GTX-C 연장, 목천~배방 구간 교통 정체 해소가 주요 과제로 꼽힙니다.",
+          "why": "천안시의 GTX-C 연장 추진 의지가 커지면서 노선 확장 논의가 이어질 가능성이 있습니다.",
+          "article": {
+            "source": "Google News GTX-C",
+            "title": "시장 공백 14개월 끝낸 장기수 천안시장, '365 행복천안' 1호 결재…AI 국가산단·GTX-C·목천~배방 정체 해소가 시험대 - CEO저널",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3cVhibXNscXFlTWl3X1VLLU1BMXl3S0RkLWNNZjd0TWdNTDl5Rl9RVzdPMEdKTDJ4anhuSEVOWGVtNmp4Z0xzbkNHYkNHZDN5NHdpR1pIRGxNbzVXLWlTMzJCUVRKUdIBa0FVX3lxTE1BeGZDWkptWkVzQTVhNXpFTDRJdDF4YU1DNkg0TkdvVGkyakpDa2N1Z2FBclFFSk1rWUZvVDZQbnRzZHFaZFhJU3NNb0xIWW5wOW9iNDlZQXBra2pEaHR5Y2lDTndySDdjWGk0?oc=5",
+            "published": "2026-11-16T16:00:00.000Z",
+            "snippet": "시장 공백 14개월 끝낸 장기수 천안시장, '365 행복천안' 1호 결재…AI 국가산단·GTX-C·목천~배방 정체 해소가 시험대 CEO저널"
+          }
+        }
+      ]
+    }
+  ]
+}

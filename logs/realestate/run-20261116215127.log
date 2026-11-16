@@ -1,0 +1,9 @@
+2026-11-16T21:51:27.864Z run 20261116215127 start (agent=realestate "부동산 브리핑", source=github, mode=send)
+2026-11-16T21:51:27.864Z collecting from 8 feeds...
+2026-11-16T21:51:28.388Z fetched 229, selected 45 (last 24h), feed errors: 2
+2026-11-16T21:51:28.388Z feed error: Google News 아파트 매매·전세: Status code 429
+2026-11-16T21:51:28.389Z feed error: Google News 정책·규제: Status code 429
+2026-11-16T21:51:28.391Z summarizing with claude (opus)...
+2026-11-16T21:52:28.307Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/realestate/2026-11-17_20261116215127.html
+2026-11-16T21:52:31.195Z mail sent: <7b2ebb0b-ed61-eab6-c39b-9a3146dab3a3@gmail.com>, <539de783-9d33-2778-8a0c-b59de8bc58c7@gmail.com> -> upsan77@gmail.com,zheng0107@daum.net
+2026-11-16T21:52:31.199Z done
