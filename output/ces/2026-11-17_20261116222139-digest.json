@@ -1,0 +1,176 @@
+{
+  "overview": "CES 2027 개막을 약 7주 앞둔 시점으로, CTA의 혁신상 발표 직후라 수상 소식이 쏟아졌습니다. 삼성전자는 갤럭시 Z 폴드8·폴드8 울트라의 최고혁신상 동시 수상을 포함해 혁신상 19개(최고혁신상 4개)를 받았고, 삼성SDI·LG이노텍·한국콜마 등 계열사와 부품·뷰티 기업도 수상 대열에 합류했습니다. 삼성 AI TV와 삼성·LG의 휴머노이드 로봇 등 내년 현장에서 공개될 제품의 윤곽도 드러나고 있습니다. 부산 11개사를 비롯한 국내 스타트업과 지역 기업의 수상도 잇따랐으며, 해외에서는 6K 미니 LED 모니터와 모빌리티 로봇 등 사전 공개 제품이 소개됐습니다.",
+  "categories": [
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 47,
+          "title_ko": "삼성전자, CES 2027 최고혁신상 4개 포함 19개 수상…'폴드8 울트라' 첫 영예",
+          "summary": "삼성전자가 CES 2027 혁신상 19개를 받았고, 이 가운데 4개가 최고혁신상입니다. 갤럭시 Z 폴드8과 삼성 폴더블 최초의 '울트라' 모델인 폴드8 울트라가 최고혁신상을 동시에 받았습니다. AI, 폴더블, 차세대 메모리, 디스플레이 분야에서 고르게 수상했습니다.",
+          "why": "내년 출시될 폴더블 라인업이 '울트라' 체제로 확장된다는 신호이며, 국내 소비자의 폴더블 선택지도 넓어질 전망입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 수상…’폴드8 울트라' 첫 영예 - ER 이코노믹리뷰",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpUl9YczJQTTVCNlNYX1VoSWV0M1luUUtNcVNQQUVFUEZWUFNZbFVzTEVNalVIc0RUdWYzM2pIRzh3b1lDUi1DSDhHcXZTUklNQzREX2VYRjNOX3Z3dGhISG43ZEUtSERmSnJoWQ?oc=5",
+            "published": "2026-11-15T21:43:44.000Z",
+            "snippet": "삼성전자, CES 2027 최고 혁신상 4개 포함 19개 수상…’폴드8 울트라' 첫 영예 ER 이코노믹리뷰"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "[단독] 물 마시러 가면 영상이 멈춘다…삼성의 CES 야심작 'AI TV'",
+          "summary": "삼성전자가 CES 2027에서 공개할 AI TV에는 시청자가 자리를 비우면 이를 인식해 영상을 자동으로 멈추는 기능이 들어갈 예정입니다. 시청자의 상태와 행동을 파악해 반응하는 AI 기능을 전면에 내세울 계획으로 알려졌습니다.",
+          "why": "TV가 사용자를 인식하는 'AI 가전'으로 진화하면서, 프리미엄 TV 시장에서 기능 경쟁이 이어질 것으로 보입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "[단독] 물 마시러 가면 영상 멈춘다…삼성의 CES 야심작 ‘AI TV’ - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aYW1kVTl4XzJyamZzWXNCRXNQSHVULXN5Q29LdnVWUWN4THFQczQzWTlSaEhZTWJnWEw0cF9ENkNmZGNJS3diQVdjWmdpQmpkUW9UVUZn?oc=5",
+            "published": "2026-11-16T20:00:01.000Z",
+            "snippet": "[단독] 물 마시러 가면 영상 멈춘다…삼성의 CES 야심작 ‘AI TV’ 중앙일보"
+          }
+        },
+        {
+          "index": 20,
+          "title_ko": "삼성·LG, 내년 CES서 휴머노이드 맞대결 예고…사업화 경쟁 가속",
+          "summary": "삼성전자와 LG전자가 CES 2027에서 각자의 휴머노이드 로봇을 선보이며 정면으로 맞붙을 전망입니다. 별도 보도(뉴스웍스)에 따르면 삼성 휴머노이드는 손가락 5개와 모터가 관절을 직접 움직이는 '직구동' 방식을 채택했습니다.",
+          "why": "국내 양대 가전사가 휴머노이드 사업화에 속도를 내면서 로봇 부품·소프트웨어 공급망에도 기회가 생길 것으로 보입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성·LG, 내년 CES서 휴머노이드 맞대결 예고…사업화 경쟁 속도 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pd1RidjZQWHpRWUNYZnBJb2owNktjTGpMZEM4QUJJU0pRV180WFRnSG1uWWoxeE9oXzZhU01pMGRzblBtZ0NPQzJGb1JyaVJRQXVvaGgwUTV1TE1rRXk1T3FNS3B0eG1fNEd6btIBckFVX3lxTE9yQmhNcGU2RktfOUlkWGZYTHN0ekVHYUM0dmhyamVPLVJyOWRpXzUyYVR6ei1sTmtnMTFxYlJNSDdOWWJIc1NUVXFhXzEyc0FmTUo2U1dZQzFIQTROb0NSX2VZbHdKb3U2ME5JQ0xlN0RZdw?oc=5",
+            "published": "2026-11-16T08:30:00.000Z",
+            "snippet": "삼성·LG, 내년 CES서 휴머노이드 맞대결 예고…사업화 경쟁 속도 - 머니투데이 머니투데이"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "삼성SDI, AI 데이터센터용 백업 배터리로 CES 2027 혁신상 수상",
+          "summary": "삼성SDI가 AI 데이터센터의 정전에 대비하는 백업 배터리 제품으로 CES 2027 혁신상을 받았습니다. AI 인프라 확대로 커지는 데이터센터 전력 안정화 수요를 겨냥한 제품입니다.",
+          "why": "전기차 수요가 둔화한 가운데 국내 배터리 업계가 AI 데이터센터라는 새 수요처를 공략하고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Samsung SDI – AI data center backup battery wins CES 2027 Innovation Award - Batteries News",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDlYekoyYmFBdzF4aGlUSU1SM1VrSnBiM1FhOEJ2dnZFUnNab0ViSzBsdmpFOGduWHI5ajliNG50SXhWTkpubHQ5Sk95c1ZocnI3YWNySDNMeVA2a0NDb3hVTS1sUzU1R0dhQXpyUjZhRjBVLVFLN2pHSEdFR2tnc3ptRUtOeWFMVWFsZnUyQTJpOUlkOGpCcTlGRXNNTkZL?oc=5",
+            "published": "2026-11-16T05:54:05.000Z",
+            "snippet": "Samsung SDI – AI data center backup battery wins CES 2027 Innovation Award Batteries News"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "CES 2027: LG이노텍, 3D 차량 조명 플랫폼 'Nexlide C+' 공개",
+          "summary": "LG이노텍이 CES 2027 출품작으로 입체감 있는 조명을 구현하는 차량용 3D 조명 플랫폼 'Nexlide C+'를 소개했습니다. 차량 외관 디자인과 조명 연출을 결합한 전장 부품입니다.",
+          "why": "국내 부품사의 전장 사업 확대 흐름을 보여주는 사례로, 완성차 조명 차별화 수요를 겨냥합니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "CES 2027: LG Innotek's Nexlide C+, a 3D Vehicle Lighting Platform - 에이빙",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LelF1RUxxUjF3aTZMcW92cXFMTmNKb2FTSVVnMHRqbUFiblRkbUFmVExyMHE1Y2VoS1ZWeGxOREN0bGNqeDQyendkYW04WVY3aFNmVlNQbjQtS2tLSEhMY0FJZFJ3SHdRSkRZ0gFrQVVfeXFMTUt6UXVFTHFSMXdpNkxxb3ZxcUxOY0pvYVNJVWcwdGptQWJuVGRtQWZUTHIwcTVjZWhLVlZ4bE5EQ3RsY2p4NDJ6d2RhbThZVjdoU2ZWU1BuNC1La0tISExjQUlkUndId1FKRFk?oc=5",
+            "published": "2026-11-16T01:33:09.000Z",
+            "snippet": "CES 2027: LG Innotek's Nexlide C+, a 3D Vehicle Lighting Platform 에이빙"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 32,
+          "title_ko": "AI는 기본값, 현실 문제를 해결하라…CES 2027 혁신상 4대 트렌드",
+          "summary": "올해 혁신상 수상작을 분석한 결과, AI는 이미 기본 탑재 요소가 됐고 실제 생활과 산업의 문제를 해결하는 제품이 주목받았습니다. 수상작의 흐름을 4대 트렌드로 정리했습니다.",
+          "why": "'AI 탑재' 자체로는 더 이상 차별화가 어렵고, 활용 가치를 입증해야 한다는 메시지를 국내 기업에 던집니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "AI는 기본값, 현실 문제를 해결하라… CES 2027 혁신상 4대 트렌드 - 네이버 프리미엄콘텐츠",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUWlGOE02MkVySjA3Rm1nSUdSZng2U0ZYVi1MRGxfME1XT3Fub3Rta1RiSG5vQ2x1dExHZzBiVFY0N081a0dlaTJjUlRHNFVzR3lPRndMbEtfSE1nRW50OWhFcHY5ZmJob2hBVXVPckVnZFk2WDg2UGdDUVlyendiV3pXOFl3dw?oc=5",
+            "published": "2026-11-16T02:30:00.000Z",
+            "snippet": "AI는 기본값, 현실 문제를 해결하라… CES 2027 혁신상 4대 트렌드 네이버 프리미엄콘텐츠"
+          }
+        },
+        {
+          "index": 22,
+          "title_ko": "CES의 K-뷰티: 한국콜마, 뷰티테크 부문 2년 연속 최고혁신상 최초 수상",
+          "summary": "한국콜마가 CES 뷰티테크 부문에서 최고혁신상을 2년 연속 받았습니다. 해당 부문에서 2년 연속 최고혁신상을 받은 것은 한국콜마가 처음입니다.",
+          "why": "K-뷰티가 기술 기반 '뷰티테크'로 글로벌 경쟁력을 넓혀가고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row - ANTARA News",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVmtRUzVHWU50N1hWX3Z2c19yU0MyMy1TMlE2WXpFNHZtOW51WTFHd203cGpBb1YzNVhMUDZZQXo4Z2xrQUs3Q3hMMmtEaU5kZllFRk1jY0hZeWdMaUNpd0hYUFdXVEhNTlY2eURwT183ZXQ2cXY5MmVCNlUxWGVDQlh2OFhfRk52cU9TeHZjTFVydmFBVkMySzZpRkhKX0JaY2tHTkhSaVJ1UTkyNGdQWUFDcUNuUTR5WXVWUFBwRjV6Ym56MjRiZEowd0NoczdBSVR4NUlCWi04Y1ZtSVhTaERR?oc=5",
+            "published": "2026-11-16T07:23:52.000Z",
+            "snippet": "K-Beauty at CES: Kolmar Korea Becomes First Company to Win Best of Innovation in Beauty Tech Two Years in a Row ANTARA News"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "부산 기업 11개사, 미국 'CES 2027' 혁신상 수상",
+          "summary": "부산 지역 기업 11곳이 CES 2027 혁신상을 받았습니다. 지자체와 지역 창업 지원 기관의 CES 진출 지원이 성과로 이어진 것으로 풀이됩니다.",
+          "why": "수도권 밖 지역 스타트업도 CES를 통해 글로벌 시장에 진출할 발판을 넓히고 있습니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "부산 기업 11개사, 미국 ‘CES 2027’ 혁신상 영예 - 울산매일 - 울산최초, 최고의 조간신문",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRG4wRFlObjZOY3lzV3E2OGE3Y0JTbWhudVFiTFUwb2lKN3Y1czZ2WmZSVkFUS3FkYjIwcUJGR3d4UnJnb0xBcUZIOTgyUE1qTTFNSl8xeVdvTU1hVEVjQXJ5b28yWVFZUFHSAW5BVV95cUxPckVNY2hjSThDVkZNTjFQNDNBamdzQi1IRmRNem9vN0NhZGVCN1VaWjlvYXREMmdGd3NrTTY2a3lsZFFyOVM3MUhMSjg3ZVBUMjdnX0JpYjN3SVkwWGJoa0J1TkV2MkVJSUtNUklCQQ?oc=5",
+            "published": "2026-11-16T06:04:07.000Z",
+            "snippet": "부산 기업 11개사, 미국 ‘CES 2027’ 혁신상 영예 울산매일 - 울산최초, 최고의 조간신문"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "미타운, 'EVOVA Forensics'로 CES 2027 혁신상 수상…3D 뉴럴 렌더링·대화형 AI로 공공안전 시장 공략",
+          "summary": "국내 스타트업 미타운이 초실감 3D 뉴럴 렌더링과 대화형 AI를 결합한 'EVOVA Forensics'로 CES 2027 혁신상을 받았습니다. 사건 현장 재구성 등 공공안전 분야를 겨냥한 솔루션입니다.",
+          "why": "국내 AI 스타트업이 소비자 가전을 넘어 공공·B2G 시장으로 응용 분야를 넓히는 사례입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "미타운, 'EVOVA Forensics'로 CES 2027 혁신상 수상…초실감 3D 뉴럴 렌더링·대화형 AI로 공공안전 시장 공략 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LWXpkcThVTFNheW5qam1WLTZqbXVEWGlET3NEd1RJaFYzTTBGNHB6by1xejRkRWNjVXZRdUZ4VDJhWkRyb0Z1eFdDc2E1UQ?oc=5",
+            "published": "2026-11-16T05:38:08.000Z",
+            "snippet": "미타운, 'EVOVA Forensics'로 CES 2027 혁신상 수상…초실감 3D 뉴럴 렌더링·대화형 AI로 공공안전 시장 공략 전자신문"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "아모레퍼시픽, CES 수상 '빛 반응 기술' 주름 관리로 확장…전용 디바이스·세럼 출시",
+          "summary": "아모레퍼시픽이 이전 CES에서 수상한 빛 반응 기술을 주름 관리 분야로 넓혀, 전용 디바이스와 세럼을 출시했습니다. CES 수상 기술이 실제 판매 제품으로 이어진 후속 사례입니다.",
+          "why": "CES 수상 기술이 국내 소비자가 구매할 수 있는 홈 뷰티 제품으로 상용화되고 있습니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "아모레퍼시픽, CES 수상 '빛 반응 기술' 주름 관리로 확장…전용 디바이스·세럼 출시 - 이코노미트리뷴",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiekgzQXZZcjA3Q1dFRnhkaHFSYmtlaThFLTVmLXg3NHNuQ0E0bGM4MGxWcTY3SDJFLWdTTkdSby1xbjlGV2M3cjQxQWtvREw3Y2RkVkdWaUYtOEFDZkpHT1FUdjhlWXl4UjNvY09NVFh3ZzFsVWdr?oc=5",
+            "published": "2026-11-16T06:22:15.000Z",
+            "snippet": "아모레퍼시픽, CES 수상 '빛 반응 기술' 주름 관리로 확장…전용 디바이스·세럼 출시 이코노미트리뷴"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "KTC, 2,304개 디밍 존을 갖춘 6K 미니 LED 모니터 'M32P2' CES 2027서 공개",
+          "summary": "중국 모니터 업체 KTC가 31.5인치 6K 해상도에 2,304개 로컬 디밍 존을 갖춘 미니 LED 모니터 M32P2를 CES 2027에서 처음 선보입니다. 고해상도·고명암비 수요를 겨냥한 제품입니다.",
+          "why": "중국 업체가 고사양 모니터 시장을 빠르게 추격하면서 국내 디스플레이·모니터 업체의 프리미엄 경쟁 부담이 커질 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "KTC M32P2 6K Mini LED Monitor With 2,304 Dimming Zones to Debut at CES 2027 - XiaomiToday",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2Y1RklnUFY3cVQtakExNE00WEJ3Ukt3SlRXYmN5dm10MGszMERieDZJZDJfTGN3RmV6bVIyaW1OQm1laU9nZmhUWFk5RFV5ZGpQNVJLaVdLSFF3ZlB3Z1B3VV9BOUVBcHF5dVhMSWZPdU83OFp2QW1VM1dHWE9QQkNUWXNIR1l4NTNmd1FNaTZrZF9KTTBGLVo4eGh0ckpN?oc=5",
+            "published": "2026-11-16T19:13:24.000Z",
+            "snippet": "KTC M32P2 6K Mini LED Monitor With 2,304 Dimming Zones to Debut at CES 2027 XiaomiToday"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "IFA 2026 접근성상 수상한 Xcanbot, 스마트 모빌리티 로봇 'Mate' 전 라인업 CES 2027 출격",
+          "summary": "IFA 2026에서 접근성 부문 상을 받은 Xcanbot이 스마트 모빌리티 로봇 'Mate' 제품군 전체를 CES 2027에 전시합니다. 이동 약자의 이동을 돕는 로봇 제품군입니다.",
+          "why": "고령화가 빠른 한국에서도 이동 보조 로봇 수요가 커지고 있어 관련 시장의 경쟁 구도를 가늠할 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Fresh Off Its IFA 2026 Accessibility Win, Xcanbot Brings Its Full Mate Family of Smart Mobility Robots to CES 2027 - The Manila Times",
+            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMjIxRGtSOHlRWV9QN2lMdDNuM0o0TVhYN3dOZnhGQ3pYM0ttMDdpQ3pCSGltUElkMEJCbHJ5MkNJeE85WmpmWm0xWUpPWmlUMFAwRzhkS1VDOWNjakQ1ZEtpbkNhdTR2WXVwMjRYWlczcnd2b2ViRTMyeEx1cDhqWWU5Tm1STmxJQ09Ocm9CTUlxeGM1UFBFbWZCVEFQc19YdThfeWZ5WmNRUVVJRDZ3VWotV2JRajJEUDY1dmFTN1dzQnN3S1FhM2phbjN0TXVWdUNlZFpvblM4N043a0x1VEFEcDUxTXM4dV81NXpmcHUxZWc3YXIzdnQ1bnF0cEJUMkE3dW5pQ2FJLU1ac1lUbVBqZ3dSZ9IBmwJBVV95cUxOaEFqZDFmWXpkaXhha054M19lN29oVHFvUFdqUTQ5a0RVNlZybGhSLXQ2cm94V0g3bjR5cVAxMnZLdnNlQ3ZEZWw4RldUVDF5SkFNUzY3TjMxVmNQS000RUN5b0RyNmNEUW9GWndoekFISXdENXIxeEFEYi1SR0xpZ0p3em50al9hVkVtVk9ZN19YakxRT3Z3TDBKV3lDN3hTbG9HWlhWYjduVm9qZ191Xy05R2NKRWFpWFkyd3JnYnFKelJRQ1M0ZmstSks4THNEM05mWThOUjRtQllkbkRiUHV1N3cyd0kzbUNIVERHaTB3R2RGZS16TnlPWlRKQVBVUkF2UHJHYTNJZ3RwcTN3RVlWQ0UwUFNpTnV3?oc=5",
+            "published": "2026-11-16T14:24:07.000Z",
+            "snippet": "Fresh Off Its IFA 2026 Accessibility Win, Xcanbot Brings Its Full Mate Family of Smart Mobility Robots to CES 2027 The Manila Times"
+          }
+        }
+      ]
+    }
+  ]
+}
