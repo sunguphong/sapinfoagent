@@ -1,0 +1,93 @@
+{
+  "overview": "■ 오늘 챙길 지원 혜택: [경기도] 1인 소상공인 고용보험료 지원사업 2차 모집(12월 31일 마감). 화성시와 정부(중기부·소진공)에서 새로 신청할 수 있는 지원은 오늘 소식에 없습니다.\n■ 정책 흐름: 소상공인 10명 중 3명이 폐업을 결심하고도 빚과 비용 때문에 문을 닫지 못하는 등 자금난 경고가 커지고 있습니다. 국회에서는 내년 소상공인 예산 증액을 요구하는 목소리가 나오고 있고, 지방의회에서는 정부 재보증 축소로 지역신보의 보증 지원이 줄어들 수 있다는 우려가 제기됐습니다.",
+  "categories": [
+    {
+      "name": "신청 가능한 지원사업",
+      "items": [
+        {
+          "index": 46,
+          "title_ko": "[경기도] 경상원, 1인 소상공인 고용보험료 지원사업 2차 접수…12월 31일까지",
+          "summary": "경기도시장상권진흥원(경상원)이 직원 없이 혼자 가게를 운영하는 경기도 1인 소상공인을 대상으로 고용보험료 지원 2차 신청자를 12월 31일까지 모집합니다. 기사에 따르면 납부한 고용보험료를 최대 30%까지 지원하고, 정부(소진공)의 1인 자영업자 고용보험료 지원사업과 함께 받으면 보험료 부담이 사실상 전액 없어질 수 있습니다. 신청 사이트와 세부 요건은 기사 요약에 없으니 경상원 공고 원문을 확인하세요.",
+          "why": "직원 없이 혼자 운영하는 동탄 피부관리샵이라면 대상 — 아직 자영업자 고용보험에 가입하지 않았다면 먼저 가입하고, 12월 31일까지 경상원 공고를 확인해 신청하세요(직원이 있으면 대상 여부 확인 필요).",
+          "article": {
+            "source": "Google News 경기도·경기신보 소상공인 (KR)",
+            "title": "경상원 '1인 소상공인 고용보험료 지원사업' 2차 접수...12월 31일까지 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VRlY5T09YWVNTUHN3a2djWVBhWW1YdWZqLTNNZFR6WWtBSVlHeWdyZzJ6Xzc0cW1XVnduOG1Ec2tkOVRuY1lxd3pvNS1uRWRicHV3eVFrNGhzUnZoa2hJMnU0WjYyczMyLVRGYVBR?oc=5",
+            "published": "2026-11-17T06:59:36.000Z",
+            "snippet": "경상원 '1인 소상공인 고용보험료 지원사업' 2차 접수...12월 31일까지 국제뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "소상공인 정책 동향",
+      "items": [
+        {
+          "index": 3,
+          "title_ko": "\"문 닫고 싶어도 못 닫아\"…소상공인 10명 중 3명 '폐업 지연'",
+          "summary": "소상공인 10명 중 3명이 폐업을 결심하고도 문을 닫지 못하고 있으며, 폐업을 결심한 뒤 실제 폐업까지 평균 1년 5개월이 걸린다는 조사 결과가 나왔습니다. 대출 상환과 원상복구 비용 같은 부담 때문에 '퇴로'가 막혀 있다는 지적입니다.",
+          "why": "당장 신청할 지원은 아니지만, 경영이 어려울 때 폐업·재기 지원 제도가 있다는 점을 알아 두면 좋습니다.",
+          "article": {
+            "source": "Google News 자영업자 대책 (KR)",
+            "title": "“문 닫고 싶어도 못 닫아”…소상공인 10명 중 3명 ‘폐업 지연’ - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yX3p1elkzaXQxLTRscV9oakpOWWJ4c1pqSlVpckpMWkVodnB4ekw0NmRucVY1NTlsRWNEZWt1ZmdlRHFQQ2dZRWRaZldzOEV3ZzMxdE9KNUg1NG5GY0FGdmRfSU9kUnNQbFJSNFRtZWxpdw?oc=5",
+            "published": "2026-11-17T11:05:00.000Z",
+            "snippet": "“문 닫고 싶어도 못 닫아”…소상공인 10명 중 3명 ‘폐업 지연’ 한겨레"
+          }
+        },
+        {
+          "index": 53,
+          "title_ko": "\"빚내서 버티다 폐업도 못 해\"…중소기업·소상공인 자금난 경고등",
+          "summary": "중소기업과 소상공인이 대출로 버티다 폐업조차 못 하는 자금난이 심해지고 있다는 분석입니다. 대출 연체와 부실 위험이 커지고 있다는 경고가 함께 나왔습니다.",
+          "why": "대출 상환 부담이 크다면 경기신용보증재단이나 소진공의 상환 유예·재기 지원 상담을 미리 받아 보세요.",
+          "article": {
+            "source": "Google News 화성시·동탄 소상공인 (KR)",
+            "title": "“빚내서 버티다 폐업도 못 해”…中企·소상공인 자금난 경고등[중기+] - 헤럴드경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14cklwYjlrNFVyWW91N0tnSk14MGRqbFJsRk9vNDJKTHNqRlZNTEswd0RhU2tVTDRMdDdseVV5Y1dmclo1YzIwZTdKRHkyelFORXFRNUV3?oc=5",
+            "published": "2026-11-17T03:00:00.000Z",
+            "snippet": "“빚내서 버티다 폐업도 못 해”…中企·소상공인 자금난 경고등[중기+] 헤럴드경제"
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "여당 소상공인위, 온누리상품권 확대·상생배달 지원 등 내년 예산 증액 촉구",
+          "summary": "여당 소상공인위원회가 온누리상품권 확대와 상생배달 지원 등 내년도 소상공인 예산을 늘려야 한다고 촉구했습니다. 국회 예산 심사에서 소상공인 관련 사업 규모가 정해질 예정입니다.",
+          "why": "내년 정부 지원사업 규모에 영향을 주는 소식이니, 예산이 확정된 뒤 나오는 신년 지원 공고를 챙겨 보세요.",
+          "article": {
+            "source": "Google News 소상공인 정책자금·지원금 (KR)",
+            "title": "與소상공인위, 온누리 확대·상생배달 지원 등 예산증액 촉구 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtdDRLR2lXYXNneWJRWll0MmNUekhMUlIwTEJWQmJqTWlYcDJaQzBfU00yMXRaZjRSaEhCQzVaMzhVaUNzN1Q0M2I3S0dPWU5YQmRLQWZ2amx2R1lPdlV1dg?oc=5",
+            "published": "2026-11-17T07:57:44.000Z",
+            "snippet": "與소상공인위, 온누리 확대·상생배달 지원 등 예산증액 촉구 아시아경제"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "인천시의회 이강구 의원 \"정부 재보증 축소로 소상공인 지원 위축\"",
+          "summary": "정부가 지역신용보증재단에 대한 재보증을 줄이면서 지역 소상공인 보증 공급이 위축될 수 있다는 지적이 나왔습니다. 보증 한도와 심사 기준이 깐깐해질 수 있다는 우려입니다.",
+          "why": "내년에 경기신보 보증부 대출을 계획하고 있다면 보증 한도가 줄어들 수 있으니 미리 상담받아 두세요.",
+          "article": {
+            "source": "Google News 소상공인 정책자금·지원금 (KR)",
+            "title": "인천시의회 이강구 의원, 정부 재보증 축소에 소상공인 지원 위축 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5VXN5Z1labmsySG9OaGx3QXRLZDQxNHUwNm16NjlYS2VxcDdpZXJYcE9HM2R4aXBkYVoydmNEN2dyUHB5QWU1czUyQnEySXpRRWtIQUk5c3hKYkQ4RVpRSWFBTXdIaWxaS2VWWDNn?oc=5",
+            "published": "2026-11-17T09:32:28.000Z",
+            "snippet": "인천시의회 이강구 의원, 정부 재보증 축소에 소상공인 지원 위축 국제뉴스"
+          }
+        },
+        {
+          "index": 54,
+          "title_ko": "예산군, 소상공인 이차보전금 지원 접수…12월 1일까지",
+          "summary": "충남 예산군이 하반기 소상공인 대출 이자 차액(이차보전금) 지원 신청을 11월 17일부터 12월 1일까지 받습니다. 예산군 전용 사업입니다.",
+          "why": "예산군 사업이라 대상이 아님 — 화성시에도 소상공인 이차보전 사업이 있는지 화성시청 지역경제과에 문의해 보세요.",
+          "article": {
+            "source": "Google News 소상공인 지원사업 신청·공고 (KR)",
+            "title": "\"소상공인 이차보전금 지원사업 접수\"…내달 1일까지 등[예산소식] - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MR1N2dEhrbFFSOC1LMVlNZ0hNY0Q1Y2ZDY0pwSmtsajVSNGk0UGRzenJPdjBiNmNDUEozTkJGZHRKdWJfQXpQeUdQYnN1MG1pVmVqY3VidHZSd203ZHF0em14ekpWd1NCRmg5WDhraVNKTGhoY25watIBeEFVX3lxTE1MR1N2dEhrbFFSOC1LMVlNZ0hNY0Q1Y2ZDY0pwSmtsajVSNGk0UGRzenJPdjBiNmNDUEozTkJGZHRKdWJfQXpQeUdQYnN1MG1pVmVqY3VidHZSd203ZHF0em14ekpWd1NCRmg5WDhraVNKTGhoY25wag?oc=5",
+            "published": "2026-11-17T02:37:23.000Z",
+            "snippet": "\"소상공인 이차보전금 지원사업 접수\"…내달 1일까지 등[예산소식] 뉴시스"
+          }
+        }
+      ]
+    }
+  ]
+}
