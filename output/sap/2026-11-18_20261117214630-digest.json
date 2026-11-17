@@ -1,0 +1,269 @@
+{
+  "overview": "SAP 경영진 개편 소식으로 Thomas Saueressig가 2027년 3월 말까지 현 직무를 수행한 뒤 이사회를 떠난다고 발표됐습니다. SAP는 TechWolf 인수를 마무리했고, VF Corporation과 AI 리테일 매장 'S.Fashion'을 열어 HR·리테일 분야 AI 확장에 나섰습니다. 기술 측면에서는 SAPPHIRE 2026에서 공개된 AI 전용 UI 'Joule Work'와 SAP 관리형 Joule·BDC 도입 자동화 등 '자율 기업(Autonomous Enterprise)' 관련 콘텐츠가 다수 나왔습니다. 2026년 12월부터 SAP Build Process Automation 과금 체계가 바뀌고 BusinessObjects BI 2027 프리뷰가 공개되는 등, 실무자가 챙겨야 할 변경 사항도 이어졌습니다.",
+  "categories": [
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 25,
+          "title_ko": "Thomas Saueressig, SAP 이사회에서 물러난다",
+          "summary": "SAP는 Thomas Saueressig 이사회 멤버가 회사를 떠난다고 발표했습니다. 그는 2027년 3월 말까지 현재 맡은 업무를 계속 책임집니다.",
+          "why": "제품·고객 서비스 조직을 이끌던 핵심 임원이 바뀌면 향후 제품 전략과 지원 체계가 달라질 수 있어 주목해야 합니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "Thomas Saueressig to Leave SAP Executive Board",
+            "link": "https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/",
+            "published": "2026-11-17T08:00:00.000Z",
+            "snippet": "WALLDORF — Saueressig will remain fully in charge of his current responsibilities until end of March 2027."
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "SAP, TechWolf 인수 완료",
+          "summary": "SAP가 AI 기반 스킬 인텔리전스 기업 TechWolf의 인수를 마무리했습니다. 관련 보도에 따르면 SAP는 AstraZeneca와의 제휴 확대와 CFO의 투자자 행사 일정도 함께 발표했습니다.",
+          "why": "SuccessFactors 등 HCM 영역에 스킬 기반 AI 기능이 강화될 가능성이 커 HR 프로젝트 담당자가 눈여겨볼 만합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Completes Acquisition of TechWolf - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aUXljcTFDUHFGc0w5b3QtdEZqSlBRTTAydFVwZEdFaFdsamwxcEJSSVZuUXk5Nmk3WHl3VzJuQ1RiV0RQM3BybVpKd2NmUmdDaFpJbXhWc2s4MDhXRkZ6Y0NDRXhKaGFiejhIa1Qxa2hJc0J3eWc?oc=5",
+            "published": "2026-11-16T15:03:53.000Z",
+            "snippet": "SAP Completes Acquisition of TechWolf SAP News Center"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "SAP, VF Corporation과 'S.Fashion' 매장 열고 리테일 AI 실증",
+          "summary": "SAP가 VF Corporation과 함께 S.Fashion 매장을 열고 리테일 현장에서 AI 기술을 시험하고 있습니다. 실제 매장 운영에 SAP의 AI를 적용하는 쇼케이스 성격의 프로젝트입니다.",
+          "why": "리테일·패션 업종 고객에게 SAP AI 활용 사례를 제안할 때 참고 레퍼런스가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "SAP, VF Corporation과 함께 S.Fashion 매장을 열어 리테일 AI 시험 - Unite.AI",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmhybDUzbHJReTNMUWpCYWpmTHc2M25FWlJrZVZTX3I4eXNVZ0JjX3pzNnU5TmdDOGQzSGZ6aTlFM1Z1T0t6eUxSOE9OUF9meUo3dXU4QTFBTldTZlBvczExODBBVUJBWWRtVnpjR3pnWVNfY00zYWFxX2lTUnFrVlZOaE5nRkthNWROYVVfQjdPQQ?oc=5",
+            "published": "2026-11-11T13:54:03.000Z",
+            "snippet": "SAP, VF Corporation과 함께 S.Fashion 매장을 열어 리테일 AI 시험 Unite.AI"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "SAP, 2026 IDC MarketScape 다수 공급망 계획 평가에서 리더 선정",
+          "summary": "SAP가 공급망 계획 분야의 여러 2026 IDC MarketScape 평가에서 리더로 선정됐습니다. 지속되는 공급망 혼란, 수요 변화, AI의 빠른 발전 속에서 SAP 솔루션 경쟁력이 인정받았다는 내용입니다.",
+          "why": "IBP 등 SAP 공급망 솔루션을 제안할 때 객관적인 근거 자료로 쓸 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "Advancing Supply Chain Planning: SAP Named a Leader in Multiple 2026 IDC MarketScape Assessments",
+            "link": "https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments/",
+            "published": "2026-11-17T13:15:00.000Z",
+            "snippet": "It's an important moment for supply chain leaders, with persistent disruption, changing demand, and rapid advances in AI."
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "델리 고등법원, SAP에 Nayara Energy 지원 계속 명령",
+          "summary": "인도 델리 고등법원이 SAP에 Nayara Energy에 대한 지원을 계속하라고 명령했습니다. 제재 등 대외 환경 변화로 생길 수 있는 SAP 서비스 중단을 두고 법원이 판단을 내린 사례입니다.",
+          "why": "지정학적 리스크가 SAP 지원 계약과 시스템 운영 연속성에 어떤 영향을 줄 수 있는지 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Delhi High Court Orders SAP To Continue Support For Nayara Energy - Newz Daddy - Newz Daddy",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGkwQmpRd283Tm5YNE1NLUJKWkg2bW5ERE44cUV2WWdnbmRnUzFIU3hxaDRhR0NhNk1abkxIZWRFTUJyNEswU3N6bWpWZnpBN2RRcUZnMWd2ZEFvRThzdmQxVDlSX2t6WVk1MUJ4QlkycUwwaFVIOTYyV2VvR29yQjltWkN3T2dQZmtiTEVMdFJVY25URU1DbWJheFMyX2_SAZ8BQVVfeXFMTURpMEJqUXdvN05uWDRNTS1CSlpINm1uREROOHFFdllnZ25kZ1MxSFN4cWg0YUdDYTZNWm5MSGVkRU1CcjRLMFNzem1qVmZ6QTdkUXFGZzFndmRBb0U4c3ZkMVQ5Ul9rellZNTFCeEJZMnFMMGhVSDk2Mldlb0dvckI5bVpDd09nUGZrYkxFTHRSVWNuVEVNQ21iYXhTMl9v?oc=5",
+            "published": "2026-11-17T15:59:51.000Z",
+            "snippet": "Delhi High Court Orders SAP To Continue Support For Nayara Energy - Newz Daddy Newz Daddy"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "2027 SAP PartnerEdge 개발 펀드(Development Fund) 개편",
+          "summary": "SAP가 2027년을 앞두고 PartnerEdge 프로그램을 바꾸면서 개발 펀드를 개편합니다. SAP 전략 우선순위를 이끄는 파트너에게 보상을 늘리고, 신청·운영 절차는 더 빠르고 간단하게 만든다는 내용입니다.",
+          "why": "SAP 파트너사에 소속된 컨설턴트라면 내년 사업 계획과 자금 지원 전략에 바로 영향을 받습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Plan Ahead, Win Together:  Development Fund Enhancements for 2027",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/plan-ahead-win-together-development-fund-enhancements-for-2027/ba-p/14524212",
+            "published": "2026-11-17T13:47:36.000Z",
+            "snippet": "As we move into 2027, we're making meaningful changes to the SAP PartnerEdge program to help strengthen the role of SAP partners in delivering customer value, innovation, and business transformation. A key part of this includes new enhancements for the Development Fund – changes designed to reward partners who drive SAP's strategic priorities, while making the experience faster, simpler, and more "
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "SAP의 새로운 AI UI 'Joule Work' 소개",
+          "summary": "SAP가 SAPPHIRE 2026에서 공개한 Joule Work는 사용자가 AI 기능과 자율 기업 기능을 다루는 새로운 사용자 경험입니다. 실시간 에이전트 협업을 지원하며, 브라운필드·그린필드 환경별로 SAP 관리형 Joule 서비스 프로비저닝 사전 점검 가이드도 함께 제공됩니다.",
+          "why": "SAP 사용자 화면이 AI 중심으로 바뀌는 방향을 보여주므로 UX 설계와 도입 계획에 반영해야 합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Introducing Joule Work - the new UI for AI from SAP",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-joule-work-the-new-ui-for-ai-from-sap/ba-p/14523416",
+            "published": "2026-11-17T21:44:04.000Z",
+            "snippet": "Introducing Joule Work - the new UI for AI from SAP(SAP-Managed Provisioning for Joule services – precheck guide brownfield and greenfield)Announcement – SAP introduced the new UI for AI at SAP SAPPHIRE 2026 offering a new end-user experience for users to interact with AI offerings and our Autonomous Enterprise through real-time agent coordination. It leverages SAP's rich data, process knowledge, "
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "자율 기업(Autonomous Enterprise)으로 가는 길을 단순화하기",
+          "summary": "SAP 관리형 Joule과 Business Data Cloud를 도입하려면 여러 SAP Note와 TCI를 적용해야 해서 복잡하고 시간이 많이 듭니다. 이 글은 그 과정을 단순화하고 자동화하는 방안을 소개합니다.",
+          "why": "Joule·BDC 도입 프로젝트에서 사전 작업 공수를 줄이는 데 직접 도움이 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Simplifying the Journey towards Autonomous Enterprise",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/simplifying-the-journey-towards-autonomous-enterprise/ba-p/14524074",
+            "published": "2026-11-17T11:33:37.000Z",
+            "snippet": "A key first step toward Autonomous Enterprise is adopting SAP-managed Joule and Business Data Cloud is implementing multiple SAP Notes and TCIs, a process that is often complex, time-consuming, and effort-intensive. What if we could simplify and automate this experience, enabling customers to accelerate their path to becoming an Autonomous Enterprise?"
+          }
+        },
+        {
+          "index": 24,
+          "title_ko": "주의: 2026년 12월부터 SAP Build Process Automation API·스토리지 초과 사용 과금",
+          "summary": "BTPEA, CPEA, 종량제(PayG) 모델로 SAP Build Process Automation을 쓰는 고객은 2026년 12월 청구분부터 요금이 달라질 수 있습니다. 대상은 SBPA API 호출(SKU 8012267)과 스토리지(SKU 8012266)입니다.",
+          "why": "고객 BTP 비용에 예상치 못한 변동이 생길 수 있으므로 사용량을 미리 점검하고 알려야 합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Heads Up: SAP Build Process Automation API and Storage Overage from December 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/heads-up-sap-build-process-automation-api-and-storage-overage-from-december/ba-p/14523826",
+            "published": "2026-11-17T08:21:15.000Z",
+            "snippet": "Customers using SAP Build Process Automation (SBPA) under BTPEA, CPEA, or Pay-as-you-Go (PayG) commercial models may observe changes in their billing statements starting from the December 2026 billing cycle for the following services:SBPA API calls (SKU 8012267, Service Plan: api-calls)SBPA Storage (SKU 8012266, Service Plan: storage)"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "자체 환경에서 SAP Signavio Agent Mining 활성화하는 방법",
+          "summary": "SAP AI 에이전트를 대상으로 Agent Mining을 켜는 과정을 단계별로 안내합니다. 프로비저닝부터 트레이스 데이터가 SAP Signavio로 들어오기까지 전 과정을 다룹니다.",
+          "why": "AI 에이전트가 실제로 어떻게 동작하는지 프로세스 관점에서 모니터링하고 거버넌스를 갖추는 데 유용합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "How to Activate Agent Mining in SAP Signavio in Your Own Environment",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/how-to-activate-agent-mining-in-sap-signavio-in-your-own-environment/ba-p/14524273",
+            "published": "2026-11-17T14:49:49.000Z",
+            "snippet": "A step-by-step guide to switching on Agent Mining for your SAP agents — from provisioning to the moment traces start flowing into SAP Signavio."
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 3,
+          "title_ko": "SAP BusinessObjects BI 2027 미리보기",
+          "summary": "정식 출시(GA)에 앞서 SAP BusinessObjects BI 2027의 신규 기능과 기술 요구사항을 소개합니다.",
+          "why": "BO를 운영 중인 고객의 업그레이드 계획과 인프라 준비에 필요한 정보입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP BusinessObjects BI 2027 preview",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-businessobjects-bi-2027-preview/ba-p/14521506",
+            "published": "2026-11-17T17:27:20.000Z",
+            "snippet": "Know ahead of its General Availability SAP BusinessObjects BI 2027's new features and technical prerequisites."
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "Story Scripting 이벤트로 버전 게시 과정 제어하기",
+          "summary": "SAP Analytics Cloud QRC4.2026에서 PlanningModel 객체에 onBeforeVersionPublish와 onAfterVersionPublish 두 스크립팅 이벤트가 추가됐습니다. 스토리 개발자는 이를 이용해 버전 게시 전후 처리를 세밀하게 제어할 수 있습니다.",
+          "why": "SAC 계획 모델에서 게시 전 검증이나 게시 후 후속 처리를 구현할 수 있어 플래닝 프로젝트 품질을 높일 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Take Control of Version Publishing with Story Scripting Events",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/take-control-of-version-publishing-with-story-scripting-events/ba-p/14524198",
+            "published": "2026-11-17T13:48:00.000Z",
+            "snippet": "SAP Analytics Cloud QRC4.2026 introduces two new scripting events on the PlanningModel object in Story Scripting that give story developers fine-grained control over the version publish lifecycle: onBeforeVersionPublish and onAfterVersionPublish."
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "생명과학 분야 GxP 준수는 필수: SAP가 기준을 높인다",
+          "summary": "전사 시스템 전반에서 GxP(우수 관리 기준) 준수의 중요성이 커지고 있다는 내용입니다. SAP가 생명과학 기업의 규제 대응을 위해 지원을 강화하고 있다고 소개합니다.",
+          "why": "제약·바이오 고객의 SAP 클라우드 전환 프로젝트에서 규제 준수 요건을 설계할 때 참고할 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "GxP Compliance in Life Sciences Is Non-Negotiable: SAP Is Raising the Standard",
+            "link": "https://news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard/",
+            "published": "2026-11-17T12:15:00.000Z",
+            "snippet": "Supporting good practice across enterprise systems is more critical than ever."
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "시흥시, 서울대·SAP코리아와 협력해 지역 제조기업 AI 경쟁력 강화",
+          "summary": "시흥시가 서울대학교, SAP코리아와 손잡고 지역 중소 제조기업의 AI·디지털 전환을 지원합니다. 이와 관련해 11월 17일 중소 제조기업 대상 AI·DX 전환 지원 세미나도 열렸습니다.",
+          "why": "지자체와 함께하는 중소 제조업 SAP 도입·확산 사업으로, 국내 중견·중소 시장 기회를 엿볼 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "임병택 시흥시장, 지역 제조기업 AI 경쟁력 강화…서울대·SAP코리아와 협력 - 필드뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qdV9qRTJFRzRuRkwwMG9uWk13RDNlYTRRRjFSTkl5SktTcE9sRkNZei1wYko1UGg5UUM5Q2sxak1DVmhlSmJiRVI5SjViZE5NcWotLXZreUdqNlRtZnJrZEJXcy1QWGtH0gFsQVVfeXFMTWNKUlRyeC1EVjRxYmx0UjM3d25OVzdBTzN6aGZQM2tNOTIxSUJBekRJVmMzZ0JhTHg1V2d1U1doV0x6M0ltRWkxakVibV9NQWh0ekRHT0ZRd2ZIMFpKMXZoY01jd2RXekNZTERj?oc=5",
+            "published": "2026-11-11T00:48:39.000Z",
+            "snippet": "임병택 시흥시장, 지역 제조기업 AI 경쟁력 강화…서울대·SAP코리아와 협력 필드뉴스"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "SAP Business Data Cloud(BDC)의 HANA Cloud용 SAP Cloud Connector 구성 가이드",
+          "summary": "SAP Cloud Connector, HANA Cloud, BDC를 연결하는 검증된 구성 방법을 단계별로 정리했습니다. XSUAA 패스코드, 접근 제어 설정, Smart Data Access 원격 소스 구성까지 다룹니다.",
+          "why": "BDC 환경에서 온프레미스 데이터를 연동할 때 자주 막히는 지점을 바로 해결할 수 있는 실전 가이드입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Cloud Connector (SCC) Configuration for HANA Cloud in SAP Business Data Cloud (BDC)",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-cloud-connector-scc-configuration-for-hana-cloud-in-sap-business-data/ba-p/14524456",
+            "published": "2026-11-17T20:54:07.000Z",
+            "snippet": "SAP Cloud Connector + HANA Cloud + BDC: here's the configuration that actually works. XSUAA passcode, access control setup, Smart Data Access remote source — all in one tested, step-by-step guide."
+          }
+        }
+      ]
+    },
+    {
+      "name": "세미나·박람회·웨비나",
+      "items": [
+        {
+          "index": 26,
+          "title_ko": "[11.24] SAP Fiori와 AI의 만남: 라이브 'Hitchhiker's Guide' 세션",
+          "summary": "11월 24일에 열리는 라이브 세션으로, AI 시대에 SAP Fiori, Joule Work, Joule Studio, SAP Build가 어떻게 연결되는지 소개합니다. SAP Community에서 안내했으며, 장소(온라인 여부)·유무료·접수 상태는 공지에서 확인되지 않습니다.",
+          "why": "SAP UX와 개발 도구가 AI 중심으로 재편되는 전체 그림을 한 번에 파악할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Fiori Meets AI: Join Our Live Hitchhiker's Guide on November 24!",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-fiori-meets-ai-join-our-live-hitchhiker-s-guide-on-november-24/ba-p/14523451",
+            "published": "2026-11-17T08:00:00.000Z",
+            "snippet": "AP Fiori, Joule Work, Joule Studio, SAP Build... How does it all fit together in the age of AI?The SAP user experience landscape is evolving rapidly. AI is transforming not only how business users interact with SAP applications, but also how developers build and extend them.So, what does this mean for SAP Fiori? And how do all these technologies and tools connect?Join us on November 24 for a live "
+          }
+        },
+        {
+          "index": 0,
+          "title_ko": "[12.03] SAP Executive Exchange for Busan (Automotive)",
+          "summary": "2026년 12월 3일(목) 부산광역시 부산진구에서 열리는 자동차 산업 대상 SAP 경영진 교류 행사입니다. 무료 강연·세미나이며, 접수 상태는 '외부접수 마감 2주 전'입니다. 주최 정보는 공지에 따로 적혀 있지 않습니다.",
+          "why": "부산·경남 지역 자동차 산업 고객과 SAP AI 전략을 직접 논의할 수 있는 자리입니다.",
+          "article": {
+            "source": "온오프믹스 SAP 행사",
+            "title": "SAP Executive Exchange for Busan(Automotive)",
+            "link": "https://onoffmix.com/event/353329",
+            "published": "2026-11-17T21:46:31.781Z",
+            "snippet": "일시: 2026.12.3 (목) 0:00 ~ 23:59 / 장소: 부산광역시 부산진구 / 무료 강연/세미나 / 접수 상태(오늘 기준): 외부접수 마감 2주전 / 태그: #sap #AI #Busan"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "SAP Sapphire Orlando 2027",
+          "summary": "SAP의 대표 연례 행사인 SAP Sapphire가 2027년 미국 올랜도에서 열린다고 UC Today가 보도했습니다. 정확한 일정, 유무료 여부, 접수 상태는 기사 정보에서 확인되지 않습니다.",
+          "why": "SAP의 차년도 제품 로드맵과 AI 전략이 발표되는 핵심 행사입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Sapphire Orlando 2027 - UC Today",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyOEJOX29kWTYybU51dFZjSllKeEFkajlMX2poVndFTmR6cWZ5Y3kwdFRjdmRUOERXR1dxS04tU1VTeWd4SlpoRnEyNlRFaFFuc3NTV21MWlZjbUw4MVIyYUp3?oc=5",
+            "published": "2026-11-17T13:20:13.000Z",
+            "snippet": "SAP Sapphire Orlando 2027 UC Today"
+          }
+        }
+      ]
+    }
+  ]
+}
