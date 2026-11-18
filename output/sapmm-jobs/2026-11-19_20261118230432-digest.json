@@ -1,0 +1,286 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 공고는 2건으로, 모두 운영(SM)·운영지원 성격입니다. 제이투이의 MM 모듈 운영(서울 중구, 경력 6년 이상)이 MM 전담 포지션으로 가장 눈에 띄고, 동호에이치알의 기업 구매팀 SAP 운영지원은 경력무관이라 진입 장벽이 낮습니다. 기존 공고 중에서는 팔도(PP/MM), 비즈테크아이(S/4HANA Cloud 신규 구축 병행), 포레시아코리아(SD/MM/PP) 등 3~10년차 대상 운영 포지션이 계속 열려 있고, 구축·S/4HANA 전환 신규 공고는 오늘 없습니다. 동국 계열사 쪽에서는 동국씨엠이 일본 가네마츠 보유 아주스틸 지분을 추가 인수해 지배력을 높였고, 냉연·도금업계 수익성 급감과 철스크랩 구매단가 상승 소식이 이어졌습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 38,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "SAP SM 조직에서 MM 모듈 운영을 맡을 경력자를 뽑는 공고입니다. 근무지는 서울 중구(동대문역사문화공원역 인근)이고, 경력 6년 이상이며 즉시 지원 가능합니다. 고용형태와 마감일은 공고에 나와 있지 않습니다.",
+          "why": "MM 단일 모듈 운영 포지션이며 경력 6년 이상이 필요하고, 사원 120명 규모의 SI·ERP 업체라는 점을 고려해 지원 여부를 판단하면 됩니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50390638",
+            "published": "2026-11-18T05:20:31.217Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "동호에이치알 · 기업 구매팀 SAP 운영지원 담당자",
+          "summary": "기업 구매팀에서 SAP 운영을 지원할 담당자를 뽑으며, 직무 분류는 구매관리자·자재관리자입니다. 근무지는 서울 영등포구 외 5곳이고, 경력무관으로 즉시 지원 가능합니다. 고용형태와 마감일은 공고에 나와 있지 않습니다.",
+          "why": "경력무관이라 진입 장벽이 낮지만 컨설팅보다는 현업 구매 운영지원 성격이므로, 고용형태와 실제 근무처(외 5곳)를 먼저 확인해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[영등포구] 기업 구매팀 SAP 운영지원 담당자 채용",
+            "company": "동호에이치알㈜",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50393604",
+            "published": "2026-11-18T10:12:09.630Z",
+            "jkCompanyNo": "23484610",
+            "snippet": "회사: 동호에이치알㈜ / 탄탄한 중견기업 / 서울 영등포구 외 5 / 건축·설비·환경, 구매관리자, 자재관리자 / 즉시 지원 / 경력무관 / 회사정보: 사원수 850명 / 매출액 310억 2천만원 (2025년) / 영업이익 4억 7,871만원 (2025년)",
+            "companyInfo": {
+              "title": "동호에이치알㈜",
+              "employees": "850명",
+              "revenue": "310억 2천만원 (2025년)",
+              "operatingProfit": "4억 7,871만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23484610"
+            },
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%8F%99%ED%98%B8%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%8C%E3%88%9C"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 50,
+          "title_ko": "팔도 · IT전략 SAP SCM 운영 담당자(PP/MM)",
+          "summary": "팔도 IT전략 조직에서 SAP SCM(PP/MM) 운영을 맡을 담당자를 뽑습니다. 근무지는 서울 서초구이고, 경력 3~7년, 대졸 이상, 정규직이며 마감은 11월 30일(월)입니다.",
+          "why": "MM이 명시된 식품 제조사 인하우스 정규직 운영 포지션이며, 3~7년차가 대상이고 마감은 11/30입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "IT전략-SAP SCM 운영 담당자 채용 (PP/MM)",
+            "company": "(주)팔도",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55597985",
+            "published": "2026-11-17T00:00:00.000Z",
+            "snippet": "회사: (주)팔도 / 조건: 서울 서초구 경력 3~7년 대졸↑ 정규직 / 마감: ~ 11/30(월) / 분야: SAP , 식품가공",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%8C%94%EB%8F%84"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 109,
+          "title_ko": "비즈테크아이 · SAP SM 모듈 운영 담당자(FI·CO·SD·PP·MM)",
+          "summary": "FI·CO·SD·PP·MM 모듈 운영·유지보수·개발, IMG 설정과 시스템 고도화, SM 기반 SI 프로젝트를 수행하는 포지션입니다. 모듈에 따라 S/4HANA Cloud(Public Edition) 신규 구축에도 참여합니다. 근무지는 서울 마포구, 경력 3~15년이며 마감은 2026년 11월 30일입니다.",
+          "why": "운영 업무와 함께 S/4HANA Cloud 구축 경험을 쌓을 수 있고, 경력 범위가 3~15년으로 넓으며 마감은 11/30입니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "SAP SM 모듈 운영 담당자 (경력)",
+            "company": "(주)비즈테크아이",
+            "link": "https://career.rememberapp.co.kr/job/posting/323764",
+            "published": "2026-11-12T15:00:00.000Z",
+            "snippet": "회사: (주)비즈테크아이 / 경력: 3~15년 / 지역: 서울특별시 마포구 / 마감: 2026-11-30 / ■ 이런 일을 하시게 될 거예요 ㆍSAP 모듈 운영(FI, CO, SD, PP, MM) 및 유지보수·개발 ㆍSAP Standard configuration(IMG) 설정 및 시스템 고도화 작업 ㆍSM based SI 프로젝트 수행 및 고객사 비즈니스 분석/설계 ㆍS/4HANA Cloud(Public Edition) 신규 구축 (모듈 별 상이)",
+            "jobHistory": {
+              "count": 6,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EB%B9%84%EC%A6%88%ED%85%8C%ED%81%AC%EC%95%84%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 63,
+          "title_ko": "포레시아코리아 · SAP 프로세스 스페셜리스트(SD/MM/PP)",
+          "summary": "글로벌 자동차 부품사에서 SD/MM/PP 프로세스를 담당할 스페셜리스트를 뽑습니다. 근무지는 경기 용인시 수지구이고, 경력 4~10년, 대졸 이상, 정규직이며 마감은 12월 16일(수)입니다.",
+          "why": "MM이 포함된 외국계 제조사 인하우스 정규직이며, 4~10년차가 대상이고 마감까지 여유가 있습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP Process Specialist (SD/MM/PP)",
+            "company": "포레시아코리아(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55580633",
+            "published": "2026-11-16T00:00:00.000Z",
+            "snippet": "회사: 포레시아코리아(주) / 조건: 경기 용인시 수지구 경력 4~10년 대졸↑ 정규직 / 마감: ~ 12/16(수) / 분야: SAP , 백엔드/서버개발 , 프론트엔드 , 유지보수 , S/W 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%ED%8F%AC%EB%A0%88%EC%8B%9C%EC%95%84%EC%BD%94%EB%A6%AC%EC%95%84(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 68,
+          "title_ko": "에이치알포유 · SAP 플래티넘 파트너사(대기업 계열) SAP MM·PP·FI·SD",
+          "summary": "헤드헌팅사를 통해 대기업 계열 SAP 플래티넘 파트너사의 MM·PP·FI·SD 등 모듈 인력을 뽑습니다. 근무지는 서울 금천구이고, 경력 2~20년, 초대졸 이상, 정규직이며 마감은 12월 15일(화)입니다.",
+          "why": "MM이 명시돼 있고 경력 범위가 2~20년으로 넓은 대기업 계열 파트너사 정규직이며, 마감은 12/15입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[[SAP플래티넘 파트너사(대기업계열)]] SAP MM .PP.FI.SD 外",
+            "company": "에이치알포유(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55575898",
+            "published": "2026-11-15T00:00:00.000Z",
+            "snippet": "회사: 에이치알포유(주) / 조건: 서울 금천구 경력 2~20년 초대졸↑ 정규직 / 마감: ~ 12/15(화) / 분야: ABAP , SAP , IT컨설팅 , SE(시스템엔지니어) , 헤드헌팅",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%8C%ED%8F%AC%EC%9C%A0(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 75,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영 담당자(FI·CO·SD·PP·MM)",
+          "summary": "FI·CO·SD·PP·MM 모듈 SM 운영 담당자를 헤드헌팅으로 뽑습니다. 근무지는 서울 마포구이고, 경력 5년 이상, 대졸 이상, 정규직입니다. 공고에 '내일마감'으로 표기돼 있습니다.",
+          "why": "MM이 포함된 5년 이상 경력자 대상 정규직 운영 포지션이며, 마감이 임박해 지원하려면 바로 확인해야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55574610",
+            "published": "2026-11-14T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력5년↑ 대졸↑ 정규직 / 마감: 내일마감 / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 56,
+          "title_ko": "[동국씨엠] 3분기 수출 비중 72%로 확대, 매출 20% 증가",
+          "summary": "동국씨엠의 3분기 수출 비중이 72%까지 높아졌고, 매출도 20% 늘었습니다. 내수 부진을 수출로 메우는 구조가 뚜렷해지고 있습니다.",
+          "why": "내수 침체 속에서 수출 중심으로 사업 구조를 바꾸며 외형 성장을 이어가고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "동국씨엠 3분기 수출 비중 72% 확대, 매출도 20% 증가 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RME5ERmE2cVBZX3JmRHdDM09YV3pjc3Y5YkNoOVRRTll1LXkyMk9ISC13LUJST01scHRqS3luOE1hNlRydTZLM0V6dEdzbWZTb1ZCVjFOWkYySFNjS0VRSllJaUZzcnRoXzZHTnhpWFdGZEJZ0gF0QVVfeXFMTlEwTkRGYTZxUFlfcmZEd0MzT1hXemNzdjliQ2g5VFFOWXUteTIyT0hILXctQlJPTWxwdGpLeW44TWE2VHJ1NkszRXp0R3NtZlNvVkJWMU5aRjJIU2NLRVFKWUlpRnNydGhfNkdOeGlYV0ZkQlk?oc=5",
+            "published": "2026-11-16T05:04:58.000Z",
+            "snippet": "동국씨엠 3분기 수출 비중 72% 확대, 매출도 20% 증가 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "[동국씨엠] 원가 부담 확대로 냉연·도금 3사 영업이익 80% 감소",
+          "summary": "냉연·도금 3사의 원가가 매출보다 더 크게 늘어 영업이익이 80% 줄었습니다. 판가 인상이 원가 상승을 따라가지 못한 것이 원인으로 보입니다.",
+          "why": "동국씨엠이 속한 냉연·도금 업계의 수익성이 크게 나빠졌다는 점에서, 외형 성장과 별개로 이익 관리가 과제임을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "매출보다 더 늘어난 원가…냉연·도금 3사 영업익 80%↓ - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fdFFiR2RFZllDZFMzekRKaFduMkx5RmJnS3dRT1BMTTJtSDg4WEYzZTRtOWNJSkozRG5ZTkxsR2FLTFJKSk1WZERZeFYyTDVTeVpYb1lYVXU2RkVCeWU3OXNqUjFuVG5lWFJDU2V3OG9USWRl0gF0QVVfeXFMTl90UWJHZEVmWUNkUzN6REpoV24yTHlGYmdLd1FPUExNMm1IODhYRjNlNG05Y0lKSjNEbllOTGxHYUtMUkpKTVZkRFl4VjJMNVN5WlhvWVhVdTZGRUJ5ZTc5c2pSMW5UbmVYUkNTZXc4b1RJZGU?oc=5",
+            "published": "2026-11-18T20:22:35.000Z",
+            "snippet": "매출보다 더 늘어난 원가…냉연·도금 3사 영업익 80%↓ 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "[동국씨엠] 10월 컬러강판 수출 8% 감소…미국향 73% 늘었지만 역부족",
+          "summary": "10월 컬러강판 수출은 미국향 물량이 73% 늘었는데도 전체로는 8% 줄었습니다. 미국 외 지역 수출 부진이 미국향 증가분을 상쇄했습니다.",
+          "why": "컬러강판 비중이 큰 동국씨엠에게는 수출 지역별 편차가 실적 변동 요인이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "미국향 73% 늘어도 역부족…10월 컬러강판 수출 8% 감소 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PVUl6RHB0Qkl1a0ZkOXlibUF0SmNuRVZ6RkhnN1NyRWp5YXl6SF9uX29MT2ZxWDVkZzRSa0JQZWVkRkdRenVidktPeTlLWEVTRTNVNk9aUTU4Tzh1NmZLUlpFLS05eWRzNkhjTU9xdlMyU3hp0gF0QVVfeXFMT09VSXpEcHRCSXVrRmQ5eWJtQXRKY25FVnpGSGc3U3JFanlheXpIX25fb0xPZnFYNWRnNFJrQlBlZWRGR1F6dWJ2S095OUtYRVNFM1U2T1pRNThPOHU2ZktSWkUtLTl5ZHM2SGNNT3F2UzJTeGk?oc=5",
+            "published": "2026-11-18T20:22:36.000Z",
+            "snippet": "미국향 73% 늘어도 역부족…10월 컬러강판 수출 8% 감소 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "[동국제강] 3분기 철스크랩 구매단가 1년 새 21% 상승",
+          "summary": "3분기 철스크랩 구매단가가 1년 전보다 21% 올랐습니다. 전기로 제강사의 원료 부담이 커지고 있습니다.",
+          "why": "전기로 중심인 동국제강에게 원료 구매비 상승은 수익성 압박 요인이며, 구매·원가 관리의 중요성이 커지고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[3Q 스크랩 구매 실적] 철스크랩 구매단가 1년 새 21% 상승 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mWWRlWmJ3SnRtYVRZS01iUW01d0JpMFJJckhKcmRvNTgyT0VBcUNjaDd5Y2h5d2dyQWhuUXJIVmhiWHBWOUJrNmFRc2hPalN6U3FFT2picHBLbUdrV0NLaV9TVU4tS3U5UWlLbXRFblU3OVls0gF0QVVfeXFMTWZZZGVaYndKdG1hVFlLTWJRbTV3QmkwUklySEpyZG81ODJPRUFxQ2NoN3ljaHl3Z3JBaG5RckhWaGJYcFY5Qms2YVFzaE9qU3pTcUVPamJwcEttR2tXQ0tpX1NVTi1LdTlRaUttdEVuVTc5WWw?oc=5",
+            "published": "2026-11-17T20:18:10.000Z",
+            "snippet": "[3Q 스크랩 구매 실적] 철스크랩 구매단가 1년 새 21% 상승 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "[동국제강] 장기 불황에 중견 제강사도 공장 가동 중단…철근업계 생산 구조조정 확산",
+          "summary": "철근 시장 장기 불황으로 중견 제강사까지 공장 가동을 멈추면서 업계 전반에 생산 구조조정이 번지고 있습니다. 감산을 통한 수급 조절이 이어지는 흐름입니다.",
+          "why": "철근 비중이 큰 동국제강도 감산과 수급 조절 흐름의 영향을 받는 업황입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "장기불황에 중견 제강사도 공장 멈춘다…철근업계 생산 구조조정 확산 - 더팩트",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDbVA3OTRJTzNkQjVpaHBIcDZTN1ktaDJxUUZVNTFid2Y1UXJIemtVRUFfaFlRa0U1MjdGSWFBMzU5MXlUWjZSWHRsQ1pyTjZNWDNuY01venRhZ9IBVEFVX3lxTE9zaUxxMWpkUC10WTJyaHFLLWh3SE54bFhwdmU1TzlzLTNLcmxqbHU1NGVfTnFfVkNDM1pteHRXLVN6ZS0tMmZQVkM4Vi1HLXpsb3E2WQ?oc=5",
+            "published": "2026-11-18T01:30:17.000Z",
+            "snippet": "장기불황에 중견 제강사도 공장 멈춘다…철근업계 생산 구조조정 확산 더팩트",
+            "isNew": true
+          }
+        },
+        {
+          "index": 43,
+          "title_ko": "[동국제강] 당진공장, 자율점검 체계로 '2026 기후환경 대상' 국립환경과학원장상 수상",
+          "summary": "동국제강 당진공장이 자율점검 체계로 환경사고를 예방한 성과를 인정받아 2026 기후환경 대상에서 국립환경과학원장상을 받았습니다.",
+          "why": "ESG·환경 관리 역량을 대외적으로 인정받은 사례로, 회사 이미지 측면의 긍정적 소식입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[2026 기후환경 대상] [국립환경과학원장상] 동국제강 당진공장, 자율점검 체계로 환경사고 예방 - 딜사이트",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGS3NlQncteVNnd1pJeGcySE8yZVhsVGRZQ3VDWFNHbXphOXh6cnN2YjBmRG5SMW84MU45MXBNY3pmR3RKSldBX0czWHJRam8?oc=5",
+            "published": "2026-11-17T22:05:00.000Z",
+            "snippet": "[2026 기후환경 대상] [국립환경과학원장상] 동국제강 당진공장, 자율점검 체계로 환경사고 예방 딜사이트",
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "아주스틸 소식",
+      "items": [
+        {
+          "index": 40,
+          "title_ko": "[아주스틸] 동국씨엠, 日 가네마츠 보유 아주스틸 지분 추가 인수…지배력 강화",
+          "summary": "동국씨엠이 일본 가네마츠가 보유한 아주스틸 지분을 추가로 인수했습니다. 최대주주로서 아주스틸에 대한 지배력을 높이려는 조치입니다.",
+          "why": "동국씨엠의 아주스틸 지분율이 높아지면서 그룹 편입과 경영 통합이 본격화될 가능성이 커졌습니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "동국씨엠, 日 가네마츠 보유 아주스틸 지분 추가 인수…지배력 강화 '초점' - 페로타임즈",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wVUFMVjVWaTZVeEtVQmhSUGZnazZTOC1BQ2RlRGNVVmFEUnJNdk9QbTNhWi1QdzlHM05CLXg3Q01jRnAtNHpTSHhoVGdTWnNjZUJtQUVYbUhoTUpDNWVhQS1CYmp6Ym1ZNXk1eQ?oc=5",
+            "published": "2026-11-18T00:50:00.000Z",
+            "snippet": "동국씨엠, 日 가네마츠 보유 아주스틸 지분 추가 인수…지배력 강화 '초점' 페로타임즈",
+            "isNew": true
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "[아주스틸] 부채비율 800% 넘어…동국씨엠의 인수 후 과제",
+          "summary": "아주스틸의 부채비율이 800%를 넘어선 것으로 나타나, 인수한 동국씨엠에게 재무구조 개선이 핵심 과제로 떠올랐습니다.",
+          "why": "지분 확대와 함께 재무 정상화 부담도 커지고 있어, 향후 증자·차입 지원 등 그룹 차원의 대응이 주목됩니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "‘부채비율 800%’ 넘은 아주스틸…동국씨엠의 인수 후 과제 - 아시아투데이",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qODlZSDJqZzJzMFMzMVN5Yjl5ZlpHLWtRUTFpT25iLU93RWxCMVduZjBleVFfMm5lTk4ySnVxbWUzczJlVDlBdTVTS2FvVzZOek1nZUlTdUNveXU5M3pGUWtGRzFuOGRvN3VQTURR?oc=5",
+            "published": "2026-11-18T09:14:28.000Z",
+            "snippet": "‘부채비율 800%’ 넘은 아주스틸…동국씨엠의 인수 후 과제 아시아투데이",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
