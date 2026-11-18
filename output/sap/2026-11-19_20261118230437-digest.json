@@ -1,0 +1,290 @@
+{
+  "overview": "SAP가 온프레미스 고객에게도 Joule 등 AI 기능을 개방했지만, 클라우드 약정 등 이용 조건 때문에 중소기업이 소외될 수 있다는 사용자 단체의 비판이 나오고 있습니다. 제품 측면에서는 새 AI UI인 Joule Work, ABAP 환경 2611 릴리스, BusinessObjects BI 2027 프리뷰, BW 쿼리의 Business Data Cloud 마이그레이션 도구 등 실무에 직결되는 업데이트가 이어졌습니다. 경영 측면에서는 TechWolf 인수 완료, 발도르프 AI 리테일 랩 개소, 고객 총괄 Saueressig의 2027년 퇴임 계획이 함께 전해졌습니다. 미쓰비시 파워 등 대형 고객의 S/4HANA 전환 사례와 SEIDOR·Rimini Street 등 파트너 생태계 소식도 이어졌습니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 19,
+          "title_ko": "SAP, 온프레미스 고객에도 AI 개방… 클라우드 약정 조건이 중소기업 진입 막을 수도",
+          "summary": "SAP가 온프레미스 고객도 AI 기능을 쓸 수 있도록 길을 열었습니다. 다만 이용 조건에 클라우드 약정이 결부돼 있어 규모가 작은 기업은 사실상 배제될 수 있다는 지적이 나옵니다.",
+          "why": "온프레미스 ECC·S/4HANA 고객에게 AI 도입을 제안할 때 라이선스와 계약 조건을 먼저 따져봐야 함을 보여줍니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out - The Register",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbU11YUd6ZnZnUVE4U2hhc3piT05qT1BmZm5SNEdpVDBlUW5TdE12ZHBrMG96eXgtZjFDUlo2LTFKQUpSVlZjSktyZm1SZmZzdnN5VFpBbkczR0FYMlJ4NWFfNXB4NW5VaFRsWkNnQmktdThfNjNPLUlzeVB3UUV4UUU0eEZrYW5NMlBmai1PMEJyenpJbzN4SFBsNEF4aVI1RHJiSnhZbDBmbXVHd0hWS1VOZ0ZhYk15RmQwdmhMZlBlY3Y0QVIxMFhCaDRtcDU3LWxady1KLTdISGJa?oc=5",
+            "published": "2026-11-18T10:14:00.000Z",
+            "snippet": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out The Register"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "SAP Joule AI 이용 조건에 사용자 단체 비판",
+          "summary": "SAP 사용자 단체가 Joule AI 이용 조건이 고객에게 불리하다며 비판을 제기했습니다. AI 기능의 접근 방식과 비용 구조를 둘러싼 논란이 커지고 있습니다.",
+          "why": "고객사가 Joule 도입 비용과 조건에 민감하게 반응할 가능성이 높아 컨설턴트의 사전 설명 준비가 필요합니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP’s Joule AI access terms draw criticism from user group - Mezha.net",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mVHNuMGxxdTlCZEZYNnRpNDE3ZWZSa0dYdXRONWdSRzl3aVRoSXFrTlRvUDFpQlRBcWJZdmhGLThwSXNrcHY1dG11UldnZTV6bEFINTlXLUh2WXVMcnQ3dVU4Q29Kc2xYamNtVmphZFpzRnI0aTR2RU8xUzh3Zw?oc=5",
+            "published": "2026-11-18T10:29:50.000Z",
+            "snippet": "SAP’s Joule AI access terms draw criticism from user group Mezha.net"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "SAP의 새로운 AI용 UI 'Joule Work' 소개",
+          "summary": "SAP가 SAPPHIRE 2026에서 발표한 새 AI UI인 Joule Work를 소개하는 글입니다. 사용자가 AI 기능 및 에이전트와 실시간으로 상호작용하는 새로운 사용자 경험을 제공합니다. 브라운필드·그린필드 환경별 Joule 서비스의 SAP 관리형 프로비저닝 사전 점검 가이드도 함께 담겼습니다.",
+          "why": "Joule 프로비저닝 사전 점검 항목을 미리 파악하면 고객사 Joule 활성화 프로젝트의 일정 위험을 줄일 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Introducing Joule Work - the new UI for AI from SAP",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-joule-work-the-new-ui-for-ai-from-sap/ba-p/14523416",
+            "published": "2026-11-18T09:08:34.000Z",
+            "snippet": "Introducing Joule Work - the new UI for AI from SAP(SAP-Managed Provisioning for Joule services – precheck guide brownfield and greenfield)Announcement – SAP introduced the new UI for AI at SAP SAPPHIRE 2026 offering a new end-user experience for users to interact with AI offerings and our Autonomous Enterprise through real-time agent coordination. It leverages SAP's rich data, process knowledge, "
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "SAP Business AI Platform ABAP 환경 2611 릴리스",
+          "summary": "11월 14일 2608 릴리스의 후속인 2611 릴리스가 배포됐습니다. 지원 오브젝트 확대 등 새 기능과 개선 사항을 상세히 정리했습니다.",
+          "why": "BTP ABAP 환경(Steampunk) 기반 클린 코어 확장 개발자라면 새 기능과 변경점을 확인해야 합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Business AI Platform, ABAP environment - Release 2611",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-business-ai-platform-abap-environment-release-2611/ba-p/14523181",
+            "published": "2026-11-18T15:36:29.000Z",
+            "snippet": "SAP Business AI Platform, ABAP environment - Release 2611On November 14, the new 2611 release was delivered as the successor to the 2608 release. In this blog post, we provide a detailed overview of the new features and enhancements included in this release, highlighting the key improvements and innovations introduced with 2611. Some highlights in the new release include the support of further obj"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "SAP CAP 보안 검증: AI OWASP 스캐너 활용 — 2부",
+          "summary": "실제 SAP CAP 애플리케이션을 대상으로 OWASP Top 10 취약점을 공격해 보고 수정하는 실습 글입니다. 수정 결과는 SAP AI Core 위에서 동작하는 AI OWASP 스캐너로 검증합니다.",
+          "why": "CAP 기반 BTP 애플리케이션의 보안 점검 절차를 AI로 자동화하는 실무 예시를 제공합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Prove It: Reviewing SAP CAP Security with the AI OWASP Scanner — Part 2",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/prove-it-reviewing-sap-cap-security-with-the-ai-owasp-scanner-part-2/ba-p/14516397",
+            "published": "2026-11-18T15:08:14.000Z",
+            "snippet": "Break it, fix it, prove it: exploit and secure a real SAP CAP app against the OWASP Top 10—then let an AI OWASP Scanner on SAP AI Core verify your fixes."
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 24,
+          "title_ko": "Query Template Generator로 BW 쿼리의 SAP Business Data Cloud 마이그레이션 가속화",
+          "summary": "SAP BW 또는 BW/4HANA 쿼리를 SAP Business Data Cloud로 옮기려면 데이터 모델, InfoObject, 리포팅 구조를 새 환경에 다시 만들어야 해 복잡합니다. Query Template Generator는 이 과정의 수작업을 줄여 마이그레이션을 효율화하는 도구입니다.",
+          "why": "BW 고객의 BDC 전환 공수를 산정하고 줄이는 데 바로 활용할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Accelerating BW Query Migration to SAP Business Data Cloud with the Query Template Generator",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/accelerating-bw-query-migration-to-sap-business-data-cloud-with-the-query/ba-p/14524549",
+            "published": "2026-11-18T08:00:00.000Z",
+            "snippet": "Migrating existing SAP BW or SAP BW/4HANA queries to SAP Business Data Cloud (SAP BDC) can be a complex and time-consuming process. Existing queries often rely on established data models, InfoObjects, and reporting structures that need to be recreated in the new environment. Reducing the manual effort involved in this process is an important step toward making the migration more efficient.The Quer"
+          }
+        },
+        {
+          "index": 6,
+          "title_ko": "SAP BusinessObjects BI 2027 미리보기",
+          "summary": "정식 출시(GA)에 앞서 SAP BusinessObjects BI 2027의 신규 기능과 기술적 사전 요구사항을 소개합니다.",
+          "why": "BO 운영 고객의 업그레이드 계획과 인프라 준비에 필요한 정보입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP BusinessObjects BI 2027 preview",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-businessobjects-bi-2027-preview/ba-p/14521506",
+            "published": "2026-11-18T15:46:28.000Z",
+            "snippet": "Know ahead of its General Availability SAP BusinessObjects BI 2027's new features and technical prerequisites."
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "Edge Integration Cell 입문 과정 EIC100 공개",
+          "summary": "Edge Integration Cell을 처음 접하는 사용자를 위한 학습 과정 EIC100이 공개됐습니다. 핵심 개념과 기초를 다질 수 있도록 구성됐습니다.",
+          "why": "하이브리드 통합(Integration Suite) 프로젝트를 앞둔 컨설턴트에게 유용한 공식 학습 자료입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "🚀 Getting started with Edge Integration Cell? EIC100 is now live!",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/getting-started-with-edge-integration-cell-eic100-is-now-live/ba-p/14525241",
+            "published": "2026-11-18T11:59:08.000Z",
+            "snippet": "🚀New to Edge Integration Cell? EIC100 is the perfect place to start. Build a strong foundation, learn the essentials, and begin your learning journey with confidence."
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 5,
+          "title_ko": "SAP, 발도르프에 AI 리테일 랩 개소… TechWolf 인수 완료, 고객 총괄은 2027년 퇴임 예정",
+          "summary": "SAP가 발도르프에 AI 리테일 랩을 열고 TechWolf 인수를 마무리했습니다. 고객 부문 총괄 임원 Thomas Saueressig는 2027년 퇴임 일정을 밝혔습니다.",
+          "why": "리테일 AI와 HR(스킬 기반 인재관리) 강화 흐름, 그리고 경영진 변화가 향후 제품 로드맵에 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP's AI Retail Lab Opens in Walldorf as TechWolf Deal Closes and Customer Chief Sets 2027 Departure - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWVU5dVItR21KR3RmZ0Nyd016eFAzMDBDTmVRaDQ4YXdpWlRacDUzX2tMYTJHWFZKYWZ2VGdFRzBycFRkQWM4d29FblEzMEl4d3FEV3ZaV1NlNXdpZXRKdENxMlhXQmI5dzJ0MDEtNDcwT2poR3JwazB1dFBLLTZJRG5hRm52NDlJYjZlUHE0MXg2QnJob0dYaTg2bXR1QklyRVNHMFpybU0zR3hXdkN2WjEwY0czSUtwV1loVW5BWkRKczF3Uk84MmszWnVSY2JSMnJLSjJoYmN0SUZGYUdGMGlwWjRlWk5vX1VBdmJjSUZXU1RWSjdnM3pGdmZINy13WGc?oc=5",
+            "published": "2026-11-18T16:11:14.000Z",
+            "snippet": "SAP's AI Retail Lab Opens in Walldorf as TechWolf Deal Closes and Customer Chief Sets 2027 Departure ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "AstraZeneca, SAP 클라우드 협력 강화",
+          "summary": "AstraZeneca가 SAP 클라우드와의 관계를 한층 강화했습니다. 같은 시기 TechWolf 인수 완료와 Saueressig의 고객 부문 인계 소식도 함께 전해졌습니다.",
+          "why": "글로벌 제약사의 클라우드 전환 확대는 제약·바이오 산업 SAP 프로젝트 수요를 가늠하는 지표입니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "AstraZeneca Deepens SAP Cloud Ties as TechWolf Deal Closes and Saueressig Hands Over Customer Reins - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYXdqZEZGcTJySlJ5bDJOeXdwb3U0VW9rN0E3UGVVcTZkSlJ5bVNfQnR0blF2ZXpyNmd2VWVuZEZNTEdTc1lJZnVmejRZTHp6UjdFSFNuaGk3Skc1c2swWjhraUE2cXM5b1psZXJ4TjhNRlB6NngzMnBmRnFZSTlfZnBfMlVxMG1uNDFubTVDVmUzSDBtM2lKTDRIWC1ucmZ1Y0RnOHA2MmJXZ29yR3ZZQWg4VHVOSjNLN1NhN0UyT2NoeFNlMHVLRXZVYWFPWHZQWWtGRDM0d1BQS3djTTFSazRyei1RMzFiVlZwNi1xVjAtSXQtVTREWk9WV0I1aVhi?oc=5",
+            "published": "2026-11-18T08:31:00.000Z",
+            "snippet": "AstraZeneca Deepens SAP Cloud Ties as TechWolf Deal Closes and Saueressig Hands Over Customer Reins ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "미쓰비시 파워, SAP S/4HANA 전환 가속으로 비즈니스 혁신 추진",
+          "summary": "Capgemini가 미쓰비시 파워의 SAP S/4HANA 전환을 가속화한 사례를 소개했습니다. 전환을 통해 회사의 사업 혁신을 뒷받침하는 것이 목표입니다.",
+          "why": "에너지·중공업 분야의 대규모 S/4HANA 전환 레퍼런스로 참고할 만합니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Mitsubishi Power accelerates move to SAP S/4HANA to help power transformation - Capgemini",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWG1rRURieWdoMDA5RHlJMGZGUHNvQVFrMENJaFhHbkpSUzVETkdwUW10a3JVRFhyTnpIZGJBLWJZNTR6SVJDanlBbHdTeVFJTHE1WGZGbFQ1WDZQWjB5bXB5VHB4Y0NRdGpfZGRIZkdsUEV6RTl1X3RHWnpGQWJQY2UwOTNOcF9ad2E3b2VtM0o3NE5ZaDZIMk1DWG9jVXU2QVpHSnpwY0ZsNExPb3F4UVBJZGxmVElWZG9BcVVYREdzMFZqZWVzTzRB?oc=5",
+            "published": "2026-11-18T15:07:27.000Z",
+            "snippet": "Mitsubishi Power accelerates move to SAP S/4HANA to help power transformation Capgemini"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "S/4HANA 전환 중인 에너지 기업, 하이브리드 클라우드로 AI 도입",
+          "summary": "한 에너지 기업이 SAP S/4HANA 마이그레이션을 진행하면서 하이브리드 클라우드를 활용해 AI를 함께 도입한 사례를 TechTarget이 다뤘습니다.",
+          "why": "전환 프로젝트와 AI 도입을 병행하는 아키텍처를 설계할 때 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Hybrid cloud helps energy company deploy AI amid SAP S/4HANA migration - TechTarget",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmVrWi05dTNKQVBzU2sxM0hRRVVLbUpMQk9EUVhaUUg0Skw2NUJ3NzlhYkhoNC1NQzU2Q1VqZm1VU1A2OThLejZDbDR4R1V0aG9NYThSN3hMTFZuWGRxa0NzWHRLUi14YjhleWMzU3dlajNDaGYwMkNZTUpkVjJrMHRJYm9JREV4Y1B2eWpObGxHRk1pTWpNZmZ5N3lZR08zMTZoQWwtUGliZTA0Znc?oc=5",
+            "published": "2026-11-18T19:13:14.000Z",
+            "snippet": "Hybrid cloud helps energy company deploy AI amid SAP S/4HANA migration TechTarget"
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "SEIDOR, SAP ERP용 에이전트 개발을 위한 'AI 팩토리' 출범",
+          "summary": "SAP 파트너 SEIDOR가 SAP ERP 시스템에서 동작하는 AI 에이전트를 개발하는 AI 팩토리를 출범했습니다.",
+          "why": "파트너사들이 SAP 기반 AI 에이전트 개발을 사업화하는 흐름을 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SEIDOR launches AI factory to develop agents for SAP ERP systems - Portal ERP",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM21KY2I3dXd3NUNEc1VGQ2o4RGxVdXVVcEdDU1plWG4zb2k2aXhyTXJHRmFmSzZYdGFFX0IwaFhnZFhNcjhWbHBHdjM3SHFVMWl3RkFSSEM5MUpEMkkyUG51VVNjVFB3MWNrSk4yRnV2ME1td1I3NVdEVllBNHkxOUozRDRodnE3TnZUdU1PbWp6MmtXYS00WFZ3?oc=5",
+            "published": "2026-11-18T01:18:56.000Z",
+            "snippet": "SEIDOR launches AI factory to develop agents for SAP ERP systems Portal ERP"
+          }
+        },
+        {
+          "index": 25,
+          "title_ko": "Rimini Street·American Digital 파트너십 확대… SAP 라이선스 고객의 클라우드 현대화 주도권 강화",
+          "summary": "제3자 유지보수 업체 Rimini Street와 American Digital이 협력을 확대했습니다. SAP 라이선스 보유 고객이 클라우드 현대화 방식과 일정을 더 주체적으로 결정할 수 있도록 지원한다는 내용입니다.",
+          "why": "RISE 전환을 미루는 고객의 대안 시나리오를 이해하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Rimini Street And American Digital Expand Partnership To Give SAP Licensees Greater Control Over Cloud Modernization - A... - Menafn",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdkxVMU1hZlJFRzhEeEtNODJEY3VqY2p0cG5qUlFjeG1RZkswY0k2SXc3N2Yxb01DZy1TU2prYlY4TVZXc0tkUXJmUUlHN3V5b2ZISVBxOUc2eFc0M0gyMjR1NkZtWTJhU0VGLUxEMnY2YUx1RHJYN2NvRzNEUjFmeTB3T1MzN0tXYlgwbnEtdHlVeWxtUHJKSjlMMkpkMmJUUWFQTkZCWm9Vc0VqNzMtVDlid1ZrVmp6SDlGM0FTZE5QUW0wZVkxb1c5cndCY1NNSlRsR3lQOG8wRktOSk9iQnlR?oc=5",
+            "published": "2026-11-18T07:17:23.000Z",
+            "snippet": "Rimini Street And American Digital Expand Partnership To Give SAP Licensees Greater Control Over Cloud Modernization - A... Menafn"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "젠컨설팅, 기업 AI 업무 재설계 전략 제시… SAP Joule·제조업 PoC 사례 소개",
+          "summary": "젠컨설팅이 'From Vision to Action' 세미나를 마치며 기업 AI 도입 전략과 실무 적용 방안을 공유했습니다. SAP Joule 활용 방안과 제조업 PoC 사례를 소개했습니다.",
+          "why": "국내 제조업 고객 대상 Joule 및 AI 도입 사례를 파악하는 데 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "젠컨설팅, 기업 AI 업무 재설계 전략 제시… SAP Joule·제조업 PoC 사례 소개 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYmVJTzdPMUJnWk5FMEN3b0dwNDR2amJkQ2d5UzJVVkh6OWJ0SmhDUUEwQmVMc3JpSkl2dXZTZE1CN1NKMkdjVldfUDVnTEdkbi1HdElhTEZVOHJUbkdVTw?oc=5",
+            "published": "2026-11-13T00:15:00.000Z",
+            "snippet": "젠컨설팅, 기업 AI 업무 재설계 전략 제시… SAP Joule·제조업 PoC 사례 소개 아시아경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "세미나·박람회·웨비나",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "[12.03] SAP Executive Exchange for Busan (Automotive)",
+          "summary": "2026년 12월 3일(목) 부산광역시 부산진구에서 열리는 자동차 산업 대상 SAP 임원 교류 행사입니다. 무료 강연·세미나이며, 오늘 기준 접수 상태는 '외부접수 마감 2주 전'으로 표시돼 있습니다.",
+          "why": "부산·경남 자동차 산업 고객과 SAP AI 전략을 직접 접할 수 있는 지역 행사입니다.",
+          "article": {
+            "source": "온오프믹스 SAP 행사",
+            "title": "SAP Executive Exchange for Busan(Automotive)",
+            "link": "https://onoffmix.com/event/353329",
+            "published": "2026-11-18T23:04:37.954Z",
+            "snippet": "일시: 2026.12.3 (목) 0:00 ~ 23:59 / 장소: 부산광역시 부산진구 / 무료 강연/세미나 / 접수 상태(오늘 기준): 외부접수 마감 2주전 / 태그: #sap #AI #Busan"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "SAP Data & Analytics 2026년 12월 전문가 안내 구현(EGI) 세션",
+          "summary": "SAP Data & Analytics 분야의 2026년 12월 Expert-guided Implementation 세션 일정 안내입니다. 세부 일시와 신청 방법은 원문 블로그에서 확인해야 합니다.",
+          "why": "분석 솔루션 도입 고객이 지원 계약 범위 안에서 실습형 교육을 받을 기회입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Upcoming Expert-guided Implementation (EGI) sessions SAP Data & Analytics December 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/upcoming-expert-guided-implementation-egi-sessions-sap-data-amp-analytics/ba-p/14525694",
+            "published": "2026-11-18T19:46:16.000Z",
+            "snippet": "Check out the upcoming Expert-guided Implementation sessions for December 2026."
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "SAP Signavio 2026년 12월 전문가 안내 구현(EGI) 세션",
+          "summary": "SAP Signavio 솔루션의 효과적인 도입과 활용을 돕는 강사 주도 세션의 12월 일정 안내입니다. SAP Enterprise Support 또는 Enterprise Support, Cloud Edition 계약에 포함돼 있어 추가 비용 없이 참여할 수 있습니다.",
+          "why": "프로세스 마이닝·모델링 역량을 무료로 강화할 수 있는 공식 교육 기회입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Check out the Expert-guided Implementation (EGI) sessions for December 2026",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/check-out-the-expert-guided-implementation-egi-sessions-for-december-2026/ba-p/14517269",
+            "published": "2026-11-18T05:00:00.000Z",
+            "snippet": "Check out the Expert-guided Implementation (EGIs) sessions for December 2026. EGI sessions are instructor-led. The sessions below are designed to facilitate effective adoption and utilization of the SAP Signavio solutions. EGIs are part of your SAP Enterprise Support or SAP Enterprise Support, Cloud Edition contract, which means there’s no additional cost for participating in these sessions.Import"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "SAP Sapphire Barcelona 2027",
+          "summary": "2027년 바르셀로나에서 열리는 SAP Sapphire 행사를 다룬 UC Today 기사입니다. 구체적인 일시와 등록 정보는 기사 목록에서 확인되지 않습니다.",
+          "why": "SAP의 연례 최대 고객 행사로, 2027년 제품 로드맵 발표가 예상됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Sapphire Barcelona 2027 - UC Today",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXU0TWhteC1XdmxsTU1mYWY0TTFGNWZvQ3VDNUxyOENBS1hUbUVpendGcnlZYndTYWQ5MlFTNmNvdmlRNjRmTzRiS0pQY1pSckE3dnBlTnlVZ3NnRWY1UlZBQUQ?oc=5",
+            "published": "2026-11-18T13:19:14.000Z",
+            "snippet": "SAP Sapphire Barcelona 2027 UC Today"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "SAP Sapphire Orlando 2027",
+          "summary": "2027년 올랜도에서 열리는 SAP Sapphire 행사를 다룬 UC Today 기사입니다. 구체적인 일시와 등록 정보는 기사 목록에서 확인되지 않습니다.",
+          "why": "SAP 주요 신제품과 AI 전략이 공개되는 핵심 행사여서 일정을 미리 챙길 필요가 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Sapphire Orlando 2027 - UC Today",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyOEJOX29kWTYybU51dFZjSllKeEFkajlMX2poVndFTmR6cWZ5Y3kwdFRjdmRUOERXR1dxS04tU1VTeWd4SlpoRnEyNlRFaFFuc3NTV21MWlZjbUw4MVIyYUp3?oc=5",
+            "published": "2026-11-17T13:20:13.000Z",
+            "snippet": "SAP Sapphire Orlando 2027 UC Today"
+          }
+        }
+      ]
+    }
+  ]
+}
