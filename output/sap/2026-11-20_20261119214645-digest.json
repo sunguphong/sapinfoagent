@@ -1,0 +1,243 @@
+{
+  "overview": "SAP가 온프레미스 고객에게도 Joule AI를 열면서 클라우드 계약 약정을 조건으로 내걸었습니다. 이를 두고 사용자 그룹과 업계 매체에서 중소 고객이 배제될 수 있다는 비판이 잇따랐습니다. 기술 측면에서는 새 AI 사용자 인터페이스 'Joule Work'와 ABAP 환경 릴리스 2611이 공개됐고, SAP Cloud ALM 세분화 권한과 BDC 환경의 Cloud Connector 구성 가이드 등 실무형 콘텐츠도 나왔습니다. 시장에서는 Mitsubishi Power의 S/4HANA 전환 가속, Rimini Street의 SAP 제3자 지원 확대, 인도 법원의 SAP 지원 지속 명령이 눈에 띕니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 28,
+          "title_ko": "SAP, 온프레미스 고객에 AI 개방… 클라우드 약정 조건에 소규모 기업 배제 우려",
+          "summary": "SAP가 온프레미스 고객도 Joule 등 AI 기능을 쓸 수 있게 했지만, 이용 조건으로 클라우드 계약 약정을 요구했습니다. 이 때문에 규모가 작은 고객사는 사실상 AI 활용에서 밀려날 수 있다는 지적이 나옵니다. 사용자 그룹의 비판과 비용 부담 우려도 여러 매체에서 함께 보도됐습니다.",
+          "why": "온프레미스 고객에게 AI 도입 비용과 클라우드 전환 시점을 조언할 때 핵심 판단 기준이 되는 계약 조건입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out - The Register",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbU11YUd6ZnZnUVE4U2hhc3piT05qT1BmZm5SNEdpVDBlUW5TdE12ZHBrMG96eXgtZjFDUlo2LTFKQUpSVlZjSktyZm1SZmZzdnN5VFpBbkczR0FYMlJ4NWFfNXB4NW5VaFRsWkNnQmktdThfNjNPLUlzeVB3UUV4UUU0eEZrYW5NMlBmai1PMEJyenpJbzN4SFBsNEF4aVI1RHJiSnhZbDBmbXVHd0hWS1VOZ0ZhYk15RmQwdmhMZlBlY3Y0QVIxMFhCaDRtcDU3LWxady1KLTdISGJa?oc=5",
+            "published": "2026-11-18T10:14:00.000Z",
+            "snippet": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out The Register"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "SAP의 새로운 AI 사용자 인터페이스 'Joule Work' 소개",
+          "summary": "SAP가 SAPPHIRE 2026에서 발표한 AI용 새 UI 'Joule Work'를 소개하는 글입니다. 사용자는 실시간 에이전트 조율을 통해 AI 기능과 '자율 기업(Autonomous Enterprise)' 기능을 다룰 수 있습니다. 브라운필드·그린필드 환경에서 Joule 서비스를 SAP 관리형으로 프로비저닝할 때 필요한 사전 점검 가이드도 함께 담겼습니다.",
+          "why": "Joule 도입 프로젝트에서 구축 방식별 사전 점검 항목을 미리 파악하는 데 쓸 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Introducing Joule Work - the new UI for AI from SAP",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-joule-work-the-new-ui-for-ai-from-sap/ba-p/14523416",
+            "published": "2026-11-19T10:18:06.000Z",
+            "snippet": "Introducing Joule Work - the new UI for AI from SAP(SAP-Managed Provisioning for Joule services – precheck guide brownfield and greenfield)Announcement – SAP introduced the new UI for AI at SAP SAPPHIRE 2026 offering a new end-user experience for users to interact with AI offerings and our Autonomous Enterprise through real-time agent coordination. It leverages SAP's rich data, process knowledge, "
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "SAP Business AI Platform ABAP 환경 릴리스 2611 출시",
+          "summary": "ABAP 환경 릴리스 2611이 11월 14일 정식 출시되어 2608 릴리스를 대체했습니다. VS Code용 ABAP Developer Tools(ADT)에서 지원하는 오브젝트 유형이 늘어난 것을 비롯해 플랫폼 전반의 주요 기능 개선이 포함됐습니다.",
+          "why": "클라우드 ABAP 개발자는 VS Code 기반 개발 환경의 변화와 신규 기능을 바로 확인해 둘 필요가 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Business AI Platform, ABAP environment - Release 2611",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-business-ai-platform-abap-environment-release-2611/ba-p/14523181",
+            "published": "2026-11-19T08:35:42.000Z",
+            "snippet": "SAP Business AI Platform, ABAP environment - Release 2611Release 2611 became generally available on November 14, succeeding release 2608. This post provides a focused overview of the features and enhancements delivered with this release, covering the most significant additions across the platform. Highlights include the support for additional object types in ABAP Developer Tools (ADT) for VS Code "
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "Nvidia와 SAP: 통제된 AI 에이전트",
+          "summary": "E3-Magazin이 Nvidia와 SAP의 협력을 '통제된 AI 에이전트'라는 관점에서 다뤘습니다. 기업 업무 프로세스에 AI 에이전트를 안전하게 적용하는 방향을 조명한 기사입니다.",
+          "why": "SAP의 에이전트 AI 전략과 파트너 생태계가 어디로 가는지 이해하는 데 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Nvidia and SAP: The Controlled AI Agent - E3-Magazin",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4dC1BTjlUejJhNzlLRXU1SlNmaW02UHBPZFgyd1owT2k2MHdvby1jM0VjVG51RHFDUDEyZHNrOEdLMHNqQUNRSGlkMFB6TXZpWFI2SDZVVnAzamtuWV9fdnRKXzM2ZmxpWTBPeA?oc=5",
+            "published": "2026-11-17T09:00:00.000Z",
+            "snippet": "Nvidia and SAP: The Controlled AI Agent E3-Magazin"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "비전에서 실무로: SAP Cloud ALM 세분화 권한 구성하기",
+          "summary": "SAP Cloud ALM 권한 로드맵의 1단계(Horizon 1)가 공개됐습니다. 이 글은 세분화된 역할 컬렉션을 조합하는 방법과 역할 부여를 중앙에서 관리하는 방법을 설명합니다. 운영 중에 주의해야 할 함정과 이후 로드맵 방향도 함께 다룹니다.",
+          "why": "Cloud ALM을 운영하는 조직은 이 내용을 바탕으로 권한 설계와 거버넌스를 정비할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "From Vision to Practice: Composing Fine-Granular Authorizations in SAP Cloud ALM",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/from-vision-to-practice-composing-fine-granular-authorizations-in-sap-cloud/ba-p/14525033",
+            "published": "2026-11-19T12:08:32.000Z",
+            "snippet": "Horizon 1 of the SAP Cloud ALM authorization roadmap is here. This follow-up to the vision post shows how to compose fine-granular role collections and centralize who gets them, with the operational traps to plan around and where the journey heads next."
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "전환 초기부터 지속가능성을 경쟁력으로",
+          "summary": "SAP Enterprise Support에는 지속가능성 관점의 전환 평가 품질 점검이 포함되어 있습니다. 이 점검은 SAP Activate 준비(Prepare) 단계에서, 주요 의사결정 전에 전문가 가이드를 제공합니다. ESG 공시, 지속가능성 성과, 공급망 추적성을 전환 초기부터 설계에 반영하도록 돕습니다.",
+          "why": "S/4HANA 전환 초기에 ESG 요건을 반영할 때 추가 비용 없이 활용할 수 있는 지원 서비스입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Make Sustainability a Strength of Your Transformation — From Day One",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/make-sustainability-a-strength-of-your-transformation-from-day-one/ba-p/14526344",
+            "published": "2026-11-19T15:13:22.000Z",
+            "snippet": "Included in SAP Enterprise Support the continuous quality check for transformation assessment for sustainability delivers expert guidance during the SAP Activate Prepare phase before key decisions are made. Embed Environmental, Social, and Governance (ESG) disclosure, sustainability performance, and supply chain traceability from the start and make sustainability your competitive edge."
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 1,
+          "title_ko": "SAP Business Data Cloud(BDC)의 HANA Cloud용 SAP Cloud Connector 구성 가이드",
+          "summary": "BDC 환경에서 SAP Cloud Connector와 HANA Cloud를 연동하는, 실제로 검증된 구성 방법을 단계별로 정리한 글입니다. XSUAA 패스코드, 액세스 제어 설정, Smart Data Access 원격 소스 구성을 한 번에 다룹니다.",
+          "why": "BDC 연동 과정에서 자주 막히는 연결 설정을 단계별로 따라 할 수 있는 실전 자료입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Cloud Connector (SCC) Configuration for HANA Cloud in SAP Business Data Cloud (BDC)",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-cloud-connector-scc-configuration-for-hana-cloud-in-sap-business-data/ba-p/14524456",
+            "published": "2026-11-19T20:09:29.000Z",
+            "snippet": "SAP Cloud Connector + HANA Cloud + BDC: here's the configuration that actually works. XSUAA passcode, access control setup, Smart Data Access remote source — all in one tested, step-by-step guide."
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 2,
+          "title_ko": "Mitsubishi Power, 혁신 추진 위해 SAP S/4HANA 전환 가속",
+          "summary": "Capgemini에 따르면 Mitsubishi Power가 사업 혁신을 위해 SAP S/4HANA 전환을 서두르고 있습니다. 대형 제조·에너지 기업이 ERP 현대화를 추진하는 사례입니다.",
+          "why": "제조·에너지 업종의 S/4HANA 전환 수요와 SI 파트너의 역할을 보여 주는 참고 사례입니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Mitsubishi Power accelerates move to SAP S/4HANA to help power transformation - Capgemini",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkwzaG9WTUhwQTMyN1JCQTFSc2czbGloaFFtdUhGcC1kZ1liWUJXSldFcEx6MUlZYmlzQTFERFp6eEZnakZDbzZwTmJRUFN6dnZ5QmV5WWlIM2xQaXpha3dSaVFQVTEyS1pKZHJRblBLeG1SaUR3NENpUWhpU0F2MWVxcWQ1LTJ1RmtwSmhweXdBeVlYSS1DeU85RHVicnVJSVJjRlFnaXZ2X1M5UXBsSUswWmUyR1lrNFJ3eUZtUkZ6UEI0ZUMtVTJ3?oc=5",
+            "published": "2026-11-19T16:12:09.000Z",
+            "snippet": "Mitsubishi Power accelerates move to SAP S/4HANA to help power transformation Capgemini"
+          }
+        },
+        {
+          "index": 15,
+          "title_ko": "Rimini Street와 American Digital, SAP 파트너십 확대",
+          "summary": "제3자 유지보수 업체 Rimini Street와 American Digital이 SAP 관련 클라우드 협력을 넓혔습니다. 여러 IT 매체가 이를 함께 보도했습니다.",
+          "why": "SAP 공식 지원의 대안으로 제3자 지원을 검토하는 고객이 늘고 있다는 신호로, 유지보수 전략 수립 시 참고할 만합니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Rimini Street and American Digital expand SAP partnership - Portal ERP",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQy1zOU5uYVJGSmlSdDhDT2R0NDZFMmZrVnE0T0drb0pmVXlVcGxpUkdqMzEtcDVWSUdiMlRwYmRkU1RUanVIME5pQTRTQUlreHJDQ0FmWTBOQVhhMUJLSEMzWGxsSGVXd19ocTNHTFJ3d2ltcHZxTkxqc0pLMG9YT1o2VDJYZEdEdDBpazFob0s?oc=5",
+            "published": "2026-11-19T01:22:10.000Z",
+            "snippet": "Rimini Street and American Digital expand SAP partnership Portal ERP"
+          }
+        },
+        {
+          "index": 13,
+          "title_ko": "인도 델리 고등법원, SAP 인디아에 Nayara Energy 기술지원 지속 명령",
+          "summary": "델리 고등법원이 SAP 인디아에 로스네프트가 지분을 가진 Nayara Energy에 대한 기술지원을 계속하라고 명령했습니다. 제재 이슈와 엮인 SAP 지원 중단 문제가 법정 다툼으로 번진 사례입니다.",
+          "why": "지정학적 리스크가 SAP 지원 계약과 시스템 운영 연속성에 영향을 줄 수 있음을 보여 줍니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Delhi HC directs SAP India to continue tech support services to Roseneft-backed Nayara Energy - ETLegalWorld.com",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTUV5SFZjd3FuOWlMZTF3TGpMdWpSanF2dkR6TXMzTEk1aTZLZ3JpaHBYRzlIV1RibXJHMklkWW9Ic25qNkNaNjBvSWNSVDM2b1VDMGN5eEEyM3dSajRPbFVPTUZrUldxV1hhM1hjUWd3YTVkaVB2SER1Tm91ZUo0bG5kTWxoTFZRdVlNU19GSEN1UWw5WmZWMGlnbHVlbFp1MW5oazhCUE5Yd0hPXzMwSDFCOU5YZTg3QUVPX1VuOTk3TThVVU1ZMUFoSTJSTUZXeWZpQUN2dy1qbVBoeHVlZUZ4MEkyMm1QVDBVM3FwMXRRbWtaa1VEM9IB-AFBVV95cUxPTUV5SFZjd3FuOWlMZTF3TGpMdWpSanF2dkR6TXMzTEk1aTZLZ3JpaHBYRzlIV1RibXJHMklkWW9Ic25qNkNaNjBvSWNSVDM2b1VDMGN5eEEyM3dSajRPbFVPTUZrUldxV1hhM1hjUWd3YTVkaVB2SER1Tm91ZUo0bG5kTWxoTFZRdVlNU19GSEN1UWw5WmZWMGlnbHVlbFp1MW5oazhCUE5Yd0hPXzMwSDFCOU5YZTg3QUVPX1VuOTk3TThVVU1ZMUFoSTJSTUZXeWZpQUN2dy1qbVBoeHVlZUZ4MEkyMm1QVDBVM3FwMXRRbWtaa1VEMw?oc=5",
+            "published": "2026-11-19T07:14:57.000Z",
+            "snippet": "Delhi HC directs SAP India to continue tech support services to Roseneft-backed Nayara Energy ETLegalWorld.com"
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "SAP, 2026 IDC MarketScape 공급망 계획 부문 여러 평가에서 리더 선정",
+          "summary": "SAP가 공급망 계획 관련 2026 IDC MarketScape 평가 여러 부문에서 리더로 선정됐습니다. SAP의 공급망 계획 솔루션 경쟁력을 보여 주는 결과입니다.",
+          "why": "IBP 등 SAP 공급망 계획 솔루션을 제안할 때 근거 자료로 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Advancing Supply Chain Planning: SAP Named a Leader in Multiple 2026 IDC MarketScape Assessments - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFNPMlR4bXR6WGpLQVBKNHZiOFgya01tenFfeGtrV3RZQWZ4VTdZV1BMemQtcWwyUkhPcHBDWjZmaElrSWRJSzdsb1Q2emprWmY4SjluZkNvNWpqWnVoN3N0LTBKZ1poLUdmVWlYb0I3WkpZbWwyUDYtd1ZiWmN1UklHZXFWRVV6dm5ZTjVOQ3o?oc=5",
+            "published": "2026-11-17T13:25:24.000Z",
+            "snippet": "Advancing Supply Chain Planning: SAP Named a Leader in Multiple 2026 IDC MarketScape Assessments SAP News Center"
+          }
+        },
+        {
+          "index": 4,
+          "title_ko": "산업 AI: SAP·Siemens·Oracle이 ERP를 재편하는 방식",
+          "summary": "Manufacturing Digital이 SAP, Siemens, Oracle이 산업용 AI를 활용해 ERP를 어떻게 바꾸고 있는지 비교했습니다. 제조업 ERP 시장에서 AI 경쟁 구도를 다룬 기사입니다.",
+          "why": "제조업 고객에게 경쟁 솔루션 대비 SAP의 AI 포지셔닝을 설명할 때 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Industrial AI: How SAP, Siemens & Oracle Are Rewiring ERP - Manufacturing Digital",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUtXSWJXTkJtOE9IcHNKQkt4SGlxTGVnVkNtdzhidlEzMVBaN3dzU1drQjZqR3dHbWFVQVpWRThfLWVXVjNncEt6LXNYb2M5SzlVU1NnSk1tdlpTTURsbm1ieEhTX3MxVmZTZUV2WTlBWHVTbXo1VlpzeEJtVlExWTlKSV80WFZnYTdPSGJJcmlJVFQ4eHc?oc=5",
+            "published": "2026-11-19T14:42:28.000Z",
+            "snippet": "Industrial AI: How SAP, Siemens & Oracle Are Rewiring ERP Manufacturing Digital"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 동향",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "젠컨설팅, 기업 AI 업무 재설계 전략 제시… SAP Joule·제조업 PoC 사례 소개",
+          "summary": "젠컨설팅이 'From Vision to Action' 세미나에서 기업의 AI 도입 전략과 업무 재설계 방안을 공유했습니다. SAP Joule 활용 방법과 제조업 PoC 사례도 소개했습니다.",
+          "why": "국내 SAP 고객사의 Joule 및 AI 적용 사례와 접근 방식을 파악하는 데 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (KR)",
+            "title": "젠컨설팅, 기업 AI 업무 재설계 전략 제시… SAP Joule·제조업 PoC 사례 소개 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYmVJTzdPMUJnWk5FMEN3b0dwNDR2amJkQ2d5UzJVVkh6OWJ0SmhDUUEwQmVMc3JpSkl2dXZTZE1CN1NKMkdjVldfUDVnTEdkbi1HdElhTEZVOHJUbkdVTw?oc=5",
+            "published": "2026-11-13T00:15:00.000Z",
+            "snippet": "젠컨설팅, 기업 AI 업무 재설계 전략 제시… SAP Joule·제조업 PoC 사례 소개 아시아경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "세미나·박람회·웨비나",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "[12.03] SAP Executive Exchange for Busan (Automotive)",
+          "summary": "2026년 12월 3일(목), 부산광역시 부산진구에서 열리는 자동차 산업 대상 오프라인 행사입니다. 무료 강연·세미나이며, 접수는 외부 사이트에서 받고 있습니다(오늘 기준 마감 2주 전). 주최 정보는 목록에서 확인되지 않습니다.",
+          "why": "부산·경남 지역 자동차 업계 SAP 고객과 AI 활용 사례를 직접 접할 수 있는 자리입니다.",
+          "article": {
+            "source": "온오프믹스 SAP 행사",
+            "title": "SAP Executive Exchange for Busan(Automotive)",
+            "link": "https://onoffmix.com/event/353329",
+            "published": "2026-11-19T21:46:46.869Z",
+            "snippet": "일시: 2026.12.3 (목) 0:00 ~ 23:59 / 장소: 부산광역시 부산진구 / 무료 강연/세미나 / 접수 상태(오늘 기준): 외부접수 마감 2주전 / 태그: #sap #AI #Busan"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "SAP Sapphire 바르셀로나 2027",
+          "summary": "SAP의 대표 연례 행사인 Sapphire가 2027년 바르셀로나에서 열린다는 UC Today 기사입니다. 구체적인 일시, 등록 방법, 유무료 여부는 기사 정보에서 확인되지 않습니다.",
+          "why": "유럽에서 열리는 SAP 최대 행사로, 2027년 로드맵과 신제품 발표를 미리 챙길 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Sapphire Barcelona 2027 - UC Today",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXU0TWhteC1XdmxsTU1mYWY0TTFGNWZvQ3VDNUxyOENBS1hUbUVpendGcnlZYndTYWQ5MlFTNmNvdmlRNjRmTzRiS0pQY1pSckE3dnBlTnlVZ3NnRWY1UlZBQUQ?oc=5",
+            "published": "2026-11-18T13:19:14.000Z",
+            "snippet": "SAP Sapphire Barcelona 2027 UC Today"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "SAP Sapphire 올랜도 2027",
+          "summary": "SAP Sapphire가 2027년 미국 올랜도에서 열린다는 UC Today 기사입니다. 구체적인 일시, 등록 방법, 유무료 여부는 기사 정보에서 확인되지 않습니다.",
+          "why": "SAP의 핵심 전략과 AI·제품 발표가 나오는 자리라 일정 계획에 미리 반영해 둘 만합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Sapphire Orlando 2027 - UC Today",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyOEJOX29kWTYybU51dFZjSllKeEFkajlMX2poVndFTmR6cWZ5Y3kwdFRjdmRUOERXR1dxS04tU1VTeWd4SlpoRnEyNlRFaFFuc3NTV21MWlZjbUw4MVIyYUp3?oc=5",
+            "published": "2026-11-17T13:20:13.000Z",
+            "snippet": "SAP Sapphire Orlando 2027 UC Today"
+          }
+        }
+      ]
+    }
+  ]
+}
