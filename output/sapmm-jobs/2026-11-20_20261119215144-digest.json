@@ -1,0 +1,250 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 공고는 2건입니다. 케이맨파워가 유명 중견그룹의 SAP 개발자(SD·MM·PP, 경력 3년 이상)를 찾고 있고, 프로써치코리아는 글로벌 뷰티테크 기업의 국내법인 ERP(SAP) 운영·구축 경력자(8~13년)를 모집합니다. 기존 공고 중에서는 제이투이의 MM 모듈 전담 운영(경력 6년 이상)과 팔도의 PP/MM 운영이 MM 비중이 높습니다. 비즈테크아이 공고에는 S/4HANA Cloud(Public Edition) 신규 구축이 함께 포함돼 있습니다. 전체적으로는 FI·CO·SD·PP·MM을 함께 뽑는 운영(SM) 공고가 많고, 요구 경력은 3~8년대가 중심입니다. 동국 계열에서는 동국씨엠이 100억원을 들여 아주스틸 지분을 72.31%로 늘렸고, 동국제강은 철근 가격을 동결하는 등 철근 업계 감산·구조조정 흐름이 이어지고 있습니다.",
+  "categories": [
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 35,
+          "title_ko": "케이맨파워(유명 중견그룹) · SAP 개발(SD·MM·PP)",
+          "summary": "헤드헌팅사 케이맨파워가 유명 중견그룹의 SAP 개발자를 모집합니다. 대상 모듈은 SD·MM·PP이며 분야는 ABAP·SAP·ERP 개발입니다. 근무지는 서울 강남구, 조건은 경력 3년 이상·대졸 이상·정규직이고 마감일은 12월 4일(금)입니다.",
+          "why": "MM이 명시된 개발 포지션으로 경력 3년 이상이면 지원할 수 있으며, 마감(12/4)까지 2주 남았습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[유명 중견그룹] SAP 개발 - SD, MM, PP",
+            "company": "(주)케이맨파워",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55622311",
+            "published": "2026-11-19T00:00:00.000Z",
+            "snippet": "회사: (주)케이맨파워 / 조건: 서울 강남구 경력3년↑ 대졸↑ 정규직 / 마감: ~ 12/04(금) / 분야: ABAP , SAP , SI개발 , S/W , ERP 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%BC%80%EC%9D%B4%EB%A7%A8%ED%8C%8C%EC%9B%8C"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "프로써치코리아(글로벌 뷰티테크 기업) · 국내법인 ERP(SAP) 운영 및 구축",
+          "summary": "헤드헌팅사 프로써치코리아가 글로벌 뷰티테크 기업 재무 조직의 국내법인 ERP(SAP) 운영·구축 경력자를 모집합니다. 근무지는 서울 송파구, 경력 8~13년이며 마감일은 2026-12-02입니다. 같은 지역·연차로 보이는 에이피알 직접 공고에는 제조·구매·생산·재고·영업·재무 프로세스 분석과 SAP 운영·개선 업무가 적혀 있습니다.",
+          "why": "경력 8년 이상 시니어 대상이며 구매·재고 프로세스가 포함된 운영 업무입니다. 연차·연령이 맞지 않으면 불합격 회신이 올 수 있다고 공지돼 있으니 지원 전에 확인하세요.",
+          "article": {
+            "source": "리멤버",
+            "title": "[글로벌 뷰티테크 기업] [재무] 국내법인 ERP(SAP) 운영 및 구축 경력사원 모집",
+            "company": "(주)프로써치코리아",
+            "link": "https://career.rememberapp.co.kr/job/posting/130897",
+            "published": "2026-11-18T15:00:00.000Z",
+            "snippet": "회사: (주)프로써치코리아 / 경력: 8~13년 / 지역: 서울특별시 송파구 / 마감: 2026-12-02 / [글로벌 뷰티테크 기업] [재무] 국내법인 ERP(SAP) 운영 및 구축 경력사원 모집 채용 포지션 안내 드립니다. 간편지원을 해주시면 상세 jd를 바로 보내드리겠습니다. (다만 연차가 안맞으시거나 연령이 안맞으시는 경우에는 불합격 회신을 드릴 수 있습니다. 이점 양해 부탁드립니다.) 감사합니다.",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%84%EB%A1%9C%EC%8D%A8%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 69,
+          "title_ko": "로이컨설팅(SAP 분야 글로벌 컨설팅펌) · SAP 모듈 컨설턴트(전 모듈)",
+          "summary": "헤드헌팅사 로이컨설팅이 SAP 분야의 글로벌 컨설팅펌에서 일할 전 모듈 컨설턴트를 모집합니다. 근무지는 서울 강남구, 조건은 경력 4년 이상·대졸 이상·정규직이며 마감일은 11월 22일(일)입니다.",
+          "why": "MM을 포함한 전 모듈 대상이며 마감이 이틀 뒤(11/22)라 지원하려면 서둘러야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[SAP분야 리딩 글로벌 컨설팅펌] SAP 모듈 컨설턴트 [전모듈]",
+            "company": "로이컨설팅(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55584965",
+            "published": "2026-11-16T00:00:00.000Z",
+            "snippet": "회사: 로이컨설팅(주) / 조건: 서울 강남구 경력4년↑ 대졸↑ 정규직 / 마감: ~ 11/22(일) / 분야: SAP , 서치펌",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%A1%9C%EC%9D%B4%EC%BB%A8%EC%84%A4%ED%8C%85(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 58,
+          "title_ko": "팔도 · IT전략 SAP SCM 운영 담당자(PP/MM)",
+          "summary": "팔도 IT전략 조직에서 SAP SCM(PP/MM) 운영 담당자를 직접 채용합니다. 근무지는 서울 서초구, 조건은 경력 3~7년·대졸 이상·정규직이며 마감일은 11월 30일(월)입니다.",
+          "why": "식품 제조사 내부 운영직으로 MM이 명시돼 있고, 경력 3~7년 대상이며 마감은 11/30입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "IT전략-SAP SCM 운영 담당자 채용 (PP/MM)",
+            "company": "(주)팔도",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55597985",
+            "published": "2026-11-17T00:00:00.000Z",
+            "snippet": "회사: (주)팔도 / 조건: 서울 서초구 경력 3~7년 대졸↑ 정규직 / 마감: ~ 11/30(월) / 분야: SAP , 식품가공",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%8C%94%EB%8F%84"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 114,
+          "title_ko": "비즈테크아이 · SAP SM 모듈 운영 담당자(FI·CO·SD·PP·MM)",
+          "summary": "비즈테크아이가 FI·CO·SD·PP·MM 모듈의 운영·유지보수·개발과 표준 설정(IMG), 시스템 고도화를 맡을 인력을 모집합니다. SM 기반 SI 프로젝트와 S/4HANA Cloud(Public Edition) 신규 구축 업무도 포함됩니다. 근무지는 서울 마포구, 경력 3~15년이며 마감일은 2026-11-30입니다.",
+          "why": "운영과 함께 S/4HANA Cloud 구축 경험을 쌓을 수 있는 자리이며, 마감은 11/30입니다(고용형태는 공고에 표시되지 않음).",
+          "article": {
+            "source": "리멤버",
+            "title": "SAP SM 모듈 운영 담당자 (경력)",
+            "company": "(주)비즈테크아이",
+            "link": "https://career.rememberapp.co.kr/job/posting/323764",
+            "published": "2026-11-12T15:00:00.000Z",
+            "snippet": "회사: (주)비즈테크아이 / 경력: 3~15년 / 지역: 서울특별시 마포구 / 마감: 2026-11-30 / ■ 이런 일을 하시게 될 거예요 ㆍSAP 모듈 운영(FI, CO, SD, PP, MM) 및 유지보수·개발 ㆍSAP Standard configuration(IMG) 설정 및 시스템 고도화 작업 ㆍSM based SI 프로젝트 수행 및 고객사 비즈니스 분석/설계 ㆍS/4HANA Cloud(Public Edition) 신규 구축 (모듈 별 상이)",
+            "jobHistory": {
+              "count": 6,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EB%B9%84%EC%A6%88%ED%85%8C%ED%81%AC%EC%95%84%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "제이투이가 동대문역사문화공원역 인근에서 근무할 SAP MM 모듈 운영(SM) 인력을 모집합니다. 근무지는 서울 중구이며 경력 6년 이상, 즉시 지원 가능합니다.",
+          "why": "MM 단일 모듈 전담 운영 포지션으로 경력 6년 이상이 필요하고, 마감일은 공고에 없습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50390638",
+            "published": "2026-11-18T05:20:31.217Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 76,
+          "title_ko": "에이치알포유(SAP 플래티넘 파트너·대기업 계열) · SAP MM·PP·FI·SD 컨설턴트",
+          "summary": "헤드헌팅사 에이치알포유가 대기업 계열 SAP 플래티넘 파트너사의 MM·PP·FI·SD 등 모듈 인력을 모집합니다. 근무지는 서울 금천구, 조건은 경력 2~20년·초대졸 이상·정규직이며 마감일은 12월 15일(화)입니다.",
+          "why": "MM이 맨 앞에 명시돼 있고 경력 범위가 2~20년으로 넓으며, 마감(12/15)까지 여유가 있습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[[SAP플래티넘 파트너사(대기업계열)]] SAP MM .PP.FI.SD 外",
+            "company": "에이치알포유(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55575898",
+            "published": "2026-11-15T00:00:00.000Z",
+            "snippet": "회사: 에이치알포유(주) / 조건: 서울 금천구 경력 2~20년 초대졸↑ 정규직 / 마감: ~ 12/15(화) / 분야: ABAP , SAP , IT컨설팅 , SE(시스템엔지니어) , 헤드헌팅",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%8C%ED%8F%AC%EC%9C%A0(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 33,
+          "title_ko": "[동국제강] 철근 가격 톤당 82만원 동결…가격 정상화 방안 검토",
+          "summary": "동국제강이 철근 판매 가격을 톤당 82만원으로 동결했습니다. 동시에 가격 정상화 방안을 검토하고 있다고 전해졌습니다.",
+          "why": "건설 경기 부진 속에서 철근 가격 방어가 수익성의 핵심 과제라는 점을 보여 줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 철근價 82만 원 동결...가격 정상화 방안 검토 - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MWQ5YnNUVXlJVGJSYnNtdnJ5TWtTVDJxUWYxSU5YQ3hNMFpiWXduR21rTlBjb3NReklzSkUtNk5vUGlUYjJ4VkdKUzkwR2VwZ1ltQWszWGhNVldVY1UxcEQ0dkhFZjVwa1hnc29jYmnSAXRBVV95cUxNeFNtUlh0eFpQVU9IdVptZ2VBUlB5VTdYTC1EeDhFNmlrc3FyTzI5Sy1CZTljMkp0WUlwaVFqbHJYMkE5VFpJaTdaNzd3djFvTVRpZHRtUk1lbzFYcDk5ZDRaM3Y4eW9RWDZvd2dPV2sxREt0dw?oc=5",
+            "published": "2026-11-19T20:00:00.000Z",
+            "snippet": "동국제강, 철근價 82만 원 동결...가격 정상화 방안 검토 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "[동국제강] 반도체·AI 데이터센터용 봉형강으로 수익성 회복세",
+          "summary": "동국제강이 반도체 공장과 AI 데이터센터(AIDC) 건설에 쓰이는 봉형강 수요에 힘입어 수익성을 회복하고 있다는 분석입니다.",
+          "why": "건설 경기 부진을 첨단산업 수요로 일부 메우며 실적이 나아지는 흐름입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 반도체·AIDC 봉형강에 수익성 회복세 - 데이터뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sanNZaTloNDhnbVU3b0ZDTkpLVTlQRVVvTGktN3FVX0ZobnpCaVd2c0U0c0d2dUdNdmFwbTlueFVBWGVWTWZhZnJxZ1piVWhuU3Y3eHZ2ckhQVDk4UExB?oc=5",
+            "published": "2026-11-18T23:50:30.000Z",
+            "snippet": "동국제강, 반도체·AIDC 봉형강에 수익성 회복세 데이터뉴스",
+            "isNew": true
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "[철강업계] 장기 불황에 중견 제강사도 공장 가동 중단…대한제강까지 감산 대열 합류",
+          "summary": "건설 경기 불황이 길어지면서 철근 업계 전반으로 생산 구조조정이 번지고 있습니다. 중견 제강사들이 공장 가동을 멈추고 있고, 대한제강도 결국 감산에 들어갔습니다.",
+          "why": "업계 공급 축소는 동국제강 등 철근 업체의 가격 정상화에 영향을 줄 수 있는 업황 변화입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "장기불황에 중견 제강사도 공장 멈춘다…철근업계 생산 구조조정 확산 - 더팩트",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zaUxxMWpkUC10WTJyaHFLLWh3SE54bFhwdmU1TzlzLTNLcmxqbHU1NGVfTnFfVkNDM1pteHRXLVN6ZS0tMmZQVkM4Vi1HLXpsb3E2WdIBVEFVX3lxTE9zaUxxMWpkUC10WTJyaHFLLWh3SE54bFhwdmU1TzlzLTNLcmxqbHU1NGVfTnFfVkNDM1pteHRXLVN6ZS0tMmZQVkM4Vi1HLXpsb3E2WQ?oc=5",
+            "published": "2026-11-18T01:30:00.000Z",
+            "snippet": "장기불황에 중견 제강사도 공장 멈춘다…철근업계 생산 구조조정 확산 더팩트",
+            "isNew": true
+          }
+        },
+        {
+          "index": 62,
+          "title_ko": "[동국제강] 장선익·이찬희 등 임원 7명 연말 임기 만료…최삼영·곽진수는 내년 3월 인선",
+          "summary": "동국제강 임원 가운데 장선익·이찬희 등 7명의 임기가 연말에 끝납니다. 최삼영·곽진수의 거취는 내년 3월에 결정될 예정이라는 인사 전망 기사입니다.",
+          "why": "연말 인사에 따라 경영진 구성과 조직이 바뀔 가능성이 있어 지켜볼 만합니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[동국제강 인사 전망] 장선익·이찬희 등 7명 연말 임기… 최삼영·곽진수 내년 3월 인선 - 뉴스클레임",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3RG5aalpfSlRlRjN4cGpKOXdzbWlBVGJVQTUwZVlYOFpXRzRENEd1YzdHeVlBZHpvWDF4a0l6THRPcHZ0OFE3Y01ORmhnMzdSOFhzdFZuVTBfOXpKYmVXY0pfS1hPSmFJNGd2MUN4LXVxQ3Ax0gF0QVVfeXFMUDdEblpqWl9KVGVGM3hwako5d3NtaUFUYlVBNTBlWVg4WldHNEQ0R3VjN0d5WUFkem9YMXhrSXpMdE9wdnQ4UTdjTU5GaGczN1I4WHN0Vm5VMF85ekpiZVdjSl9LWE9KYUk0Z3YxQ3gtdXFDcDE?oc=5",
+            "published": "2026-11-16T08:00:00.000Z",
+            "snippet": "[동국제강 인사 전망] 장선익·이찬희 등 7명 연말 임기… 최삼영·곽진수 내년 3월 인선 뉴스클레임",
+            "isNew": true
+          }
+        },
+        {
+          "index": 108,
+          "title_ko": "[동국씨엠] AI 데이터센터 설비 보호용 고기능 컬러강판 개발…결로 지연 10배·진동 감쇠 2배",
+          "summary": "동국씨엠이 AI 데이터센터 설비를 보호하는 고기능성 컬러강판을 개발했습니다. 결로 발생을 10배 늦추고 진동 감쇠 성능을 2배 높인 것이 특징입니다.",
+          "why": "냉연·도금 업계의 수익성이 악화된 상황에서 고부가 신시장으로 사업을 넓히려는 시도입니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "결로 지연 10배·진동 감쇠 2배…동국씨엠, AIDC 설비 지키는 고기능성 컬러강판 개발 - 한경매거진",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zclE5MmlRUFlrVjZKdGNmQjVRY3BmOVBwNUd0SkV3dEg0OUQ0OHlRWElPaGNXQjh4WFRuYmNJWGpvcTRVcTNLbW45clRDcFcwUHNOanp4eWZEQ3FfVXVyR1RNTzhuempIeEl6OQ?oc=5",
+            "published": "2026-11-13T00:22:00.000Z",
+            "snippet": "결로 지연 10배·진동 감쇠 2배…동국씨엠, AIDC 설비 지키는 고기능성 컬러강판 개발 한경매거진",
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "아주스틸 소식",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "[아주스틸] 동국씨엠, 100억원 들여 지분 추가 확보…지분율 72.31%로 확대",
+          "summary": "동국씨엠이 약 100억원을 투입해 아주스틸 지분을 추가로 사들였습니다. 이에 따라 지분율이 72.31%로 높아졌습니다.",
+          "why": "부채비율이 높은 아주스틸에 대한 동국씨엠의 지배력이 강해져, 앞으로 계열 통합과 재무구조 개선이 본격화할 수 있습니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "동국씨엠, 아주스틸 지분 추가 확보에 100억원 투입…지분율 72.31%로 확대 - 철강금속신문",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZWI1ZDJNRkFlaC1BNjFqcFdsTzQtNnJhVGxyRkZRZy1LY2xkVFVfbUNqbG50UzJtOWdLWUFSSnNNWm5sXzlNc2tKYy1BRktnSmNFQ1JuQlFyYU5yazEwNGRtd013NEU2ZUE?oc=5",
+            "published": "2026-11-19T08:16:27.000Z",
+            "snippet": "동국씨엠, 아주스틸 지분 추가 확보에 100억원 투입…지분율 72.31%로 확대 철강금속신문",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
