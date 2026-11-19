@@ -9,6 +9,7 @@ import { sendMail } from "./mail.js";
 import { syncCi } from "./ci-sync.js";
 import { ROOT, DEFAULT_AGENT, loadAgent, listAgents, agentPaths, saveAgentMailTo } from "./agents.js";
 import { LATE_MIN, localYmd, isOffDay, dueAt } from "./status.js";
+import { infraStatus } from "./infra.js";
 
 const envPath = path.join(ROOT, ".env");
 if (existsSync(envPath)) process.loadEnvFile(envPath);
@@ -300,6 +301,15 @@ const server = http.createServer(async (req, res) => {
     }
     // ---------- API ----------
     if (p === "/api/agents") return json(res, 200, listAgents().map(pubAgent));
+    if (p === "/api/infra") {
+      const agents = listAgents(), office = agents.map((a) => officeAgent(a));
+      const github = agents.flatMap((a) => readRuns(a).filter((r) => r.source === "github" && r.finishedAt)).sort((x, y) => String(x.finishedAt).localeCompare(String(y.finishedAt))).at(-1) || null;
+      let webUrl = null; try { webUrl = loadAgent("supervisor").webUrl || null; } catch {}
+      return json(res, 200, { ...(await infraStatus()), webUrl, lastSync,
+        agents: { total: agents.length, briefing: agents.filter((a) => a.kind !== "supervisor").length, supervisor: agents.filter((a) => a.kind === "supervisor").length,
+          sentToday: office.filter((a) => a.status === "sent").length, dutyToday: office.filter((a) => a.status !== "off").length },
+        lastGithubRun: github && { agent: github.agent, status: github.status, finishedAt: github.finishedAt } });
+    }
     if (p === "/api/office") return json(res, 200, { agents: listAgents().map((a) => officeAgent(a)), lateMinutes: LATE_MIN, now: new Date().toISOString() });
     if (p === "/api/status") {
       const runs = readRuns(agent);
@@ -395,6 +405,7 @@ const server = http.createServer(async (req, res) => {
 server.listen(PORT, () => console.log(`sapinfoagent web: http://localhost:${PORT}`));
 
 // GitHub Actions 실행·발송 기록 가져오기 (ci-state 브랜치) — 시작 시와 5분마다
-const ciSync = () => syncCi().then((r) => { if (r && (r.runs || r.files)) console.log(`ci-sync: 실행 기록 ${r.runs}건, 파일 ${r.files}개 추가`); }).catch((e) => console.error("ci-sync 실패:", e.message));
+let lastSync = null;   // 개발구성 화면에 보여 줄 마지막 ci-state 동기화 결과
+const ciSync = () => syncCi().then((r) => { if (r) lastSync = { at: new Date().toISOString(), ...r }; if (r && (r.runs || r.files)) console.log(`ci-sync: 실행 기록 ${r.runs}건, 파일 ${r.files}개 추가`); }).catch((e) => { lastSync = { at: new Date().toISOString(), error: e.message }; console.error("ci-sync 실패:", e.message); });
 ciSync();
 setInterval(ciSync, 5 * 60 * 1000);

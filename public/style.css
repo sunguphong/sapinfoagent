@@ -597,3 +597,53 @@ tbody tr.inc-ongoing { background: var(--err-bg); }
   tbody td.inc-cause, tbody td.inc-flow, tbody td.wrap { grid-column: 1 / -1; max-width: none; }
   tbody tr[aria-selected="true"] { box-shadow: inset 2px 0 0 var(--accent); padding-left: 10px; }
 }
+
+/* ---------- 개발구성 ---------- */
+.infra-head { padding: 22px 26px; margin-bottom: 14px; border-radius: var(--radius-l); color: #fff;
+  background: linear-gradient(120deg, #141b26 0%, #172630 55%, #1d3a36 100%); border: 1px solid rgba(255,255,255,.06); }
+.infra-head h1 { margin: 0 0 6px; font-size: 24px; font-weight: 800; letter-spacing: -0.02em; font-family: var(--font-ui); color: #fff; }
+.infra-head p { margin: 0; font-size: 13.5px; color: #c4ced0; line-height: 1.6; }
+.infra-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin-bottom: 14px; }
+.infra-tile { padding: 16px 18px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-l); box-shadow: var(--shadow-sm); min-width: 0; }
+.infra-tile b { display: block; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; color: var(--text); }
+.infra-tile span { display: block; margin-top: 6px; font-size: 12px; color: var(--text-3); line-height: 1.5; }
+.infra-tile.ok b { color: var(--ok); } .infra-tile.warn b { color: var(--warn); }
+.infra-card { margin-bottom: 14px; }
+.infra-title { margin: 0 0 14px; font-size: 15px; font-weight: 700; }
+.infra-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.infra-svg { display: block; width: 100%; min-width: 980px; height: auto; font-family: var(--font-ui); }
+.igroup { fill: var(--surface-2); stroke: var(--border-strong); stroke-width: 1.5; stroke-dasharray: 7 6; }
+.igroup.gh { fill: var(--info-bg); stroke: var(--info-line); }
+.ig { font-size: 15px; font-weight: 800; fill: var(--text); }
+.igs { font-size: 11.5px; fill: var(--text-3); }
+.inode rect { fill: var(--surface-solid); stroke-width: 1.5; }
+.inode.pc rect { stroke: var(--accent-line); }
+.inode.gh rect { stroke: var(--info-line); }
+.inode.ext rect { stroke: var(--ok-line); }
+.inode.user rect { stroke: var(--border-strong); fill: var(--surface-solid); }
+.inode .it { font-size: 14px; font-weight: 700; fill: var(--text); }
+.inode .il { font-size: 12px; fill: var(--text-2); }
+.inode .il.live { fill: var(--ok); font-weight: 600; }
+.inode .il.live.bad { fill: var(--err); }
+.ldot.ok { fill: var(--ok); } .ldot.err { fill: var(--err); }
+.iedge { fill: none; stroke: var(--text-3); stroke-width: 1.6; }
+.iedge.dash { stroke-dasharray: 5 4; }
+.iedge.green, .imark.green { stroke: var(--ok); }
+.imark { fill: var(--text-3); } .imark.green { fill: var(--ok); }
+.ihead { fill: none; stroke: var(--text-3); stroke-width: 1.6; }
+.ihalo { fill: none; stroke: var(--surface-solid); stroke-width: 7; }
+.ilabel { font-size: 11px; font-weight: 600; fill: var(--text-2); }
+.ilabel.green { fill: var(--ok); }
+.infra-legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 12px; font-size: 12px; color: var(--text-2); }
+.infra-legend span { display: inline-flex; align-items: center; gap: 7px; }
+.infra-legend .lg { width: 22px; height: 13px; border-radius: 4px; border: 1.5px solid; }
+.lg.pc { border-color: var(--accent-line); } .lg.gh { border-color: var(--info-line); background: var(--info-bg); } .lg.ext { border-color: var(--ok-line); }
+.lg.dash { border: none; height: 0; border-top: 1.6px dashed var(--text-3); border-radius: 0; }
+.infra-legend .dot { width: 9px; height: 9px; border-radius: 50%; } .dot.ok { background: var(--ok); } .dot.err { background: var(--err); }
+.infra-table td { vertical-align: top; } .infra-table code { font-size: 12px; }
+.stack-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; }
+.stack-col { padding: 14px 16px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface-2); }
+.stack-h { font-size: 11.5px; font-weight: 700; letter-spacing: .08em; color: var(--accent); margin-bottom: 10px; }
+.stack-item { padding: 7px 0; border-top: 1px dashed var(--border-strong); } .stack-item:first-of-type { border-top: 0; padding-top: 0; }
+.stack-item b { display: block; font-size: 13px; } .stack-item span { font-size: 12px; color: var(--text-3); }
+@media (max-width: 760px) { .infra-head { padding: 18px; } .infra-tile b { font-size: 19px; } }

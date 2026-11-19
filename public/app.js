@@ -106,8 +106,9 @@ function showView(name) {
   if (name === "settings") loadSettings();
   if (name === "incidents") loadIncidents();
   if (name === "office") loadOffice();
+  if (name === "infra") loadInfra();
 }
-function route() { const h = (location.hash || "#dashboard").slice(1).split("/"); if (h[0] === "mails" && h[1]) pendingMail = h[1]; showView(["dashboard", "office", "runs", "mails", "incidents", "settings"].includes(h[0]) ? h[0] : "dashboard"); }
+function route() { const h = (location.hash || "#dashboard").slice(1).split("/"); if (h[0] === "mails" && h[1]) pendingMail = h[1]; showView(["dashboard", "office", "runs", "mails", "incidents", "infra", "settings"].includes(h[0]) ? h[0] : "dashboard"); }
 window.addEventListener("hashchange", route);
 
 // ---------- 대시보드 (오늘자 판) ----------
