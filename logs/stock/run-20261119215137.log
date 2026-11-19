@@ -1,0 +1,8 @@
+2026-11-19T21:51:37.915Z run 20261119215137 start (agent=stock "증시 브리핑", source=github, mode=send)
+2026-11-19T21:51:37.916Z collecting from 9 feeds...
+2026-11-19T21:51:38.488Z fetched 398, selected 50 (last 24h), feed errors: 1
+2026-11-19T21:51:38.488Z feed error: Yahoo Finance: Status code 404
+2026-11-19T21:51:38.489Z summarizing with claude (opus)...
+2026-11-19T21:52:25.143Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/stock/2026-11-20_20261119215137.html
+2026-11-19T21:52:27.020Z mail sent: <fc599a90-d751-a868-b544-b1f3a05dc99c@gmail.com>, <4bc25026-b7fa-3c0c-b1d7-5263990254e3@gmail.com> -> upsan77@gmail.com,zheng0107@daum.net
+2026-11-19T21:52:27.021Z done
