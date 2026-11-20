@@ -565,5 +565,27 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-19T22:22:28.870Z",
     "finishedAt": "2026-11-19T22:22:28.870Z"
+  },
+  {
+    "id": "20261120222137",
+    "agent": "ces",
+    "startedAt": "2026-11-20T22:21:37.410Z",
+    "date": "2026-11-21",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261120222137.log",
+    "base": "2026-11-21_20261120222137",
+    "fetched": 10,
+    "selected": 0,
+    "usedHours": 48,
+    "feedErrors": [
+      "Google News CES 국내 기업 (KR): Status code 503",
+      "Google News CES 혁신상·전시 (KR): Status code 503",
+      "Google News CES 2027 (EN): Status code 503",
+      "Google News CES Las Vegas tech (EN): Status code 503"
+    ],
+    "error": "수집된 기사가 없습니다",
+    "finishedAt": "2026-11-20T22:21:47.429Z"
   }
 ]

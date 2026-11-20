@@ -1,0 +1,10 @@
+2026-11-20T22:21:37.703Z run 20261120222137 start (agent=ces "CES 브리핑", source=github, mode=send)
+2026-11-20T22:21:37.704Z collecting from 5 feeds...
+2026-11-20T22:21:47.428Z fetched 10, selected 0 (last 48h), feed errors: 4
+2026-11-20T22:21:47.428Z feed error: Google News CES 국내 기업 (KR): Status code 503
+2026-11-20T22:21:47.428Z feed error: Google News CES 혁신상·전시 (KR): Status code 503
+2026-11-20T22:21:47.428Z feed error: Google News CES 2027 (EN): Status code 503
+2026-11-20T22:21:47.428Z feed error: Google News CES Las Vegas tech (EN): Status code 503
+2026-11-20T22:21:47.429Z ERROR Error: 수집된 기사가 없습니다
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:100:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
