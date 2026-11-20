@@ -1,0 +1,8 @@
+2026-11-20T21:51:49.188Z run 20261120215148 start (agent=smallbiz "소상공인 지원 브리핑", source=github, mode=send)
+2026-11-20T21:51:49.189Z collecting from 14 feeds...
+2026-11-20T21:51:56.175Z fetched 338, selected 60 (last 24h), feed errors: 0
+2026-11-20T21:51:56.175Z summarizing with claude (opus)...
+2026-11-20T21:51:57.116Z ERROR Error: claude exited 1: 
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:62:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)

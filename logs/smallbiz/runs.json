@@ -558,5 +558,22 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-19T21:52:36.692Z",
     "finishedAt": "2026-11-19T21:52:36.692Z"
+  },
+  {
+    "id": "20261120215148",
+    "agent": "smallbiz",
+    "startedAt": "2026-11-20T21:51:48.617Z",
+    "date": "2026-11-21",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261120215148.log",
+    "base": "2026-11-21_20261120215148",
+    "fetched": 338,
+    "selected": 60,
+    "usedHours": 24,
+    "feedErrors": [],
+    "error": "claude exited 1: ",
+    "finishedAt": "2026-11-20T21:51:57.116Z"
   }
 ]
