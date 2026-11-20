@@ -1,0 +1,11 @@
+2026-11-20T21:51:44.874Z run 20261120215144 start (agent=sapmm-jobs "SAP MM 구인정보", source=github, mode=send)
+2026-11-20T21:51:44.875Z collecting from 9 feeds...
+2026-11-20T21:51:48.041Z fetched 211, selected 120 (last 336h), feed errors: 0
+2026-11-20T21:52:11.682Z company info: 11 / 26 companies
+2026-11-20T21:52:11.685Z job history: 292 postings, 37 cards with repeat company
+2026-11-20T21:52:11.687Z new: 61 / 120
+2026-11-20T21:52:11.687Z summarizing with claude (opus)...
+2026-11-20T21:52:12.636Z ERROR Error: claude exited 1: 
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:62:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
