@@ -607,5 +607,28 @@
     "mailTo": "zheng0107@daum.net",
     "mailSentAt": "2026-11-19T22:52:13.350Z",
     "finishedAt": "2026-11-19T22:52:13.350Z"
+  },
+  {
+    "id": "20261120225153",
+    "agent": "skincare",
+    "startedAt": "2026-11-20T22:51:53.531Z",
+    "date": "2026-11-21",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261120225153.log",
+    "base": "2026-11-21_20261120225153",
+    "fetched": 0,
+    "selected": 0,
+    "usedHours": 72,
+    "feedErrors": [
+      "Google News (피부·스킨케어): Status code 503",
+      "Google News (뷰티 제품·성분): Status code 503",
+      "Google News (동탄 피부관리실·뷰티): Status code 503",
+      "Google News EN (Beauty Trends): Status code 503",
+      "Google News EN (Dermatology): Status code 503"
+    ],
+    "error": "수집된 기사가 없습니다",
+    "finishedAt": "2026-11-20T22:52:03.500Z"
   }
 ]
