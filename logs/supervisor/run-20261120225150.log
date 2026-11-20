@@ -1,0 +1,14 @@
+2026-11-20T22:51:50.581Z run 20261120225150 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-20T22:51:50.582Z waiting 490s until 08:00
+2026-11-20T23:00:01.728Z sap: error - 오늘 1회 실행 모두 실패: claude exited 1: 
+2026-11-20T23:00:01.729Z realestate: error - 오늘 1회 실행 모두 실패: claude exited 1: 
+2026-11-20T23:00:01.729Z stock: error - 오늘 1회 실행 모두 실패: claude exited 1: 
+2026-11-20T23:00:01.729Z skincare: error - 오늘 1회 실행 모두 실패: 수집된 기사가 없습니다
+2026-11-20T23:00:01.729Z sapmm-jobs: error - 오늘 1회 실행 모두 실패: claude exited 1: 
+2026-11-20T23:00:01.729Z ces: error - 오늘 1회 실행 모두 실패: 수집된 기사가 없습니다
+2026-11-20T23:00:01.729Z smallbiz: error - 오늘 1회 실행 모두 실패: claude exited 1: 
+2026-11-20T23:00:01.729Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 06:31 수집 · 34건
+2026-11-20T23:00:01.729Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-20T23:00:01.731Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-21_20261120225150.html
+2026-11-20T23:00:02.990Z mail sent: <45929202-01c5-12a9-2e93-2c5af436f50d@gmail.com> -> upsan77@gmail.com
+2026-11-20T23:00:02.990Z done
