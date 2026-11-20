@@ -1,0 +1,9 @@
+2026-11-20T21:51:47.060Z run 20261120215147 start (agent=stock "증시 브리핑", source=github, mode=send)
+2026-11-20T21:51:47.061Z collecting from 9 feeds...
+2026-11-20T21:51:47.505Z fetched 432, selected 50 (last 24h), feed errors: 1
+2026-11-20T21:51:47.505Z feed error: Yahoo Finance: Status code 404
+2026-11-20T21:51:47.506Z summarizing with claude (opus)...
+2026-11-20T21:51:48.678Z ERROR Error: claude exited 1: 
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:62:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)

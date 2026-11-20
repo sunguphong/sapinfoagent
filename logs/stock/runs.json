@@ -550,5 +550,24 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-19T21:52:27.020Z",
     "finishedAt": "2026-11-19T21:52:27.020Z"
+  },
+  {
+    "id": "20261120215147",
+    "agent": "stock",
+    "startedAt": "2026-11-20T21:51:47.043Z",
+    "date": "2026-11-21",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261120215147.log",
+    "base": "2026-11-21_20261120215147",
+    "fetched": 432,
+    "selected": 50,
+    "usedHours": 24,
+    "feedErrors": [
+      "Yahoo Finance: Status code 404"
+    ],
+    "error": "claude exited 1: ",
+    "finishedAt": "2026-11-20T21:51:48.678Z"
   }
 ]
