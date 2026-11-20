@@ -636,5 +636,22 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-19T21:52:39.291Z",
     "finishedAt": "2026-11-19T21:52:39.292Z"
+  },
+  {
+    "id": "20261120215149",
+    "agent": "realestate",
+    "startedAt": "2026-11-20T21:51:49.890Z",
+    "date": "2026-11-21",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261120215149.log",
+    "base": "2026-11-21_20261120215149",
+    "fetched": 300,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [],
+    "error": "claude exited 1: ",
+    "finishedAt": "2026-11-20T21:51:51.977Z"
   }
 ]

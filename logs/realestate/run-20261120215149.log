@@ -1,0 +1,8 @@
+2026-11-20T21:51:50.377Z run 20261120215149 start (agent=realestate "부동산 브리핑", source=github, mode=send)
+2026-11-20T21:51:50.378Z collecting from 8 feeds...
+2026-11-20T21:51:50.805Z fetched 300, selected 45 (last 24h), feed errors: 0
+2026-11-20T21:51:50.805Z summarizing with claude (opus)...
+2026-11-20T21:51:51.977Z ERROR Error: claude exited 1: 
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:62:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
