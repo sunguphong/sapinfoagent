@@ -613,5 +613,22 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-19T21:47:30.719Z",
     "finishedAt": "2026-11-19T21:47:30.719Z"
+  },
+  {
+    "id": "20261120214649",
+    "agent": "sap",
+    "startedAt": "2026-11-20T21:46:49.357Z",
+    "date": "2026-11-21",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261120214649.log",
+    "base": "2026-11-21_20261120214649",
+    "fetched": 105,
+    "selected": 40,
+    "usedHours": 24,
+    "feedErrors": [],
+    "error": "claude exited 1: ",
+    "finishedAt": "2026-11-20T21:46:51.586Z"
   }
 ]

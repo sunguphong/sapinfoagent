@@ -1,0 +1,8 @@
+2026-11-20T21:46:49.367Z run 20261120214649 start (agent=sap "SAP 브리핑", source=github, mode=send)
+2026-11-20T21:46:49.367Z collecting from 7 feeds...
+2026-11-20T21:46:50.255Z fetched 105, selected 40 (last 24h), feed errors: 0
+2026-11-20T21:46:50.256Z summarizing with claude (opus)...
+2026-11-20T21:46:51.586Z ERROR Error: claude exited 1: 
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:62:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
