@@ -657,5 +657,28 @@
     "feedErrors": [],
     "error": "claude exited 1: ",
     "finishedAt": "2026-11-20T21:52:12.637Z"
+  },
+  {
+    "id": "20261121001648",
+    "agent": "sapmm-jobs",
+    "startedAt": "2026-11-21T00:16:48.032Z",
+    "date": "2026-11-21",
+    "source": "manual",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121001648.log",
+    "base": "2026-11-21_20261121001648",
+    "fetched": 203,
+    "selected": 120,
+    "usedHours": 336,
+    "feedErrors": [
+      "LinkedIn: HTTP 429"
+    ],
+    "picked": 13,
+    "html": "2026-11-21_20261121001648.html",
+    "mailId": "<61ca8208-deb1-7098-f580-19d20febcc25@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-21T00:17:57.709Z",
+    "finishedAt": "2026-11-21T00:17:57.709Z"
   }
 ]
