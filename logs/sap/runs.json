@@ -630,5 +630,26 @@
     "feedErrors": [],
     "error": "claude exited 1: ",
     "finishedAt": "2026-11-20T21:46:51.586Z"
+  },
+  {
+    "id": "20261121001200",
+    "agent": "sap",
+    "startedAt": "2026-11-21T00:12:00.192Z",
+    "date": "2026-11-21",
+    "source": "manual",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121001200.log",
+    "base": "2026-11-21_20261121001200",
+    "fetched": 106,
+    "selected": 43,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 17,
+    "html": "2026-11-21_20261121001200.html",
+    "mailId": "<c6964035-267a-3e62-59bd-13e1cb25478f@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-21T00:13:02.325Z",
+    "finishedAt": "2026-11-21T00:13:02.325Z"
   }
 ]
