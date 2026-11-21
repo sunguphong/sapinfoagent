@@ -653,5 +653,26 @@
     "feedErrors": [],
     "error": "claude exited 1: ",
     "finishedAt": "2026-11-20T21:51:51.977Z"
+  },
+  {
+    "id": "20261121001303",
+    "agent": "realestate",
+    "startedAt": "2026-11-21T00:13:03.576Z",
+    "date": "2026-11-21",
+    "source": "manual",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121001303.log",
+    "base": "2026-11-21_20261121001303",
+    "fetched": 300,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 21,
+    "html": "2026-11-21_20261121001303.html",
+    "mailId": "<e8fb7e1d-be55-e369-b96e-f8617fe2e33d@gmail.com>, <db6c0835-3c1d-24f7-a444-17e9bed031ac@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-21T00:14:17.854Z",
+    "finishedAt": "2026-11-21T00:14:17.854Z"
   }
 ]
