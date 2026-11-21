@@ -575,5 +575,30 @@
     "feedErrors": [],
     "error": "claude exited 1: ",
     "finishedAt": "2026-11-20T21:51:57.116Z"
+  },
+  {
+    "id": "20261121001853",
+    "agent": "smallbiz",
+    "startedAt": "2026-11-21T00:18:53.021Z",
+    "date": "2026-11-21",
+    "source": "manual",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121001853.log",
+    "base": "2026-11-21_20261121001853",
+    "fetched": 249,
+    "selected": 60,
+    "usedHours": 24,
+    "feedErrors": [
+      "경기도청 분야별 소식 (공식): fetch failed",
+      "경기도청 고시·공고 (공식): fetch failed",
+      "경기도청 경기도는 오늘 (공식): fetch failed"
+    ],
+    "picked": 8,
+    "html": "2026-11-21_20261121001853.html",
+    "mailId": "<00c1d92a-e4be-0589-9470-17c8aaba8cdb@gmail.com>, <2bee0b6a-62af-f6c6-be82-981c3191b704@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-21T00:19:50.685Z",
+    "finishedAt": "2026-11-21T00:19:50.685Z"
   }
 ]
