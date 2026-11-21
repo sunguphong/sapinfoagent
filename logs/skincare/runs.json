@@ -651,5 +651,22 @@
     "mailTo": "zheng0107@daum.net",
     "mailSentAt": "2026-11-21T00:16:46.839Z",
     "finishedAt": "2026-11-21T00:16:46.839Z"
+  },
+  {
+    "id": "20261121225133",
+    "agent": "skincare",
+    "startedAt": "2026-11-21T22:51:33.870Z",
+    "date": "2026-11-22",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261121225133.log",
+    "base": "2026-11-22_20261121225133",
+    "fetched": 175,
+    "selected": 17,
+    "usedHours": 24,
+    "feedErrors": [],
+    "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
+    "finishedAt": "2026-11-21T22:51:37.308Z"
   }
 ]
