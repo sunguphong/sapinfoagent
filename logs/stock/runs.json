@@ -569,5 +569,28 @@
     ],
     "error": "claude exited 1: ",
     "finishedAt": "2026-11-20T21:51:48.678Z"
+  },
+  {
+    "id": "20261121001418",
+    "agent": "stock",
+    "startedAt": "2026-11-21T00:14:18.712Z",
+    "date": "2026-11-21",
+    "source": "manual",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121001418.log",
+    "base": "2026-11-21_20261121001418",
+    "fetched": 461,
+    "selected": 50,
+    "usedHours": 24,
+    "feedErrors": [
+      "Yahoo Finance: Status code 404"
+    ],
+    "picked": 13,
+    "html": "2026-11-21_20261121001418.html",
+    "mailId": "<a310b47a-0490-8d59-6d4b-c481acbe14a4@gmail.com>, <53e49166-e85f-707e-bca1-71f88432119e@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-21T00:15:32.477Z",
+    "finishedAt": "2026-11-21T00:15:32.477Z"
   }
 ]
