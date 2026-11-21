@@ -1,0 +1,15 @@
+2026-11-21T22:51:31.811Z run 20261121225131 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-21T22:51:31.812Z waiting 509s until 08:00
+2026-11-21T23:00:02.825Z waiting for: skincare
+2026-11-21T23:20:28.261Z sap: sent - GitHub 실행이 실패해 PC 가 대신 발송 (claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token) | 수집 경고 1건: Google News (KR): Status code 429
+2026-11-21T23:20:28.262Z realestate: sent - GitHub 실행이 실패해 PC 가 대신 발송 (claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token)
+2026-11-21T23:20:28.262Z stock: off
+2026-11-21T23:20:28.262Z skincare: sent - GitHub 실행이 실패해 PC 가 대신 발송 (claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token) | 수집 경고 2건: Google News (동탄 피부관리실·뷰티): Status code 429 / Google News EN (Beauty Trends): Status code 429
+2026-11-21T23:20:28.262Z sapmm-jobs: sent - GitHub 실행이 실패해 PC 가 대신 발송 (claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token) | 수집 경고 1건: LinkedIn: HTTP 429
+2026-11-21T23:20:28.262Z ces: sent - GitHub 실행이 실패해 PC 가 대신 발송 (claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token)
+2026-11-21T23:20:28.262Z smallbiz: sent - GitHub 실행이 실패해 PC 가 대신 발송 (claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token)
+2026-11-21T23:20:28.262Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 06:31 수집 · 34건
+2026-11-21T23:20:28.262Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-21T23:20:28.264Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-22_20261121225131.html
+2026-11-21T23:20:29.451Z mail sent: <2054151f-c354-6a78-1a5c-53b343d5d23e@gmail.com> -> upsan77@gmail.com
+2026-11-21T23:20:29.452Z done
