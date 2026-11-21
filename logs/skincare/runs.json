@@ -630,5 +630,26 @@
     ],
     "error": "수집된 기사가 없습니다",
     "finishedAt": "2026-11-20T22:52:03.500Z"
+  },
+  {
+    "id": "20261121001549",
+    "agent": "skincare",
+    "startedAt": "2026-11-21T00:15:49.941Z",
+    "date": "2026-11-21",
+    "source": "manual",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121001549.log",
+    "base": "2026-11-21_20261121001549",
+    "fetched": 212,
+    "selected": 68,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 14,
+    "html": "2026-11-21_20261121001549.html",
+    "mailId": "<e9d1fcf2-a78f-7d83-1cce-8caef4a593e1@gmail.com>",
+    "mailTo": "zheng0107@daum.net",
+    "mailSentAt": "2026-11-21T00:16:46.839Z",
+    "finishedAt": "2026-11-21T00:16:46.839Z"
   }
 ]
