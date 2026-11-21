@@ -71,7 +71,8 @@ function inspect(agent, runs, lastSent, now, active) {
     status = "sent";
     const late = minutes(new Date(sent.mailSentAt || sent.finishedAt) - due);
     if (late > LATE_MIN) { status = "late-sent"; issues.push(`발송 시각보다 ${late}분 늦게 발송 (${hm(sent.mailSentAt)})`); }
-    if (errs.length) notes.push(`오류 ${errs.length}회 뒤 재실행으로 발송`);
+    if (sent.source === "pc-fallback") issues.push(`GitHub 실행이 실패해 PC 가 대신 발송 (${errs.at(-1)?.error ? String(errs.at(-1).error).slice(0, 120) : "원인은 GitHub 기록 확인"})`);
+    else if (errs.length) notes.push(`오류 ${errs.length}회 뒤 재실행으로 발송`);
     if (sent.feedErrors?.length) issues.push(`수집 경고 ${sent.feedErrors.length}건: ${sent.feedErrors.map((e) => String(e).slice(0, 120)).join(" / ")}`);
     if (avgFetched && sent.fetched != null && sent.fetched < avgFetched * 0.5) issues.push(`수집 건수 급감: ${sent.fetched}건 (최근 평균 ${Math.round(avgFetched)}건)`);
     if (!sent.picked) issues.push("메일에 실린 항목이 0건");
@@ -135,7 +136,9 @@ export async function runSupervisor(cfg, { log = console.log, now: nowArg } = {}
       results.push(inspect(a, runs, lastSent, now, active));
     }
     // 아직 끝나지 않은(실행 중이거나 발송 시각 + 20분 전) 에이전트가 있으면 잠시 기다렸다 다시 본다
-    const open = results.filter((r) => r.status === "working" || r.status === "waiting" && now - dueAt(r.agent, now) > -LATE_MIN * 60000);
+    // GitHub 에서 실패한 에이전트는 PC 가 발송 시각 + 15분쯤 대신 보내므로(local-fallback.js) 발송 시각 + 25분까지는 기다린다
+    const open = results.filter((r) => r.status === "working" || r.status === "waiting" && now - dueAt(r.agent, now) > -LATE_MIN * 60000
+      || r.status === "error" && now - dueAt(r.agent, now) < 25 * 60000);
     if (!open.length || nowArg || Date.now() + 60000 > deadline) break;
     if (round === 0) log(`waiting for: ${open.map((r) => r.agent.id).join(", ")}`);
     await sleep(60000);

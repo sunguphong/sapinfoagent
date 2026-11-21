@@ -140,6 +140,21 @@ function Invoke-Backstop {
 }
 try { Invoke-Backstop } catch { Log "브리핑 백업 실행 오류: $($_.Exception.Message)" }
 
+# 1.6) GitHub 발송이 실패하면 PC 가 대신 보낸다 (src/local-fallback.js)
+#  2026-11-21: GitHub 의 Claude 토큰 계정이 주간 한도에 걸려 전부 실패. 07:00~14:00 사이 5분마다, 발송 시각 + 15분이 지나도록
+#  ci-state 에 오늘 발송 표시가 없는 에이전트를 PC 의 Claude 로그인으로 실행해 보내고 기록을 ci-state 에 올린다.
+#  여러 개를 보내면 15분이 넘을 수 있어 기다리지 않고 따로 띄우며, 결과는 스크립트가 이 로그에 직접 남긴다.
+function Invoke-Fallback {
+  $now = Get-Date
+  if ($now.Hour -lt 7 -or $now.Hour -ge 14) { return }
+  $node = Find-Exe 'node' @("$env:ProgramFiles\nodejs")
+  $git = Find-Exe 'git' @("$env:ProgramFiles\Git\cmd")
+  if (-not $node -or -not $git) { Log 'PC 대신 발송 - node.exe 또는 git.exe 를 찾지 못함'; return }
+  $env:GIT_EXE = $git
+  Start-Process -WindowStyle Hidden -FilePath $node -ArgumentList "`"$Root\src\local-fallback.js`"" -WorkingDirectory $Root
+}
+try { Invoke-Fallback } catch { Log "PC 대신 발송 오류: $($_.Exception.Message)" }
+
 # ngrok 은 winget 이 아닌 이 폴더에 공식 zip 으로 설치해 쓴다.
 # (2026-10-20: 'ngrok update' 가 제자리 교체 도중 실패해 winget 의 ngrok.exe 를 지우고 .ngrok.exe.old 만 남겨 터널이 반나절 꺼졌다.
 #  그래서 update 는 쓰지 않고, 새 zip 을 임시 폴더에 받아 실행 확인이 된 경우에만 바꿔 넣는다.)
