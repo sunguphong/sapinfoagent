@@ -587,5 +587,26 @@
     ],
     "error": "수집된 기사가 없습니다",
     "finishedAt": "2026-11-20T22:21:47.429Z"
+  },
+  {
+    "id": "20261121001758",
+    "agent": "ces",
+    "startedAt": "2026-11-21T00:17:58.820Z",
+    "date": "2026-11-21",
+    "source": "manual",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121001758.log",
+    "base": "2026-11-21_20261121001758",
+    "fetched": 129,
+    "selected": 50,
+    "usedHours": 48,
+    "feedErrors": [],
+    "picked": 12,
+    "html": "2026-11-21_20261121001758.html",
+    "mailId": "<2fe0a46b-a97c-e0ed-f14d-11f4bfc69b57@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-21T00:18:52.348Z",
+    "finishedAt": "2026-11-21T00:18:52.348Z"
   }
 ]
