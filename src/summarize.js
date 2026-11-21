@@ -59,7 +59,8 @@ export function summarize(articles, promptConfig) {
     input, encoding: "utf8", shell: isWin, timeout: 20 * 60 * 1000, maxBuffer: 20 * 1024 * 1024,
   });
   if (r.error) throw r.error;
-  if (r.status !== 0) throw new Error(`claude exited ${r.status}: ${r.stderr}`);
+  // 인증 만료 등은 stderr 가 아니라 stdout 에 나오므로 둘 다 남긴다
+  if (r.status !== 0) throw new Error(`claude exited ${r.status}: ${(r.stderr || "").trim()} ${(r.stdout || "").trim().slice(0, 800)}`.trim());
   const data = extractJson(r.stdout);
   // index -> 원본 기사 연결
   for (const c of data.categories || []) {
