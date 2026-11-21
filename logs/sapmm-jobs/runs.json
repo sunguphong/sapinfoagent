@@ -699,5 +699,28 @@
     ],
     "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
     "finishedAt": "2026-11-21T21:52:04.316Z"
+  },
+  {
+    "id": "20261121221740",
+    "agent": "sapmm-jobs",
+    "startedAt": "2026-11-21T22:17:41.224Z",
+    "date": "2026-11-22",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121221740.log",
+    "base": "2026-11-22_20261121221740",
+    "fetched": 207,
+    "selected": 120,
+    "usedHours": 336,
+    "feedErrors": [
+      "LinkedIn: HTTP 429"
+    ],
+    "picked": 11,
+    "html": "2026-11-22_20261121221740.html",
+    "mailId": "<a487b797-fabc-1658-c698-ad6a55230a74@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-21T22:18:46.077Z",
+    "finishedAt": "2026-11-21T22:18:46.077Z"
   }
 ]
