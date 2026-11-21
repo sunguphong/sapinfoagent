@@ -668,5 +668,28 @@
     "feedErrors": [],
     "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
     "finishedAt": "2026-11-21T21:46:38.728Z"
+  },
+  {
+    "id": "20261121221109",
+    "agent": "sap",
+    "startedAt": "2026-11-21T22:11:11.263Z",
+    "date": "2026-11-22",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121221109.log",
+    "base": "2026-11-22_20261121221109",
+    "fetched": 97,
+    "selected": 30,
+    "usedHours": 24,
+    "feedErrors": [
+      "Google News (KR): Status code 429"
+    ],
+    "picked": 17,
+    "html": "2026-11-22_20261121221109.html",
+    "mailId": "<f743821c-52cd-1f65-cb6a-744442961c24@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-21T22:12:07.623Z",
+    "finishedAt": "2026-11-21T22:12:07.623Z"
   }
 ]
