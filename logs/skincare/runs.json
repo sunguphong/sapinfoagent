@@ -668,5 +668,29 @@
     "feedErrors": [],
     "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
     "finishedAt": "2026-11-21T22:51:37.308Z"
+  },
+  {
+    "id": "20261121231614",
+    "agent": "skincare",
+    "startedAt": "2026-11-21T23:16:15.115Z",
+    "date": "2026-11-22",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261121231614.log",
+    "base": "2026-11-22_20261121231614",
+    "fetched": 156,
+    "selected": 9,
+    "usedHours": 24,
+    "feedErrors": [
+      "Google News (동탄 피부관리실·뷰티): Status code 429",
+      "Google News EN (Beauty Trends): Status code 429"
+    ],
+    "picked": 6,
+    "html": "2026-11-22_20261121231614.html",
+    "mailId": "<3c002fd9-cc18-c8fb-b432-f1ea4d7ae27c@gmail.com>",
+    "mailTo": "zheng0107@daum.net",
+    "mailSentAt": "2026-11-21T23:16:59.480Z",
+    "finishedAt": "2026-11-21T23:16:59.480Z"
   }
 ]
