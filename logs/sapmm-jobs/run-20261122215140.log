@@ -1,0 +1,12 @@
+2026-11-22T21:51:41.271Z run 20261122215140 start (agent=sapmm-jobs "SAP MM 구인정보", source=github, mode=send)
+2026-11-22T21:51:41.271Z collecting from 9 feeds...
+2026-11-22T21:51:44.307Z fetched 205, selected 120 (last 336h), feed errors: 1
+2026-11-22T21:51:44.308Z feed error: LinkedIn: HTTP 429
+2026-11-22T21:52:09.743Z company info: 10 / 24 companies
+2026-11-22T21:52:09.746Z job history: 294 postings, 33 cards with repeat company
+2026-11-22T21:52:09.748Z new: 10 / 120
+2026-11-22T21:52:09.748Z summarizing with claude (opus)...
+2026-11-22T21:52:12.512Z ERROR Error: claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:63:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
