@@ -1,0 +1,8 @@
+2026-11-22T22:51:30.616Z run 20261122225130 start (agent=skincare "피부미용 트렌드 브리핑", source=github, mode=send)
+2026-11-22T22:51:30.617Z collecting from 5 feeds...
+2026-11-22T22:51:31.062Z fetched 145, selected 32 (last 24h), feed errors: 0
+2026-11-22T22:51:31.063Z summarizing with claude (opus)...
+2026-11-22T22:51:34.258Z ERROR Error: claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:63:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
