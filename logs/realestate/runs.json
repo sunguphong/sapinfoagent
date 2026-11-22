@@ -712,5 +712,22 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-21T22:17:36.970Z",
     "finishedAt": "2026-11-21T22:17:36.970Z"
+  },
+  {
+    "id": "20261122215131",
+    "agent": "realestate",
+    "startedAt": "2026-11-22T21:51:31.246Z",
+    "date": "2026-11-23",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261122215131.log",
+    "base": "2026-11-23_20261122215131",
+    "fetched": 241,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [],
+    "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
+    "finishedAt": "2026-11-22T21:51:36.829Z"
   }
 ]

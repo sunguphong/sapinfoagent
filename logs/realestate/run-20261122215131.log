@@ -1,0 +1,8 @@
+2026-11-22T21:51:31.271Z run 20261122215131 start (agent=realestate "부동산 브리핑", source=github, mode=send)
+2026-11-22T21:51:31.271Z collecting from 8 feeds...
+2026-11-22T21:51:33.727Z fetched 241, selected 45 (last 24h), feed errors: 0
+2026-11-22T21:51:33.728Z summarizing with claude (opus)...
+2026-11-22T21:51:36.828Z ERROR Error: claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:63:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
