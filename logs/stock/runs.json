@@ -611,5 +611,28 @@
     ],
     "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
     "finishedAt": "2026-11-22T21:51:41.974Z"
+  },
+  {
+    "id": "20261122221726",
+    "agent": "stock",
+    "startedAt": "2026-11-22T22:17:26.927Z",
+    "date": "2026-11-23",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261122221726.log",
+    "base": "2026-11-23_20261122221726",
+    "fetched": 273,
+    "selected": 50,
+    "usedHours": 24,
+    "feedErrors": [
+      "Yahoo Finance: Status code 404"
+    ],
+    "picked": 15,
+    "html": "2026-11-23_20261122221726.html",
+    "mailId": "<fcf9d01e-d96c-d9d9-96f0-d38861363925@gmail.com>, <eea43065-cd12-b111-ff44-3c921784a857@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-22T22:18:47.010Z",
+    "finishedAt": "2026-11-22T22:18:47.010Z"
   }
 ]
