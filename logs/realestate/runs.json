@@ -729,5 +729,26 @@
     "feedErrors": [],
     "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
     "finishedAt": "2026-11-22T21:51:36.829Z"
+  },
+  {
+    "id": "20261122221611",
+    "agent": "realestate",
+    "startedAt": "2026-11-22T22:16:12.374Z",
+    "date": "2026-11-23",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261122221611.log",
+    "base": "2026-11-23_20261122221611",
+    "fetched": 215,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 19,
+    "html": "2026-11-23_20261122221611.html",
+    "mailId": "<f40f2ddb-6f2c-ce36-0cef-5b20c23283a3@gmail.com>, <86748289-d7f4-2698-9a31-6f65fdb545ab@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-22T22:17:22.547Z",
+    "finishedAt": "2026-11-22T22:17:22.547Z"
   }
 ]
