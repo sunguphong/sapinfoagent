@@ -1,0 +1,8 @@
+2026-11-22T21:51:37.099Z run 20261122215136 start (agent=smallbiz "소상공인 지원 브리핑", source=github, mode=send)
+2026-11-22T21:51:37.100Z collecting from 14 feeds...
+2026-11-22T21:51:43.497Z fetched 331, selected 60 (last 24h), feed errors: 0
+2026-11-22T21:51:43.498Z summarizing with claude (opus)...
+2026-11-22T21:51:46.750Z ERROR Error: claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:63:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
