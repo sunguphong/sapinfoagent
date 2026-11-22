@@ -592,5 +592,24 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-21T00:15:32.477Z",
     "finishedAt": "2026-11-21T00:15:32.477Z"
+  },
+  {
+    "id": "20261122215138",
+    "agent": "stock",
+    "startedAt": "2026-11-22T21:51:38.641Z",
+    "date": "2026-11-23",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261122215138.log",
+    "base": "2026-11-23_20261122215138",
+    "fetched": 273,
+    "selected": 50,
+    "usedHours": 24,
+    "feedErrors": [
+      "Yahoo Finance: Status code 404"
+    ],
+    "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
+    "finishedAt": "2026-11-22T21:51:41.974Z"
   }
 ]

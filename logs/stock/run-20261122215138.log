@@ -1,0 +1,9 @@
+2026-11-22T21:51:38.827Z run 20261122215138 start (agent=stock "증시 브리핑", source=github, mode=send)
+2026-11-22T21:51:38.828Z collecting from 9 feeds...
+2026-11-22T21:51:39.242Z fetched 273, selected 50 (last 24h), feed errors: 1
+2026-11-22T21:51:39.242Z feed error: Yahoo Finance: Status code 404
+2026-11-22T21:51:39.243Z summarizing with claude (opus)...
+2026-11-22T21:51:41.973Z ERROR Error: claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:63:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
