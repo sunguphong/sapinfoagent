@@ -646,5 +646,22 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-21T22:47:38.981Z",
     "finishedAt": "2026-11-21T22:47:38.982Z"
+  },
+  {
+    "id": "20261122222132",
+    "agent": "ces",
+    "startedAt": "2026-11-22T22:21:32.815Z",
+    "date": "2026-11-23",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261122222132.log",
+    "base": "2026-11-23_20261122222132",
+    "fetched": 106,
+    "selected": 50,
+    "usedHours": 48,
+    "feedErrors": [],
+    "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
+    "finishedAt": "2026-11-22T22:21:37.361Z"
   }
 ]
