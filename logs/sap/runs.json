@@ -729,5 +729,22 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-22T22:12:15.286Z",
     "finishedAt": "2026-11-22T22:12:15.286Z"
+  },
+  {
+    "id": "20261123214628",
+    "agent": "sap",
+    "startedAt": "2026-11-23T21:46:28.600Z",
+    "date": "2026-11-24",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261123214628.log",
+    "base": "2026-11-24_20261123214628",
+    "fetched": 97,
+    "selected": 40,
+    "usedHours": 24,
+    "feedErrors": [],
+    "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
+    "finishedAt": "2026-11-23T21:46:32.343Z"
   }
 ]

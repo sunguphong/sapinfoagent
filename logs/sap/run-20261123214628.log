@@ -1,0 +1,8 @@
+2026-11-23T21:46:28.621Z run 20261123214628 start (agent=sap "SAP 브리핑", source=github, mode=send)
+2026-11-23T21:46:28.622Z collecting from 7 feeds...
+2026-11-23T21:46:29.650Z fetched 97, selected 40 (last 24h), feed errors: 0
+2026-11-23T21:46:29.651Z summarizing with claude (opus)...
+2026-11-23T21:46:32.342Z ERROR Error: claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:63:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
