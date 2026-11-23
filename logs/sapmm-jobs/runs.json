@@ -762,5 +762,22 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-22T22:20:22.087Z",
     "finishedAt": "2026-11-22T22:20:22.087Z"
+  },
+  {
+    "id": "20261123215140",
+    "agent": "sapmm-jobs",
+    "startedAt": "2026-11-23T21:51:40.722Z",
+    "date": "2026-11-24",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261123215140.log",
+    "base": "2026-11-24_20261123215140",
+    "fetched": 215,
+    "selected": 120,
+    "usedHours": 336,
+    "feedErrors": [],
+    "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
+    "finishedAt": "2026-11-23T21:52:19.620Z"
   }
 ]
