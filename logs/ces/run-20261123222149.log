@@ -1,0 +1,8 @@
+2026-11-23T22:21:49.639Z run 20261123222149 start (agent=ces "CES 브리핑", source=github, mode=send)
+2026-11-23T22:21:49.640Z collecting from 5 feeds...
+2026-11-23T22:21:50.610Z fetched 112, selected 50 (last 48h), feed errors: 0
+2026-11-23T22:21:50.611Z summarizing with claude (opus)...
+2026-11-23T22:21:53.829Z ERROR Error: claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token
+    at summarize (file:///home/runner/work/sapinfoagent/sapinfoagent/src/summarize.js:63:29)
+    at main (file:///home/runner/work/sapinfoagent/sapinfoagent/src/index.js:113:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
