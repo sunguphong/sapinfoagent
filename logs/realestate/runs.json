@@ -750,5 +750,24 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-22T22:17:22.547Z",
     "finishedAt": "2026-11-22T22:17:22.547Z"
+  },
+  {
+    "id": "20261123215130",
+    "agent": "realestate",
+    "startedAt": "2026-11-23T21:51:30.468Z",
+    "date": "2026-11-24",
+    "source": "github",
+    "mode": "send",
+    "status": "error",
+    "log": "run-20261123215130.log",
+    "base": "2026-11-24_20261123215130",
+    "fetched": 315,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [
+      "Google News 동탄 트램: Status code 429"
+    ],
+    "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
+    "finishedAt": "2026-11-23T21:51:34.327Z"
   }
 ]
