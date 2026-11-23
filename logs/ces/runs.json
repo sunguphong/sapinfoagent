@@ -701,5 +701,26 @@
     "feedErrors": [],
     "error": "claude exited 1:  Failed to authenticate. API Error: 401 Invalid bearer token",
     "finishedAt": "2026-11-23T22:21:53.830Z"
+  },
+  {
+    "id": "20261123224616",
+    "agent": "ces",
+    "startedAt": "2026-11-23T22:46:17.444Z",
+    "date": "2026-11-24",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261123224616.log",
+    "base": "2026-11-24_20261123224616",
+    "fetched": 116,
+    "selected": 50,
+    "usedHours": 48,
+    "feedErrors": [],
+    "picked": 12,
+    "html": "2026-11-24_20261123224616.html",
+    "mailId": "<fd620de6-1256-1537-78f8-7cd984f2c958@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-23T22:47:20.951Z",
+    "finishedAt": "2026-11-23T22:47:20.951Z"
   }
 ]
