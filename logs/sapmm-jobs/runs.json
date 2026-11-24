@@ -821,5 +821,26 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-24T23:21:28.189Z",
     "finishedAt": "2026-11-24T23:21:28.189Z"
+  },
+  {
+    "id": "20261124232453",
+    "agent": "sapmm-jobs",
+    "startedAt": "2026-11-24T23:24:53.929Z",
+    "date": "2026-11-25",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261124232453.log",
+    "base": "2026-11-25_20261124232453",
+    "fetched": 244,
+    "selected": 120,
+    "usedHours": 336,
+    "feedErrors": [],
+    "picked": 11,
+    "html": "2026-11-25_20261124232453.html",
+    "mailId": "<bd72e390-991d-fb20-db56-85fd2baa0cc1@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-24T23:28:22.779Z",
+    "finishedAt": "2026-11-24T23:28:22.779Z"
   }
 ]
