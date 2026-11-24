@@ -714,5 +714,34 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-23T22:21:39.632Z",
     "finishedAt": "2026-11-23T22:21:39.632Z"
+  },
+  {
+    "id": "20261124232015",
+    "agent": "smallbiz",
+    "startedAt": "2026-11-24T23:20:15.092Z",
+    "date": "2026-11-25",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261124232015.log",
+    "base": "2026-11-25_20261124232015",
+    "fetched": 144,
+    "selected": 13,
+    "usedHours": 24,
+    "feedErrors": [
+      "Google News 화성시·동탄 소상공인 (KR): Status code 503",
+      "Google News 경기도·경기신보 소상공인 (KR): Status code 503",
+      "Google News 피부관리·미용업 정책 (KR): Status code 503",
+      "Google News 소상공인 지원사업 신청·공고 (KR): Status code 503",
+      "Google News 소진공·중기부 (KR): Status code 503",
+      "Google News 소상공인 정책자금·지원금 (KR): Status code 503",
+      "Google News 자영업자 대책 (KR): Status code 503"
+    ],
+    "picked": 5,
+    "html": "2026-11-25_20261124232015.html",
+    "mailId": "<08959e81-81bc-ea98-d032-3daf054ef46e@gmail.com>, <ff455e5c-2932-2640-837e-000ed093bf24@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-24T23:20:46.215Z",
+    "finishedAt": "2026-11-24T23:20:46.216Z"
   }
 ]
