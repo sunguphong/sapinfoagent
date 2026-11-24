@@ -6,6 +6,14 @@ import path from "node:path";
 import { sendMail } from "./mail.js";
 
 const [agent = "unknown", runUrl = ""] = process.argv.slice(2);
+
+// 브리핑 에이전트의 실패는 따로 알리지 않는다: PC 가 발송 시각 + 15분쯤 대신 보내고(local-fallback.js),
+// 실패 원인과 대신 발송 여부는 08:00 총괄 에이전트 보고에 나온다. 에이전트마다 매일 오던 중복 알림을 막기 위함 (2026-11-24).
+// 총괄 에이전트 자신이 실패하면 보고가 없으므로 그때만 알린다.
+if (agent !== "supervisor") {
+  console.log(`${agent} 실패 알림 생략 - PC 대신 발송(local-fallback)과 총괄 보고가 맡음`);
+  process.exit(0);
+}
 const esc = (s) => String(s).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
 
 function lastLogLines(n = 40) {
