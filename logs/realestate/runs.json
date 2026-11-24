@@ -790,5 +790,26 @@
     "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
     "mailSentAt": "2026-11-23T22:17:29.194Z",
     "finishedAt": "2026-11-23T22:17:29.194Z"
+  },
+  {
+    "id": "20261124232002",
+    "agent": "realestate",
+    "startedAt": "2026-11-24T23:20:02.383Z",
+    "date": "2026-11-25",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261124232002.log",
+    "base": "2026-11-25_20261124232002",
+    "fetched": 408,
+    "selected": 45,
+    "usedHours": 24,
+    "feedErrors": [],
+    "picked": 21,
+    "html": "2026-11-25_20261124232002.html",
+    "mailId": "<0a57965e-d14e-fde1-20df-0ba1d2571926@gmail.com>, <d4e7c547-2ead-cca3-9113-d0c35ac7bb1c@gmail.com>",
+    "mailTo": "upsan77@gmail.com,zheng0107@daum.net",
+    "mailSentAt": "2026-11-24T23:21:01.297Z",
+    "finishedAt": "2026-11-24T23:21:01.297Z"
   }
 ]
