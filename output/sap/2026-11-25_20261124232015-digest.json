@@ -1,0 +1,264 @@
+{
+  "overview": "SAP가 Joule Work를 Microsoft Work IQ·Copilot Studio·Fabric과 연동하고 Joule·Joule Studio를 재출시하면서, BTP 기반 커스텀 에이전트의 전환 경로와 개발 방식 변화가 주요 화두로 떠올랐습니다. 한편 새 AI 이용 약관과 Joule 2.0 온프레미스 제공 조건이 클라우드 약정과 연계되면서 중소 온프레미스 고객의 비용 부담 우려가 커지고 있습니다. ABAP 환경 2611 릴리스, AP/AR 클리어링 에이전트, Business Data Cloud 데이터 거버넌스 등 실무 기능 업데이트도 이어졌습니다. Mercedes-AMG Petronas와 Takeda의 S/4HANA 전환, RHONDOS의 PowerConnect 인수 등 고객·생태계 소식도 나왔습니다.",
+  "categories": [
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "SAP, Joule Work를 Microsoft Work IQ·Copilot Studio·Fabric과 연결",
+          "summary": "SAP가 업무용 AI 어시스턴트 Joule Work를 Microsoft의 Work IQ, Copilot Studio, Fabric과 연동한다고 발표했습니다. 이에 따라 SAP와 Microsoft 업무 환경을 넘나드는 AI 에이전트 협업이 확대될 전망입니다.",
+          "why": "Microsoft 365와 SAP를 함께 쓰는 고객사에서 AI 에이전트 연계 시나리오를 설계할 때 직접 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP Connects Joule Work to Microsoft Work IQ, Copilot Studio, and Fabric - ERP Today",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWJrR1JmOWYyWHZhNVk3V2x6cWpFVDRLU2JpUXp6cE5MZ0VzbTYwSW1uSmtLMHo1ZHR3ZGRoWUFaMXBMSnRJcWhuRG5MV3o0VGd6dE5IcnhnazVDT0Y5bWRNb2pmQUh0Yi13bjlJUk9UZmx2TWNCQ1dKLWhzM20yUFFsZG15YlpYaVVQcnpjRnJxa1k?oc=5",
+            "published": "2026-11-24T15:24:01.000Z",
+            "snippet": "SAP Connects Joule Work to Microsoft Work IQ, Copilot Studio, and Fabric ERP Today"
+          }
+        },
+        {
+          "index": 8,
+          "title_ko": "Joule A2A: 고객 관리형에서 SAP 관리형으로 – BTP 코드 기반 에이전트의 선택지",
+          "summary": "그동안 많은 고객이 BTP에서 직접 개발한 프로코드 에이전트를 고객 관리형 Joule에 연결해 왔습니다. Joule과 Joule Studio가 재출시되면서, 이 글은 Business AI 플랫폼이라는 새 환경에서 BTP 기반 커스텀 에이전트를 어떻게 이어갈 수 있는지 경로별로 설명합니다.",
+          "why": "이미 커스텀 Joule 에이전트를 운영 중인 프로젝트라면 마이그레이션 계획을 세우는 데 필요한 내용입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Joule A2A: From Customer-Managed to SAP-Managed - Options for BTP Code-Based Agents",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/joule-a2a-from-customer-managed-to-sap-managed-options-for-btp-code-based/ba-p/14522137",
+            "published": "2026-11-24T12:31:14.000Z",
+            "snippet": "Many customers used the option to connect custom-built pro-code agents on BTP to (Customer-Managed) Joule. Now, with the re-launch of Joule and Joule Studio, there are a few things to consider moving forward. In this blog post I describe the paths forward for custom-built, BTP-based agents in the new landscape of the Business AI platform.For the bigger picture, everything here sits within the fram"
+          }
+        },
+        {
+          "index": 3,
+          "title_ko": "SAP AI Core 기반으로 Business Application Studio에 OpenCode 설정하기",
+          "summary": "SAP AI Core를 LLM 백엔드로 삼아 Business Application Studio에 코딩 에이전트 OpenCode를 구성하는 방법을 소개합니다. 로컬 설치 없이 BTP 구성 요소만으로 코딩 에이전트를 쓸 수 있고, VS Code에서도 같은 방식으로 동작합니다.",
+          "why": "사내 보안 정책 때문에 외부 LLM 사용이 제한된 환경에서도 BTP 안에서 AI 코딩 도구를 도입할 수 있는 실용적인 방법입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Setting up OpenCode in Business Application Studio with SAP AI Core",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/setting-up-opencode-in-business-application-studio-with-sap-ai-core/ba-p/14529067",
+            "published": "2026-11-24T18:56:13.000Z",
+            "snippet": "Today we are looking at a quick setup of OpenCode in Business Application Studio, using SAP AI Core as the backbone for LLMs. This is useful if you want a coding agent fully enabled by BTP components — without any local installation on your machine. In general this also works in VS Code.PrerequisitesBusiness Application StudioSAP AI Core instance + AI Core service keyResource Group exists in AI Co"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "SAP Business Data Cloud에서 데이터 프로덕트 거버넌스하기",
+          "summary": "데이터를 관리·공유 가능한 '프로덕트'로 다루는 추세에 맞춰, SAP Business Data Cloud(BDC)가 접근 권한·이용 조건·책임 소재를 관리하는 구조화된 거버넌스 모델을 설명합니다. 데이터 소비자의 셀프서비스 탐색과 통제를 균형 있게 유지하는 방법을 다룹니다.",
+          "why": "BDC 도입을 검토하거나 데이터 프로덕트 체계를 설계하는 컨설턴트에게 권한·거버넌스 설계의 기준을 제공합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Governing Data Products in SAP Business Data Cloud",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/governing-data-products-in-sap-business-data-cloud/ba-p/14529131",
+            "published": "2026-11-24T22:43:55.000Z",
+            "snippet": "Governing Data Products in SAP Business Data CloudIntroductionAs organisations move toward treating data as a managed, shareable product, the question of who can access what data, under what conditions, and with what accountability becomes central. SAP Business Data Cloud (BDC) addresses this through a structured governance model: one that balances self-service discovery for data consumers with co"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "SAP Business AI Platform ABAP 환경 – 릴리스 2611",
+          "summary": "릴리스 2611이 11월 14일 정식 출시되어 2608을 대체했습니다. VS Code용 ABAP Development Tools(ADT)에서 지원하는 오브젝트 유형이 늘어나는 등 플랫폼 전반의 주요 기능 개선이 포함됐습니다.",
+          "why": "클라우드 ABAP 개발자는 새 ADT 지원 범위와 변경 사항을 확인해 개발 환경과 표준을 정비해야 합니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Business AI Platform, ABAP environment - Release 2611",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-business-ai-platform-abap-environment-release-2611/ba-p/14523181",
+            "published": "2026-11-24T09:27:53.000Z",
+            "snippet": "SAP Business AI Platform, ABAP environment - Release 2611Release 2611 became generally available on November 14, succeeding release 2608. This post provides a focused overview of the features and enhancements delivered with this release, covering the most significant additions across the platform. Highlights include the support for additional object types in ABAP Development Tools (ADT) for VS Cod"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "매입·매출채권 클리어링 에이전트 출시",
+          "summary": "F.13 자동 정산이나 은행 거래내역 기반 자동 매칭으로 처리되지 않는 미결 항목을 AI 에이전트가 정리하도록 돕는 'Receivables and Payables Clearing Agent'를 소개합니다. 결산 과정에서 반복적이고 시간이 많이 드는 미결 항목 정리 작업의 부담을 줄이는 것이 목표입니다.",
+          "why": "FI 컨설턴트에게 결산 자동화 범위를 넓힐 수 있는 실질적인 AI 활용 사례입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Introducing the Receivables and Payables Clearing Agent",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/introducing-the-receivables-and-payables-clearing-agent/ba-p/14528712",
+            "published": "2026-11-24T10:01:48.000Z",
+            "snippet": "For accounts payable and receivable accountants, clearing open items is one of the most routine yet time-consuming tasks in the financial close process. While we already provides powerful automated clearing function— such as Clear Open Items Automatically (F.13) application and bank statement-driven automatic matching — a significant portion of open items still falls outside the reach of these aut"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "SAP Fiori 개발 뉴스레터 44호 (2026년 12월)",
+          "summary": "SAP TechEd와 ASUG Tech Connect에서 발표된 AI 기반 앱 개발 방식을 정리했으며, 바이브 코딩으로 개발 속도가 빨라지는 한편 운영 수준의 품질을 확보하려면 개발자의 코드 검증이 여전히 중요하다고 강조합니다. Walldorf에서 열리는 제3회 SAP Connect Day for UX에서도 관련 주제를 이어서 다룰 예정입니다.",
+          "why": "Fiori/UI5 개발자가 AI 보조 개발 동향과 향후 UX 로드맵을 한 번에 파악할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Fiori Development Newsletter issue #44 (December 2026)",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-fiori-development-newsletter-issue-44-december-2026/ba-p/14526542",
+            "published": "2026-11-24T15:16:50.000Z",
+            "snippet": "SAP TechEd and ASUG Tech Connect had many announcements on new ways to build apps using AI assistance. Vibe coding accelerated application development in multiple hands-on sessions, but we also saw the value of developers to check the code and make sure it is production worthy. We’ll follow up on several of the topics in our third annual SAP Connect Day for UX in Walldorf, including two hands-on w"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "매월 발행·공제·신고를 아직도 수작업으로? SAP의 중국 부가세 전자세금계산서 관리",
+          "summary": "중국 금세(金稅) 4기 시행과 전면 디지털 전자세금계산서(FDEI)의 전국 확대로 부가세 관리가 구매·판매·재무·신고 전 과정의 핵심 컴플라이언스 과제가 됐습니다. SAP S/4HANA Cloud가 매입·매출 양방향 세금계산서 관리를 지원하는 솔루션 전반을 소개합니다.",
+          "why": "중국 법인을 둔 국내 고객사 프로젝트에서 현지 세무 요건을 반영하는 데 직접 참고할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Still struggling with manual monthly invoicing, deductions, and declarations?",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/still-struggling-with-manual-monthly-invoicing-deductions-and-declarations/ba-p/14528574",
+            "published": "2026-11-24T08:26:01.000Z",
+            "snippet": "As China's Golden Tax System Phase 4 is implemented and the Fully Digitalized E-Invoice (FDEI) is rolled out nationwide, Value-Added Tax (VAT) is no longer just about a piece of paper—it has become a core compliance mandate that runs through the entire enterprise process of procurement, sales, finance, and tax filing.However, in reality, many companies' invoice management processes are still stuck"
+          }
+        }
+      ]
+    },
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 32,
+          "title_ko": "SAP의 AI 이용 약관, 소규모 온프레미스 고객 소외 우려",
+          "summary": "SAP의 새 AI 접근 규정 때문에 소규모 온프레미스 고객이 AI 기능을 쓰려면 비용 부담이 크게 늘 수 있다는 지적이 나왔습니다. 여러 매체가 중소기업의 비용 우려를 함께 보도했습니다.",
+          "why": "온프레미스 ECC·S/4HANA 고객에게 AI 도입 비용과 클라우드 전환 시점을 조언할 때 반드시 고려해야 할 변수입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP AI Terms Could Shut Smaller On-prem Customers Out - Dataconomy",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWXFEZGEwQ1lpYjFkT0JvSUR5ZXdhRHFSMGpjU0JFd09RYkxJQ3ZmZ0ZzZjFoWWYtZ0ZzaDd6N3hDZndhVjRqS1RUUi1iRVBoTnBqekEyRW12N2lqMTVxX1ZtVkhYN0xWcGZraW1YaWtZak51RXlsTGhGendabkZyZVBBLVNwRVpNOU8tUlpPQVg0UQ?oc=5",
+            "published": "2026-11-19T08:09:34.000Z",
+            "snippet": "SAP AI Terms Could Shut Smaller On-prem Customers Out Dataconomy"
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "SAP, Joule 2.0 온프레미스 제공을 클라우드 약정과 연계",
+          "summary": "SAP가 Joule 2.0을 온프레미스 환경에서 쓰려면 클라우드 약정이 필요하도록 조건을 묶었다는 보도입니다. AI 기능 확보를 클라우드 전환 유인으로 활용하는 SAP의 전략이 더욱 분명해졌습니다.",
+          "why": "RISE·GROW 계약 협상과 라이선스 전략을 짤 때 AI 이용 조건을 함께 검토해야 합니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Ties Joule 2.0 On-Premises to Cloud Commitment - Brief IA",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnRXZGNVci1IQWl0SGRfZWJXOEE5OFZuSTJDWU04UE9rWHp0WHg4Q2dwQ0t4cGxHSmJkTlVTc2JpV1otYnJMQlNYRVh1UWhjVldwNTRzY2s3MUNEOWZmcUlNM2UxbS04ano0MndKUGg2UVRpdjZKS2FjSUZnTEpMOFJyU1FVMVhyTGNVSA?oc=5",
+            "published": "2026-11-18T11:34:57.000Z",
+            "snippet": "SAP Ties Joule 2.0 On-Premises to Cloud Commitment Brief IA"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "SAP, 파트너 평가 기준 강화…CFO는 AI 매출 지표 준비",
+          "summary": "SAP가 파트너에 대한 성과 기준을 강화하고, 재무 총괄은 AI 관련 매출을 측정할 새 지표를 준비하고 있다고 보도됐습니다.",
+          "why": "SAP 파트너사에 소속된 컨설턴트라면 인증·실적 요건 변화와 AI 솔루션 판매 압박이 커질 것을 예상해야 합니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "SAP Tightens Partner Benchmarks as Finance Chief Prepares an AI Revenue Gauge - ad-hoc-news.de",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNHotbHU4b2JBRWF6NVRaaVBKMHVnQkhVbkJDellmQlVKd1lXRmVUNlZPNWNleWtfWkpocDdtZy1oTzJZcHBzc29CcG54VHBXNWZ5c05nLWZWZlJ5YlJadmNpTkkya1RpRjlpaTZseDBXVTBmLTRkbFluRWdsQm0wXzdVUzFvUGh3TXl2RnI1b25LR1JNTzFaZnVHc0NvZ0FSaFJ5dHZ4djFlcmVmbFJqbmtVZGtfQVNNU0xyeldCSUlWZFY0QkdiZjZXWkhOYXZRZDZtTy01d19vMHlVTHNuSjBZZw?oc=5",
+            "published": "2026-11-24T09:21:31.000Z",
+            "snippet": "SAP Tightens Partner Benchmarks as Finance Chief Prepares an AI Revenue Gauge ad-hoc-news.de"
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "RHONDOS, PowerConnect for SAP 솔루션 인수 완료",
+          "summary": "RHONDOS가 SAP 시스템의 모니터링·관측 데이터를 외부 분석 플랫폼으로 연결하는 PowerConnect for SAP 솔루션 인수를 마무리했습니다.",
+          "why": "SAP Basis·운영 모니터링 도구 생태계의 재편 동향을 보여 줍니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "RHONDOS Completes Acquisition of PowerConnect for SAP® Solutions - The Manila Times",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHRBcFBaa01jaGNDMVdHd2VDd1MxcVhSamJhb2NPNnpqNnVHcHJLN25BZmN4eGNpUGR4SHRnSjA0NEVrY2dDYXJOcGE2amRTY1RGSUtTU3ptbW1RbVByNDFDWlI5b1RMa3JxY3FlUFE0dXdiWGRnZFUzOVl6OHdjdWUteEhQMEdYbUpPc1puV3VEYnpmVTNTY0xkY01BYUd4bTZ4SUNobFdNdk9wUk5Yb3Y2bVpLblY2dmF3M2EyMS1lNkZUTnhfQ2tMUGVseHY3cDAydEFRQkHSAdgBQVVfeXFMT1h0QXBQWmtNY2hjQzFXR3dlQ3dTMXFYUmpiYW9jTzZ6ajZ1R3BySzduQWZjeHhjaVBkeEh0Z0owNDRFa2NnQ2FyTnBhNmpkU2NURklLU1N6bW1tUW1QcjQxQ1pSOW9UTGtycWNxZVBRNHV3YlhkZ2RVMzlZejh3Y3VlLXhIUDBHWG1KT3Nabld1RGJ6ZlUzU2NMZGNNQWFHeG02eElDaGxXTXZPcFJOWG92Nm1aS25WNnZhdzNhMjEtZTZGVE54X0NrTFBlbHh2N3AwMnRBUUJB?oc=5",
+            "published": "2026-11-24T18:11:34.000Z",
+            "snippet": "RHONDOS Completes Acquisition of PowerConnect for SAP® Solutions The Manila Times"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "PT Pan Brothers, Rimini Street 지원으로 SAP 운영 안정화하며 스마트 제조 추진",
+          "summary": "인도네시아 의류 제조사 PT Pan Brothers Tbk가 Rimini Street의 제3자 지원을 통해 SAP 운영의 안정성을 높이고 스마트 제조를 추진하고 있습니다.",
+          "why": "SAP 공식 유지보수 대신 제3자 지원을 택하는 아시아 제조업 사례로, 고객의 유지보수 전략 논의에 참고가 됩니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "PT Pan Brothers Tbk Advances Smart Manufacturing with More Resilient SAP Operations from Rimini Street - Medianet News Hub",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWktxMWhreURhMi1HekkxMHZ0Q2RXN0VVSTdyZnJBMnJPc1VkN2JlRlB4ZzBDOWxLV3lwZUtHb1VjczJ0NnlacGRxcC1PMDhKOWFZNUszRzFHank0MmpZck5FeWhYbkdsOUFpak8tZXJhZHRZTnVZOUpwUWVIUjlkT042d1U5UFphdG5sWXBLbVhnMG95Ri1lZnNpaVRFR0V1WWt1bmQ5OEEycTNLcXAxa3BfMzkyNFFTOThBcjdHZHB1aDI2WGFvejZvTl9EUHNQUVVYZVV6MDYwMmdCMzVnalNQZjY?oc=5",
+            "published": "2026-11-24T21:51:01.000Z",
+            "snippet": "PT Pan Brothers Tbk Advances Smart Manufacturing with More Resilient SAP Operations from Rimini Street Medianet News Hub"
+          }
+        }
+      ]
+    },
+    {
+      "name": "고객 사례",
+      "items": [
+        {
+          "index": 4,
+          "title_ko": "Mercedes-AMG Petronas, RISE with SAP로 SAP S/4HANA 2025 전환",
+          "summary": "F1 팀 Mercedes-AMG Petronas가 RISE with SAP를 통해 ERP를 최신 버전인 SAP S/4HANA 2025로 이전했습니다.",
+          "why": "최신 S/4HANA 2025 릴리스를 RISE로 도입한 대표 사례로, 고객 제안 시 레퍼런스로 활용할 수 있습니다.",
+          "article": {
+            "source": "Google News (EN)",
+            "title": "Mercedes-AMG Petronas migrates its ERP to SAP S/4HANA 2025 with RISE - Foro3D",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2dVTWZuNFBqMmszNTRWNFpxVmdlR2dJa2tJQldnUEpVMzE4aGRPc3RCVVRVYVA5a1UwRGNuTVBfcDJCUXVSOG4zVl9qU2paTWdrdW9xdlNuZDk5elhncm9ieVFCU1M3MktacUNKaWU0SC05ZzdiSlJPSUdBTUFfNmtFWXlsMDJCT1U1a1UySGZRNjlOVnVDbGxNZzdraDBvbzF5c2d3?oc=5",
+            "published": "2026-11-24T18:46:59.000Z",
+            "snippet": "Mercedes-AMG Petronas migrates its ERP to SAP S/4HANA 2025 with RISE Foro3D"
+          }
+        },
+        {
+          "index": 27,
+          "title_ko": "Takeda, 디지털 전환을 위해 SAP S/4HANA 도입",
+          "summary": "글로벌 제약사 Takeda가 디지털 전환을 뒷받침하기 위해 SAP S/4HANA를 도입한다고 SAP News Center가 전했습니다.",
+          "why": "규제가 엄격한 제약 산업의 대형 S/4HANA 전환 사례로, 국내 제약·바이오 프로젝트에 참고가 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Takeda Turns to SAP S/4HANA to Support Digital Transformation - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmxzdFh2ME9fSlRudm42Q3QxdHBta191Nk1kTzFYbEFRTEIwNDhOZ2JkNVVjeXdDNVpQTXlPY2F5MUttbGFteWFnbUhLUUpXdDlsWUg0UE92TVZzUldrNi1ISUlQNkRFaXk5cDl3US0tczYxLWVVcmx2Y2hmcEZrWE9n?oc=5",
+            "published": "2026-11-20T12:19:47.000Z",
+            "snippet": "Takeda Turns to SAP S/4HANA to Support Digital Transformation SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "세미나·박람회·웨비나",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "[12.03] SAP Executive Exchange for Busan (Automotive)",
+          "summary": "일시: 2026년 12월 3일(목) / 장소: 부산광역시 부산진구(오프라인) / 무료 강연·세미나 / 접수 상태: 외부 접수, 마감 1주 전 / 자동차 산업 대상, AI 관련 주제(태그 #sap #AI #Busan).",
+          "why": "부산·경남 지역 자동차 업계 SAP 고객과 컨설턴트가 AI 활용 사례를 공유하고 교류할 수 있는 자리입니다.",
+          "article": {
+            "source": "온오프믹스 SAP 행사",
+            "title": "SAP Executive Exchange for Busan(Automotive)",
+            "link": "https://onoffmix.com/event/353329",
+            "published": "2026-11-24T23:20:17.069Z",
+            "snippet": "일시: 2026.12.3 (목) 0:00 ~ 23:59 / 장소: 부산광역시 부산진구 / 무료 강연/세미나 / 접수 상태(오늘 기준): 외부접수 마감 1주전 / 태그: #sap #AI #Busan"
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "[12.12] Delphi Computech 무료 라이브 SAP 커리어 웨비나",
+          "summary": "일시: 2026년 12월 12일 / 장소: 인도 기반 라이브 웨비나 / 주최: Delphi Computech / 무료 / 대상: 신입 및 경력 전문가 / 접수 상태는 확인되지 않습니다.",
+          "why": "SAP 커리어 경로와 시장 수요에 대한 해외 시각을 참고할 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Delphi Computech to Host Free Live SAP Career Webinar for Freshers and Professionals on 12 December 2026 - Issuewire.com",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOakhNREwweTZ5UTZPRF9lR0ltd01LN2FIU0lyYWRaMWtKS0R0bzJEaDdzQWhaUy1uUVNBUXJZS2I2ZUNBZWZ4WDRFMUpfWmtrYUhmWFk0ZkIxcTVRdjN5bUREcHpHUllLdmhpSjcwNFJNa1poMzllTHBfRFBfczh3YnZSSTZjN1hHUjE3OWlwRWJiV3Z0NnhZYWlNd0hUTmluVW5VQTZtWFRzNHdnSGZubWxTOEJGRzBjOEZseHl2ak9HTFA1dHBjbl9VZGNEU3BuQXJ6bnc1VHg0cnlvTW5uSw?oc=5",
+            "published": "2026-11-21T00:45:11.000Z",
+            "snippet": "Delphi Computech to Host Free Live SAP Career Webinar for Freshers and Professionals on 12 December 2026 Issuewire.com"
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "SAP Sapphire Barcelona 2027",
+          "summary": "SAP의 대표 고객 행사인 SAP Sapphire가 2027년 스페인 바르셀로나에서 열릴 예정입니다. 구체적인 일시·참가비·접수 상태는 기사에서 확인되지 않습니다.",
+          "why": "SAP 제품 로드맵과 AI 전략이 발표되는 핵심 행사여서 미리 일정을 챙겨 둘 가치가 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP Sapphire Barcelona 2027 - UC Today",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXU0TWhteC1XdmxsTU1mYWY0TTFGNWZvQ3VDNUxyOENBS1hUbUVpendGcnlZYndTYWQ5MlFTNmNvdmlRNjRmTzRiS0pQY1pSckE3dnBlTnlVZ3NnRWY1UlZBQUQ?oc=5",
+            "published": "2026-11-18T13:19:14.000Z",
+            "snippet": "SAP Sapphire Barcelona 2027 UC Today"
+          }
+        }
+      ]
+    }
+  ]
+}
