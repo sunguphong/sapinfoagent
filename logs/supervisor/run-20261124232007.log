@@ -1,0 +1,14 @@
+2026-11-24T23:20:07.363Z run 20261124232007 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-24T23:20:08.660Z waiting for: sap, realestate, stock, skincare, sapmm-jobs, ces, smallbiz
+2026-11-24T23:25:15.858Z sap: late-sent - 발송 시각보다 90분 늦게 발송 (08:24) | GitHub 실행이 실패해 PC 가 대신 발송 (원인은 GitHub 기록 확인) | 수집 경고 1건: SAP News Center: socket hang up
+2026-11-24T23:25:15.858Z realestate: late-sent - 발송 시각보다 81분 늦게 발송 (08:21)
+2026-11-24T23:25:15.858Z stock: late-sent - 발송 시각보다 81분 늦게 발송 (08:21) | 수집 경고 1건: Yahoo Finance: Status code 404
+2026-11-24T23:25:15.858Z skincare: late-sent - 발송 시각보다 21분 늦게 발송 (08:21)
+2026-11-24T23:25:15.858Z sapmm-jobs: late-sent - 발송 시각보다 81분 늦게 발송 (08:21)
+2026-11-24T23:25:15.858Z ces: late-sent - 발송 시각보다 51분 늦게 발송 (08:20)
+2026-11-24T23:25:15.858Z smallbiz: late-sent - 발송 시각보다 81분 늦게 발송 (08:20) | 수집 경고 7건: Google News 화성시·동탄 소상공인 (KR): Status code 503 / Google News 경기도·경기신보 소상공인 (KR): Status code 503 / Google News 피부관리·미용업 정책 (KR): Status code 503 / Google News 소상공인 지원사업 신청·공고 (KR): Status code 503 / Google News 소진공·중기부 (KR): Status code 503 / Google News 소상공인 정책자금·지원금 (KR): Status code 503 / Google News 자영업자 대책 (KR): Status code 503 | 수집 건수 급감: 144건 (최근 평균 353건)
+2026-11-24T23:25:15.858Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 08:18 수집 · 34건
+2026-11-24T23:25:15.858Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-24T23:25:15.861Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-25_20261124232007.html
+2026-11-24T23:25:16.550Z mail sent: <99019b9d-c73f-9421-c1af-055363c82563@gmail.com> -> upsan77@gmail.com
+2026-11-24T23:25:16.550Z done

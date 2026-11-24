@@ -1,0 +1,92 @@
+{
+  "overview": "오늘 발송 7/7. 확인이 필요한 항목이 12건 있습니다.",
+  "categories": [],
+  "supervisor": {
+    "checkedAt": "2026-11-24T23:25:14.191Z",
+    "sent": 7,
+    "duty": 7,
+    "issues": 12,
+    "agents": [
+      {
+        "id": "sap",
+        "name": "SAP 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 90분 늦게 발송 (08:24)",
+          "GitHub 실행이 실패해 PC 가 대신 발송 (원인은 GitHub 기록 확인)",
+          "수집 경고 1건: SAP News Center: socket hang up"
+        ],
+        "notes": []
+      },
+      {
+        "id": "realestate",
+        "name": "부동산 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 81분 늦게 발송 (08:21)"
+        ],
+        "notes": []
+      },
+      {
+        "id": "stock",
+        "name": "증시 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 81분 늦게 발송 (08:21)",
+          "수집 경고 1건: Yahoo Finance: Status code 404"
+        ],
+        "notes": []
+      },
+      {
+        "id": "skincare",
+        "name": "피부미용 트렌드 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 21분 늦게 발송 (08:21)"
+        ],
+        "notes": []
+      },
+      {
+        "id": "sapmm-jobs",
+        "name": "SAP MM 구인정보",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 81분 늦게 발송 (08:21)"
+        ],
+        "notes": []
+      },
+      {
+        "id": "ces",
+        "name": "CES 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 51분 늦게 발송 (08:20)"
+        ],
+        "notes": []
+      },
+      {
+        "id": "smallbiz",
+        "name": "소상공인 지원 브리핑",
+        "status": "late-sent",
+        "issues": [
+          "발송 시각보다 81분 늦게 발송 (08:20)",
+          "수집 경고 7건: Google News 화성시·동탄 소상공인 (KR): Status code 503 / Google News 경기도·경기신보 소상공인 (KR): Status code 503 / Google News 피부관리·미용업 정책 (KR): Status code 503 / Google News 소상공인 지원사업 신청·공고 (KR): Status code 503 / Google News 소진공·중기부 (KR): Status code 503 / Google News 소상공인 정책자금·지원금 (KR): Status code 503 / Google News 자영업자 대책 (KR): Status code 503",
+          "수집 건수 급감: 144건 (최근 평균 353건)"
+        ],
+        "notes": []
+      }
+    ],
+    "pc": [
+      {
+        "ok": true,
+        "label": "SAP MM 구인정보 · 원티드 PC 수집본",
+        "detail": "08:18 수집 · 34건"
+      },
+      {
+        "ok": true,
+        "label": "관리 웹 공개 주소",
+        "detail": "응답 정상"
+      }
+    ]
+  }
+}
