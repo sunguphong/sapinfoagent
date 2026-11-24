@@ -788,5 +788,28 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-24T23:21:10.370Z",
     "finishedAt": "2026-11-24T23:21:10.370Z"
+  },
+  {
+    "id": "20261124232144",
+    "agent": "sap",
+    "startedAt": "2026-11-24T23:21:48.408Z",
+    "date": "2026-11-25",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261124232144.log",
+    "base": "2026-11-25_20261124232144",
+    "fetched": 83,
+    "selected": 52,
+    "usedHours": 24,
+    "feedErrors": [
+      "SAP News Center: socket hang up"
+    ],
+    "picked": 16,
+    "html": "2026-11-25_20261124232144.html",
+    "mailId": "<cae92731-d778-be68-23c3-db802606ed50@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-24T23:24:46.709Z",
+    "finishedAt": "2026-11-24T23:24:46.718Z"
   }
 ]
