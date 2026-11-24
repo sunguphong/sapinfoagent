@@ -1,0 +1,209 @@
+{
+  "overview": "오늘 새로 올라온 SAP MM 관련 채용공고는 없습니다. 신규 공고는 hy(한국야쿠르트) SAP CO 운영 1건뿐이며 MM이 포함되지 않아 제외했습니다. 계속 모집 중인 MM 포함 공고는 FI·CO·SD·PP·MM 통합 운영(SM)과 MM 전담 운영 포지션이 중심입니다. 요구 경력은 3~6년 이상 실무자급이 주를 이루고, S/4HANA 전환을 명시한 공고는 보이지 않습니다. 석세스코리아·닥터파인드 공고는 11/27(금), 프로써치코리아 전 모듈 컨설턴트 공고는 11/29에 마감되니 서두르는 것이 좋습니다. 동국제강은 연말까지 코일철근 생산 중단을 결정했고, 장세욱 부회장은 철근 구조조정에 정부 지원이 필요하다고 밝혔습니다.",
+  "categories": [
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 96,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영 담당자 (FI·CO·SD·PP·MM)",
+          "summary": "FI·CO·SD·PP·MM 모듈 운영(SM) 담당자를 뽑는 공고입니다. 근무지는 서울 마포구이고 경력 3년 이상, 대졸 이상, 정규직이며 마감은 11/27(금)입니다.",
+          "why": "MM이 포함된 정규직 운영 포지션으로, 경력 3년 이상이면 지원할 수 있지만 마감이 이틀 남았습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55637271",
+            "published": "2026-11-21T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력3년↑ 대졸↑ 정규직 / 마감: ~ 11/27(금) / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 97,
+          "title_ko": "닥터파인드 · 글로벌 패션기업 SAP ERP 모듈별 운영 (SD·MM·PP·FI·CO, 주임·과장급)",
+          "summary": "글로벌 패션기업의 SAP ERP를 모듈별(SD·MM·PP·FI·CO)로 운영할 주임·과장급 인력을 찾는 헤드헌팅 공고입니다. 근무지는 서울 마포구이고 경력 3~12년, 대졸 이상, 정규직이며 마감은 11/27(금)입니다.",
+          "why": "패션 업종의 MM 운영 정규직 자리로, 주임·과장급(경력 3~12년)이 대상이며 마감이 임박했습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP 운영 모듈별(SD MM PP FI CO) 주임 과장급 글로벌 패션",
+            "company": "닥터파인드",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55636763",
+            "published": "2026-11-21T00:00:00.000Z",
+            "snippet": "회사: 닥터파인드 / 조건: 서울 마포구 경력 3~12년 대졸↑ 정규직 / 마감: ~ 11/27(금) / 분야: 의류무역 , 해외영업 , 무역거래 , 수출입 , 해외영업관리 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%8B%A5%ED%84%B0%ED%8C%8C%EC%9D%B8%EB%93%9C"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 82,
+          "title_ko": "제이투이 · SAP MM 모듈 운영 (SM, 동대문역사문화공원역)",
+          "summary": "SAP MM 모듈 운영(SM) 인력을 뽑는 공고로, 근무지는 서울 중구 동대문역사문화공원역 인근입니다. 경력 6년 이상이 필요하고 즉시 지원할 수 있습니다.",
+          "why": "MM 전담 운영 포지션이라 MM 경력을 그대로 살릴 수 있으며, 경력 6년 이상이 필요하고 고용형태는 공고에 나와 있지 않습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50413125",
+            "published": "2026-11-23T01:47:41.420Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 88,
+          "title_ko": "대원씨앤씨 · 반도체사 ERP 개발·운영 (SAP MM / ABAP)",
+          "summary": "반도체 회사의 SAP ERP 시스템을 개발·운영하는 업무로, MM 모듈과 ABAP 역량을 함께 요구합니다. 근무지는 경기 성남시 분당구이고 경력 5~15년, 학력무관, 계약직·프리랜서이며 마감은 12/18(금)입니다.",
+          "why": "MM과 ABAP을 함께 다룰 수 있는 경력 5년 이상 인력에게 맞는 계약직·프리랜서 자리이며, 마감까지 여유가 있습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[분당] 반도체사 ERP 시스템 개발 & 운영 ( SAP MM / ABAP)",
+            "company": "(주)대원씨앤씨",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55643772",
+            "published": "2026-11-23T00:00:00.000Z",
+            "snippet": "회사: (주)대원씨앤씨 / 조건: 경기 성남시 분당구 경력 5~15년 학력무관 계약직·프리랜서 / 마감: ~ 12/18(금) / 분야: ABAP , SAP , ERP , SI·시스템통합 , ERP 외 / 회사정보: 사원수 96명 / 매출액 377억 1천만원 (2024년) / 영업이익 -3억 4,879만원 (2024년)",
+            "companyInfo": {
+              "title": "㈜대원씨앤씨",
+              "employees": "96명",
+              "revenue": "377억 1천만원 (2024년)",
+              "operatingProfit": "-3억 4,879만원 (2024년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/82770"
+            },
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EB%8C%80%EC%9B%90%EC%94%A8%EC%95%A4%EC%94%A8"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 80,
+          "title_ko": "프로써치코리아 · 세계적 회계·경영컨설팅사 SAP ERP 컨설턴트 (전 모듈)",
+          "summary": "세계적 회계·경영컨설팅사의 SAP ERP 전 모듈 컨설턴트를 뽑는 헤드헌팅 공고로, ERP 기반 프로세스 혁신(PI)과 ERP 구축 컨설팅을 담당합니다. 근무지는 서울 용산구이고 경력 3~10년(제목은 5년 이상)이며 마감은 11/29입니다.",
+          "why": "MM이 포함된 구축·PI 컨설팅 경력을 쌓을 수 있는 자리로, 마감이 4일 남았고 고용형태는 공고에 나와 있지 않습니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "[세계적 회계·경영컨설팅] 컨설팅 SAP ERP 컨설턴트 (5년이상)",
+            "company": "(주)프로써치코리아",
+            "link": "https://career.rememberapp.co.kr/job/posting/252151",
+            "published": "2026-11-23T02:00:00.000Z",
+            "snippet": "회사: (주)프로써치코리아 / 경력: 3~10년 / 지역: 서울특별시 용산구 / 마감: 2026-11-29 / [모집 분야] - SAP ERP 전 모듈 [담당업무] - ERP 기반 프로세스 혁신 컨설팅 - ERP 구축 컨설팅",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%84%EB%A1%9C%EC%8D%A8%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "[동국제강] 연말까지 코일철근 생산 '셧다운'…\"원가 이하 판매 없다\"",
+          "summary": "동국제강이 연말까지 코일철근 생산을 멈추기로 했습니다. 원가 이하로는 팔지 않겠다는 방침을 밝혔습니다.",
+          "why": "철근 시황 부진 속에서 물량보다 수익성을 지키는 쪽으로 생산을 조정하고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 연말까지 코일철근 생산 ‘셧다운’…“원가 이하 판매 없다” - 스틸데일리",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xUkxlX0VHdVB5U0lDbEhlTkxoQlVvWmhiNnRxcmw4X2pRQjlVaWt0U212REt6aGIyNF9DTk5DY0xZbEthNVJiQlVrQ3BuQzdqMEJXQS04VWxfbGhpMFQzRUZmYlVyNjJISEpheVUzaTdfQk1t0gF0QVVfeXFMTjFSTGVfRUd1UHlTSUNsSGVOTGhCVW9aaGI2dHFybDhfalFCOVVpa3RTbXZES3poYjI0X0NOTkNjTFlsS2E1UmJCVWtDcG5DN2owQldBLThVbF9saGkwVDNFRmZiVXI2MkhISmF5VTNpN19CTW0?oc=5",
+            "published": "2026-11-24T20:35:12.000Z",
+            "snippet": "동국제강, 연말까지 코일철근 생산 ‘셧다운’…“원가 이하 판매 없다” 스틸데일리",
+            "isNew": true
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "[동국제강] 장세욱 부회장 \"철근 구조조정, 정부 지원 없이 쉽지 않아…가격으로 中 못 이겨\"",
+          "summary": "장세욱 부회장은 철근 업계 구조조정을 회사 자체적으로 추진하는 데 한계가 있다며 정부 지원이 필요하다고 말했습니다. 중국과 가격으로는 경쟁할 수 없어 틈새시장과 AI 혁신으로 돌파하겠다고 밝혔습니다. 철강업이 변하지 않으면 생존할 수 없으며, AI 시대에 '패스트 팔로워'가 되겠다는 구상도 내놓았습니다.",
+          "why": "경영진이 감산·구조조정과 AI 전환(AX)을 핵심 과제로 꼽고 있어, 앞으로 IT·시스템 투자 방향을 가늠할 단서가 됩니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "장세욱 동국제강 부회장 “철근 구조조정, 정부 지원 없이 쉽지 않아” - ER 이코노믹리뷰",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Lc2dobmlDXzQ2MEo3enlEcGJYSHRxWVBaZVZYbFRkQTBXcEhyYTlVTkVmMmVUMk1XRjl5aFZSbzZ2VVIzVkVtY2ZRVlUwbllqaHRVNmwtb0syUllockhTd3NUQXJnekpaT2Jxbg?oc=5",
+            "published": "2026-11-24T07:08:27.000Z",
+            "snippet": "장세욱 동국제강 부회장 “철근 구조조정, 정부 지원 없이 쉽지 않아” ER 이코노믹리뷰",
+            "isNew": true
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "[동국제강] 봉형강·후판 모두 회복…가동률 상승·해외 매출 증가",
+          "summary": "동국제강의 양대 사업인 봉형강과 후판 모두 가동률이 올랐다는 보도입니다. 해외 매출도 늘어난 것으로 전해졌습니다.",
+          "why": "철근 불황 속에서도 제품 포트폴리오와 해외 판매로 실적을 방어하고 있다는 신호입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 봉형강·후판 양날개 모두 활짝...가동률 오르고 해외 매출도 쑥 - 소비자가 만드는 신문",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10ZWR1TXlraTByTVIxb0RNY2k1NGp1YU02NVlLalZQOTZjRVRZTzFscTB4WjBfQzAxZTlKQXBPZzVzaUFmR0ZfcHJJYVdnWnRmRmRERDhoTllZQnpJcmdJUHd1Zl8zY1RQZUhnaVdZNzdIVWM?oc=5",
+            "published": "2026-11-24T21:10:00.000Z",
+            "snippet": "동국제강, 봉형강·후판 양날개 모두 활짝...가동률 오르고 해외 매출도 쑥 소비자가 만드는 신문",
+            "isNew": true
+          }
+        },
+        {
+          "index": 78,
+          "title_ko": "[동국제강] 형강으로 활로 찾았지만…미국 AI 투자 속도가 변수",
+          "summary": "동국제강이 형강 사업에서 돌파구를 찾았다는 분석입니다. 다만 앞으로의 성과는 미국 AI 관련 투자가 얼마나 빨리 진행되느냐에 달려 있다고 짚었습니다.",
+          "why": "형강 수요가 미국 데이터센터 등 AI 인프라 투자 흐름에 영향을 받는 구조임을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강, 형강으로 활로 찾았지만…미국 AI 투자 속도 변수 - IB토마토",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTbl8taW5yZnpsWXkyQkRtZFhSQUZEcFQ0XzlYT0pHWl9wbUVHVUhyV3Fwa3laN1ltQmZPNlRSRGo1cVRjRVd0bjNTSjVSUGoyUEFmOEtPSG5NVkpBYmZUUnM1UDRKaXJzTGc?oc=5",
+            "published": "2026-11-23T21:00:00.000Z",
+            "snippet": "동국제강, 형강으로 활로 찾았지만…미국 AI 투자 속도 변수 IB토마토",
+            "isNew": true
+          }
+        },
+        {
+          "index": 71,
+          "title_ko": "[동국제강] 장부상 969억 흑자에도 연체 채권 3배 증가…대손충당금은 '0원'",
+          "summary": "뉴스퀘스트는 동국제강이 장부상 969억원 흑자를 냈지만 현금 사정은 빠듯하다고 지적했습니다. 연체 채권이 3배로 늘었는데도 대손충당금을 쌓지 않았다는 점을 문제로 들었습니다.",
+          "why": "이익의 질과 채권 관리 문제를 비판적으로 다룬 기사로, 재무 건전성 관련 논란으로 번질 수 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[숫자로 보는 기업 실체]① 장부엔 969억 흑자, 곳간은 텅텅…동국제강, 연체 채권 3배 폭증했는데 대손충당금은 ‘0원’ - 뉴스퀘스트",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UaHIzS1RYVWV1dHkzbS1JUzQzTFZQakY4WkVNVVVtM0dHdUUxblQyY2hIUUp4R0xpSzFyNHJPNWxjdmo3QU13Yk9qZ25NdVZUUXpyRUh2UHA1ZFRyX3hLclFQWU5SVEpSNzlwSk90RQ?oc=5",
+            "published": "2026-11-24T05:11:48.000Z",
+            "snippet": "[숫자로 보는 기업 실체]① 장부엔 969억 흑자, 곳간은 텅텅…동국제강, 연체 채권 3배 폭증했는데 대손충당금은 ‘0원’ 뉴스퀘스트",
+            "isNew": true
+          }
+        },
+        {
+          "index": 53,
+          "title_ko": "[동국제강그룹] 아름다운가게와 20번째 '아름다운하루'…장세욱 부회장 11년째 사재 기부",
+          "summary": "동국제강그룹이 아름다운가게와 함께 20번째 '아름다운하루' 나눔 행사(DK뷰티풀스토어)를 페럼홀에서 열었습니다. 장세욱 부회장은 사재 1,000만원을 기부해 11년째 개인 기부를 이어갔습니다. 기부 물품의 실제 출고율을 49%까지 높여 '의미 있는 기부'를 확대했다고 밝혔습니다.",
+          "why": "20년째 이어온 대표 사회공헌 활동으로, 여러 언론이 같은 날 일제히 보도했습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강그룹, 20번째 ‘아름다운하루’ 개최…장세욱 부회장 사재 1000만원 기부 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDczY3piYkJ2ZmRXQnlPNDItc05KekVzWUEzYVd6RTNhMlVBc3hsdjdzU2kzSWNtVW1kWkJYRWZpZ040M0tfWmpraFoxZDhZOUdZLXM3dUtHakJVNFllQi1kZHlyVmZ5eGY3eDcyLTh4Q085OVR4QUJzRmNtSlRGaW1kT2ZiOGt2TkZsdnJaZw?oc=5",
+            "published": "2026-11-24T06:24:02.000Z",
+            "snippet": "동국제강그룹, 20번째 ‘아름다운하루’ 개최…장세욱 부회장 사재 1000만원 기부 조선일보",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
