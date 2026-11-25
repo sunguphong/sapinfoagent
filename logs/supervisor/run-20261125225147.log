@@ -1,0 +1,15 @@
+2026-11-25T22:51:48.157Z run 20261125225147 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-25T22:51:48.158Z waiting 492s until 08:00
+2026-11-25T23:00:01.379Z waiting for: skincare
+2026-11-25T23:20:28.655Z sap: sent
+2026-11-25T23:20:28.656Z realestate: sent
+2026-11-25T23:20:28.656Z stock: sent - 수집 경고 1건: Yahoo Finance: Status code 404
+2026-11-25T23:20:28.656Z skincare: sent - GitHub 실행이 실패해 PC 가 대신 발송 (수집된 기사가 없습니다) | 수집 경고 1건: Google News (피부·스킨케어): Status code 429
+2026-11-25T23:20:28.656Z sapmm-jobs: sent
+2026-11-25T23:20:28.656Z ces: sent
+2026-11-25T23:20:28.656Z smallbiz: sent
+2026-11-25T23:20:28.656Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 06:31 수집 · 35건
+2026-11-25T23:20:28.656Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-25T23:20:28.659Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-26_20261125225147.html
+2026-11-25T23:20:29.813Z mail sent: <f3223fee-88be-a01f-b59c-3d807b0ae735@gmail.com> -> upsan77@gmail.com
+2026-11-25T23:20:29.813Z done
