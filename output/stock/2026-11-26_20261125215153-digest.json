@@ -1,0 +1,225 @@
+{
+  "overview": "■ 전날 미국 증시\n25일(현지) 뉴욕증시는 혼조로 마감했습니다. 다우지수는 장중 1,105포인트(2%대) 급락에서 반등해 0.33%(164포인트) 올랐고, S&P500은 보합권, 나스닥은 0.62% 내렸습니다. 엔비디아가 주도한 AI·반도체주 투매로 장 초반 반도체주가 최대 8.0% 밀렸지만, 추수감사절 연휴를 앞두고 저가 매수세가 들어오며 낙폭 대부분을 만회했습니다. 자금은 기술주에서 전통 산업주로 이동했습니다. 미국 정부가 중국·유럽 등 최소 14개 교역국에 새 관세를 준비 중이라는 소식이 투자심리를 눌렀고, 연준 위원들 사이에서도 높은 인플레이션의 원인을 두고 의견이 엇갈렸습니다. 국채금리·달러·유가의 구체적 수치는 이번 기사들에서 확인되지 않았습니다.\n\n■ 오늘 국내 증시 전망\n코스피는 전날 3.94% 하락 출발 후 4,700선까지 내주며 급락했습니다. 미국 반도체주가 장중 낙폭을 대부분 회복한 만큼, 오늘은 보합권에서 기술적 반등을 시도할 가능성이 있습니다. 다만 전날 저녁 야간선물이 2.5% 추가 하락했던 점, 관세 확대와 엔비디아 신용등급 관찰 대상 지정 같은 악재가 남아 있는 점을 감안하면 반등 폭은 제한적일 수 있습니다. 삼성전자·SK하이닉스 등 반도체 대형주의 외국인 수급이 방향을 가를 핵심 변수입니다. 미국 관세 대상국 확대에 따른 자동차·수출주 영향과 원·달러 환율 흐름도 함께 확인해야 합니다. 오늘 밤 미국 증시는 추수감사절로 휴장하므로 국내 증시는 자체 수급에 따른 변동성이 커질 수 있습니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "다우, 장중 1,105포인트 급락 딛고 반등…뉴욕증시 혼조 마감",
+          "summary": "다우지수는 장중 1,105포인트까지 빠졌다가 반등해 0.33%(164포인트) 상승 마감했고, 나스닥은 0.62% 하락했습니다. AI주 투매가 장 초반 시장을 흔들었지만, 추수감사절을 앞둔 저가 매수세로 낙폭 대부분을 만회했습니다.",
+          "why": "미국 증시가 장중 패닉에서 회복한 만큼 전날 급락한 코스피의 투매 심리를 누그러뜨리는 요인이 될 수 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "U.S. stocks close mixed as Dow reverses a 1,105-point drop - investingLive",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVE5mR1BHNHBIV3o2SlBVamExanF0RkRaWlU1R3FxY3V4ZXBGanBkRjFqV3hrTWdoeGdOeVpGY2ZZZzJxVWhhaGxzblIwa2owWVppRzhlWFp0QjU3Vnc3NFNkaC1EbTFvZ1p0Qm5LYzdfOS05RXFMME1jZjFjYzJfN1lidTc5N1JXU0RwSWlUTGFzeEhJTmc?oc=5",
+            "published": "2026-11-25T21:24:54.000Z",
+            "snippet": "U.S. stocks close mixed as Dow reverses a 1,105-point drop investingLive"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "반도체주, 장 초반 8.0% 급락분 대부분 회복…나스닥 0.6% 하락 마감",
+          "summary": "반도체주는 장 초반 8.0%까지 밀렸지만 장중 낙폭 대부분을 되찾았습니다. 나스닥은 0.6% 하락으로 마감해 충격이 제한됐습니다.",
+          "why": "미국 반도체주의 장중 회복은 삼성전자·SK하이닉스 등 국내 반도체 대형주의 반등 시도에 우호적인 신호입니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Chip stocks recover most of a 8.0% early slide; Nasdaq ends down 0.6% - Techi",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON1ZXZ1psLVd6aExRMlh3bmdmSmVJYmJyaUlPUVJLUUo2Rl9PMTVXQWVXOWJUZS15Q1lJaTA5MlNaZFpOWFVWSEhDbkY5Qll6N1hkdHhlMlJHZW5hU1FrQTRYU3FRT2NHQ2FtVE1HUU5rY0Z6STBackZZdkUwME9OS0xEU0FNdw?oc=5",
+            "published": "2026-11-25T21:37:21.000Z",
+            "snippet": "Chip stocks recover most of a 8.0% early slide; Nasdaq ends down 0.6% Techi"
+          }
+        },
+        {
+          "index": 19,
+          "title_ko": "S&P500 보합 마감…자금, 기술주에서 전통 산업주로 이동",
+          "summary": "S&P500은 거의 변동 없이 마감했습니다. 투자자들은 AI·기술주 비중을 줄이고 전통 산업주로 자금을 옮겼습니다.",
+          "why": "기술주에서 경기민감·가치주로의 순환매가 국내에서도 나타나면 반도체 쏠림이 완화되고 산업재·금융 업종이 상대적으로 강세를 보일 가능성이 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "S&P 500 Closes Nearly Flat as Money Shifts From Tech to Old-Economy Stocks - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUElXalp6bHFnT290NllWOVJxNFV6eF81NGljenpFRmpTckZGbTBoU1dnTlZpZGxndDlKR1JjbWxvSFFIMlNhTFg3ak5kcjBrU1hXbEltOTdjbWJiWXUta2JZZjlOUS1qZ3d0THNwR3pYaEMzZEZjS2djU0dPazRpZnRTWEdDeEtCSU5lUjIzb2t4bE1KV2FjUUdyMThVOTNuLU9tU2RVWHFRcU1mRmVrVDY3eV9NXzJ2VFUxYWRHLVFydjhyM3ZsVkpqN1c?oc=5",
+            "published": "2026-11-25T21:15:13.000Z",
+            "snippet": "S&P 500 Closes Nearly Flat as Money Shifts From Tech to Old-Economy Stocks 24/7 Wall St."
+          }
+        },
+        {
+          "index": 10,
+          "title_ko": "엔비디아 주가 하락, 젠슨 황 복귀 이틀 만에 신용등급 관찰 대상 지정",
+          "summary": "젠슨 황 CEO가 복귀한 지 이틀 만에 엔비디아 주가가 떨어지고 신용등급이 관찰 대상에 올랐습니다. 회사를 둘러싼 불확실성이 AI주 투매의 촉매가 됐습니다.",
+          "why": "엔비디아에 HBM을 공급하는 SK하이닉스와 삼성전자에 대한 투자심리를 짓누르는 부담 요인입니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Nvidia's shares drop, credit rating on watch two days after Huang's return - Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUlY1dHczNWpBM21GTUVVcWZ1QUdrZG5acThyMTJzTm14bTNDemdndjNSVDNZV1JnbDYyYnhZQWw3SlQySlpYT1lERUdrWDNQUHp0RnZOZ3h3cjZXVVhjRXRlUng2ZmJiRlBKb3p1enlaMUM3cndSODJ4WVZadWZVYlg4b0FSa3dPc2NoV0puaEZVV1Z6YlNCM3MzUWZrdzRjdG44bGotQUFIUFBDUnp2VUlNNDZIZUt2RkExZkp6Zmx2d1FpdnpIM1BBOC1TbFlzX21wSnNwdjY?oc=5",
+            "published": "2026-11-25T21:30:00.000Z",
+            "snippet": "Nvidia's shares drop, credit rating on watch two days after Huang's return Nikkei Asia"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 18,
+          "title_ko": "미국, 최소 14개 교역국에 새 관세 부과 준비",
+          "summary": "미국 정부가 중국·유럽을 포함한 최소 14개 교역국을 대상으로 새로운 관세를 준비하고 있습니다. 이 소식이 AI 우려와 겹치면서 장 초반 증시 급락을 키웠습니다.",
+          "why": "한국이 대상에 포함되는지에 따라 자동차·2차전지·철강 등 대미 수출주의 변동성이 커질 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "US prepares new tariffs for at least 14 trading partners - 5050 Markets",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yei1hV21xejlCdDNtSUtaN29SNjZ0cWpTVHVHRTFydERIZUFWWTBmTmRWNFVNb2dOYlVBNzQzX0FaYWlsMzhMcDFScDM3cWhvVWJEMFU5dnpndkZxWUhPb1hna1pBR0dpTERz?oc=5",
+            "published": "2026-11-25T21:18:06.000Z",
+            "snippet": "US prepares new tariffs for at least 14 trading partners 5050 Markets"
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "연준 위원들, 높은 인플레이션 원인 두고 이견",
+          "summary": "연준 정책결정자들이 현재 높은 인플레이션의 원인을 두고 서로 다른 진단을 내놓고 있습니다. 관세의 물가 영향을 어떻게 볼지가 쟁점으로, 향후 금리 경로의 불확실성이 커졌습니다.",
+          "why": "연준의 매파적 기조가 길어지면 달러 강세와 외국인 자금 유출 압력으로 이어져 성장주 비중이 큰 코스닥에 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Fed policymakers at odds over causes of high inflation - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+            "published": "2026-11-25T20:50:24.000Z",
+            "snippet": "Fed policymakers at odds over causes of high inflation Reuters"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 증시 전망",
+      "items": [
+        {
+          "index": 49,
+          "title_ko": "롤러코스터 탄 美기술주에…코스피 4% 하락 출발",
+          "summary": "전날 코스피는 197.03포인트(3.94%) 내린 4,809.00으로 출발했습니다. 미국 기술주의 급등락에 따른 충격이 그대로 반영됐습니다.",
+          "why": "전날 급락분이 이미 반영된 상태여서 오늘은 미국 반도체주 회복을 바탕으로 기술적 반등을 시도할 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "롤러코스터 탄 美기술주에…코스피 4% 하락 출발 - 한경매거진",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRENDNTFuS0cxQWR6aHFBM1o3ZU1BMVdRMnJpLVhBU1E0clFwcEpxTlprcFZnaTZQQXpYbjR4MTVRRkwtRDVpcTA4eTc1LVpNZTlfZkNTV3drLVNIVVlrWG5HT1Naa3hoU2k0RQ?oc=5",
+            "published": "2026-11-25T08:06:00.000Z",
+            "snippet": "롤러코스터 탄 美기술주에…코스피 4% 하락 출발 한경매거진"
+          }
+        },
+        {
+          "index": 46,
+          "title_ko": "코스피 4,700선도 붕괴…삼성전자·SK하이닉스 나란히 급락",
+          "summary": "코스피는 장중 낙폭을 키우며 4,700선 아래로 밀렸습니다. 삼성전자와 SK하이닉스가 동반 급락하며 지수 하락을 이끌었습니다.",
+          "why": "4,700선 회복 여부가 오늘 지수 반등 강도를 판단하는 기준선이 될 전망이며, 반도체 대형주의 외국인 수급이 핵심 변수입니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "코스피 4,700선도 깨졌다...삼전닉스 나란히 급락 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xbEpyNHJZcE1BSkRoMVE3bWxDSVQxa1lHek5nRkdXSnd0Y2JYd2UzdjhWc29oSzV3Sjk3aE1HNXpEQ0pWYk43c1R4OGJZeW9GSjY1RUl6YWNqSkcwcmc?oc=5",
+            "published": "2026-11-25T10:50:00.000Z",
+            "snippet": "코스피 4,700선도 깨졌다...삼전닉스 나란히 급락 YTN"
+          }
+        },
+        {
+          "index": 45,
+          "title_ko": "코스피 내일도 경고등?…야간선물 2.5% 추가 하락",
+          "summary": "전날 저녁 코스피200 야간선물이 2.5% 추가로 떨어지며 추가 하락 우려가 커졌습니다. 다만 이 수치는 미국 장 초반 급락 시점의 것으로, 이후 미국 증시가 낙폭 대부분을 만회했습니다.",
+          "why": "야간선물 낙폭이 마감 무렵 얼마나 줄었는지에 따라 오늘 개장가가 결정되므로, 보합권에서 소폭 반등 출발할 가능성도 열려 있습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "코스피 내일도 설마 경고등?…야간선물 2.5% 추가 하락 - 콕스뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LSHhvSV94ZF9zU3d5dmtoZnVfY01xZWpxSTg4STNkc1pvbWpDbmtjM3N0WWwyQ2lHTDBuWUtzMndOa2YxcnhWcWxSUmhNbzdKZmJ5bFVPR2FpcW1qQjU2UVhRek9KaERDUlE?oc=5",
+            "published": "2026-11-25T12:48:10.000Z",
+            "snippet": "코스피 내일도 설마 경고등?…야간선물 2.5% 추가 하락 콕스뉴스"
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "'젠슨 황 효과' 증발…또 무너진 코스피",
+          "summary": "젠슨 황 CEO 복귀에 대한 기대감이 사라지면서 코스피가 다시 크게 밀렸습니다. AI 반도체 랠리에 의존하던 국내 증시의 취약성이 드러났습니다.",
+          "why": "엔비디아 관련 소식에 민감한 반도체·AI 인프라주는 오늘도 변동성이 클 가능성이 높습니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "젠슨 황 효과 증발 또 무너진 코스피 - 부산일보",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TV2x1eVRqbXZvRFdOb1hDV1Z4S1NqMkhZXzU2RnoxVGo1M281STRnUmh3bDJBOUJWVmdBOTJyM0FQbUc3Nm9GM3dhTDVPNmhtc00zeGNGV3FPdUc1alhDMFRYSDd0MDk4VDlHYVQ5MFVNR1Zo?oc=5",
+            "published": "2026-11-25T09:29:02.000Z",
+            "snippet": "젠슨 황 효과 증발 또 무너진 코스피 부산일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 11,
+          "title_ko": "2조 달러 반도체 랠리 무너지는 중…역사가 말해주는 다음 시나리오",
+          "summary": "반도체 업종에서 시가총액 약 2조 달러 규모의 상승분이 되돌려지고 있습니다. 기사는 과거 비슷한 조정 국면의 사례를 근거로 향후 흐름을 짚었습니다.",
+          "why": "글로벌 반도체 조정이 길어지면 삼성전자·SK하이닉스 등 국내 반도체주의 반등 탄력도 제한될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "The $2 trillion chip rally is unraveling — here's what history says comes next - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTItRThMZmVpLXZjUHotbGRmUFBMT3MwQnJBWjBKX2NOeHBRQlBwbnY0VFh3Z05vekN5RzhHdHlkQjcyaXNtdGZUU1hZSXM5b0c3NjBaY0lhTFlhWk1oS0xCYnZ0NmZscWo3ZEE0VFFZalJVZ0xwMFFHUlFjejVteWVVQ0ZmUndQWXhJa0FqOFRDdld2dndpR0RHSHp3bnFXNTdHUkN0UHpQTl8zRHVJWmg0bG1JSkVtUmxJM1RiMnRpUlNGRm8yU3Q4RkZldVRuSTc0bTNn?oc=5",
+            "published": "2026-11-25T21:28:53.000Z",
+            "snippet": "The $2 trillion chip rally is unraveling — here's what history says comes next Yahoo Finance"
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "나스닥100 바닥 찍었나? 마이클 버리, 지수 풋옵션 청산…과거 12번의 반등 사례 주목",
+          "summary": "마이클 버리가 나스닥100 지수 하락에 베팅한 풋옵션 포지션을 정리했습니다. 기사는 과거 12번의 반등 사례를 토대로 저점 형성 가능성을 분석했습니다.",
+          "why": "기술주 바닥론이 확산되면 국내 반도체·IT 성장주에도 저가 매수세가 유입될 가능성이 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Has the Nasdaq 100 Bottomed? Burry Clears Index Puts as 12 Historical Rebounds Offer Clues - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0trU1VCRGpJUFlDeWpXRUpINWJaQThpbm9pUjBnMHdKNVVxek1ZVEJORnRfT09xVGtqUGFtSU15eHd6VURlLTZGTzA4aFlFYmg2QVdfR056ZjNiblBESC05UmNJaVc4Qnk1UXBUQ2tmWWZmcnQxWXR0Xy02T2NMcEhEU095dF9QSVd5dUR2YVVwU1RaM05ZZ2g2NktFRktDUHNhTVR3ZmN2ZVhnT2huV1MwSDA3a2s3MS1SaHdR?oc=5",
+            "published": "2026-11-25T20:52:44.000Z",
+            "snippet": "Has the Nasdaq 100 Bottomed? Burry Clears Index Puts as 12 Historical Rebounds Offer Clues TradingKey"
+          }
+        },
+        {
+          "index": 40,
+          "title_ko": "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나",
+          "summary": "삼성전자가 대규모 이익을 내고도 주가가 크게 떨어져 투자자 손실이 커진 배경을 분석한 기사입니다. 실적과 주가가 엇갈리는 원인으로 AI 반도체 경쟁력과 수급 문제를 짚었습니다.",
+          "why": "실적 대비 낙폭이 큰 삼성전자는 미국 반도체주가 반등할 때 상대적으로 민감하게 반응할 수 있습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실] - 세계일보",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nNGUyRGVvMnNZZnMyLTNJajdtR21uQkdOb0FoS0dWaUNoVUZ6ZTRrVGFtLWJnUlFJX1Mzc3lCTGM5ckY0ZTJxd0VES3hDTi0xZEgySjBzRnlCMVp2cUdpSE1VcWpQTEZQMkZn0gFUQVVfeXFMUDZjbnJ1MVRQWXIyazRxNDlOV3VUVERnMTlUSTk0ZVhBUk5MSFBZNC1PREd0Vm5CbmxTOWw4OW12Z1VGRG1SRDVEMEFzcVIwNndQQlNC?oc=5",
+            "published": "2026-11-25T20:00:00.000Z",
+            "snippet": "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실] 세계일보"
+          }
+        },
+        {
+          "index": 22,
+          "title_ko": "스텔란티스, 뉴욕증시서 6.25% 상승 마감",
+          "summary": "스텔란티스 주가가 6.25% 올랐습니다. 기술주에서 전통 산업주로 자금이 이동한 흐름 속에서 자동차주가 강세를 보였습니다.",
+          "why": "글로벌 완성차주 강세는 현대차·기아 등 국내 자동차주에 긍정적이지만, 미국 신규 관세 대상에 한국이 포함되는지가 변수입니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "스텔란티스, 뉴욕 증시서 6.25% 상승 마감 : 기업주식정보 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGX29EcjRGa0pSdTc5aU54N3VHN2RuLXdhNUpKUFNkaDhmczRsTXFtWHBqN1FFMnF3bWpxeVNYdjZrZ1d3Vm82NURiQQ?oc=5",
+            "published": "2026-11-25T21:11:00.000Z",
+            "snippet": "스텔란티스, 뉴욕 증시서 6.25% 상승 마감 : 기업주식정보 재경일보"
+          }
+        }
+      ]
+    },
+    {
+      "name": "오늘의 일정·이벤트",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "추수감사절·블랙프라이데이 미국 증시 거래 시간 안내",
+          "summary": "미국 증시는 26일(목, 현지) 추수감사절로 휴장하고, 27일(금) 블랙프라이데이에는 조기 폐장합니다. 연휴 동안 거래가 얇아질 전망입니다.",
+          "why": "오늘 밤 미국 증시가 열리지 않아 내일 국내 증시는 미국발 방향성 신호 없이 자체 수급과 관세 뉴스에 더 크게 좌우될 수 있습니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "Stock Market Trading Hours For Thanksgiving And Black Friday - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODNIOEhSMDhzMW5zbGhnRGlGM0RoTE94aEtITjNFZzd3LS1FeWFpYzNxby1oQnpNaEFuTDFJQmxNaW9Bb044amk2RFlqeG5pbk1YYmJoSkdpNUNRT0djVmV4M1BHWm0tLW82aXUtNDZGSUt1NzVVOHJ0eV90LS1GejdDR3FjNkdBekFHaU54Z1NKd2dfYlNJUDJRdkk2Z1hCbWZTLTVhcWQwMjQ?oc=5",
+            "published": "2026-11-25T21:01:00.000Z",
+            "snippet": "Stock Market Trading Hours For Thanksgiving And Black Friday Investor's Business Daily"
+          }
+        }
+      ]
+    }
+  ]
+}
