@@ -812,5 +812,28 @@
     ],
     "error": "수집된 기사가 없습니다",
     "finishedAt": "2026-11-25T22:51:57.447Z"
+  },
+  {
+    "id": "20261125231618",
+    "agent": "skincare",
+    "startedAt": "2026-11-25T23:16:19.780Z",
+    "date": "2026-11-26",
+    "source": "pc-fallback",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261125231618.log",
+    "base": "2026-11-26_20261125231618",
+    "fetched": 250,
+    "selected": 92,
+    "usedHours": 24,
+    "feedErrors": [
+      "Google News (피부·스킨케어): Status code 429"
+    ],
+    "picked": 15,
+    "html": "2026-11-26_20261125231618.html",
+    "mailId": "<56d10754-d50c-1891-3f5b-2b51503929b3@gmail.com>",
+    "mailTo": "zheng0107@daum.net",
+    "mailSentAt": "2026-11-25T23:17:58.955Z",
+    "finishedAt": "2026-11-25T23:17:59.062Z"
   }
 ]
