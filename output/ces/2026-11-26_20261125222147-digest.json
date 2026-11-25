@@ -1,0 +1,181 @@
+{
+  "overview": "CES 2027(2027년 1월 초 미국 라스베이거스 개최) 개막을 약 6주 앞둔 시점으로, 참가 기업의 전시 계획과 혁신상 수상 소식이 쏟아지고 있습니다. 오늘 가장 큰 흐름은 삼성전자가 CES 2027에서 첫 휴머노이드 로봇을 공개할 것이라는 전망입니다. 이 때문에 현대모비스·레인보우로보틱스 등 로봇 부품·협력사에도 관심이 쏠리고 있습니다. 기조연설자로는 워너뮤직그룹 CEO 로버트 킨클이 추가됐습니다. 음악 기업 수장으로는 처음이라 콘텐츠·엔터테인먼트로 무대가 넓어지는 모습입니다. 국내에서는 세라젬의 9관왕을 비롯해 대학 창업기업과 지역 스타트업의 혁신상 수상이 이어지고 있습니다.",
+  "categories": [
+    {
+      "name": "CES 주요 발표·일정",
+      "items": [
+        {
+          "index": 9,
+          "title_ko": "워너뮤직그룹 CEO 로버트 킨클, CES 2027 기조연설 맡아",
+          "summary": "워너뮤직그룹의 로버트 킨클 CEO가 CES 2027 기조연설자로 확정됐습니다. 음악 기업 수장이 CES 기조연설에 나서는 것은 이번이 처음입니다. AI 시대 음악·콘텐츠 산업과 기술의 접점이 주요 화두가 될 전망입니다.",
+          "why": "CES가 가전·IT를 넘어 콘텐츠·엔터테인먼트로 확장되고 있어 K-콘텐츠·플랫폼 기업도 주목할 만한 변화입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Warner Music Group CEO Robert Kyncl To Deliver CES 2027 Keynote - CES | Twice",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3BPSkl5cG5JdUduZkE0YXZpLUtKMi13NE5YNVlQR3pDbUhTbGVzbmVLWmE5VF8tTnZCOUFadDBVaUlSb1BaYXZzQmViajIyYVpOSlVvR2FZek4xaDBQelJtdlhsWng5YmY2X1Z5NVMySnNDNlpkbjZDQlBCakE2cG0taWxZWVlsSjZDempYTDBCOEplNkF1dWc3MmliOGs?oc=5",
+            "published": "2026-11-25T14:07:30.000Z",
+            "snippet": "Warner Music Group CEO Robert Kyncl To Deliver CES 2027 Keynote CES | Twice"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 기업 동향",
+      "items": [
+        {
+          "index": 28,
+          "title_ko": "삼성전자, CES 2027서 첫 휴머노이드 공개 전망…부품·협력사 주목",
+          "summary": "삼성전자가 CES 2027에서 자체 개발한 첫 이족보행 휴머노이드 로봇을 공개할 것이라는 전망이 여러 매체에서 나왔습니다. 스마트폰 조립 같은 정밀 작업이 목표로 거론되며, 로봇 손 기술과 향후 로드맵이 관전 포인트로 꼽힙니다. 최근 로봇 분야 인재를 대거 발탁한 점도 공개가 임박했다는 관측에 힘을 싣고 있습니다.",
+          "why": "삼성이 휴머노이드 시장에 본격 진입하면 국내 로봇 부품 공급망과 제조 자동화 생태계 전반에 큰 파급효과가 예상됩니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "삼성전자, CES 2027서 휴머노이드 공개 전망…관련 부품·협력사 주목 - 더퍼블릭",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03T0o1MWt0V0N1OHJfa1VUc3hRbElKT3RONF9zNlJFNXUyWWlVaTYyVjRyb0dQZndvUWN0Qnp4MElaMTRudk9hQUdVYlNZcWVINVNUTjAxcEJBT1VtTlpweEhJUUxrX0txVEtJ0gFvQVVfeXFMTXdCTWhwMUhsVFE5ZUJaOXY4QjVXRWJsMVRrQXpQWGdiOVNoVTZDaXFNZldnb0NZM1VZYmM5Wk5oSV9mVGlmX0U4c21IMnJKSWZqQ0xsaENnVW9xY2dpd0dvb3ZldTN3RXQ0QThVS1Iw?oc=5",
+            "published": "2026-11-25T04:05:53.000Z",
+            "snippet": "삼성전자, CES 2027서 휴머노이드 공개 전망…관련 부품·협력사 주목 더퍼블릭"
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "현대모비스, 로봇 부품 사업 구체화…“CES 2027이 경쟁력 확인 계기”(IBK투자증권)",
+          "summary": "IBK투자증권은 현대모비스가 로봇 부품 사업을 구체화하고 있으며, CES 2027이 그 경쟁력을 확인하는 계기가 될 것으로 내다봤습니다. 증권가에서는 삼성 휴머노이드 공개 기대와 맞물려 레인보우로보틱스, 에스피지, 원익홀딩스 등 로봇 관련 부품주를 가려내는 움직임도 시작됐습니다.",
+          "why": "완성차 부품사가 로봇 부품으로 사업을 넓히면서 국내 로봇 밸류체인 재편과 투자 흐름에 직접 영향을 줄 수 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "현대모비스, 로봇 부품 사업 구체화…CES 2027이 경쟁력 확인 계기-IBK By 인포스탁데일리 - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IbHRIY0RIUkFyV1gtendxMVU1dHYxdEdGZzN2eXV4YW5QZFBPSU9SQzRCaVdvcWotbGxTVTZnekdXX1REUDJaaEs4b0Zab2JJc1AxMkN2YjR3XzloRnZkTnpyRWFSd1V3UGhUbVA0b2E?oc=5",
+            "published": "2026-11-25T01:55:00.000Z",
+            "snippet": "현대모비스, 로봇 부품 사업 구체화…CES 2027이 경쟁력 확인 계기-IBK By 인포스탁데일리 Investing.com 한국어"
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "삼성 2027년형 스마트 TV, 거실 시청자 감지 기능 탑재 가능성",
+          "summary": "삼성전자의 2027년형 스마트 TV에 거실 시청자를 인식·모니터링하는 기능이 들어갈 수 있다는 해외 보도가 나왔습니다. 통상 신형 TV 라인업이 CES에서 공개되는 만큼 관련 기능 발표 여부가 주목됩니다.",
+          "why": "개인화 기능 강화와 함께 프라이버시 논란도 예상돼 국내 소비자와 TV 업계가 함께 지켜볼 사안입니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Samsung’s 2027 Smart TVs Could Monitor Viewers In Their Living Rooms - ChannelNews.com.au",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEU4UFhZTUhyWVhlTzRmLVhqVEEzYlRhQ1BtdmpOT1F3ZmltZ3RUUzI2cHJYWlpqNTA2N3lUM2pOdnNXRm9yR1dTRlZFbGJadUJqU00zWHNXVlZReWR0WlU4Uno3OXRZMVZLNDVkTlhVbG54d3p1bElibm03cGc0M3ZhUTRrbHlVSUxJNnZhakxiRmFKaWtWU0JDajd4Q29n?oc=5",
+            "published": "2026-11-24T23:05:59.000Z",
+            "snippet": "Samsung’s 2027 Smart TVs Could Monitor Viewers In Their Living Rooms ChannelNews.com.au"
+          }
+        },
+        {
+          "index": 49,
+          "title_ko": "모셔널, CES 자율주행 시연이 시장 신뢰 회복의 분수령",
+          "summary": "현대차그룹의 자율주행 합작사 모셔널이 CES에서 선보일 자율주행 시연이 시장 신뢰 회복에 결정적일 것이라는 분석이 나왔습니다. 사업 재정비 이후 기술력을 다시 입증할 무대로 평가됩니다.",
+          "why": "현대차그룹 자율주행 전략의 향방과 국내 자율주행 산업 전망을 가늠할 수 있는 지표가 될 수 있습니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Motional's CES self-driving demo crucial to reviving market confidence - The Korea Times",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNay1PMlBJREU4eFNyYWVReTI5cHJnLUcybHRlcE9WeHlmRHdKdjNXMVFOTGhnb1dpa2JVZTRsU3dUUzN6Z1VUQ3ZyTzZxdlpqckpkN2F1MG9tNXJDX2xXdEF6dDN2bG1OOW9PWUdSRnU1a0N4TGZXWmN1c3pSRVlyUTNjRlhKaEhCN0RqZld2Z2V6RzN0YndwNnd0TGFVdmE0ZnZ2TGdibTNTeUN4LUQ5TmoyeVhWTzl3QWxaVzM4czR5UlM3N29rWXhn0gHKAUFVX3lxTE1rLU8yUElERTh4U3JhZVF5MjlwcmctRzJsdGVwT1Z4eWZEd0p2M1cxUU5MaGdvV2lrYlVlNGxTd1RTM3pnVVRDdnJPNnF2WmpySmQ3YXUwb201ckNfbFd0QXp0M3ZsbU45b09ZR1JGdTVrQ3hMZldaY3VzelJFWXJRM2NGWEpoSEI3RGpmV3ZnZXpHM3Rid3A2d3RMYVV2YTRmdnZMZ2JtM1N5Q3gtRDlOajJ5WFZPOXdBbFpXMzhzNHlSUzc3b2tZeGc?oc=5",
+            "published": "2026-11-24T22:00:19.000Z",
+            "snippet": "Motional's CES self-driving demo crucial to reviving market confidence The Korea Times"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혁신상·스타트업",
+      "items": [
+        {
+          "index": 17,
+          "title_ko": "세라젬, AI 기반 헬스케어로 CES 혁신상 9관왕…시니어 소파·펫테크로 미래 주거 제시",
+          "summary": "세라젬이 AI 기반 헬스케어 제품으로 CES 혁신상 9개를 받았습니다. 시니어용 소파와 펫테크 등을 앞세워 CES 2027에서 미래 주거 공간을 선보일 계획입니다.",
+          "why": "국내 헬스케어 가전이 고령화·반려동물 시장을 겨냥해 글로벌 경쟁력을 인정받았다는 의미가 있습니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "세라젬, AI 기반 헬스케어로 CES 혁신상 9관왕, 시니어 소파·펫테크…미래 주거 선보여 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhSFEzUWR5UVVnYUNGY0twbWlLeEdkdHE0Rm1lNVNJM19VMkhkSnBYM2tNSkJSZUxxMU9Td0pWbU9GeTJqV0YwcktKWjdndUIybElQVXJfdFZkZw?oc=5",
+            "published": "2026-11-25T07:06:40.000Z",
+            "snippet": "세라젬, AI 기반 헬스케어로 CES 혁신상 9관왕, 시니어 소파·펫테크…미래 주거 선보여 한국경제"
+          }
+        },
+        {
+          "index": 23,
+          "title_ko": "판교 떠나 대구서 뭉친 개발자들…파미티, CES 혁신상 3관왕",
+          "summary": "판교를 떠나 대구에서 창업한 개발자 중심 스타트업 파미티가 CES 혁신상 3개를 받았습니다. 지역 기반 AI 스타트업의 성장 사례로 소개됐습니다.",
+          "why": "수도권 밖 지역 스타트업도 글로벌 무대에서 성과를 낼 수 있음을 보여주는 사례입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "[AI 시대, 대구의 길을 묻다] 판교 떠나 대구서 뭉친 개발자들…파미티, CES 혁신상 3관왕 - 매일신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85WEZOZmdzd0dsN3lBUlRvdUtlRndZVzJta2pTU0lnTGRWd1c2V1JGQ2MtblVXS0VXWWh5LVFIV29VOFBJY01JZjRhQ053LWRMb2xFek5BYUNJNHlxc0NqdWxR?oc=5",
+            "published": "2026-11-25T06:21:08.000Z",
+            "snippet": "[AI 시대, 대구의 길을 묻다] 판교 떠나 대구서 뭉친 개발자들…파미티, CES 혁신상 3관왕 매일신문"
+          }
+        },
+        {
+          "index": 30,
+          "title_ko": "한동대 입주기업 3곳, CES 혁신상 2년 연속 수상…13개국 수출 성과",
+          "summary": "한동대학교 창업보육센터 입주기업 3곳이 2년 연속 CES 혁신상을 받았습니다. 이들 기업은 13개국 수출 성과와 함께 채권회수 서비스 출시 소식도 전했습니다.",
+          "why": "대학 창업 지원 프로그램이 글로벌 혁신상과 수출 실적으로 이어지는 모범 사례입니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "한동대학교 입주기업 3곳 CES 혁신상 2년 연속 수상에 13개국 수출 성과.. '채권회수 서비스도 출시' - 베리타스알파",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uSkk2T3Q5QjBtdTk4MDhKaGMyd2dGNS1GU1VhYW5VZWFyWHJGR3AzVXRPUHk0c2tjWkJtaC1TblJqUzJ1N1plalRERE1BZDd5aVZCZXhEUU52M3FvVXV2WWJkN2oxZ0tYTVpxRw?oc=5",
+            "published": "2026-11-25T03:46:24.000Z",
+            "snippet": "한동대학교 입주기업 3곳 CES 혁신상 2년 연속 수상에 13개국 수출 성과.. '채권회수 서비스도 출시' 베리타스알파"
+          }
+        },
+        {
+          "index": 43,
+          "title_ko": "메타크라우드, ‘딥보이스 잡는 온디바이스’ 기술로 CES 혁신상",
+          "summary": "메타크라우드가 AI 음성 위조(딥보이스)를 기기 자체에서 탐지하는 온디바이스 기술로 CES 혁신상을 받았습니다.",
+          "why": "보이스피싱 등 딥페이크 음성 범죄가 늘어나는 국내 상황에서 실질적인 보안 대안이 될 수 있는 기술입니다.",
+          "article": {
+            "source": "Google News CES 국내 기업 (KR)",
+            "title": "메타크라우드, '딥보이스 잡는 온디바이스'로 CES 혁신상 - 동행일보",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tNFVRV3gybHNpSDA5REZ0UDRkUmcwU1JjSFVtTllSd2VaVzE2QktCSHVxc3RnX2pXVHNtNWVudjJPM3c0OFhiWTRJN2FmMjJ3dFJDYUJuY1pzS0VLb25XX0VhaHRLamJn?oc=5",
+            "published": "2026-11-24T23:33:00.000Z",
+            "snippet": "메타크라우드, '딥보이스 잡는 온디바이스'로 CES 혁신상 동행일보"
+          }
+        },
+        {
+          "index": 41,
+          "title_ko": "에이아이매틱스, CES 2027서 AI 비전검사 플랫폼 ‘AIM-T1’ 공개",
+          "summary": "에이아이매틱스가 CES 2027에서 미세 결함을 잡아내는 AI 비전검사 플랫폼 ‘AIM-T1’을 공개합니다. 북미 제조 공장의 인력난에 대응하는 솔루션으로 현지 시장을 공략할 계획입니다.",
+          "why": "국내 제조 AI 기업이 북미 제조업 리쇼어링 수요를 겨냥한다는 점에서 수출 기회를 보여줍니다.",
+          "article": {
+            "source": "Google News CES 혁신상·전시 (KR)",
+            "title": "에이아이매틱스, CES 2027서 AI 검사 플랫폼 'AIM-T1' 공개 - 한스경제",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xVzlnd2VGMFZNOVFLdXQ0N3h4OXlkb2ZxWWRaSGNZSWpUSko3RV9tRGlNZlNHaG05WFl2bDY0d3RpajBnY0t4TmxEN2FxV0EzTlVOX2RSRTQ0S2plbmI1RFo0Ymp4OWFHcG1j?oc=5",
+            "published": "2026-11-25T00:05:11.000Z",
+            "snippet": "에이아이매틱스, CES 2027서 AI 검사 플랫폼 'AIM-T1' 공개 한스경제"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해외 주요 기업",
+      "items": [
+        {
+          "index": 13,
+          "title_ko": "CES 2027: 앰바렐라·리퀴드 AI, 스마트 인프라용 엣지 AI 협력",
+          "summary": "반도체 기업 앰바렐라가 리퀴드 AI와 손잡고 스마트 인프라용 엣지 AI 솔루션을 CES 2027에서 선보입니다. 앰바렐라는 기기 자체에서 구동되는 ‘에이전틱 AI’도 이번 CES에서 처음 공개할 예정입니다.",
+          "why": "온디바이스·에이전틱 AI 경쟁이 본격화되면서 국내 반도체·스마트시티 업계도 대응 전략이 필요합니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "CES 2027: Ambarella and Liquid AI team up on edge AI for smart infrastructure - Traffic Technology Today",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRGNBM3F0X0xQSjRjRm1xa3hPTFdYSENkN3JGUU9vY2xoNk5rSGVIZUtfb1VlZEJCdTRZY0hVa2ZzSXhLd1JsOWZ1TUlOU2N3NThCaWw1WE1hTGdfMlZheU1sSENvQ1ZhbHFFcWpHTFl3cGl1MnVlSHYzSUhJSV84ZFV2T2V1c25tU09TNWlnZFpPOGxDMWUzQzFjVXB5NmREUHcwbWJKX0ZFRFpoakVadGJzTWlyOW5lb3ZZaENvNlFoY3JwbnVkSzEzcWtKQjlPZG1aM1I5VUdRanphc1hUeEJFSERIb1U?oc=5",
+            "published": "2026-11-25T09:56:51.000Z",
+            "snippet": "CES 2027: Ambarella and Liquid AI team up on edge AI for smart infrastructure Traffic Technology Today"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "얀마, CES 2027서 로보틱스·지능형 장비·에너지 솔루션 전시",
+          "summary": "일본 산업기계 기업 얀마가 CES 2027에서 로보틱스, 지능형 장비, 에너지 솔루션을 선보입니다. 농업·건설 장비 분야의 자동화 기술이 중심이 될 전망입니다.",
+          "why": "농기계·건설장비 자동화 경쟁이 CES 무대로 확장되고 있어 국내 관련 기업도 참고할 만합니다.",
+          "article": {
+            "source": "Google News CES 2027 (EN)",
+            "title": "Yanmar to showcase robotics, intelligent equipment, and energy solutions at CES 2027 - https://megaproject.com/",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOelFqanE2MTNRd0VRTmtVQnhFbFlCaDFJc01wRV9RMGxQUGgyaGFpNmFmSktPekFvaEZHWGN5UEhRak90UzlhQng2bUltdnpxQmFkNnF0NkVCalRpMm12WGVXQ0hsOUdGRHBWRU9PNjFmeU55akJ1Ml92ZU9weVN3RXhhVHJqZmVuLVU1YmlmbG5taG16czViRDNWaGtkVFRYbVBYeFozUVl5UmVNVDRabVd0bFVUVExLQ3I3SGdR?oc=5",
+            "published": "2026-11-25T20:19:37.000Z",
+            "snippet": "Yanmar to showcase robotics, intelligent equipment, and energy solutions at CES 2027 https://megaproject.com/"
+          }
+        }
+      ]
+    }
+  ]
+}
