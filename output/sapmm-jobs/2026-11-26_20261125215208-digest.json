@@ -1,0 +1,307 @@
+{
+  "overview": "오늘 SAP MM 관련 신규 공고는 5건으로, 세라젬의 SAP ERP MM 모듈 담당자(경력 5~10년, 과천·강남)와 의류 수출 중견기업 에스에프인촌의 SD/MM·PP·FI/CO 운영 경력 채용이 가장 눈에 띕니다. 요구 경력은 3~10년 사이 중간 연차가 중심이고, 사내 운영(SM)·유지보수 성격이 많습니다. 세라젬 공고에는 S/4HANA 전환 프로젝트 참여가 담당업무로 명시돼 있습니다. 제이투이·석세스코리아컨설팅 등 기존 MM 운영 공고도 계속 모집 중이며, 이 중 일부는 마감이 임박했습니다. 동국 계열사 소식으로는 장세욱 부회장이 철근 구조조정에 정부 지원이 필요하다고 밝혔고, 제강사 업황 악화와 미국 철강 공급 부족을 다룬 기사가 나왔습니다.",
+  "categories": [
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 37,
+          "title_ko": "세라젬 · SAP ERP MM 모듈 담당자",
+          "summary": "세라젬이 SAP ERP MM 모듈 운영·유지보수·개선과 SAP BRIM 솔루션 운영을 맡을 담당자를 찾습니다. 업무 범위는 현업 요구사항 분석·프로세스 설계, ABAP 개발·디버깅, 인터페이스 운영, S/4HANA 전환 및 ERP 구축·고도화 프로젝트 참여까지입니다. 경력 5~10년, 근무지는 경기 과천시·서울 강남구, 마감은 2026-12-13입니다.",
+          "why": "MM 전담 사내 포지션이면서 S/4HANA 전환 경험도 쌓을 수 있습니다. 다만 ABAP 개발 역량과 BRIM 운영도 함께 요구되고, 회사는 사원 741명 규모로 2025년 소폭 영업적자였습니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "[세라젬] SAP ERP MM 모듈 담당자",
+            "company": "(주)세라젬",
+            "link": "https://career.rememberapp.co.kr/job/posting/356868",
+            "published": "2026-11-25T06:00:00.000Z",
+            "snippet": "회사: (주)세라젬 / 경력: 5~10년 / 지역: 경기도 과천시, 서울특별시 강남구 / 마감: 2026-12-13 / • SAP ERP MM 모듈 운영·유지보수 및 개선 • SAP BRIM 솔루션 운영·유지보수 및 개선 • 현업 요구사항 분석 및 SAP 업무 프로세스 개선·설계 • ABAP 프로그램 개발·디버깅 및 장애 원인 분석 • SAP 및 유관 시스템 인터페이스 운영·개선 • SAP S/4HANA 전환 및 ERP 구축·고도화 프로젝트 참여 / 회사정보: 사원수 741명 / 매출액 3,812억 1천만원 (2025년) / 영업이익 -31억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜세라젬",
+              "employees": "741명",
+              "revenue": "3,812억 1천만원 (2025년)",
+              "operatingProfit": "-31억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/34574590"
+            },
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%84%B8%EB%9D%BC%EC%A0%AC"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 43,
+          "title_ko": "에스에프인촌 · SAP ERP 운영담당(SD/MM, PP, FI/CO) 경력",
+          "summary": "의류 수출 중견기업 에스에프인촌이 SD/MM, PP, FI/CO 모듈별 SAP ERP 운영 경력자를 채용합니다. 근무지는 서울 마포구, 경력 3년 이상, 대졸 이상, 정규직이며 마감은 12/25(금)입니다.",
+          "why": "경력 3년 이상부터 지원할 수 있는 사내 정규직 운영 포지션이고, MM은 SD와 묶여 있어 SD 경험이 있으면 유리할 수 있습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[의류 수출 중견기업] SAP ERP 운영담당(SD/MM, PP, FI/CO) 경력",
+            "company": "에스에프인촌(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55665382",
+            "published": "2026-11-25T00:00:00.000Z",
+            "snippet": "회사: 에스에프인촌(주) / 조건: 서울 마포구 경력3년↑ 대졸↑ 정규직 / 마감: ~ 12/25(금) / 분야: SAP , ERP , 의류·의상",
+            "jobHistory": {
+              "count": 3,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%97%90%EC%8A%A4%EC%97%90%ED%94%84%EC%9D%B8%EC%B4%8C(%EC%A3%BC)"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 41,
+          "title_ko": "핀커스코리아 · SAP FCM / SCM 컨설턴트",
+          "summary": "핀커스코리아가 SAP FCM·SCM 컨설턴트를 채용합니다. 근무지는 서울 강남구, 경력 5년 이상, 학력 무관, 정규직이며 마감은 12/10(목)입니다.",
+          "why": "SCM 영역이라 구매·자재 경험이 활용될 수 있지만, MM 모듈이 직접 포함되는지는 공고 원문에서 확인해야 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP FCM / SCM 컨설턴트",
+            "company": "(주)핀커스코리아",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55667887",
+            "published": "2026-11-25T00:00:00.000Z",
+            "snippet": "회사: (주)핀커스코리아 / 조건: 서울 강남구 경력5년↑ 학력무관 정규직 / 마감: ~ 12/10(목) / 분야: SAP , IT컨설팅 , 컨설턴트 , IT컨설팅 , SI개발 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%95%80%EC%BB%A4%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 42,
+          "title_ko": "소르테크 · SAP 컨설턴트 및 ABAP 개발자 대규모 채용",
+          "summary": "소르테크가 SAP 컨설턴트와 ABAP 개발자를 대규모로 채용합니다. 근무지는 경기 성남시 분당구, 경력 3년 이상, 학력 무관, 정규직이며 마감은 12/25(금)입니다.",
+          "why": "모집 모듈이 명시돼 있지 않아 MM 컨설턴트 포함 여부를 확인해야 하고, 회사는 사원 40명 규모의 소형 컨설팅사입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP 컨설턴트 및 ABAP 개발자 대규모 채용",
+            "company": "(주)소르테크",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55666024",
+            "published": "2026-11-25T00:00:00.000Z",
+            "snippet": "회사: (주)소르테크 / 조건: 경기 성남시 분당구 경력3년↑ 학력무관 정규직 / 마감: ~ 12/25(금) / 분야: ABAP , SAP , ERP , 소프트웨어개발 / 회사정보: 사원수 40명 / 매출액 97억 5천만원 (2025년) / 영업이익 2억 8,543만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜소르테크",
+              "employees": "40명",
+              "revenue": "97억 5천만원 (2025년)",
+              "operatingProfit": "2억 8,543만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/37305650"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%86%8C%EB%A5%B4%ED%85%8C%ED%81%AC"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "세라젬 · SAP 스페셜리스트",
+          "summary": "세라젬이 LinkedIn에 SAP 스페셜리스트 공고를 올렸으며, 근무지는 서울입니다. 경력·고용형태·마감일은 공고에 표시되어 있지 않습니다.",
+          "why": "같은 날 리멤버에 올라온 세라젬 MM 모듈 담당자 공고와 연관된 채용일 수 있으니 함께 확인해 볼 만합니다.",
+          "article": {
+            "source": "LinkedIn",
+            "title": "SAP Specialist",
+            "company": "(주)세라젬 ceragem",
+            "link": "https://kr.linkedin.com/jobs/view/sap-specialist-at-%EC%A3%BC-%EC%84%B8%EB%9D%BC%EC%A0%AC-ceragem-3256262983",
+            "published": "2026-11-25T00:00:00.000Z",
+            "snippet": "회사: (주)세라젬 ceragem / 지역: 서울, 대한민국",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%84%B8%EB%9D%BC%EC%A0%AC%20ceragem"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 107,
+          "title_ko": "석세스코리아컨설팅 · SAP SM 모듈 운영(FI, CO, SD, PP, MM) 담당자",
+          "summary": "MM을 포함한 SAP 모듈별 SM 운영 담당자를 모집합니다. 근무지는 서울 마포구, 경력 3년 이상, 대졸 이상, 정규직입니다.",
+          "why": "공고에 '내일마감'으로 표시돼 있어 마감이 임박했을 수 있으니 바로 확인이 필요합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP SM 모듈 운영 (FI, CO, SD, PP, MM) 담당자",
+            "company": "주) 석세스코리아컨설팅",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55637271",
+            "published": "2026-11-21T00:00:00.000Z",
+            "snippet": "회사: 주) 석세스코리아컨설팅 / 조건: 서울 마포구 경력3년↑ 대졸↑ 정규직 / 마감: 내일마감 / 분야: SAP , SI·시스템통합 , ERP , CRM , SCM 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%A3%BC)%20%EC%84%9D%EC%84%B8%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%A8%EC%84%A4%ED%8C%85"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 108,
+          "title_ko": "닥터파인드 · 글로벌 패션기업 SAP ERP 운영 모듈별(SD·MM·PP·FI·CO) 주임·과장급",
+          "summary": "글로벌 패션기업의 SAP ERP 운영 인력을 모듈별(MM 포함) 주임·과장급으로 채용합니다. 근무지는 서울 마포구, 경력 3~12년, 대졸 이상, 정규직입니다.",
+          "why": "'내일마감'으로 표시된 마감 임박 공고이고, 주임·과장급 연차를 대상으로 합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP 운영 모듈별(SD MM PP FI CO) 주임 과장급 글로벌 패션",
+            "company": "닥터파인드",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55636763",
+            "published": "2026-11-21T00:00:00.000Z",
+            "snippet": "회사: 닥터파인드 / 조건: 서울 마포구 경력 3~12년 대졸↑ 정규직 / 마감: 내일마감 / 분야: 의류무역 , 해외영업 , 무역거래 , 수출입 , 해외영업관리 외",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%8B%A5%ED%84%B0%ED%8C%8C%EC%9D%B8%EB%93%9C"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 95,
+          "title_ko": "로이컨설팅 · 글로벌 SAP 컨설팅펌 SAP 모듈 컨설턴트(전 모듈)",
+          "summary": "SAP 분야 글로벌 컨설팅펌이 MM을 포함한 전 모듈 컨설턴트를 서치펌을 통해 채용합니다. 근무지는 서울 강남구, 경력 4년 이상, 대졸 이상, 정규직이며 마감은 11/29(일)입니다.",
+          "why": "글로벌 펌의 구축 컨설턴트 기회이며, 마감이 11/29로 임박했습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[SAP분야 리딩 글로벌 컨설팅펌] SAP 모듈 컨설턴트 [전모듈]",
+            "company": "로이컨설팅(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55648375",
+            "published": "2026-11-23T00:00:00.000Z",
+            "snippet": "회사: 로이컨설팅(주) / 조건: 서울 강남구 경력4년↑ 대졸↑ 정규직 / 마감: ~ 11/29(일) / 분야: SAP , 서치펌",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%A1%9C%EC%9D%B4%EC%BB%A8%EC%84%A4%ED%8C%85(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 92,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "제이투이가 SAP MM 모듈 운영(SM) 인력을 모집합니다. 근무지는 서울 중구(동대문역사문화공원역 인근), 경력 6년 이상이며 즉시 지원할 수 있습니다.",
+          "why": "MM 전담 SM 포지션으로 경력 6년 이상이 필요하고, 고용형태와 마감일은 공고에서 확인해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM모듈 운영 (2)",
+            "company": "㈜제이투이",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50413125",
+            "published": "2026-11-23T01:47:41.420Z",
+            "jkCompanyNo": "23226043",
+            "snippet": "회사: ㈜제이투이 / 서울 중구 / 솔루션·SI·CRM·ERP, 웹개발자 / 즉시 지원 / 경력6년↑ / 회사정보: 사원수 120명 / 매출액 97억 6천만원 (2025년) / 영업이익 1억 1,482만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜제이투이",
+              "employees": "120명",
+              "revenue": "97억 6천만원 (2025년)",
+              "operatingProfit": "1억 1,482만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23226043"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 98,
+          "title_ko": "대원씨앤씨 · 반도체사 ERP 개발·운영(SAP MM / ABAP)",
+          "summary": "반도체 회사의 ERP 시스템 개발·운영을 맡을 SAP MM·ABAP 인력을 모집합니다. 근무지는 경기 성남시 분당구, 경력 5~15년, 학력 무관, 계약직·프리랜서이며 마감은 12/18(금)입니다.",
+          "why": "MM 기능과 ABAP를 함께 다룰 수 있는 계약직·프리랜서를 찾는 공고로, 반도체 업종 경험이 있으면 유리합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[분당] 반도체사 ERP 시스템 개발 & 운영 ( SAP MM / ABAP)",
+            "company": "(주)대원씨앤씨",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55643772",
+            "published": "2026-11-23T00:00:00.000Z",
+            "snippet": "회사: (주)대원씨앤씨 / 조건: 경기 성남시 분당구 경력 5~15년 학력무관 계약직·프리랜서 / 마감: ~ 12/18(금) / 분야: ABAP , SAP , ERP , SI·시스템통합 , ERP 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EB%8C%80%EC%9B%90%EC%94%A8%EC%95%A4%EC%94%A8"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 40,
+          "title_ko": "[동국제강] 장세욱 부회장 \"철강 구조조정엔 정부 지원 필요\"",
+          "summary": "장세욱 동국제강 부회장이 철강, 특히 철근 업계의 구조조정은 개별 기업만으로 추진하기 어렵다며 정부 지원이 필요하다고 밝혔습니다. 가격으로는 중국과 경쟁하기 어렵다는 인식도 함께 내비쳤습니다.",
+          "why": "철근 불황 속에서 동국제강이 감산·구조조정 방향을 정부 정책과 연계해 모색하고 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "장세욱 동국제강 부회장 \"철강 구조조정엔 정부 지원 필요 - 글로벌에픽",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96b2tvWWkxck9ObFZxazFXZDA2Q1RoUkRJXy1TOEdtajlpYlFHeWdHbGtkdVZmUFN4c2hZYzlxMnpHbUFZN3hrclRCYnl1aUNrNW9vNDBEVUQ1OF96SHFqUW4wU3c4S3dUaW13TUwyMkZjdWRwS1RGVzdvZDc?oc=5",
+            "published": "2026-11-25T01:31:35.000Z",
+            "snippet": "장세욱 동국제강 부회장 \"철강 구조조정엔 정부 지원 필요 글로벌에픽",
+            "isNew": true
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "[동국제강] 판매 부진·관세 겹친 제강사들 '눈물의 구조조정'",
+          "summary": "판매 부진에 관세 부담까지 겹치면서 국내 제강사들이 벼랑 끝 구조조정에 나서고 있다는 기사입니다. 동국제강을 포함한 전기로 제강업계의 업황 악화를 다뤘습니다.",
+          "why": "동국제강의 코일철근 셧다운 등 감산 기조가 업계 전반의 구조조정 흐름과 맞물려 있음을 보여줍니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "안 팔리고 관세 맞고… 벼랑 끝 제강사들 ‘눈물의 구조조정’ - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2YUhaT3U4UVVLS2pHdWo4SWFybFZKR3RDUGRSWWE2aDY3aWxRbl9IdmJHbXRXcHdDZ1h6LUlrVlVRVk9SLV81Qjg2enlrMjI0SGtWYjR3?oc=5",
+            "published": "2026-11-25T07:04:53.000Z",
+            "snippet": "안 팔리고 관세 맞고… 벼랑 끝 제강사들 ‘눈물의 구조조정’ 매일경제",
+            "isNew": true
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "[동국제강] 미국 철강 공급 부족 심화…포스코홀딩스·현대제철·동국제강 수혜 기대",
+          "summary": "미국 내 철강 공급 부족이 심해지면서 포스코홀딩스·현대제철·동국제강 등 국내 철강사의 수혜 가능성을 짚은 기사입니다.",
+          "why": "내수 불황 속에서 미국 수출과 해외 매출이 동국제강의 돌파구가 될 수 있다는 시각입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "미국 철강 공급 부족 심화…POSCO홀딩스· 현대제철·동국제강 뜨거워 질까 - 핀포인트뉴스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JTGk5azY0TzYtcktqQm8zdGlsUVJacDZkRURzN2h4U0VMa1FzLTVSMTBhOEV4NmpaM29ra2ZKRVRkcGtveUR0Mml4b2ozalBzZkt3S01mT2x3V25wR3RCLTV5eVhTVVBSRWdmVjZHTVUta2PSAXdBVV95cUxPWWdmTzBjaVZ5eWFYR3hJVFcxOXdfMmNVU1dvOFNRUWcyRm9Lc3N3STVxMUNvQmxIMXVDSHJPaEg3WHowbUJHYlRpbkhkY2FDdGxDdkpFaG1JU1I0eXpMeHRuaExmdU5LLU81bU0yWlFJSnF4anF3NA?oc=5",
+            "published": "2026-11-25T06:35:18.000Z",
+            "snippet": "미국 철강 공급 부족 심화…POSCO홀딩스· 현대제철·동국제강 뜨거워 질까 핀포인트뉴스",
+            "isNew": true
+          }
+        },
+        {
+          "index": 39,
+          "title_ko": "[동국제강그룹] 20번째 '아름다운하루' 개최…장세욱 부회장 사재 1,000만 원 기부",
+          "summary": "동국제강그룹이 24일 페럼타워에서 아름다운가게와 20번째 '아름다운하루' 나눔 행사를 열었습니다. 장세욱 부회장은 11년째 사재를 기부해 이번에 1,000만 원, 누적 1억 1,000만 원을 냈습니다. 여러 언론사 보도를 하나로 묶었습니다.",
+          "why": "그룹 차원의 장기 사회공헌 활동으로, 업황과는 직접 관련이 적은 기업 이미지 관련 소식입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국제강그룹 아름다운하루 개최…장세욱 부회장 1000만원 기부 : 기업 - 재경일보",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JWWl3a09GbGE1Y3UtbVlwLUZya0J0ZXBlWnpQRUV1MmxoaTIxSDV6TlJLemJQUG40SGxTdXpXVXNneV9xejJUWWU4aw?oc=5",
+            "published": "2026-11-25T04:26:47.000Z",
+            "snippet": "동국제강그룹 아름다운하루 개최…장세욱 부회장 1000만원 기부 : 기업 재경일보",
+            "isNew": true
+          }
+        },
+        {
+          "index": 81,
+          "title_ko": "[철강업계] 산업용 전기요금이 포항 철강·이차전지 압박…지역차등 요금제가 승부수",
+          "summary": "높은 산업용 전기요금이 포항 지역 철강·이차전지 산업을 압박하고 있으며, 지역별 차등 전기요금제가 쇠퇴를 막을 대안으로 거론된다는 기사입니다.",
+          "why": "전기로 비중이 큰 동국제강 계열에 전기요금은 핵심 원가 변수라 제도 변화를 지켜볼 만합니다.",
+          "article": {
+            "source": "Google News 동국씨엠",
+            "title": "산업용 전기요금이 포항 철강·이차전지 목줄…지역차등제, ‘쇠락의 길’ 끊을 승부수 - 경북도민일보",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVHRxc1ZpaFVETFd0Y0J4VVJJTDhnWVpMSXJhQmFJb19tcUR6VE9vMENQeV9UazJsRnZmREV5T0dJWmRoY0NVeWQtX3lfZmNjdTdOdzZzeDN6c2JvdlQxbTlXNjlwb1ljMWc?oc=5",
+            "published": "2026-11-24T01:50:42.000Z",
+            "snippet": "산업용 전기요금이 포항 철강·이차전지 목줄…지역차등제, ‘쇠락의 길’ 끊을 승부수 경북도민일보",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}
