@@ -1,0 +1,225 @@
+{
+  "overview": "■ 전날 미국 증시\n26일(현지) 미국 증시는 추수감사절로 휴장했습니다. 직전 거래일에는 다우가 0.3% 오르고 나스닥은 0.6% 내려 혼조로 마감했습니다. 나스닥은 장중 4.6%까지 밀렸다가 낙폭을 줄였고, S&P500은 7,182선에서 거래를 마쳤습니다. 엔비디아가 이사회의 젠슨 황 CEO 관련 조사 소식에 3.9% 하락했고, 마이크론도 트렌드포스의 2027년 메모리 전망 하향 여파로 이틀 새 15% 급락하는 등 반도체·대형 기술주가 약세를 주도했습니다. 휴장 중에도 S&P500 선물은 상승 마감했고, 유럽 증시는 기술주 불안이 누그러지며 강세를 보였습니다. 국채 현물 시장이 휴장해 금리 방향 신호는 제한적이었습니다. 다만 시장은 12월 연준의 25bp 금리 인상 가능성을 99.5% 반영하고 있습니다. 경기침체 우려 속에 금값이 반등한 점도 부담 요인입니다.\n\n■ 오늘 국내 증시 전망\n코스피·코스닥은 보합권 등락 가능성이 우세합니다. 직전 미국 장의 반도체 약세는 전날(26일) 국내 장에 이미 상당 부분 반영됐고, 미국 휴장으로 새로운 악재도 나오지 않았습니다. 코스피는 26일 장중 4,800선을 터치한 뒤 0.29% 오른 4,710선에서 마감해, 반등 탄력이 약하고 거래대금도 최저 수준이었습니다. S&P500 선물과 유럽 증시 강세는 긍정적 신호입니다. 반면 연준의 12월 인상 기대, 외국인의 대규모 매도(코스피 129조원), 연말 배당 역송금(23조원)은 원/달러 환율 상승과 외국인 수급에 부담으로 작용할 수 있습니다. 메모리 업황 전망 하향에 따른 삼성전자·SK하이닉스 등 반도체 대형주의 변동성이 핵심 리스크이고, 오늘 밤 블랙프라이데이 조기 폐장 장세도 확인이 필요합니다.",
+  "categories": [
+    {
+      "name": "미국 증시 마감",
+      "items": [
+        {
+          "index": 34,
+          "title_ko": "장중 4.6% 추락했다 0.6% 하락 마감…롤러코스터 탄 나스닥 [뉴욕마감]",
+          "summary": "추수감사절 휴장 직전 거래일에 나스닥은 장중 4.6%까지 급락했다가 0.6% 하락으로 낙폭을 줄여 마감했습니다. 다우는 0.3% 상승했고 S&P500은 7,182선에서 마감해 대형 기술주 약세 속 혼조세를 보였습니다. 엔비디아는 3.9% 하락했습니다.",
+          "why": "미국 기술주의 높은 변동성은 이미 전날 국내 장에 일부 반영됐지만, 삼성전자·SK하이닉스 등 반도체 대형주의 투자심리를 계속 누를 수 있습니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "장중 4.6% 추락, 0.6% 하락 마감…나스닥 롤러코스터[뉴욕마감] - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdUlNc25tV2tTZ2tVa2tsQTJrNkZjUzFOdmN2MnhONllyR1RFajctdERLdGZjVXZubXlRX2RPTnRsVUxjdzBFLTdLaEhCUmEtTjBzWUlIcE5xeUZJcENsOENrT3JCSXFm0gFuQVVfeXFMTWRzY3ppTk5RSnA2X2xaUTZEeWQzYllQSnkyXzRtYVFsOE5femZweG00bUNhLXNfczdrRmdZZEVwTlVicGgzTnNoLXlkMnloLUhIenp6c0h6QjFPTzdmYXlTX01RSjJ2ZUwwWERpTEE?oc=5",
+            "published": "2026-11-26T17:09:32.000Z",
+            "snippet": "장중 4.6% 추락, 0.6% 하락 마감…나스닥 롤러코스터[뉴욕마감] - 머니투데이 머니투데이"
+          }
+        },
+        {
+          "index": 14,
+          "title_ko": "추수감사절 거래서 유럽 증시 급등, S&P500 선물도 상승 마감",
+          "summary": "미국 현물 시장이 추수감사절로 휴장한 가운데 S&P500 선물과 다우 선물이 상승 마감했습니다. 유럽 증시도 기술주 불안이 누그러지며 강세를 보였습니다.",
+          "why": "휴장 중 선물 강세와 유럽 증시 반등은 오늘 국내 증시의 투매 심리를 완화하는 데 다소 긍정적인 신호입니다.",
+          "article": {
+            "source": "Google News Wall Street close (EN)",
+            "title": "European stocks surge, S&P 500 futures finish higher in Thanksgiving trading - investingLive",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2RSbUxfYXUxbTBnTXNyWWFlLUpDZWRkREdZMFJETTRIcHd6MjRweEZiamdicW4xbVFQY2tBemdfa3QyeFBjQTZCc29sMVpTV25SQVRtdjU5RWtFZVJMaDhWVWRqMGoxU0tuNktzT05GUGUwa1hpdnVtdEJnS2ZYbTRUZnQybzVvTmFPVUpvWHZlanR6bzRaZk1iNWNUeldiSFlXTmwxX3RfYnY3VXc?oc=5",
+            "published": "2026-11-26T19:41:37.000Z",
+            "snippet": "European stocks surge, S&P 500 futures finish higher in Thanksgiving trading investingLive"
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "닛케이225 전망: 엔비디아가 타격받은 일본 AI 관련주에 숨통",
+          "summary": "최근 급락했던 일본 AI 관련주가 엔비디아 관련 소식을 계기로 반등의 실마리를 찾고 있다는 분석입니다. 아시아 AI 관련 매매 심리가 일부 회복되는 흐름입니다.",
+          "why": "일본 AI·반도체주 반등 흐름이 이어지면 국내 반도체 장비·부품주의 심리 개선에도 제한적으로 도움이 될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Nikkei 225 Outlook: Nvidia Breathes Life into Japan’s Battered AI Trade - StoneX",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWhHdFhGWmRYd0o5UWs0bklMT2dNTGFlSEhKWmxHdmFzM2xvcVQ1dExwQ2pKQzRGTUp5RTNXX2FVX01YWVZ2a3dHeEROZmFVSFVVSEpxWFFOOUVEWFAtN0Y4eU9sRGYzRkJtdWtFdkVJV0xzSTE3QTJ0Z2VCSUV3am5ydmM3SjlNOUNvdm9yZ1FZckpZQjVmSHc5anhOa19pbXlUN25ETlBGM25NNXl2dEpRS3E2a1FUbGc?oc=5",
+            "published": "2026-11-26T17:03:37.000Z",
+            "snippet": "Nikkei 225 Outlook: Nvidia Breathes Life into Japan’s Battered AI Trade StoneX"
+          }
+        }
+      ]
+    },
+    {
+      "name": "매크로·금리·환율",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "시장, 연준의 12월 25bp 금리 인상 확률 99.5% 반영",
+          "summary": "금리 선물 시장이 12월 FOMC에서 연준이 기준금리를 0.25%포인트 인상할 가능성을 99.5%로 반영하고 있습니다. 사실상 인상을 기정사실로 받아들이는 분위기입니다.",
+          "why": "미국 금리 인상 기대는 달러 강세와 원/달러 환율 상승 압력을 키워 외국인 수급과 성장주·바이오주 밸류에이션에 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Markets Price 99.5% Chance of 25-Basis-Point Fed Hike in December - www.tokenpost.com",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56NDU3c0liZjJJcm14MVJxMnlzYUlzeHFzMm9keU5lWDM5b3drRVpXRVMwQVdKOFdKZkNGRU5rVENsOFFNT192NWNuUlNqVUlZUlo0NTMzcUNFZw?oc=5",
+            "published": "2026-11-26T16:54:26.000Z",
+            "snippet": "Markets Price 99.5% Chance of 25-Basis-Point Fed Hike in December www.tokenpost.com"
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "금값 반등은 경기침체 우려와 연준 인상 지속에 대한 의구심 반영 – StoneX 스탠리",
+          "summary": "StoneX의 스탠리는 최근 금값 반등이 경기침체에 대한 시장의 불안을 보여준다고 분석했습니다. 연준이 금리 인상을 끝까지 이어갈 수 있을지에 대한 의구심도 함께 반영됐다는 설명입니다.",
+          "why": "안전자산 선호가 강해지면 국내 증시에서도 경기민감주보다 방어주로 자금이 이동할 가능성이 있습니다.",
+          "article": {
+            "source": "Google News Fed·macro (EN)",
+            "title": "Gold’s rebound shows markets fear recession and doubt Fed rate follow-through – StoneX’s Stanley - Kitco",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMm9rMGNtNFVvUm5FVFpkWXFoVHlYaHlhSEkyb3dwa19IUXZiVk9rYkRXUVpBeWtXQTVfcUhYSTY5RUI0NVdNeWNZU1V2T0xzN211cWtwNWJBMzV1OWZCUVpoclloM2VxNWg2bkZUaUdFY0pZZ3NOQ3R6aWVYUmRMckFtNGJMbzdmRzBhbjdMeEowR1l4cFg3M1ppRGlDeDZ2Q3lTbFd6Tk91V1ZmMVE5LV9yT3U?oc=5",
+            "published": "2026-11-26T16:21:03.000Z",
+            "snippet": "Gold’s rebound shows markets fear recession and doubt Fed rate follow-through – StoneX’s Stanley Kitco"
+          }
+        }
+      ]
+    },
+    {
+      "name": "국내 증시 전망",
+      "items": [
+        {
+          "index": 49,
+          "title_ko": "'전강후약' 코스피 0.29% 상승…전날 급락 후 간신히 반등(종합)",
+          "summary": "코스피는 26일 장중 4,800선까지 올랐다가 상승폭을 대부분 반납하고 0.29% 오른 4,710선에서 마감했습니다. 금통위 결과를 소화하는 과정에서 거래대금은 최저 수준으로 줄었습니다. 미국 휴장으로 새 재료가 부족해 오늘도 4,700선 안팎의 보합권 등락 가능성이 우세합니다.",
+          "why": "반등 탄력이 약하고 거래가 위축된 만큼 반도체 대형주 수급에 따라 지수 방향이 좌우될 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "'전강후약' 코스피, 0.29% 상승…전날 급락후 간신히 반등(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xUF9tbGgwQVlFbXNTUWRlR25QU1I4UGk4OXFyUlhJUzQ2ZUlUSW9mX09IOF9IbTN4d1ZLRmhGOTZUdXZDREZUaERrMXZEdGM2U3B0cVJVTFFMTW5RZ3R4ddIBYEFVX3lxTE5xUF9tbGgwQVlFbXNTUWRlR25QU1I4UGk4OXFyUlhJUzQ2ZUlUSW9mX09IOF9IbTN4d1ZLRmhGOTZUdXZDREZUaERrMXZEdGM2U3B0cVJVTFFMTW5RZ3R4dQ?oc=5",
+            "published": "2026-11-26T07:12:19.000Z",
+            "snippet": "'전강후약' 코스피, 0.29% 상승…전날 급락후 간신히 반등(종합) 연합뉴스"
+          }
+        },
+        {
+          "index": 9,
+          "title_ko": "외국인, 코스피 129조원 매도하고 배당 23조원 수령…외환시장에 역송금 부담",
+          "summary": "외국인은 올해 코스피에서 129조원어치를 팔았고, 배당금으로 23조원을 받을 예정입니다. 연말·연초 배당금이 해외로 송금되면 원화 약세 압력이 커질 수 있다는 분석입니다.",
+          "why": "배당 역송금에 따른 원/달러 환율 상승은 외국인 순매도를 부추겨 지수 상단을 제한하는 요인이 될 수 있습니다.",
+          "article": {
+            "source": "Google News 외국인 수급·환율 (KR)",
+            "title": "외국인, 코스피 129조 팔고 배당 23조 받는다…외환시장 역송금 부담 - www.ebn.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JUXRlR251bkpNd1dDeU50dVNDeGUzV0pISkloVkxrUjZZQVdTalAxWUZoSHZxOVUtUkZEMlFXSjFTc25XVWE0OW41LW1UUXJVS2xxdmFWMndwanVyb3ViM0E0UGRfcGVH?oc=5",
+            "published": "2026-11-26T21:00:00.000Z",
+            "snippet": "외국인, 코스피 129조 팔고 배당 23조 받는다…외환시장 역송금 부담 www.ebn.co.kr"
+          }
+        },
+        {
+          "index": 12,
+          "title_ko": "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
+          "summary": "삼성전자 주가가 급락하면서 이를 2배로 추종하는 레버리지 상품이 하루 만에 19% 폭락했습니다. 개인 투자자의 손실이 커지며 시장의 충격이 부각되고 있습니다.",
+          "why": "레버리지 상품의 손실과 반대매매 우려는 삼성전자 등 반도체 대형주의 단기 변동성을 키우는 요인입니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실] - 세계일보",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VWTg3NFU5cUg4R0RqYjFxUFpsZVY2Y2hfdmhsa3BiaVFZdWVlMktmb0VJaWFTZkMyeURqN0c2OUNESWtWLTcwb0wzemNiR2JzOVhtb3VBSDNjMGkzQmRXd2toMFNkalZRVW9B0gFUQVVfeXFMTXl4ZFZxTmFRQ3hxYkRZWUh3UTIwY09zVUJGTllpc3YzNTZUQ0V3T2hyU3BMWkEwNktpZmljSURPcnJoelZKX1lPUmxsMmxNYkZYX3lE?oc=5",
+            "published": "2026-11-26T20:00:00.000Z",
+            "snippet": "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실] 세계일보"
+          }
+        },
+        {
+          "index": 1,
+          "title_ko": "반도체·방산주 줄줄이 하락에 집중투자 ETF '직격탄' [분석+]",
+          "summary": "반도체와 방산 업종이 동반 약세를 보이면서 이들 업종에 집중 투자하는 ETF의 수익률이 크게 떨어졌습니다. 그동안 시장을 주도하던 업종에 쏠렸던 자금이 흔들리고 있습니다.",
+          "why": "주도 업종의 ETF 자금 이탈이 이어지면 반도체·방산 대형주의 수급 부담이 오늘도 이어질 가능성이 있습니다.",
+          "article": {
+            "source": "Google News 반도체·대형주 (KR)",
+            "title": "반도체·방산주 줄줄이 밀리자…집중투자 ETF '직격탄' [분석+] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZHl0VVlkNUZIb09pZXM4a0VKQzlSWUF2TUhIZGV2VElnZnRZbm9xdEhfMWFsSTdVRGNmVy0zUXJsN3RVQVM3eXpPU09ZZTQ4WEhrdExuYjkxdw?oc=5",
+            "published": "2026-11-26T21:30:04.000Z",
+            "snippet": "반도체·방산주 줄줄이 밀리자…집중투자 ETF '직격탄' [분석+] 한국경제"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "[2027 증시 앵글⑧] 황승택 하나증권 센터장 \"내년 코스피 상단 8,500…1분기 반도체가 반등 주도\"",
+          "summary": "황승택 하나증권 리서치센터장은 내년 코스피 상단을 8,500으로 제시했습니다. 특히 1분기에는 반도체 업종이 반등을 이끌 것으로 전망했습니다.",
+          "why": "단기 조정에도 반도체 중심의 중장기 반등 기대가 유지되고 있어 저가 매수세가 유입될 가능성을 보여줍니다.",
+          "article": {
+            "source": "Google News 오늘 국내 증시 전망 (KR)",
+            "title": "[2027 증시 앵글⑧] 황승택 하나증권 센터장 \"내년 코스피 상단 8,500…1분기 반도체가 반등 주도\" - 뉴스투데이",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QNklXekI3NXhscEg0M3BXdWdpaWVsLU9RVnJvcFhzeXlPU1V1a2VRTGdId25TS01vNHM0WG5iT19DZ3dTSVNxTUp4SHBDZDZMenk2MlFuUXlNS3J0cUE?oc=5",
+            "published": "2026-11-26T20:00:10.000Z",
+            "snippet": "[2027 증시 앵글⑧] 황승택 하나증권 센터장 \"내년 코스피 상단 8,500…1분기 반도체가 반등 주도\" 뉴스투데이"
+          }
+        }
+      ]
+    },
+    {
+      "name": "반도체·주요 업종",
+      "items": [
+        {
+          "index": 32,
+          "title_ko": "트렌드포스의 2027년 메모리 전망 하향에 마이크론 4.53% 하락",
+          "summary": "대만 시장조사업체 트렌드포스가 2027년 메모리 업황 전망을 낮추자 마이크론 주가가 4.53% 하락했습니다. 마이크론은 이틀 새 약 15% 급락하며 메모리 업황 둔화 우려를 키웠습니다.",
+          "why": "메모리 업황 전망 하향은 삼성전자·SK하이닉스의 실적 기대를 낮춰 국내 반도체 대형주에 직접적인 부담 요인입니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Micron Stocks Fall 4.53% as TrendForce Cuts 2027 Memory Forecasts - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmstZl8tUGhsdjVuRFlQaUw4LWdZQkVJX19iZlhQZlZmX3FDZERCSDU4QURTdmpkd3NMNk9jTnlLMnUzdDBjcHJzanoxd1huaHNoSExWTGpwd1htSWxkVXU1Y2lvNERYSTFQYk41c0RzOEI2dUp5RURUdHExckRBazB5TnlZY1F4dUVmM1NkQi1PSUZJRC1MQkNOTjBTcTJjSkFOWldKOU8zUlRlcTRwVlRuOUJQSy1EeUxFS0sxRkxYQQ?oc=5",
+            "published": "2026-11-26T17:26:00.000Z",
+            "snippet": "Micron Stocks Fall 4.53% as TrendForce Cuts 2027 Memory Forecasts TradingView"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "엔비디아, 이사회의 젠슨 황 CEO 관련 조사 착수에 주가 5% 하락",
+          "summary": "엔비디아 이사회가 젠슨 황 CEO와 관련된 조사에 착수했다는 소식에 주가가 장중 5% 하락했고, 3.9% 내린 채 마감했습니다. 조사가 마무리되지 않아 투자의견을 '보유'로 제시하는 등 신중한 시각도 나오고 있습니다.",
+          "why": "엔비디아의 지배구조 불확실성은 HBM을 공급하는 SK하이닉스·삼성전자와 AI 반도체 관련주의 심리를 위축시킬 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Nvidia shares fall 5% as board opens inquiry involving CEO Jensen Huang - Crypto Briefing",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13dmhHY0FwdFNqYkl1ckdWS0lJQXV1NXpXSFdjdVJlQUJYMlJyQ0ZIRWVMS3ZtMFVoODNQVDdTWUZJRUtNR3o2MUpFZGJtc0Noai05R29TQTRGS2tNYXg4bDJ0aVJqN3hCSDRFa1NWM1Faam45cll5ampJalBDdw?oc=5",
+            "published": "2026-11-26T21:04:41.000Z",
+            "snippet": "Nvidia shares fall 5% as board opens inquiry involving CEO Jensen Huang Crypto Briefing"
+          }
+        },
+        {
+          "index": 38,
+          "title_ko": "엔비디아, 동남아시아 지역 첨단 칩 주문 일시 중단",
+          "summary": "엔비디아가 동남아시아 지역의 첨단 칩 주문을 일시 중단한 것으로 전해졌습니다. AI 반도체 공급망의 수요 흐름에 대한 불확실성이 커지고 있습니다.",
+          "why": "엔비디아의 주문 조정은 HBM 수요 둔화 우려로 이어져 SK하이닉스 등 국내 메모리·후공정 업체에 부정적일 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Nvidia Pauses Advanced Chip Orders in Southeast Asia - Investing News Network",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TSEJuajdiT01OOU1kaEFxam54MDA5ZHB6Z1NEdEJHb3hrUGt0QzN3b3hSUGVycTNJMlZBMVJkOVRRd2NERndoQUtfLVl6MDVvVGFGLVAwSDg3NGhJRmFSQ0NMLXY0QnBJN2M0Yw?oc=5",
+            "published": "2026-11-26T17:00:04.000Z",
+            "snippet": "Nvidia Pauses Advanced Chip Orders in Southeast Asia Investing News Network"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "EU 자율주행 표결 12월 15일로 연기에 테슬라 1.18% 하락",
+          "summary": "유럽연합이 자율주행 관련 표결을 12월 15일로 미루자 테슬라 주가가 1.18% 하락했습니다. 테슬라의 유럽 자율주행 사업 일정이 늦어질 수 있다는 우려가 반영됐습니다.",
+          "why": "테슬라 약세는 LG에너지솔루션 등 국내 2차전지와 전장 부품주 투자심리에 소폭 부담이 될 수 있습니다.",
+          "article": {
+            "source": "Google News chips·big tech (EN)",
+            "title": "Tesla Stocks Slip 1.18% as EU Delays Self-Driving Vote to December 15 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYk9lYWplZVhTSUtMaDU4SmNFRGh0X1g2TXI2d0RkcWpWUW55Um9qcHFxTG9Cb1ZwVWF6NFhIQUhUR2dndVpqa3NyQmdOWnN6bElkYm0yV3B6QVBicllhT2hVQlBGaDdOU1g2TmhTaUNYcm1OZjdLSUlTbzEyNjY1TTE0NkVUUGZDbzh2VEc2TW9ONXYtdi1TbG9LbHdWSGljbktHNG9zek80anZoZmNKbGV5NV9wYWkyNGp3X01HY292eWlvVi13?oc=5",
+            "published": "2026-11-26T19:03:57.000Z",
+            "snippet": "Tesla Stocks Slip 1.18% as EU Delays Self-Driving Vote to December 15 TradingView"
+          }
+        }
+      ]
+    },
+    {
+      "name": "오늘의 일정·이벤트",
+      "items": [
+        {
+          "index": 41,
+          "title_ko": "미국 증시 추수감사절 휴장…블랙프라이데이 장은 한국시간 28일 새벽 3시 조기 마감",
+          "summary": "미국 증시는 26일 추수감사절로 휴장했고, 27일(현지) 블랙프라이데이에는 단축 거래 후 한국시간 28일 새벽 3시에 마감합니다. 거래량이 적은 상태에서 연말 쇼핑 시즌 소비 지표에 대한 관심이 커질 전망입니다.",
+          "why": "블랙프라이데이 소비 동향은 다음 거래일 국내 소비재·IT 부품주 심리에 영향을 줄 수 있지만, 오늘 국내 장에는 재료 공백이 이어질 가능성이 큽니다.",
+          "article": {
+            "source": "Google News 뉴욕증시 마감 (KR)",
+            "title": "미국증시 추수감사절 휴장…블랙프라이데이 한국시간 28일 새벽 3시 마감 - 강릉뉴스",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwMUJDRkpGVUUzYUhINWh1eHFsR3JmVWs0S1owTDFRanlUYVh2amdYVEtzSUlwekp4NXJ2UDZkME15ZnJld2lIeTg1bWtsS0hiVVVJQUZ1X0hjM0RVelVpVkFjME10dzhNZVVwMFROQQ?oc=5",
+            "published": "2026-11-26T16:45:25.000Z",
+            "snippet": "미국증시 추수감사절 휴장…블랙프라이데이 한국시간 28일 새벽 3시 마감 강릉뉴스"
+          }
+        }
+      ]
+    }
+  ]
+}
