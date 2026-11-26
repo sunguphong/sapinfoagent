@@ -1,0 +1,199 @@
+{
+  "overview": "오늘 새로 올라온 SAP 공고는 코오롱베니트 PP, IBM SD·FI, 아이디에스앤트러스트 SD/PP/FI/CO 등 5건이지만, MM 모듈이 포함된 신규 공고는 없었습니다. 기존 공고 중에서는 세라젬 MM 담당자(경력 5~10년, S/4HANA 전환 참여 포함)와 대원씨앤씨·제이투이의 MM 운영 계약직·프리랜서 공고가 계속 유효합니다. 요구 경력은 3~6년 이상 운영(SM) 경험자 중심이며, 글로벌 컨설팅펌 전 모듈 구축 컨설턴트 공고는 마감이 임박했습니다. 동국 계열사 소식으로는 동국제강의 DKC 지급보증 691억원, 순이익 대비 고배당 논란 보도가 새로 나왔고, 동국씨엠과 아주스틸의 3분기 강판 거래(146억원)도 공시됐습니다.",
+  "categories": [
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 45,
+          "title_ko": "세라젬 · SAP ERP MM 모듈 담당자",
+          "summary": "근무지는 경기 과천·서울 강남, 경력 5~10년이며 마감은 2026-12-13입니다. 업무는 SAP MM과 BRIM 운영·유지보수, 현업 요구사항 분석과 프로세스 개선, ABAP 개발·디버깅, 인터페이스 운영입니다. S/4HANA 전환과 ERP 고도화 프로젝트에도 참여합니다.",
+          "why": "MM 전담 사내 포지션이고 S/4HANA 전환 경험을 쌓을 수 있으며, ABAP 역량이 함께 요구됩니다(마감 12/13).",
+          "article": {
+            "source": "리멤버",
+            "title": "[세라젬] SAP ERP MM 모듈 담당자",
+            "company": "(주)세라젬",
+            "link": "https://career.rememberapp.co.kr/job/posting/356868",
+            "published": "2026-11-25T06:00:00.000Z",
+            "snippet": "회사: (주)세라젬 / 경력: 5~10년 / 지역: 경기도 과천시, 서울특별시 강남구 / 마감: 2026-12-13 / • SAP ERP MM 모듈 운영·유지보수 및 개선 • SAP BRIM 솔루션 운영·유지보수 및 개선 • 현업 요구사항 분석 및 SAP 업무 프로세스 개선·설계 • ABAP 프로그램 개발·디버깅 및 장애 원인 분석 • SAP 및 유관 시스템 인터페이스 운영·개선 • SAP S/4HANA 전환 및 ERP 구축·고도화 프로젝트 참여",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%84%B8%EB%9D%BC%EC%A0%AC"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 91,
+          "title_ko": "대원씨앤씨 · 반도체사 ERP 개발·운영 (SAP MM / ABAP)",
+          "summary": "근무지는 경기 성남시 분당구, 경력 5~15년, 학력무관이며 고용형태는 계약직·프리랜서입니다. 반도체 회사의 ERP 시스템 개발·운영을 맡는 포지션으로, 마감은 12/18(금)입니다.",
+          "why": "MM과 ABAP을 함께 다룰 수 있는 경력 5년 이상 계약직·프리랜서에게 적합하며, 마감은 12/18입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[분당] 반도체사 ERP 시스템 개발 & 운영 ( SAP MM / ABAP)",
+            "company": "(주)대원씨앤씨",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55643772",
+            "published": "2026-11-23T00:00:00.000Z",
+            "snippet": "회사: (주)대원씨앤씨 / 조건: 경기 성남시 분당구 경력 5~15년 학력무관 계약직·프리랜서 / 마감: ~ 12/18(금) / 분야: ABAP , SAP , ERP , SI·시스템통합 , ERP 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EB%8C%80%EC%9B%90%EC%94%A8%EC%95%A4%EC%94%A8"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 118,
+          "title_ko": "제이투이 · SAP MM 모듈 운영(SM)",
+          "summary": "근무지는 서울 중구(동대문역사문화공원역), 경력 6년 이상, 초대졸 이상이며 고용형태는 프리랜서입니다. SAP MM 모듈 운영(SM) 업무이고 마감은 12/20(일)입니다.",
+          "why": "MM 운영 경력 6년 이상 프리랜서 대상 공고이며, 마감은 12/20입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM 모듈 운영 (2)",
+            "company": "(주)제이투이",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55631640",
+            "published": "2026-11-20T00:00:00.000Z",
+            "snippet": "회사: (주)제이투이 / 조건: 서울 중구 경력6년↑ 초대졸↑ 프리랜서 / 마감: ~ 12/20(일) / 분야: SAP , 웹개발 , SI·시스템통합",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 50,
+          "title_ko": "에스에프인촌 · [의류 수출 중견기업] SAP ERP 운영담당(SD/MM, PP, FI/CO)",
+          "summary": "근무지는 서울 마포구, 경력 3년 이상, 대졸 이상이며 정규직입니다. 의류 수출 중견기업에서 모듈별 SAP ERP 운영을 맡고, 마감은 12/25(금)입니다.",
+          "why": "경력 3년 이상이면 지원할 수 있는 MM 운영 정규직이며, 마감은 12/25입니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[의류 수출 중견기업] SAP ERP 운영담당(SD/MM, PP, FI/CO) 경력",
+            "company": "에스에프인촌(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55665382",
+            "published": "2026-11-25T00:00:00.000Z",
+            "snippet": "회사: 에스에프인촌(주) / 조건: 서울 마포구 경력3년↑ 대졸↑ 정규직 / 마감: ~ 12/25(금) / 분야: SAP , ERP , 의류·의상",
+            "jobHistory": {
+              "count": 3,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%97%90%EC%8A%A4%EC%97%90%ED%94%84%EC%9D%B8%EC%B4%8C(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 79,
+          "title_ko": "프로써치코리아 · [세계적 글로벌 컨설팅펌] PI 및 SAP ERP 컨설턴트",
+          "summary": "근무지는 서울 용산구, 경력 5~12년이며 마감은 2026-12-01입니다. SAP 전 모듈 대상으로 ERP 기반 프로세스 혁신(PI) 컨설팅과 SAP ERP 구축 컨설팅을 수행합니다.",
+          "why": "MM을 포함한 전 모듈 구축 컨설턴트 공고로, 마감이 12/1로 임박했습니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "[세계적 글로벌 컨설팅펌] PI 및 SAP ERP 컨설턴트(5년이상)",
+            "company": "(주)프로써치코리아",
+            "link": "https://career.rememberapp.co.kr/job/posting/275025",
+            "published": "2026-11-24T04:30:00.000Z",
+            "snippet": "회사: (주)프로써치코리아 / 경력: 5~12년 / 지역: 서울특별시 용산구 / 마감: 2026-12-01 / [모집 분야] - SAP 전 모듈 [담당업무] - SAP ERP 기반 프로세스 혁신(PI) 컨설팅 - SAP ERP 구축 컨설팅",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%84%EB%A1%9C%EC%8D%A8%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "동국제강·동국씨엠·동국시스템즈 소식",
+      "items": [
+        {
+          "index": 31,
+          "title_ko": "[동국제강] DKC에 691억원 지급보증",
+          "summary": "동국제강이 DKC에 대해 691억원 규모의 지급보증을 제공한다는 공시 브리핑 기사입니다.",
+          "why": "계열·관계사 지원에 따른 재무 부담과 그룹 내 자금 흐름을 가늠할 수 있는 소식입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[종목 브리핑] 동국제강, DKC 지급보증 691억원 - 비건뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ra1RiV2YyU0V6b0UxOUZxN0tQWXpBMzhBTnM2NHVKU3B2NHV3RVpoWEJMNGlBRDZNYjlEOGhJU3hha2RsN3ZFdW8yUmtmcnQ3NVpKSDk2Yy03c0ZPS1YxSEt5dUtwZw?oc=5",
+            "published": "2026-11-26T15:23:59.000Z",
+            "snippet": "[종목 브리핑] 동국제강, DKC 지급보증 691억원 비건뉴스",
+            "isNew": true
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "[동국제강] 순이익의 2.4배 '초고배당' 논란…지주사 배당 구조 비판",
+          "summary": "뉴스퀘스트 기획 시리즈 2편으로, 동국제강이 순이익의 2.4배에 이르는 배당을 실시해 차입으로 지주사에 이익을 몰아준다는 지적을 담았습니다. 앞선 1편에서는 연체 채권이 늘었는데도 대손충당금이 0원이라는 점을 문제 삼았습니다.",
+          "why": "배당 정책과 재무 건전성을 둘러싼 비판적 시각이 이어지고 있어 회사의 재무 상태를 판단할 때 참고할 만합니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[숫자로 보는 기업 실체]② 새어 나가는 자본과 오너 일가: ‘빚 내서 지주사 배 불리기?’ 동국제강, 순이익 2.4배 ‘초고배당’의 역설 - 뉴스퀘스트",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HcFdEYUlUWEtWSlZxdXFBWjVjUy1MeF8xVWYwd04tdzJJTVl5RVJ6Zll4bm1ITHp3QUFNM0VPRFFlOTFJTkhDbGQzSVlqUmNITWszd0stNjI0cURCa0ZkZUczVXRjRzFqUk5qMGw1OA?oc=5",
+            "published": "2026-11-26T02:24:50.000Z",
+            "snippet": "[숫자로 보는 기업 실체]② 새어 나가는 자본과 오너 일가: ‘빚 내서 지주사 배 불리기?’ 동국제강, 순이익 2.4배 ‘초고배당’의 역설 뉴스퀘스트",
+            "isNew": true
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "[철강업계] 한은 포항본부 \"전기료 10% 오르면 지역 철강 3사 1,867억원 부담\"",
+          "summary": "한국은행 포항본부는 전기요금이 10% 인상되면 포항 지역 주요 철강 3사의 부담이 1,867억원 늘어난다고 분석했습니다.",
+          "why": "전기로 비중이 큰 제강사일수록 원가 부담이 커지므로, 동국제강의 수익성에 영향을 줄 수 있는 변수입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "한은 포항본부 “전기료 10%↑ 시, 지역 주요 철강3社 1,867億 부담” - 철강금속신문",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LenlVRHpfUUNtdnlMS1RHeF9mU0l3OEJnamY2c1U2eE52dTdZZi16NUpPWkFrSnUwbVhWdE1ka0dkbTQzREZuTGVtSE51bmF6WWFsX2sxY1h5VG54ay1ZVlRKY1c4eE5Hbmc?oc=5",
+            "published": "2026-11-26T07:18:24.000Z",
+            "snippet": "한은 포항본부 “전기료 10%↑ 시, 지역 주요 철강3社 1,867億 부담” 철강금속신문",
+            "isNew": true
+          }
+        },
+        {
+          "index": 35,
+          "title_ko": "[철강업계] 美, 관세에 이어 피해 지원금까지 문제 삼아…한국 철강 '이중 압박'",
+          "summary": "미국이 한국산 철강에 관세를 부과한 데 이어, 국내 피해 지원금에도 문제를 제기하고 있다는 기사입니다. 한국 철강산업이 수출과 지원책 양쪽에서 압박을 받는 상황을 다뤘습니다.",
+          "why": "업계 구조조정과 정부 지원 논의에 직접 영향을 주는 통상 이슈로, 동국제강의 경영 환경에 부담 요인입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "관세 때리고 피해 지원금도 문제 삼은 美…한국 철강산업 '이중 압박' - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MTm5yeFFmbkFGcFcwMUdrOS1sTHhSU2RQeC00Vk1fRWU3cDNVY3JnOFZMUEt5VkwwQWhNRVNuZHExLUNaR0cwcUJKMnNVRXpKcXEySDBYbmJIQmNy?oc=5",
+            "published": "2026-11-26T06:05:00.000Z",
+            "snippet": "관세 때리고 피해 지원금도 문제 삼은 美…한국 철강산업 '이중 압박' 뉴스핌",
+            "isNew": true
+          }
+        },
+        {
+          "index": 116,
+          "title_ko": "[동국제강] 형강으로 활로 찾았지만…미국 AI 투자 속도가 변수",
+          "summary": "동국제강이 철근 불황 속에서 형강 사업으로 돌파구를 찾고 있지만, 미국 AI 관련 투자 속도가 실적의 변수로 꼽힌다는 IB토마토 분석입니다.",
+          "why": "철근 부진을 형강·해외 수요로 보완하려는 전략의 성패를 가늠할 수 있는 기사입니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "[IB토마토]동국제강, 형강으로 활로 찾았지만…미국 AI 투자 속도 변수 - 뉴스토마토",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50bUlTeDFHVzRLZXZPMXloak1VYXozcFhsX2hELUotY25vZW5leHBuVXI5eTB1N1FxcG5UQmc3VnRwNkxxNExOVUZKb3dRajhaeld0WmJfTWE3Ui1SdEgyRQ?oc=5",
+            "published": "2026-11-20T00:27:00.000Z",
+            "snippet": "[IB토마토]동국제강, 형강으로 활로 찾았지만…미국 AI 투자 속도 변수 뉴스토마토",
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "아주스틸 소식",
+      "items": [
+        {
+          "index": 32,
+          "title_ko": "[아주스틸] 동국씨엠과 3분기 강판 거래 146억원",
+          "summary": "동국씨엠과 아주스틸 사이에 3분기 강판 거래가 146억원 규모로 이뤄졌다는 공시 브리핑 기사입니다.",
+          "why": "동국씨엠 편입 이후 두 회사 간 내부거래 규모를 보여주며, 그룹 내 시너지 수준을 가늠할 수 있습니다.",
+          "article": {
+            "source": "Google News 동국제강",
+            "title": "동국씨엠, 아주스틸과 3분기 강판 거래 146억원 - 비건뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LTVQ5ZEd5Q1FIaU9QMi1WZTVSQ2ctVjE2ODJNRXdndnhhLVJnaVpRaEtDbnpnZFdBLVdaXzZKaDR5SXF3dFQ1ZDJjNG9ENm8wM0hxNTdobDRsYjRYV0xpTXNGbGN1dw?oc=5",
+            "published": "2026-11-26T14:46:36.000Z",
+            "snippet": "동국씨엠, 아주스틸과 3분기 강판 거래 146억원 비건뉴스",
+            "isNew": true
+          }
+        }
+      ]
+    }
+  ]
+}

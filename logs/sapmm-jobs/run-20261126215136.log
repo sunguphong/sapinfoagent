@@ -1,0 +1,41 @@
+2026-11-26T21:51:36.712Z run 20261126215136 start (agent=sapmm-jobs "SAP MM 구인정보", source=github, mode=send)
+2026-11-26T21:51:36.713Z collecting from 9 feeds...
+2026-11-26T21:51:49.653Z fetched 189, selected 120 (last 336h), feed errors: 1
+2026-11-26T21:51:49.653Z feed error: 잡코리아: fetch failed
+2026-11-26T21:57:04.472Z company info: 0 / 30 companies
+2026-11-26T21:57:04.472Z company info error: 디케이테크인: fetch failed
+2026-11-26T21:57:04.472Z company info error: 비에스지파트너스: fetch failed
+2026-11-26T21:57:04.472Z company info error: 지에스아이티엠(GS ITM): fetch failed
+2026-11-26T21:57:04.472Z company info error: 제이엠씨컨설팅: fetch failed
+2026-11-26T21:57:04.472Z company info error: 코오롱베니트: fetch failed
+2026-11-26T21:57:04.472Z company info error: 원티드_일본 현지 채용: fetch failed
+2026-11-26T21:57:04.472Z company info error: 씨제이올리브네트웍스(CJ올리브네트웍스): fetch failed
+2026-11-26T21:57:04.472Z company info error: 기웅정보통신: fetch failed
+2026-11-26T21:57:04.472Z company info error: 딜로이트(Deloitte): fetch failed
+2026-11-26T21:57:04.472Z company info error: 롯데그룹 (LOTTE): fetch failed
+2026-11-26T21:57:04.472Z company info error: 에스에이피(SAP): fetch failed
+2026-11-26T21:57:04.472Z company info error: 에스케이그룹 (SK): fetch failed
+2026-11-26T21:57:04.472Z company info error: IBM: fetch failed
+2026-11-26T21:57:04.472Z company info error: ASML: fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)아이디에스앤트러스트: fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)세라젬: fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)핀커스코리아: fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)소르테크: fetch failed
+2026-11-26T21:57:04.473Z company info error: 에스에프인촌(주): fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)세라젬 ceragem: fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)프로써치코리아: fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)에치와이: fetch failed
+2026-11-26T21:57:04.473Z company info error: 동국시스템즈(주): fetch failed
+2026-11-26T21:57:04.473Z company info error: 로이컨설팅(주): fetch failed
+2026-11-26T21:57:04.473Z company info error: 프로페셔날핸즈인핸즈코리아(주): fetch failed
+2026-11-26T21:57:04.473Z company info error: 티지소프트(주): fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)대원씨앤씨: fetch failed
+2026-11-26T21:57:04.473Z company info error: 주) 석세스코리아컨설팅: fetch failed
+2026-11-26T21:57:04.473Z company info error: 닥터파인드: fetch failed
+2026-11-26T21:57:04.473Z company info error: (주)제이투이: fetch failed
+2026-11-26T21:57:04.476Z job history: 317 postings, 39 cards with repeat company
+2026-11-26T21:57:04.479Z new: 15 / 120
+2026-11-26T21:57:04.479Z summarizing with claude (opus)...
+2026-11-26T21:57:42.239Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sapmm-jobs/2026-11-27_20261126215136.html
+2026-11-26T21:57:43.493Z mail sent: <3568ac98-0671-8359-f555-165a504a45a4@gmail.com> -> upsan77@gmail.com
+2026-11-26T21:57:43.497Z done
