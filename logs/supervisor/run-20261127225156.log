@@ -1,0 +1,14 @@
+2026-11-27T22:51:57.206Z run 20261127225156 start (agent=supervisor "총괄 에이전트", source=github, mode=send)
+2026-11-27T22:51:57.207Z waiting 483s until 08:00
+2026-11-27T23:00:01.799Z sap: sent
+2026-11-27T23:00:01.800Z realestate: sent
+2026-11-27T23:00:01.800Z stock: sent - 수집 경고 1건: Yahoo Finance: Status code 404
+2026-11-27T23:00:01.800Z skincare: sent
+2026-11-27T23:00:01.800Z sapmm-jobs: sent - 수집 경고 4건: Google News 동국제강: Status code 503 / Google News 동국씨엠: Status code 503 / Google News 동국시스템즈: Status code 503 / Google News 아주스틸: Status code 503
+2026-11-27T23:00:01.800Z ces: sent
+2026-11-27T23:00:01.800Z smallbiz: sent
+2026-11-27T23:00:01.800Z pc: SAP MM 구인정보 · 원티드 PC 수집본: ok 06:31 수집 · 30건
+2026-11-27T23:00:01.800Z pc: 관리 웹 공개 주소: ok 응답 정상
+2026-11-27T23:00:01.802Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/supervisor/2026-11-28_20261127225156.html
+2026-11-27T23:00:03.147Z mail sent: <7c158121-3a5a-7c51-c47b-1b6616a3bfdf@gmail.com> -> upsan77@gmail.com
+2026-11-27T23:00:03.148Z done

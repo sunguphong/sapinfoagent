@@ -473,5 +473,24 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-26T23:00:03.190Z",
     "finishedAt": "2026-11-26T23:00:03.190Z"
+  },
+  {
+    "id": "20261127225156",
+    "agent": "supervisor",
+    "startedAt": "2026-11-27T22:51:56.846Z",
+    "date": "2026-11-28",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261127225156.log",
+    "base": "2026-11-28_20261127225156",
+    "checked": 7,
+    "issues": 2,
+    "picked": 2,
+    "html": "2026-11-28_20261127225156.html",
+    "mailId": "<7c158121-3a5a-7c51-c47b-1b6616a3bfdf@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-27T23:00:03.147Z",
+    "finishedAt": "2026-11-27T23:00:03.148Z"
   }
 ]
