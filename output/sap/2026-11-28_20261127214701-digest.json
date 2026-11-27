@@ -1,0 +1,251 @@
+{
+  "overview": "SAP가 AI 중심 구조조정의 일환으로 최소 1만 명 규모의 인력 감축을 검토 중이라는 보도가 국내외에서 잇따랐고, SAP는 AI로 인해 역할과 직무가 바뀔 것이라고 밝혔습니다. 같은 시기 AI가 연루된 것으로 의심되는 보안 사고도 보도됐는데, SAP는 고객 데이터 유출 징후는 없다고 설명했습니다. 제품 측면에서는 CBAM 규제 대응 신규 릴리스, 에이전틱 AI 도입 로드맵 백서, S/4HANA Cloud Public Edition 실무 가이드가 공개됐습니다. 다음 주에는 부산에서 자동차 산업 대상 SAP 임원 교류 행사가 열립니다.",
+  "categories": [
+    {
+      "name": "비즈니스·시장",
+      "items": [
+        {
+          "index": 28,
+          "title_ko": "SAP, AI 전환 위해 최소 1만 개 일자리 감축 검토",
+          "summary": "SAP가 AI 중심으로 사업을 재편하면서 최소 1만 명 규모의 인력 감축을 검토하고 있다는 보도가 국내외 여러 매체에서 나왔습니다. 시장에서는 이를 AI 전환에 따른 대규모 구조조정의 추가 라운드로 보고 있습니다.",
+          "why": "SAP 내부 조직과 지원 체계가 바뀌면 파트너, 고객 지원, 컨설팅 생태계에도 영향이 미칠 수 있습니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "SAP, AI 전환에 최소 1만 개 일자리 감축 검토 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qVl90Tjk5T0p6eXlFOGx0SVF5eXB4OElxZ0dCMWlnMUZMaWdBT1cyQzI3UmtDbTlNaDFBYTFfNW02MkRkU19VVlh1MThHeTBhamZldW1B?oc=5",
+            "published": "2026-11-27T01:47:08.000Z",
+            "snippet": "SAP, AI 전환에 최소 1만 개 일자리 감축 검토 지디넷코리아"
+          }
+        },
+        {
+          "index": 7,
+          "title_ko": "SAP, 인도 감원설에 침묵… \"AI로 역할과 직무는 달라질 것\"",
+          "summary": "SAP는 인도 법인 감원 보도에 대해 구체적인 언급을 피했습니다. 다만 AI 도입으로 조직 내 역할과 기능이 변화할 것이라는 입장을 밝혔습니다.",
+          "why": "인도는 SAP 개발·지원 인력의 핵심 거점이어서, 변화가 생기면 지원 품질과 대응 속도에 영향이 있을 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "SAP mum on India layoffs, says roles and functions will change due to AI - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOGI2Z21mTnlrN0d6TERjc2czT25qSmYxSTNtQlJfajhLUU8zSVpsZmdlRzRiNnViQ1FsVkM2VEsxNU80bXRNWmpJdDFZZHA5c1VPQ0E2emtUWXJ6Q2RockJEVS1Gd1FmM0tIQVp6VWhUSXcya0xnN0lQbm9BcjJnTkJHLUVPMVVuYzc1d2duaXRuV2tnUHE3WXRuQVNsNmxCNDBsNmJ0OUlvUmhQcVFQMmxtcFF6OWRycG1idjM1bFBfUkpNVk5sUkhSSFNrdzlHWGlQenZIbXdRYVNpbG8ySmgxeHo?oc=5",
+            "published": "2026-11-27T12:47:43.000Z",
+            "snippet": "SAP mum on India layoffs, says roles and functions will change due to AI Moneycontrol.com"
+          }
+        },
+        {
+          "index": 17,
+          "title_ko": "AI에 뚫렸나… 유럽 1위 소프트웨어 기업 SAP 보안사고",
+          "summary": "SAP에서 AI가 연루된 것으로 의심되는 보안 사고가 발생했다는 보도가 나왔습니다. SAP는 의심스러운 활동을 조사하고 있으며, 현재까지 고객 데이터가 유출된 징후는 없다고 밝혔습니다.",
+          "why": "고객사 보안 담당자의 문의에 대비해 SAP의 공식 공지와 후속 조사 결과를 지켜볼 필요가 있습니다.",
+          "article": {
+            "source": "Google News (KR)",
+            "title": "AI에 뚫렸나…유럽 1위 SW업체 SAP 보안사고 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqQVVOdTVsU3l3Z01LeFJpYWJpYkRXdTEzVXlCX1dMbFVGTDdVTFVtYUFnNlQ2WXFnRlJZaUhaQ3U5cE1Od0FZa2NqWG1DMUpXU1Q2c1lZdGxMdknSAWBBVV95cUxPQlJRMkNSTHdjakh4eW1RZWNnbXhLOFR5eGhlX3I0STFURXMzUzl0MFhVcEtsV2t1YUsyZnNFZHRmenljcVRUR2JFb3Rvc0RuVUNRQ2diTVp4RWNUMG1Nc0I?oc=5",
+            "published": "2026-11-27T09:00:05.000Z",
+            "snippet": "AI에 뚫렸나…유럽 1위 SW업체 SAP 보안사고 연합뉴스"
+          }
+        },
+        {
+          "index": 18,
+          "title_ko": "향방을 가를 결정: 독일어권 SAP 사용자 그룹(DSAG) 이사회 선거",
+          "summary": "독일어권 최대 SAP 사용자 단체인 DSAG의 이사회 선거를 다룬 기사입니다. 새 이사회의 구성은 앞으로 SAP를 상대로 한 사용자 측 요구와 협상 방향에 영향을 줄 것으로 보입니다.",
+          "why": "DSAG는 라이선스, 유지보수 정책, 클라우드 전환 등에서 SAP에 사용자 목소리를 전달하는 대표 창구입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "A Decision That Sets the Course: The Election of the DSAG Board - E3-Magazin",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkdOdTJhVFowbDl1MkRycXZINlhaRExJS3MyYmxJNnF3N3JyRFdUa21xV3YtN2tPN0tlR3V5NU5xN1gyRjVyLWVJRU56Y0xKNl8zYzdNamx6NXpfU29DU1ZjdDRpRHE1andTMHBzS2RpTk5IbDQ4RVdWUFk3OU5fTTB3UW1rNUpr?oc=5",
+            "published": "2026-11-27T09:00:00.000Z",
+            "snippet": "A Decision That Sets the Course: The Election of the DSAG Board E3-Magazin"
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "남아프리카 유통기업, 주말 하루 만에 SAP 시스템 리프레시 달성",
+          "summary": "남아프리카의 한 유통기업이 SAP 시스템 리프레시(테스트·개발 환경 데이터 복제)를 주말 하루 안에 끝낼 수 있게 된 사례가 소개됐습니다.",
+          "why": "시스템 리프레시 시간을 줄이면 테스트 주기와 프로젝트 일정이 짧아져, 운영 효율을 높이려는 고객에게 참고할 만한 사례입니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Southern African Retailer Achieves Single-weekend SAP Refreshes - SAP News Center",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzd1RUEzREtQZVQwWkNKc2t0UWZnbjdHdVQxdWo2SlJ6TGsyM0lZVDFDcWdUdm1Fb1dpSlFzdTBGRFplTTlKMTAyVjNqRkFSVFNKd3Jac3lNLUFjZFVzUEpySW5oT2tRQXJtLU5femdkeEotdnY5TmwwQVYxSlJpRjZmMDVZTU9DZ09GaWdvTDJHejFJeUNVcTlHLTdZU2V2b1E?oc=5",
+            "published": "2026-11-26T07:19:07.000Z",
+            "snippet": "Southern African Retailer Achieves Single-weekend SAP Refreshes SAP News Center"
+          }
+        }
+      ]
+    },
+    {
+      "name": "제품/기술",
+      "items": [
+        {
+          "index": 10,
+          "title_ko": "CBAM 규제 대응: SAP 최신 릴리스가 신고 의무자에게 갖는 의미",
+          "summary": "EU 탄소국경조정제도(CBAM) 본격 시행까지 1년이 채 남지 않았지만, 많은 기업의 대응 프로세스는 여전히 수작업에 의존하고 분산돼 있습니다. SAP는 신고 의무자의 규제 대응을 지원하는 최신 릴리스 내용을 소개했습니다.",
+          "why": "EU로 수출하는 국내 제조 고객사에 CBAM 대응은 시급한 과제여서 관련 솔루션 제안 기회가 될 수 있습니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "Mastering CBAM Compliance: What SAP’s Latest Release Means for Declarants",
+            "link": "https://news.sap.com/2026/11/mastering-cbam-compliance-what-latest-sap-release-means-for-declarants/",
+            "published": "2026-11-27T11:15:00.000Z",
+            "snippet": "Businesses have less than a year to ensure their often manual and fragmented compliance processes are ready."
+          }
+        },
+        {
+          "index": 5,
+          "title_ko": "SAP는 플랫폼을 운영하고, 고객은 비즈니스를 운영한다",
+          "summary": "SAP S/4HANA Cloud Public Edition에서 SAP가 인프라, OS, 데이터베이스, 패치, 업그레이드, 백업, 성능을 모두 운영한다는 점을 설명하는 글입니다. 고객이 '무엇을 구매하고 무엇을 직접 관리해야 하는지'에 대한 책임 범위를 정리했습니다.",
+          "why": "Public Edition 도입을 검토하는 CIO에게 운영 책임 범위를 설명할 때 바로 활용할 수 있는 자료입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP Runs the Platform. You Run the Business.",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-runs-the-platform-you-run-the-business/ba-p/14529265",
+            "published": "2026-11-27T13:42:36.000Z",
+            "snippet": "Every CIO and enterprise architect eventually asks the same question about SAP S/4HANA Cloud Public Edition: \"What am I buying — and what do I still have to manage?\" The answer with SAP S/4HANA Cloud Public Edition is clear: By being a software- as -a -service solution, SAP operates your entire ERP landscape — infrastructure, OS, databases, patching, upgrades, backups, and performance — across 30+"
+          }
+        },
+        {
+          "index": 21,
+          "title_ko": "SAP S/4HANA Cloud Public Edition에서 기간 종속 세금(TDT)용 세금 코드 정의하기",
+          "summary": "세율이 특정 시행일부터 바뀌더라도 이전 기간 거래를 계속 처리할 수 있도록 하는 Time-Dependent Taxes(TDT) 기능의 세금 코드 설정 방법을 설명합니다. 정확한 세금 결정과 회계 전기의 일관성을 유지하는 방법을 다룹니다.",
+          "why": "세율 변경이 잦은 환경에서 FI 컨설턴트가 바로 적용할 수 있는 실무 설정 가이드입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Defining Tax Codes for Time-Dependent Taxes in SAP S/4HANA Cloud Public Edition",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/defining-tax-codes-for-time-dependent-taxes-in-sap-s-4hana-cloud-public/ba-p/14490662",
+            "published": "2026-11-27T08:00:44.000Z",
+            "snippet": "IntroductionTax regulations are subject to change, and businesses often need to update their tax rates from a specific effective date while continuing to support transactions from earlier periods. Managing such changes correctly in SAP is important to ensure accurate tax determination and avoid inconsistencies in financial postings.Time-Dependent Taxes (TDT) in SAP S/4HANA Cloud Public Edition pro"
+          }
+        },
+        {
+          "index": 11,
+          "title_ko": "SAP S/4HANA Cloud Public Edition: 효과적인 SAP 지원 케이스 작성 모범 사례",
+          "summary": "S/4HANA Cloud Public Edition과 SAP Central Business Configuration(CBC) 관련 지원 케이스를 만들 때 필요한 정보와 작성 요령을 정리한 글입니다. 처음부터 적절한 정보를 제공하면 문제 해결이 빨라지고 불필요한 추가 문의가 줄어듭니다.",
+          "why": "지원 케이스 처리 지연은 프로젝트 일정에 직접 영향을 주므로, 팀 내 케이스 작성 표준으로 삼기 좋습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "SAP S/4HANA Cloud Public Edition: Best Practices for Creating an Effective SAP Support Case",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-s-4hana-cloud-public-edition-best-practices-for-creating-an-effective/ba-p/14530707",
+            "published": "2026-11-27T10:37:02.000Z",
+            "snippet": "Are your SAP Support cases taking longer than expected to resolve? Providing the right information when creating a support case can significantly improve the efficiency of troubleshooting and reduce unnecessary follow-ups.This article shares practical guidelines and best practices for creating effective support cases for SAP S/4HANA Cloud Public Edition and SAP Central Business Configuration (CBC)"
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "2026년 새로운 기능: 마이그레이션 툴링부터 현대화, 콘텐츠 마이그레이션 에이전트까지",
+          "summary": "2026년에 추가된 마이그레이션 관련 기능을 정리한 글로, 기존 마이그레이션 도구에서 시작해 현대화 지원과 콘텐츠 마이그레이션 에이전트까지 다룹니다.",
+          "why": "S/4HANA 전환과 시스템 현대화 프로젝트에서 활용할 수 있는 최신 도구 현황을 파악하는 데 도움이 됩니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "What's New in 2026: From Migration Tooling to Modernization and Content Migration Agent",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/what-s-new-in-2026-from-migration-tooling-to-modernization-and-content/ba-p/14530248",
+            "published": "2026-11-26T22:29:31.000Z",
+            "snippet": "What's New in 2026: From Migration Tooling to Modernization and Content Migration Agent"
+          }
+        },
+        {
+          "index": 2,
+          "title_ko": "신규 e러닝 과정: 관리자를 위한 통합 SAP Signavio Process Intelligence 배포",
+          "summary": "관리자, 컨설턴트, 현업 사용자를 대상으로 통합 SAP Signavio Process Intelligence의 배포와 구성에 필요한 실무 지식을 다루는 새 e러닝 과정이 공개됐습니다.",
+          "why": "프로세스 마이닝 기반 혁신 과제가 늘고 있어 Signavio 구축 역량을 쌓기에 좋은 공식 학습 자료입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "New E-Learning Course: Deploying the Unified SAP Signavio Process Intelligence for Administrators",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/new-e-learning-course-deploying-the-unified-sap-signavio-process/ba-p/14530878",
+            "published": "2026-11-27T15:28:24.000Z",
+            "snippet": "Hello SAP Community,We are pleased to announce the availability of our new e-learning course, “Deploying the Unified SAP Signavio Process Intelligence for Administrators.”The course is designed to help administrators, consultants, and business users build the practical knowledge needed to deploy and configure SAP Signavio Process Intelligence and accelerate business process transformation.Through "
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI·BTP",
+      "items": [
+        {
+          "index": 14,
+          "title_ko": "첫 에이전틱 AI 활용 사례 만들기: 엔터프라이즈 AI 로드맵을 담은 신규 백서",
+          "summary": "SAP가 기업의 첫 에이전틱 AI 활용 사례 구축을 위한 로드맵 백서를 공개했습니다. 백서는 신뢰할 수 있는 데이터, 비즈니스 맥락, 사람의 책임, 자율성에 대한 단계적 접근을 성공 요건으로 제시합니다.",
+          "why": "고객과 AI 에이전트 도입을 논의할 때 범위를 정하고 거버넌스를 설계하는 데 참고할 수 있는 공식 프레임워크입니다.",
+          "article": {
+            "source": "SAP News Center",
+            "title": "Building Your First Agentic Use Case: New Whitepaper Offers a Road Map for Enterprise AI",
+            "link": "https://news.sap.com/2026/11/build-first-agentic-use-case-new-whitepaper-road-map-enterprise-ai/",
+            "published": "2026-11-27T10:15:00.000Z",
+            "snippet": "Enterprise AI success depends on trusted data, business context, human accountability, and a disciplined approach to autonomy."
+          }
+        },
+        {
+          "index": 26,
+          "title_ko": "S/4HANA 청구 자동화를 위해 AI 에이전트 4개를 오케스트레이션한 방법",
+          "summary": "SAP BTP에서 Joule, ORD, A2A, MCP와 전문 에이전트 4개를 연결해 청구 업무를 자동화하는 멀티 에이전트 시스템을 실제 운영 환경에 구축한 경험을 공유한 글입니다. 필자는 AI 자체보다 그 아래의 인프라 구성이 더 어려웠다고 강조합니다.",
+          "why": "BTP 기반 멀티 에이전트 아키텍처를 실제 운영에 적용한 사례로, 설계 시 직접 참고할 수 있습니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "How We Orchestrated Four AI Agents to Automate Billing in S/4HANA",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/how-we-orchestrated-four-ai-agents-to-automate-billing-in-s-4hana/ba-p/14522549",
+            "published": "2026-11-27T04:48:36.000Z",
+            "snippet": "Building a multi-agent billing system on SAP BTP taught me that the hard part isn't the AI, it's the infrastructure underneath it. Here's how we wired Joule, ORD, A2A, MCP, and four specialist agents together into a production system."
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "발도르프의 별: SAP의 AI 네이티브 아키텍처",
+          "summary": "SAP가 추진하는 AI 네이티브 아키텍처의 방향과 의미를 분석한 E3-Magazin 기사입니다.",
+          "why": "SAP 제품 전략이 AI 중심으로 재편되는 흐름을 이해하면 고객의 중장기 로드맵 수립에 도움이 됩니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "Der Stern on Walldorf: SAP's AI-Native Architecture - E3-Magazin",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVUF9IdDFIWjVxazBjVnFsZU91aGozNlZRUzFmNDJCTEpmcWY0cjJUbVJVTGhZRlkyUE1IYUMtYXd1U3B5UEl6dWg3empLSVNGWTdlSW1zenVHNDFNdGFRYWdWQk1OSjJOQTZXVklOX254Z0Z1M0hr?oc=5",
+            "published": "2026-11-26T11:41:06.000Z",
+            "snippet": "Der Stern on Walldorf: SAP's AI-Native Architecture E3-Magazin"
+          }
+        }
+      ]
+    },
+    {
+      "name": "커뮤니티·기술팁",
+      "items": [
+        {
+          "index": 6,
+          "title_ko": "SAP on IBM i 11월 웹캐스트 녹화본 및 발표 자료 공개",
+          "summary": "2026년 11월 19일에 열린 SAP on IBM i 웹캐스트의 녹화본과 발표 슬라이드를 내려받을 수 있게 됐습니다.",
+          "why": "IBM i 플랫폼에서 SAP를 운영하는 고객을 지원하는 기술 담당자에게 유용한 자료입니다.",
+          "article": {
+            "source": "SAP Community (Technology Blog)",
+            "title": "Recording and slide deck of SAP on IBM i November webcast available for download",
+            "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/recording-and-slide-deck-of-sap-on-ibm-i-november-webcast-available-for/ba-p/14530819",
+            "published": "2026-11-27T12:53:01.000Z",
+            "snippet": "Did you miss the SAP on IBM i Webcast on November 19, 2026? Here you can find the link to download the slides and the recording."
+          }
+        }
+      ]
+    },
+    {
+      "name": "세미나·박람회·웨비나",
+      "items": [
+        {
+          "index": 0,
+          "title_ko": "[12.03] SAP Executive Exchange for Busan (Automotive)",
+          "summary": "일시: 2026년 12월 3일(목). 장소: 부산광역시 부산진구(오프라인). 자동차 산업을 대상으로 한 무료 강연·세미나로, 온오프믹스에 등록돼 있습니다. 접수 상태는 오늘 기준 '외부접수 마감 5일 전'이며, 주최는 목록에서 별도로 확인되지 않습니다.",
+          "why": "부산·경남 지역 자동차 산업 고객과 SAP AI 활용 방안을 논의할 수 있는 현장 네트워킹 기회입니다.",
+          "article": {
+            "source": "온오프믹스 SAP 행사",
+            "title": "SAP Executive Exchange for Busan(Automotive)",
+            "link": "https://onoffmix.com/event/353329",
+            "published": "2026-11-27T21:47:03.129Z",
+            "snippet": "일시: 2026.12.3 (목) 0:00 ~ 23:59 / 장소: 부산광역시 부산진구 / 무료 강연/세미나 / 접수 상태(오늘 기준): 외부접수 마감 5일전 / 태그: #sap #AI #Busan"
+          }
+        },
+        {
+          "index": 33,
+          "title_ko": "[12.08] EPI-USE Labs INSPIRE Virtual: SAP의 미래를 탐색하다",
+          "summary": "일시: 2026년 12월 8일. 형식: 온라인(가상) 행사. 주최: EPI-USE Labs. 유무료 여부와 접수 상태는 기사에서 확인되지 않습니다.",
+          "why": "SAP 데이터 관리와 전환 전략에 관한 파트너사의 인사이트를 온라인으로 얻을 수 있습니다.",
+          "article": {
+            "source": "Google News 행사 (EN)",
+            "title": "EPI-USE Labs hosts INSPIRE Virtual event on 8 December: Navigate your SAP future - openPR.com",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlJPV1d0Y2R2cG1xQzNsVU92LThqVUZqZjEtQ3oySzJxcjJnU01ENkowZGo5Q3FkRmpEaW92ellvblNVS21BZkpoY3k0RmpBajJLZ2ZiMVlqdVFpTlc3Sy1NNUpfN3VxN1hPSjdjZGJ6RHdTRmM1TXNiNDVnVXBST3c3NUJlREM4b3BFZ05PXzRHclNPcG12elQtQzNMLXNT?oc=5",
+            "published": "2026-11-26T10:15:36.000Z",
+            "snippet": "EPI-USE Labs hosts INSPIRE Virtual event on 8 December: Navigate your SAP future openPR.com"
+          }
+        }
+      ]
+    }
+  ]
+}
