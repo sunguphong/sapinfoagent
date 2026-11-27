@@ -1,0 +1,14 @@
+2026-11-27T21:51:47.776Z run 20261127215147 start (agent=sapmm-jobs "SAP MM 구인정보", source=github, mode=send)
+2026-11-27T21:51:47.777Z collecting from 9 feeds...
+2026-11-27T21:51:57.772Z fetched 127, selected 70 (last 336h), feed errors: 4
+2026-11-27T21:51:57.773Z feed error: Google News 동국제강: Status code 503
+2026-11-27T21:51:57.773Z feed error: Google News 동국씨엠: Status code 503
+2026-11-27T21:51:57.773Z feed error: Google News 동국시스템즈: Status code 503
+2026-11-27T21:51:57.773Z feed error: Google News 아주스틸: Status code 503
+2026-11-27T21:52:36.464Z company info: 14 / 43 companies
+2026-11-27T21:52:36.468Z job history: 327 postings, 47 cards with repeat company
+2026-11-27T21:52:36.470Z new: 10 / 70
+2026-11-27T21:52:36.470Z summarizing with claude (opus)...
+2026-11-27T21:53:15.399Z html saved: /home/runner/work/sapinfoagent/sapinfoagent/output/sapmm-jobs/2026-11-28_20261127215147.html
+2026-11-27T21:53:16.137Z mail sent: <8f497048-b50c-2bbb-a156-fde22301ed4e@gmail.com> -> upsan77@gmail.com
+2026-11-27T21:53:16.140Z done

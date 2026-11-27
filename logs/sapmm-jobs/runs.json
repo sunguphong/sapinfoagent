@@ -886,5 +886,31 @@
     "mailTo": "upsan77@gmail.com",
     "mailSentAt": "2026-11-26T21:57:43.496Z",
     "finishedAt": "2026-11-26T21:57:43.496Z"
+  },
+  {
+    "id": "20261127215147",
+    "agent": "sapmm-jobs",
+    "startedAt": "2026-11-27T21:51:47.766Z",
+    "date": "2026-11-28",
+    "source": "github",
+    "mode": "send",
+    "status": "success",
+    "log": "run-20261127215147.log",
+    "base": "2026-11-28_20261127215147",
+    "fetched": 127,
+    "selected": 70,
+    "usedHours": 336,
+    "feedErrors": [
+      "Google News 동국제강: Status code 503",
+      "Google News 동국씨엠: Status code 503",
+      "Google News 동국시스템즈: Status code 503",
+      "Google News 아주스틸: Status code 503"
+    ],
+    "picked": 13,
+    "html": "2026-11-28_20261127215147.html",
+    "mailId": "<8f497048-b50c-2bbb-a156-fde22301ed4e@gmail.com>",
+    "mailTo": "upsan77@gmail.com",
+    "mailSentAt": "2026-11-27T21:53:16.139Z",
+    "finishedAt": "2026-11-27T21:53:16.139Z"
   }
 ]

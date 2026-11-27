@@ -1,0 +1,319 @@
+{
+  "overview": "오늘 SAP MM 관련 신규 공고는 8건으로, 화장품·생활용품 중견기업(리만코리아, 락앤락 등)의 SD/MM·SCM 운영 포지션이 가장 많습니다. 구축 프로젝트로는 SK하이닉스 차세대 ERP(i-ERP)의 구매(MM) ABAP 고급개발자 공고가 눈에 띄고, 락앤락은 S/4HANA 기반 MM/SRM 운영 인력을 찾고 있습니다. 요구 경력은 대부분 4~6년 이상의 중간 연차이며, 사내 운영(SM) 비중이 구축·S/4HANA 전환보다 높습니다. 이전에 보낸 공고 가운데 세라젬 MM, 제이투이 MM 운영, 대원씨앤씨 반도체사 MM/ABAP 공고는 아직 모집 중입니다.",
+  "categories": [
+    {
+      "name": "구축·S/4HANA 프로젝트",
+      "items": [
+        {
+          "index": 39,
+          "title_ko": "에버원소프트 · SK하이닉스 차세대 ERP(i-ERP) SAP 구매(MM) ABAP 고급개발자",
+          "summary": "SK하이닉스 차세대 ERP(i-ERP) 프로젝트에서 SAP 구매(MM) 영역 ABAP 개발을 맡을 고급개발자를 뽑습니다. 근무지는 경기 성남시(정자)이고 경력 3년 이상입니다. 지원 방식은 즉시 지원이며 마감일은 나와 있지 않습니다.",
+          "why": "MM 업무 이해와 ABAP 고급 개발 역량을 함께 요구하는 대형 차세대 구축 프로젝트로, 성남 정자 근무와 경력 3년 이상 조건을 확인하세요.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[정자]SK하이닉스 - SKHy 차세대ERP(i-ERP) SAP 구매(MM) ABAP 고급개발자",
+            "company": "㈜에버원소프트",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50439466",
+            "published": "2026-11-26T08:00:04.263Z",
+            "jkCompanyNo": "97497",
+            "snippet": "회사: ㈜에버원소프트 / 경기 성남시 / 솔루션·SI·CRM·ERP, 시스템엔지니어, 네트워크엔지니어, 보안엔지니어 / 즉시 지원 / 경력3년↑ / 회사정보: 사원수 127명 / 매출액 251억 / 영업이익 26억 3천만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜에버원소프트",
+              "employees": "127명",
+              "revenue": "251억",
+              "operatingProfit": "26억 3천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/97497"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%97%90%EB%B2%84%EC%9B%90%EC%86%8C%ED%94%84%ED%8A%B8"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "운영(SM)·유지보수",
+      "items": [
+        {
+          "index": 33,
+          "title_ko": "락앤락 · SAP S/4HANA ERP 운영 담당자(MM/SRM)",
+          "summary": "락앤락이 S/4HANA 기반 ERP의 MM/SRM 모듈 운영 담당자를 채용합니다. 근무지는 서울 중구이고, 경력직이지만 연차는 명시되어 있지 않습니다. 회사 홈페이지에서 지원하며 마감일은 나와 있지 않습니다.",
+          "why": "S/4HANA 환경의 MM·SRM 운영 경험을 쌓을 수 있는 중견 소비재 기업 사내 포지션입니다. 서울 중구 근무이며 요구 연차는 공고 원문에서 확인해야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "SAP S/4HANA ERP운영 담당자 - MM/SRM 채용",
+            "company": "락앤락",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50441855",
+            "published": "2026-11-27T00:49:55.307Z",
+            "jkCompanyNo": "38208704",
+            "snippet": "회사: 락앤락 / 탄탄한 중견기업 / 서울 중구 / 생활용품·소비재·기타, 시스템엔지니어 / 홈페이지 지원 / 경력 / 회사정보: 사원수 350명 / 매출액 5,000억원 / 영업이익 -",
+            "companyInfo": {
+              "title": "㈜락앤락",
+              "employees": "350명",
+              "revenue": "5,000억원",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/38208704"
+            },
+            "jobHistory": {
+              "count": 3,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EB%9D%BD%EC%95%A4%EB%9D%BD"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 32,
+          "title_ko": "리만코리아 · ERP팀 SCM 운영 및 기획(SAP SD/MM, 대리~과장)",
+          "summary": "생활화학·화장품 중견기업 리만코리아의 ERP팀에서 SAP SD/MM 모듈 기반 SCM 운영과 기획을 맡을 대리~과장급 인력을 뽑습니다. 근무지는 서울 강남구이고 경력 5년 이상입니다. 회사 홈페이지에서 지원하며 마감일은 나와 있지 않습니다.",
+          "why": "SD와 MM을 함께 다루는 SCM 운영·기획 직무로 경력 5년 이상의 대리~과장급이 대상이며, 매출 8천억 원대 중견기업이라는 점이 장점입니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[리만코리아] ERP팀 SCM 운영 및 기획 (SAP SD/MM 모듈) (대리~과장)",
+            "company": "㈜리만코리아",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50442144",
+            "published": "2026-11-27T01:23:06.843Z",
+            "jkCompanyNo": "37229335",
+            "snippet": "회사: ㈜리만코리아 / 탄탄한 중견기업 / 서울 강남구 / 생활화학·화장품, 회계담당자, 물류관리자, 무역사무원 / 홈페이지 지원 / 경력5년↑ / • / 회사정보: 사원수 300명 / 매출액 8,051억 / 영업이익 -",
+            "companyInfo": {
+              "title": "㈜리만코리아",
+              "employees": "300명",
+              "revenue": "8,051억",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/37229335"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EB%A6%AC%EB%A7%8C%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 34,
+          "title_ko": "프로페셔날핸즈인핸즈코리아 · 중견기업 SCM 기획·운영(SAP SD/MM, 과장급)",
+          "summary": "헤드헌팅사가 중견 화장품 기업의 SAP SD/MM 기반 SCM 기획·운영 과장급 인력을 모집합니다. 근무지는 서울 강남구이며 경력 6~13년, 대졸 이상, 정규직이고 마감일은 12/27(일)입니다.",
+          "why": "경력 6~13년 과장급 정규직으로 마감까지 여유가 있으며, 업종과 지역이 비슷한 리만코리아 공고와 같은 자리일 수 있으니 확인해 보세요.",
+          "article": {
+            "source": "사람인",
+            "title": "중견기업 SCM기획 운영(SAP SD, MM) (과장급) 정규직 채용",
+            "company": "프로페셔날핸즈인핸즈코리아(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55693732",
+            "published": "2026-11-27T00:00:00.000Z",
+            "snippet": "회사: 프로페셔날핸즈인핸즈코리아(주) / 조건: 서울 강남구 경력 6~13년 대졸↑ 정규직 / 마감: ~ 12/27(일) / 분야: SAP , SCM , SAPSD , SAPMM , 화장품",
+            "jobHistory": {
+              "count": 4,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%ED%94%84%EB%A1%9C%ED%8E%98%EC%85%94%EB%82%A0%ED%95%B8%EC%A6%88%EC%9D%B8%ED%95%B8%EC%A6%88%EC%BD%94%EB%A6%AC%EC%95%84(%EC%A3%BC)"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 36,
+          "title_ko": "프로페셔날핸즈인핸즈코리아 · 중견 소비재 기업 ERP·SAP SD/MM 모듈 운영 및 관리",
+          "summary": "헤드헌팅사가 중견 소비재 기업의 ERP와 SAP SD/MM 모듈 운영·관리 인력을 모집합니다. 근무지는 서울 강남구이며 경력 5~11년, 대졸 이상, 정규직이고 채용 시 마감됩니다.",
+          "why": "경력 5~11년 정규직 SD/MM 운영 포지션이며, 채용 시 마감이므로 관심이 있으면 일찍 지원하는 것이 좋습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[중견소비재] ERP, SAP SD/MM 모듈 운영 및 관리",
+            "company": "프로페셔날핸즈인핸즈코리아(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55690765",
+            "published": "2026-11-27T00:00:00.000Z",
+            "snippet": "회사: 프로페셔날핸즈인핸즈코리아(주) / 조건: 서울 강남구 경력 5~11년 대졸↑ 정규직 / 마감: 채용시 / 분야: ERP , 헤드헌팅",
+            "jobHistory": {
+              "count": 4,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%ED%94%84%EB%A1%9C%ED%8E%98%EC%85%94%EB%82%A0%ED%95%B8%EC%A6%88%EC%9D%B8%ED%95%B8%EC%A6%88%EC%BD%94%EB%A6%AC%EC%95%84(%EC%A3%BC)"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 31,
+          "title_ko": "앤솔루션 · [나주] SAP ERP FI/MM 시스템 운영자(추가모집)",
+          "summary": "전남 나주시에서 근무할 SAP ERP FI/MM 시스템 운영자를 추가로 모집합니다. 경력 4년 이상이 필요하며 즉시 지원할 수 있고, 마감일은 나와 있지 않습니다.",
+          "why": "FI와 MM을 함께 운영하는 자리로 경력 4년 이상이 필요하며, 근무지가 나주라서 지방 근무가 가능한지 먼저 따져 봐야 합니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "[나주] SAP ERP FI/MM 시스템운영자 추가모집",
+            "company": "㈜앤솔루션",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50443577",
+            "published": "2026-11-27T03:35:26.847Z",
+            "jkCompanyNo": "40297808",
+            "snippet": "회사: ㈜앤솔루션 / 전남광주 나주시 / 솔루션·SI·CRM·ERP, 백엔드개발자, 프론트엔드개발자, 소프트웨어개발자 / 즉시 지원 / 경력4년↑ / 회사정보: 사원수 74명 / 매출액 65억 9천만원 (2025년) / 영업이익 9억 8,598만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜앤솔루션",
+              "employees": "74명",
+              "revenue": "65억 9천만원 (2025년)",
+              "operatingProfit": "9억 8,598만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/40297808"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%EC%95%A4%EC%86%94%EB%A3%A8%EC%85%98"
+            },
+            "isNew": true
+          }
+        },
+        {
+          "index": 37,
+          "title_ko": "핀커스코리아 · SAP ERP SCM 모듈 운영 및 개발",
+          "summary": "SAP ERP SCM 모듈의 운영과 개발을 맡을 인력을 뽑습니다. 근무지는 서울 강남구이며 경력 5년 이상, 학력 무관, 정규직이고 마감일은 12/12(토)입니다.",
+          "why": "SCM 모듈 운영·개발 직무지만 MM이 포함되는지는 명시되어 있지 않으니, 공고 원문에서 담당 모듈과 ABAP 개발 비중을 확인하세요.",
+          "article": {
+            "source": "사람인",
+            "title": "SAP ERP SCM 모듈운영 및 개발",
+            "company": "(주)핀커스코리아",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55689004",
+            "published": "2026-11-27T00:00:00.000Z",
+            "snippet": "회사: (주)핀커스코리아 / 조건: 서울 강남구 경력5년↑ 학력무관 정규직 / 마감: ~ 12/12(토) / 분야: ABAP , SAP , IT컨설팅 , 컨설턴트 , IT컨설팅 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%95%80%EC%BB%A4%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "신규 공고",
+      "items": [
+        {
+          "index": 30,
+          "title_ko": "피앤티파트너스 · SAP 컨설턴트(FI/CO/MM/PP/SD/BC/ABAP)",
+          "summary": "공기업·공공기관 IT 컨설팅사가 MM을 포함한 SAP 전 모듈 컨설턴트를 모집합니다. 근무지는 서울 서초구이고 경력 1년 이상이며, 즉시 지원할 수 있고 마감일은 나와 있지 않습니다.",
+          "why": "경력 1년 이상부터 지원할 수 있어 문턱이 낮지만, 사원 5명 규모의 소형 업체라 실제 프로젝트 내용과 고용 형태를 확인할 필요가 있습니다.",
+          "article": {
+            "source": "잡코리아",
+            "title": "SAP 컨설턴트 (FI/CO/MM/PP/SD/BC/ABAP)",
+            "company": "㈜피앤티파트너스",
+            "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50446344",
+            "published": "2026-11-27T08:13:44.733Z",
+            "jkCompanyNo": "18218446",
+            "snippet": "회사: ㈜피앤티파트너스 / 서울 서초구 / 공기업·공공기관, IT컨설팅 / 즉시 지원 / 경력1년↑ / 회사정보: 사원수 5명 / 매출액 5억 / 영업이익 -",
+            "companyInfo": {
+              "title": "㈜피앤티파트너스",
+              "employees": "5명",
+              "revenue": "5억",
+              "operatingProfit": "",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/18218446"
+            },
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%E3%88%9C%ED%94%BC%EC%95%A4%ED%8B%B0%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4"
+            },
+            "isNew": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "계속 모집 중",
+      "items": [
+        {
+          "index": 52,
+          "title_ko": "프로써치코리아 · 글로벌 회계·경영컨설팅사 SAP ERP 컨설턴트(전 모듈)",
+          "summary": "글로벌 회계·경영컨설팅사의 SAP ERP 전 모듈 컨설턴트를 모집하며, 업무는 ERP 기반 프로세스 혁신 컨설팅과 ERP 구축 컨설팅입니다. 근무지는 서울 용산구이고 경력 3~10년이며 마감일은 2026-11-29입니다.",
+          "why": "마감이 내일(11/29)이라 지원하려면 바로 서둘러야 하는 글로벌 컨설팅펌 구축 포지션입니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "[세계적 회계·경영컨설팅] 컨설팅 SAP ERP 컨설턴트 (5년이상)",
+            "company": "(주)프로써치코리아",
+            "link": "https://career.rememberapp.co.kr/job/posting/252151",
+            "published": "2026-11-23T02:00:00.000Z",
+            "snippet": "회사: (주)프로써치코리아 / 경력: 3~10년 / 지역: 서울특별시 용산구 / 마감: 2026-11-29 / [모집 분야] - SAP ERP 전 모듈 [담당업무] - ERP 기반 프로세스 혁신 컨설팅 - ERP 구축 컨설팅",
+            "jobHistory": {
+              "count": 5,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%ED%94%84%EB%A1%9C%EC%8D%A8%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 44,
+          "title_ko": "세라젬 · SAP ERP MM 모듈 담당자",
+          "summary": "세라젬이 SAP ERP MM 모듈과 BRIM 솔루션의 운영·유지보수·개선을 맡을 담당자를 채용합니다. ABAP 개발·디버깅, 인터페이스 운영, S/4HANA 전환과 ERP 고도화 프로젝트 참여도 포함됩니다. 근무지는 경기 과천시와 서울 강남구이고 경력 5~10년이며 마감일은 2026-12-13입니다.",
+          "why": "MM 전담 사내 포지션으로 S/4HANA 전환 참여 기회가 있으며, 경력 5~10년이 필요하고 12/13에 마감합니다.",
+          "article": {
+            "source": "리멤버",
+            "title": "[세라젬] SAP ERP MM 모듈 담당자",
+            "company": "(주)세라젬",
+            "link": "https://career.rememberapp.co.kr/job/posting/356868",
+            "published": "2026-11-25T06:00:00.000Z",
+            "snippet": "회사: (주)세라젬 / 경력: 5~10년 / 지역: 경기도 과천시, 서울특별시 강남구 / 마감: 2026-12-13 / • SAP ERP MM 모듈 운영·유지보수 및 개선 • SAP BRIM 솔루션 운영·유지보수 및 개선 • 현업 요구사항 분석 및 SAP 업무 프로세스 개선·설계 • ABAP 프로그램 개발·디버깅 및 장애 원인 분석 • SAP 및 유관 시스템 인터페이스 운영·개선 • SAP S/4HANA 전환 및 ERP 구축·고도화 프로젝트 참여 / 회사정보: 사원수 741명 / 매출액 3,812억 1천만원 (2025년) / 영업이익 -31억 9천만원 (2025년)",
+            "companyInfo": {
+              "title": "㈜세라젬",
+              "employees": "741명",
+              "revenue": "3,812억 1천만원 (2025년)",
+              "operatingProfit": "-31억 9천만원 (2025년)",
+              "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/34574590"
+            },
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%84%B8%EB%9D%BC%EC%A0%AC"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 62,
+          "title_ko": "제이투이 · [SAP SM 동대문역사문화공원역] SAP MM 모듈 운영",
+          "summary": "서울 중구(동대문역사문화공원역 인근)에서 SAP MM 모듈 운영(SM)을 맡을 인력을 모집합니다. 경력 6년 이상, 초대졸 이상, 프리랜서이며 마감일은 12/20(일)입니다. 같은 공고가 잡코리아에도 올라와 있습니다.",
+          "why": "MM 운영 전담 프리랜서 자리로 경력 6년 이상이 필요하며 12/20에 마감합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[SAP SM 동대문역사문화공원역] SAP MM 모듈 운영 (2)",
+            "company": "(주)제이투이",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55631640",
+            "published": "2026-11-20T00:00:00.000Z",
+            "snippet": "회사: (주)제이투이 / 조건: 서울 중구 경력6년↑ 초대졸↑ 프리랜서 / 마감: ~ 12/20(일) / 분야: SAP , 웹개발 , SI·시스템통합",
+            "jobHistory": {
+              "count": 1,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%9D%B4"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 59,
+          "title_ko": "대원씨앤씨 · [분당] 반도체사 ERP 시스템 개발·운영(SAP MM/ABAP)",
+          "summary": "반도체 회사 ERP의 SAP MM 영역 개발과 운영을 맡을 인력을 모집합니다. 근무지는 경기 성남시 분당구이며 경력 5~15년, 학력 무관, 계약직·프리랜서이고 마감일은 12/18(금)입니다.",
+          "why": "MM과 ABAP을 함께 다루는 반도체 업종 계약직·프리랜서 포지션으로, 경력 5~15년이 필요하고 12/18에 마감합니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[분당] 반도체사 ERP 시스템 개발 & 운영 ( SAP MM / ABAP)",
+            "company": "(주)대원씨앤씨",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55643772",
+            "published": "2026-11-23T00:00:00.000Z",
+            "snippet": "회사: (주)대원씨앤씨 / 조건: 경기 성남시 분당구 경력 5~15년 학력무관 계약직·프리랜서 / 마감: ~ 12/18(금) / 분야: ABAP , SAP , ERP , SI·시스템통합 , ERP 외",
+            "jobHistory": {
+              "count": 2,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=(%EC%A3%BC)%EB%8C%80%EC%9B%90%EC%94%A8%EC%95%A4%EC%94%A8"
+            },
+            "isNew": false
+          }
+        },
+        {
+          "index": 47,
+          "title_ko": "에스에프인촌 · [의류 수출 중견기업] SAP ERP 운영담당(SD/MM, PP, FI/CO)",
+          "summary": "의류 수출 중견기업에서 SD/MM, PP, FI/CO를 포함한 SAP ERP 운영 담당자를 모집합니다. 근무지는 서울 마포구이며 경력 3년 이상, 대졸 이상, 정규직이고 마감일은 12/25(금)입니다.",
+          "why": "경력 3년 이상부터 지원할 수 있는 정규직 사내 운영 포지션으로, 12/25 마감이라 일정에 여유가 있습니다.",
+          "article": {
+            "source": "사람인",
+            "title": "[의류 수출 중견기업] SAP ERP 운영담당(SD/MM, PP, FI/CO) 경력",
+            "company": "에스에프인촌(주)",
+            "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55665382",
+            "published": "2026-11-25T00:00:00.000Z",
+            "snippet": "회사: 에스에프인촌(주) / 조건: 서울 마포구 경력3년↑ 대졸↑ 정규직 / 마감: ~ 12/25(금) / 분야: SAP , ERP , 의류·의상",
+            "jobHistory": {
+              "count": 3,
+              "url": "https://sunguphong.github.io/sapinfoagent/jobs.html?agent=sapmm-jobs&company=%EC%97%90%EC%8A%A4%EC%97%90%ED%94%84%EC%9D%B8%EC%B4%8C(%EC%A3%BC)"
+            },
+            "isNew": false
+          }
+        }
+      ]
+    }
+  ]
+}
